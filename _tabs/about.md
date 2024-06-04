@@ -1,7 +1,7 @@
 ---
-layout: page
-icon: fas fa-video
-order: 2
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 Mohamed is a Microsoft DevOps MVP and Principal DevOps Consultant in the UK specializing in DevOps Practices, Technologies, Agile and Azure Platform. Over the course of 22 years, Mohamed has helped over 60 enterprise companies based around the globe some of them from the Fortune 500, including the UK, Denmark, USA, France, among others.
