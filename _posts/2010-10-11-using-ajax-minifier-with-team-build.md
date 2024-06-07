@@ -2,7 +2,6 @@
 layout: post
 title:  "Using Microsoft Ajax Minifier with team build"
 date:   2010-10-11 07:40:05 +0100
-pin: true
 ---
 
 2 weeks ago I had a problem with Microsoft Ajax Minifier on Team Build 010 because my file doesn\'t\' minify, and I post 3 posts title \" Why Microsoft Ajax Minifier dosen\'t minfi the file when used with team build 2010? \" in ASP.NET, MSDN forum and Stackoverflow but with no result, the post has many views on both ASP.NET and MSDN forum but with
