@@ -7,7 +7,9 @@ date:   2020-01-28 00:24:46 +0100
 Interview with [Mark Allan](https://twitter.com/markxa), an Azure Cloud Expert and a [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002937)during [Microsoft Ignite The Tour in London](https://www.microsoft.com/en-gb/ignite-the-tour/london)
 
 The following video has the complete interview:  
-[Watch the interview](https://www.youtube.com/watch?v=B5UgJPSj1Mk)
+
+{% include embed/youtube.html id='B5UgJPSj1Mk' %}
+
 
 ### Intro
 

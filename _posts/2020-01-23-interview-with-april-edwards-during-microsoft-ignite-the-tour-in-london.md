@@ -7,7 +7,9 @@ date:   2020-01-23 08:45:36 +0100
 Interview with [April Edwards](https://azapril.dev/), a Senior Software Engineer / Cloud Advocate at [Microsoft](https://www.microsoft.com/) during [Microsoft Ignite The Tour in London](https://www.microsoft.com/en-gb/ignite-the-tour/london).
 
 The following video has the complete interview:  
-[Watch the interview](https://www.youtube.com/watch?v=OqR5M94wu6w)
+
+{% include embed/youtube.html id='OqR5M94wu6w' %}
+
 
 ### Intro
 
