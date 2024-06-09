@@ -48,44 +48,44 @@ git config --global -l
 
 1. If you open the file without appropriate exit, it will create a **swap file** and you can't open it again smoothly. You just need to delete that **swap file** or close the file as described in Step 1.
 
-![2-Opening the file with appropriate exit -gitconfig-swp2](/assets/images/2016/06/2-Opening-the-file-with-appropriate-exit-gitconfig-swp2.png "2-Opening the file with appropriate exit -gitconfig-swp2"){.alignnone .wp-image-6216 width="746" height="441"} 
+![2-Opening the file with appropriate exit -gitconfig-swp2](/assets/images/2016/06/2-Opening-the-file-with-appropriate-exit-gitconfig-swp2.png "2-Opening the file with appropriate exit -gitconfig-swp2")
 
 You can also use some other commands to achieve different actions; here are some of the most useful ones:  
 **Navigate to the directory you want to use and type:**
 
-``` {.lang:default .decode:true}
+```
 git init
 git clone https://github.com/youraccount/rep
 ```
 
 **This will copy all files to your local files, try to add new file and then add it using**
 
-``` {.lang:default .decode:true}
+```
 git add .
 ```
 
 **Try to see the status using**
 
-``` {.lang:default .decode:true}
+```
 git status
 ```
 
 **Commit the changes**
 
-``` {.lang:default .decode:true}
+``` 
 git commit -m " your message"
 ```
 
 **Change the branch**
 
-``` {.lang:default .decode:true}
+``` 
 git checkout branchName
 ```
 
 **Push changes**
 
-``` {.lang:default .decode:true}
-git push++https://github.com/youraccount/rep
+``` 
+git push https://github.com/youraccount/rep
 ```
 
 You can see the follwoing video if you would like to find more information about how to get started with Release Management and its advantages. See how to create a build definition using CI/CD Tools for VSTS Extensions (I will be using Package Extension and Publish Artifact tasks), and also using DevOps-VSTS-POC trigger in order to enable CI, all of that in order to be able to publish, share, install, and query versions. You will see how to create a release definition, choose an artifact, and configure the source for the artifact and default version. See how to create different environments or clone the existing one; in my case, I am going to create QA, Preproduction, and Production environments, each with one phase and one task. See also how to configure the Publish Extension task for each environment. See an end-to-end continuous delivery pipeline using VSTS extension with Build and Release Management.
