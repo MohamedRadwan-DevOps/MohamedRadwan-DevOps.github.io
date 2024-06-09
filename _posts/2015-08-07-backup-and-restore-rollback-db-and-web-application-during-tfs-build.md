@@ -155,8 +155,6 @@ msdeploy -verb:sync -source:package="C:\Program Files (x86)\IIS\Microsoft Web De
 msdeploy -verb:sync -source:package="C:\Windows\SysWOW64\defaultWebsiteBackup.zip" -dest:iisapp='Default web site/Lara' -computerName=172.18.0.333 -userName=YourUserName -password=YourPassword -setParam:kind=ProviderPath,scope=iisApp,value='Default web site/Lara'
 ```
 
-
-
 >Read about basic guidelines that you need to consider
 when building a **product backlog** in the following post, [Requirements
 (Epic, Feature, User Story), Task Size and Estimation in Agile and
