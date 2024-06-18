@@ -18,7 +18,7 @@ visit **Visual Studio website** and learn more about **TFS
 Tool](https://www.visualstudio.com/en-us/docs/work/customize/customize-agile-tools)** and many more.
 
 >The post [Upgrade to TFS 2018 Has Been Done in
-Production](https://mohamedradwan.com/posts/upgrade-to-tfs-2018-has-been-done-in-production/)
+Production](https://mohamedradwan-devops.github.io/posts/upgrade-to-tfs-2018-has-been-done-in-production/)
 describes a full upgrade and migration from TFS2015 to TFS2018 and
 describes the improvements over the old TFS 2015.
 {: .prompt-tip }
@@ -118,9 +118,9 @@ button**. 16. Click on **OK** on the bottom right hand corner.
 
 [More Info]{.ion-info}In some of the previous posts you can find
 high-level descriptions of
-[Agile](https://mohamedradwan.com/2017/07/08/quick-intro-to-agile/)
+[Agile](https://mohamedradwan-devops.github.io/2017/07/08/quick-intro-to-agile/)
 principles and the usage of some [Agile
-tools](https://mohamedradwan.com/2017/07/16/tfs-2015-agile-project-management/)
+tools](https://mohamedradwan-devops.github.io/2017/07/16/tfs-2015-agile-project-management/)
 and [Agile methodology](http://agilemanifesto.org/).
 {: .prompt-tip }
 
@@ -163,7 +163,7 @@ into **stories** into **tasks**.
 ![Features TFS 2015](/assets/images/2016/09/Features.jpg "Features TFS 2015")
 
 >The post [Upgrade to TFS 2018 Has Been Done in
-Production](https://mohamedradwan.com/posts/upgrade-to-tfs-2018-has-been-done-in-production/)
+Production](https://mohamedradwan-devops.github.io/posts/upgrade-to-tfs-2018-has-been-done-in-production/)
 describes a full upgrade and migration from TFS2015 to TFS2018 and
 describes the improvements over the old TFS 2015.
 {: .prompot-tip }

@@ -36,4 +36,4 @@ Using the API will give you more flexibility to select the target commit and new
 
 Also if you want to check your changelog into your release itself, using this you will be able to generate those notes before creating the release and having that information as part of the release itself.
 
-The most awesome thing about the new updates to GitHub Releases is that you can start using it now on all repositories on GitHub.com, it is already available and turned on by default. Check out also this post about [how to use GitHub Actions in Visual Studio only with right-click and Publish](https://mohamedradwan.com/2021/10/06/using-github-actions-in-visual-studio-only-with-right-click-and-publish/).
+The most awesome thing about the new updates to GitHub Releases is that you can start using it now on all repositories on GitHub.com, it is already available and turned on by default. Check out also this post about [how to use GitHub Actions in Visual Studio only with right-click and Publish](https://mohamedradwan-devops.github.io/2021/10/06/using-github-actions-in-visual-studio-only-with-right-click-and-publish/).

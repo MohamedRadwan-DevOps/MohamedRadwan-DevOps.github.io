@@ -5,7 +5,7 @@ date:   2010-11-01 07:40:05 +0100
 ---
 
 Hello, I Will show you how to create MSBuild custom task I know you will find many examples on the internet but if you just try most of them most properly it will not work, so I decide to post article that describe it in very simple way with source code of the success project. If you want to see a tutorial on MSBuild you can visit the following link
-[click-here](https://mohamedradwan.com/2010/10/15/msbuild-tutorial/ "MSBuild Tutorial")
+[click-here](https://mohamedradwan-devops.github.io/2010/10/15/msbuild-tutorial/ "MSBuild Tutorial")
 
 First part
 

@@ -8,7 +8,7 @@ date:   2017-07-30 18:00:21 +0100
 
 Microsoft Visual Studio is a very powerful IDE, we all know that as it has many features not available anywhere else, including but not limited to [**IntelliSense**](https://code.visualstudio.com/docs/editor/intellisense), **Multi Platform Support** and ease of use. Since Visual Studio 97 released, Visual Studio mainly supported Windows, though [Visual Studio Code](https://code.visualstudio.com) was available for **Linux** and **Mac**, it doesn\'t ship all features needed by default. Now Visual Studio for Mac is available for all **Mac** users running **Mac OS X Sierra** or any later version of **Mac OS**.
 
->If you would like to start using [Visual Studio](https://www.visualstudio.com/) for developing, read the details about its installation, launching and creating a new project in my post [Get Started Developing with Visual Studio](https://mohamedradwan.com/posts/get-started-developing-with-visual-studio-2015/).
+>If you would like to start using [Visual Studio](https://www.visualstudio.com/) for developing, read the details about its installation, launching and creating a new project in my post [Get Started Developing with Visual Studio](https://mohamedradwan-devops.github.io/posts/get-started-developing-with-visual-studio-2015/).
 {: .prompt-tip }
 
 
@@ -62,4 +62,4 @@ Team collaboration from multiple platforms is essential for efficient work, as m
 ### Read more
 
 - [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
-- [Introduction to Visual Studio Code](https://mohamedradwan.com/2016/08/15/introduction-to-visual-studio-code/)
+- [Introduction to Visual Studio Code](https://mohamedradwan-devops.github.io/2016/08/15/introduction-to-visual-studio-code/)

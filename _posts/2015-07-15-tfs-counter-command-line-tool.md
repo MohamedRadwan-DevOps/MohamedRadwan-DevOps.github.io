@@ -8,7 +8,7 @@ I created a command line tool that provides a CSV file that counts all items for
 
 ![TFSCounter](/assets/images/2015/07/tfscounter.png)
 
-> In one of the old posts [TFS 2015 Agile Project Management](https://mohamedradwan.com/posts/tfs-2015-agile-project-management/) you can read more about new [**Agile Project Management**](https://docs.microsoft.com/en-us/vsts/work/backlogs/overview) features in **TFS 2015**, which provide better support for aligning across teams while giving autonomy to individual teams; you can use the same structure with VSTS/TFS2018.
+> In one of the old posts [TFS 2015 Agile Project Management](https://mohamedradwan-devops.github.io/posts/tfs-2015-agile-project-management/) you can read more about new [**Agile Project Management**](https://docs.microsoft.com/en-us/vsts/work/backlogs/overview) features in **TFS 2015**, which provide better support for aligning across teams while giving autonomy to individual teams; you can use the same structure with VSTS/TFS2018.
 {: .prompt-info }
 
 The output of the CSV file will be like the following:

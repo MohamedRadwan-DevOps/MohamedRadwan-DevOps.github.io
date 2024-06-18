@@ -8,7 +8,7 @@ date:   2020-04-24 08:48:35 +0100
 
 This live event will cover CI/CD using Azure Pipelines for Kubernetes.
 
-[![Kubernetes cluster on Azure](/assets/images/2020/04/AKS-Event.png)](https://mohamedradwan.com/posts/live-webinar-ci-cd-build-test-and-deploy-to-kubernetes-cluster-on-azure-cloud/aks-event/)
+[![Kubernetes cluster on Azure](/assets/images/2020/04/AKS-Event.png)](https://mohamedradwan-devops.github.io/posts/live-webinar-ci-cd-build-test-and-deploy-to-kubernetes-cluster-on-azure-cloud/aks-event/)
 
 Live Webinar for Group (A) (Well structured) as below:  
 **Title:** CI/CD Build Test and Deploy to Kubernetes Cluster on Azure Cloud  

@@ -15,9 +15,9 @@ See more about the two different process models supported by VSTS: Inherited and
 
 ![3-D Cover](/assets/images/2018/03/3-D-Cover.png)[Download the guide](https://gallery.technet.microsoft.com/Real-stories-for-migrating-11357e61)
 
->If the migration demands high fidelity for work items, the post [TFS 2017 Migration To VSTS with VSTS Sync Migrator](https://mohamedradwan.com/posts/tfs-2017-migration-to-vsts-with-vsts-sync-migrator/) describes the migration without any limitations for migrating links and attachments.
+>If the migration demands high fidelity for work items, the post [TFS 2017 Migration To VSTS with VSTS Sync Migrator](https://mohamedradwan-devops.github.io/posts/tfs-2017-migration-to-vsts-with-vsts-sync-migrator/) describes the migration without any limitations for migrating links and attachments.
 {: .prompt-info }
 
->If the migration process only requires migrating the work items, with no need to migrate links and relations between them, you can consider using the [TFS Integration Platform](https://marketplace.visualstudio.com/items?itemName=Willy-PSchaub.TeamFoundationServerIntegrationToolsMarch2012Relea), which is less complicated than the VSTS Sync Migrator. For more information about this tool, visit [TFS 2017 Migration To VSTS with TFS Integration Platform](https://mohamedradwan.com/posts/tfs-2017-migration-to-vsts-with-tfs-integration-platform/).
+>If the migration process only requires migrating the work items, with no need to migrate links and relations between them, you can consider using the [TFS Integration Platform](https://marketplace.visualstudio.com/items?itemName=Willy-PSchaub.TeamFoundationServerIntegrationToolsMarch2012Relea), which is less complicated than the VSTS Sync Migrator. For more information about this tool, visit [TFS 2017 Migration To VSTS with TFS Integration Platform](https://mohamedradwan-devops.github.io/posts/tfs-2017-migration-to-vsts-with-tfs-integration-platform/).
 {: .prompt-info }
 

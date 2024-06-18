@@ -15,13 +15,13 @@ In this post, you are going to see a complete tutorial on how to use [Terraform]
 ## Run and execute Continuous Integration (CI) pipeline
 
 So, first, I will open Azure pipeline then start navigating to the continuous integration pipeline and queue a build. This pipeline will run a build for a web application developed in ASP.NET. It will first start by restoring all the NuGet packages, building the application, running unit tests, and then creating the web package.zip file for the web application. After that, the pipeline will store the web package on Azure DevOps artifacts. Also, the pipeline will store the Terraform configuration file .tf on the artifact along with the web package.zip.  
-[![Terraform workflow](/assets/images2020/01/Terraform.gif)](https://mohamedradwan.com/posts/deploying-infrastructure-automatically-to-the-cloud-using-terraform-and-azure-pipelines-tutorial/terraform/)
+[![Terraform workflow](/assets/images2020/01/Terraform.gif)](https://mohamedradwan-devops.github.io/posts/deploying-infrastructure-automatically-to-the-cloud-using-terraform-and-azure-pipelines-tutorial/terraform/)
 
 ## Understanding Terraform configuration file and language
 
 So, first, what is the Terraform configuration file? Terraform configuration file is the infrastructure as code. It uses its own language known as Hashicorp Configuration Language (HCL), or optionally JSON. HCL is very similar to YAML. This file describes to the Terraform engine the needed infrastructure for our application.
 
-> For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginner](https://mohamedradwan.com/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)**
+> For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginner](https://mohamedradwan-devops.github.io/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)**
 {: .prompt-tip }
 
 ## How does Terraform work?

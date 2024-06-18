@@ -4,15 +4,15 @@ title: "Using GitHub Actions in Visual Studio only with right-click and Publish"
 date:   2021-10-06 11:13:24 +0100
 ---
 
-In this post, we are going to see how easy it is to set up continuous integration and deployment (CI/CD) using GitHub Actions, all in the familiar Publish dialog. See how to build a CI/CD Pipeline from Visual Studio in this [post](https://mohamedradwan.com/posts/build-a-cicd-continuous-integrationcontinuous-deployment-pipeline-from-visual-studio/).
+In this post, we are going to see how easy it is to set up continuous integration and deployment (CI/CD) using GitHub Actions, all in the familiar Publish dialog. See how to build a CI/CD Pipeline from Visual Studio in this [post](https://mohamedradwan-devops.github.io/posts/build-a-cicd-continuous-integrationcontinuous-deployment-pipeline-from-visual-studio/).
 
-Using this GitHub feature you can do CI/CD through a workflow defined in GitHub. If your project is hosted on GitHub, Visual Studio can help you to set it up through right-click and publish. In this post, you can see [how to add CI/CD Azure Pipelines + Github](https://mohamedradwan.com/posts/azure-devops-add-cicd-azure-pipelines-github/).
+Using this GitHub feature you can do CI/CD through a workflow defined in GitHub. If your project is hosted on GitHub, Visual Studio can help you to set it up through right-click and publish. In this post, you can see [how to add CI/CD Azure Pipelines + Github](https://mohamedradwan-devops.github.io/posts/azure-devops-add-cicd-azure-pipelines-github/).
 
 If you have a piece of code and you have an application that you want to deploy somewhere, one way to do it is to right-click on your project in Visual Studio and publish it. Visual Studio will help you to build your code, by taking everything that you have on your local machine and push it on your deployment target. The alternative is that if you want your deployment to happen from source control and probably run some tests, that is what we call continuous integration and deployment.
 
 You are gonna need at least Visual Studio 16.8 preview 3 since the GitHub Action Tooling feature exists since this version. You can download the latest preview [here](https://visualstudio.microsoft.com/vs/preview/). Make sure that GitHub Actions support for publishing feature is enabled for all the builds in tools options. In my example, I have an ASP.NET core project which is source controlled using GitHub.
 
-In this [post](https://mohamedradwan.com/posts/sync-between-my-github-and-visual-studio-online/), you can see how to sync your GitHub and Visual Studio Online. The first step is to right-click on the project and select publish. A dialog will be shown asking "Where are you publishing today?" with several destinations listed and in this example, we will see publishing our app to the Microsoft cloud Azure, displayed on Image 1.
+In this [post](https://mohamedradwan-devops.github.io/posts/sync-between-my-github-and-visual-studio-online/), you can see how to sync your GitHub and Visual Studio Online. The first step is to right-click on the project and select publish. A dialog will be shown asking "Where are you publishing today?" with several destinations listed and in this example, we will see publishing our app to the Microsoft cloud Azure, displayed on Image 1.
 
 ![Image 1 - Publish dialog](/assets/images/2021/10/Image-1-Publish-dialog-1024x562.png)
 Image 1 - Publish dialog

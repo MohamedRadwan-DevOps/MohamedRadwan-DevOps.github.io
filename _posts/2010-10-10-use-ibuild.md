@@ -4,7 +4,7 @@ title:  "Why and How to use IBuildDetails and BuildDefinition?"
 date:   2010-10-10 07:40:05 +0100
 ---
 
-Hi, In this episode I will talk about why and how to use IBuildDetails and buildDefinition object to get valuable information thought the build, this very important because IBuildDetails give you all information you need to know about the running build. You can go to my episode 1 and download the process that I will use [click-here](https://mohamedradwan.com/2010/10/21/1-hello-world-of-team-build-2010/ "Episode 1")
+Hi, In this episode I will talk about why and how to use IBuildDetails and buildDefinition object to get valuable information thought the build, this very important because IBuildDetails give you all information you need to know about the running build. You can go to my episode 1 and download the process that I will use [click-here](https://mohamedradwan-devops.github.io/2010/10/21/1-hello-world-of-team-build-2010/ "Episode 1")
 
 #### Part 1 BuildNumber
 

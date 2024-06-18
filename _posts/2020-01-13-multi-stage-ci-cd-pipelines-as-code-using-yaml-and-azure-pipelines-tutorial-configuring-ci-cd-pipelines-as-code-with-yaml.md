@@ -12,17 +12,17 @@ The following video has all the steps on how to do this tutorial:
 
 You will see a complete tutorial on how to create and configure CI/CD pipelines as code using the [YAML](https://yaml.org/) configuration language. Also, how to build a multi-stage pipeline which means that we have more than one stage in the same YAML file. We can have build stage, integration test stage, deployment stage, and many more as needed.
 
-Be aware that this tutorial will not cover any infrastructure as code. There are other tutorials on my blog that will do that, like the one with [Ansible](https://mohamedradwan.com/posts/using-ansible-to-automate-infrastructure-deployment-to-azure-using-ansible-and-azure-pipelines/) and the one with [Terraform](https://mohamedradwan.com/posts/deploying-infrastructure-automatically-to-the-cloud-using-terraform-and-azure-pipelines-tutorial/).
+Be aware that this tutorial will not cover any infrastructure as code. There are other tutorials on my blog that will do that, like the one with [Ansible](https://mohamedradwan-devops.github.io/posts/using-ansible-to-automate-infrastructure-deployment-to-azure-using-ansible-and-azure-pipelines/) and the one with [Terraform](https://mohamedradwan-devops.github.io/posts/deploying-infrastructure-automatically-to-the-cloud-using-terraform-and-azure-pipelines-tutorial/).
 
 In this tutorial, I will use a sample project on GitHub named Pars-Unlimited that is developed in ASP.NET Core.
 
-[![Pipelines-as-YAML](/assets/images/2020/01/Pipelines-as-YAML.gif)](https://mohamedradwan.com/posts/multi-stage-ci-cd-pipelines-as-code-using-yaml-and-azure-pipelines-tutorial-configuring-ci-cd-pipelines-as-code-with-yaml/pipelines-as-yaml/)
+[![Pipelines-as-YAML](/assets/images/2020/01/Pipelines-as-YAML.gif)](https://mohamedradwan-devops.github.io/posts/multi-stage-ci-cd-pipelines-as-code-using-yaml-and-azure-pipelines-tutorial-configuring-ci-cd-pipelines-as-code-with-yaml/pipelines-as-yaml/)
 
 ## Creating the infrastructure for the application manually
 
 So, the first step is to start creating the infrastructure for the application manually, since we are not doing it as code. To do that, I will open my Azure portal and create a resource group. I will use a predefined Azure template which will create all the components needed for the infrastructure for the application. This includes an [Azure Service Plan](https://azure.microsoft.com/en-gb/pricing/details/app-service/plans/), Azure Web App, and SQL Server on Azure. Also, the template will create and configure an Azure firewall rule for Azure SQL, so Azure Web App can have permission to access Azure SQL.
 
-> For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginner](https://mohamedradwan.com/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)**
+> For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginner](https://mohamedradwan-devops.github.io/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)**
 {: .prompt-tip }
 
 ## Create a YAML pipeline file

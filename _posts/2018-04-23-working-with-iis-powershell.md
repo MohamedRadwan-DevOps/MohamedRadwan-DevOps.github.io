@@ -12,7 +12,7 @@ restart the Application Pool.
 SSRS PowerShell so we can remap SSRS or SQL Sever Reporting Server
 Database to an existing DB, we will see also how to restore SSRS
 encryption key - have a look at this post- have a look at the [**this
-post**](%20https://mohamedradwan.com/posts/working-with-ssrs-sql-server-reporting-server-powershell/)
+post**](%20https://mohamedradwan-devops.github.io/posts/working-with-ssrs-sql-server-reporting-server-powershell/)
 {: .prompt-tip }
 
 

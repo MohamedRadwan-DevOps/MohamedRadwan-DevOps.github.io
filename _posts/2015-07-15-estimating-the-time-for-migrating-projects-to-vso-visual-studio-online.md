@@ -4,9 +4,9 @@ title: "Estimating the time for migrating projects to VSO (Visual Studio Online)
 date: 2015-07-15 15:47:47 +0100
 ---
 
-I wrote in a previous post about [how to migrate projects to VSO with different tools](https://mohamedradwan.com/posts/migration-to-vso-visual-studio-online-with-different-tools/), but the most important question was [what is the estimated time for each project???]. This was really a hard question to answer, so I created a [command line tool](https://visualstudiogallery.msdn.microsoft.com/f25cd380-7d2b-4aa1-b0d7-b10156702dc9) that helps in estimating the size of the project so we can estimate the time needed for migrating each project.
+I wrote in a previous post about [how to migrate projects to VSO with different tools](https://mohamedradwan-devops.github.io/posts/migration-to-vso-visual-studio-online-with-different-tools/), but the most important question was [what is the estimated time for each project???]. This was really a hard question to answer, so I created a [command line tool](https://visualstudiogallery.msdn.microsoft.com/f25cd380-7d2b-4aa1-b0d7-b10156702dc9) that helps in estimating the size of the project so we can estimate the time needed for migrating each project.
 
-> If you would like to start using [Visual Studio](https://www.visualstudio.com/) for developing, read the details about its installation, launching, and creating a new project in my post [Get Started Developing with Visual Studio](https://mohamedradwan.com/posts/get-started-developing-with-visual-studio-2015/). If you prefer to use Mac, see how it looks in [Visual Studio for Mac](https://mohamedradwan.com/2017/07/30/visual-studio-for-mac/) post.
+> If you would like to start using [Visual Studio](https://www.visualstudio.com/) for developing, read the details about its installation, launching, and creating a new project in my post [Get Started Developing with Visual Studio](https://mohamedradwan-devops.github.io/posts/get-started-developing-with-visual-studio-2015/). If you prefer to use Mac, see how it looks in [Visual Studio for Mac](https://mohamedradwan-devops.github.io/2017/07/30/visual-studio-for-mac/) post.
 {: .prompt-info }
 
 Here is the size for some projects and the actual time needed for migrating each one:

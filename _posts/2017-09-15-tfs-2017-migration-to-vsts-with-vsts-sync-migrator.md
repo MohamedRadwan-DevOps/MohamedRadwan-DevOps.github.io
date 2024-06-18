@@ -6,9 +6,9 @@ date:   2017-09-15 08:00:30 +0100
 
 ## Introduction
 
-In my previous [post](https://mohamedradwan.com/posts/tfs-2017-migration-to-vsts-with-tfs-integration-platform/) I've described the migration between TFS and VSTS, using the [**TFS Integration Platform**](https://tfsintegration.codeplex.com). As described in that post, the tool is pretty simple and straightforward to use, but it doesn't support the migration of all artifacts, such as links between the work items. Besides that, I think it's worth mentioning again, that this migration tool is deprecated. If your migration demands high fidelity, then this tool would not be appropriate. For such cases, demanding high fidelity, [**VSTS Sync Migrator**](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) is an appropriate solution. This tool is very powerful and was developed by [**Martin Hinshelwood**](https://nkdagility.com/company/about-martin-hinshelwood/), who is a fellow **ALM MVP**. The tool's strength comes from its coverage of all migration options. Migration with the VSTS Sync Migration Tool is a bit complicated, but it's a powerful option as we don't have limitations for migrating links, attachments, or work items.
+In my previous [post](https://mohamedradwan-devops.github.io/posts/tfs-2017-migration-to-vsts-with-tfs-integration-platform/) I've described the migration between TFS and VSTS, using the [**TFS Integration Platform**](https://tfsintegration.codeplex.com). As described in that post, the tool is pretty simple and straightforward to use, but it doesn't support the migration of all artifacts, such as links between the work items. Besides that, I think it's worth mentioning again, that this migration tool is deprecated. If your migration demands high fidelity, then this tool would not be appropriate. For such cases, demanding high fidelity, [**VSTS Sync Migrator**](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) is an appropriate solution. This tool is very powerful and was developed by [**Martin Hinshelwood**](https://nkdagility.com/company/about-martin-hinshelwood/), who is a fellow **ALM MVP**. The tool's strength comes from its coverage of all migration options. Migration with the VSTS Sync Migration Tool is a bit complicated, but it's a powerful option as we don't have limitations for migrating links, attachments, or work items.
 
->If you would like to learn more about my personal experience of migrating Team Foundation Server to Visual Studio Team Services using the Database Import Service or TFS Migrator, the TFS Database Import Service, also known shorthand as the Import Service, provides a high-fidelity way to migrate collection databases from TFS to VSTS. Have a look at [this post](https://mohamedradwan.com/posts/migrating-team-foundation-server-to-visual-studio-team-services-using-database-import-service-tfs-migrator/).
+>If you would like to learn more about my personal experience of migrating Team Foundation Server to Visual Studio Team Services using the Database Import Service or TFS Migrator, the TFS Database Import Service, also known shorthand as the Import Service, provides a high-fidelity way to migrate collection databases from TFS to VSTS. Have a look at [this post](https://mohamedradwan-devops.github.io/posts/migrating-team-foundation-server-to-visual-studio-team-services-using-database-import-service-tfs-migrator/).
 {: .prompt-tip }
 
 ## Step 1: Getting Environment Ready
@@ -48,7 +48,7 @@ For the migration to succeed, we need to have an additional field in both TFS & 
 
 **Important Note:** Make sure to add the field to all Work Item Types.
 
-[More Info]{.ion-info} The post [Upgrade to TFS 2018 Has Been Done in Production](https://mohamedradwan.com/posts/upgrade-to-tfs-2018-has-been-done-in-production/) describes a full upgrade and migration from TFS2015 to TFS2018 and describes the improvements over the old TFS 2015.
+[More Info]{.ion-info} The post [Upgrade to TFS 2018 Has Been Done in Production](https://mohamedradwan-devops.github.io/posts/upgrade-to-tfs-2018-has-been-done-in-production/) describes a full upgrade and migration from TFS2015 to TFS2018 and describes the improvements over the old TFS 2015.
 
 ## Step 3: Preparing VSTS
 
@@ -78,7 +78,7 @@ We need to also modify Work Items in VSTS to match with TFS, so the tool can com
 
 ![Check_New_Field](/assets/images/2017/09/Check_New_Field-1-1024x521.png)
 
-[Tip]{.ion-tip} If you would like to learn more about different tools and ways for Team Foundation Server to Visual Studio Team Services migration, have a look at the [quick guide about real stories for migrating Team Foundation Server to Visual Studio Team Services](https://mohamedradwan.com/posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/). The guide describes some real migration scenarios and explains how to use different tools for several cases.
+[Tip]{.ion-tip} If you would like to learn more about different tools and ways for Team Foundation Server to Visual Studio Team Services migration, have a look at the [quick guide about real stories for migrating Team Foundation Server to Visual Studio Team Services](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/). The guide describes some real migration scenarios and explains how to use different tools for several cases.
 
 ## Step 4: Preparing JSON File
 
@@ -120,7 +120,7 @@ The first thing we should migrate is the work iterations. This is known in the f
 
 ![3_CMD_Node_Done](/assets/images/2017/09/3_CMD_Node_Done-1-1024x478.png)
 
->If you would like to know more about Azure deployments, have a look at the post [How to deploy to Azure using Team Services Release Management](https://mohamedradwan.com/posts/how-to-deploy-to-azure-using-team-services-release-management/). The post describes how Azure deployments are made easy by using Visual Studio Team Services (VSTS) Release Management. You will see a step-by-step tutorial on how to configure and deploy to Azure in Release Management, and, moreover, how to configure an end-to-end pipeline for deploying applications on Azure.
+>If you would like to know more about Azure deployments, have a look at the post [How to deploy to Azure using Team Services Release Management](https://mohamedradwan-devops.github.io/posts/how-to-deploy-to-azure-using-team-services-release-management/). The post describes how Azure deployments are made easy by using Visual Studio Team Services (VSTS) Release Management. You will see a step-by-step tutorial on how to configure and deploy to Azure in Release Management, and, moreover, how to configure an end-to-end pipeline for deploying applications on Azure.
 {: .prompt-info}
 
 ## Step 6: Migrating Work Items
@@ -177,7 +177,7 @@ So let's get back to the file:
 >If you would like to learn more about enhancing frontend development code quality, it includes understanding different types of JavaScript unit testing frameworks like Jasmine, Mocha, Jest, different types of task runners like Grunt and Gulp, different types of linting tools like JSHint, ESLint, JSLint, CSSLint, and different types of code formatters like Prettier and Tidy.
 {: .prompt-tip }
 
-Learn how to write your first JavaScript unit test with the Jasmine standalone version, how to run JavaScript unit tests using Grunt, Command Line, and PhantomJS, how to calculate code coverage for JavaScript unit tests using Istanbul, how to run JavaScript unit tests using Visual Studio Test Explorer using the Chutzpah extension, how to lint JavaScript code using JSHint and how to run that from the Command Line using Grunt. Finally, it shows how to integrate all the quality practices with Visual Studio Team Service Build automation so it can be part of CI/CD or Continuous Integration and Continuous Delivery. Have a look at [this post](https://mohamedradwan.com/posts/front-end-code-quality-javascript-unit-test-and-linting-automation-with-vsts-build/).
+Learn how to write your first JavaScript unit test with the Jasmine standalone version, how to run JavaScript unit tests using Grunt, Command Line, and PhantomJS, how to calculate code coverage for JavaScript unit tests using Istanbul, how to run JavaScript unit tests using Visual Studio Test Explorer using the Chutzpah extension, how to lint JavaScript code using JSHint and how to run that from the Command Line using Grunt. Finally, it shows how to integrate all the quality practices with Visual Studio Team Service Build automation so it can be part of CI/CD or Continuous Integration and Continuous Delivery. Have a look at [this post](https://mohamedradwan-devops.github.io/posts/front-end-code-quality-javascript-unit-test-and-linting-automation-with-vsts-build/).
 
 ## Step 8: Migrating Attachments
 
@@ -210,7 +210,7 @@ Let's get back to the file:
 
 ![VSTS_Att_Mig_Done](/assets/images/2017/09/VSTS_Att_Mig_Done-1024x485.jpg)
 
->If you would like to learn more about how to change the credential of an IIS Application Pool using PowerShell, and how to restart the Application Pool using PowerShell, have a look at [this post](https://mohamedradwan.com/posts/working-with-iis-powershell/).
+>If you would like to learn more about how to change the credential of an IIS Application Pool using PowerShell, and how to restart the Application Pool using PowerShell, have a look at [this post](https://mohamedradwan-devops.github.io/posts/working-with-iis-powershell/).
 {: .prompt-info}
 
 ## Conclusion

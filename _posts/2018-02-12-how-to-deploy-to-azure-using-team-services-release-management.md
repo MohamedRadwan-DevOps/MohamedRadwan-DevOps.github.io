@@ -8,11 +8,11 @@ date: 2018-02-12 17:55:11 +0100
 
 This post will demonstrate how [**Azure**](https://azure.microsoft.com/en-us/?v=17.44) deployments are made easy by using **[Visual Studio Team Services (VSTS)](https://www.visualstudio.com/team-services/)** [Release Management](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/release/what-is-release-management). You will see a step-by-step tutorial on how to configure and deploy to **Azure** in **Release Management**, and moreover, how to configure an end-to-end pipeline for deploying applications on **Azure**.
 
->If you would like to learn more about using different environments during the realization of a software system, have a look at the post [Azure DevTest Labs Updates](https://mohamedradwan.com/posts/azure-devtest-labs-updates/). [Azure DevTest Labs](https://azure.microsoft.com/en-us/services/devtest-lab/) is a service provided by Microsoft Azure which provides functionality for managing environments that contain [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/). The post mentioned above describes both the core capabilities of DevTest Labs and the new features of the service (as of February 2018).
+>If you would like to learn more about using different environments during the realization of a software system, have a look at the post [Azure DevTest Labs Updates](https://mohamedradwan-devops.github.io/posts/azure-devtest-labs-updates/). [Azure DevTest Labs](https://azure.microsoft.com/en-us/services/devtest-lab/) is a service provided by Microsoft Azure which provides functionality for managing environments that contain [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/). The post mentioned above describes both the core capabilities of DevTest Labs and the new features of the service (as of February 2018).
 {: .prompt-tip }
 
 
-#### **Release Management (RM)** is a [**DevOps**](https://mohamedradwan.com/posts/devops-framework-and-practices/) feature set in both [**Team Foundation Services (TFS)** and **VSTS**](https://mohamedradwan.com/wp-admin/post.php?post=6412&action=edit). The figure below demonstrates an example of the **VSTS Release Management** portal interface.
+#### **Release Management (RM)** is a [**DevOps**](https://mohamedradwan-devops.github.io/posts/devops-framework-and-practices/) feature set in both [**Team Foundation Services (TFS)** and **VSTS**](https://mohamedradwan-devops.github.io/wp-admin/post.php?post=6412&action=edit). The figure below demonstrates an example of the **VSTS Release Management** portal interface.
 
 ![VSTS Release Management portal interface](/assets/images/2017/12/1.-RM-1024x528.jpg)
 
@@ -34,7 +34,7 @@ You will see how to create a release definition, choose an artifact and configur
 4. From the appeared list of templates for various applications, choose your application type. We will be using a **.NET** web application.
 5. Click on **Next**.
 
->If you would like to learn more about using the [Build Variables](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch) in [VSTS](https://www.visualstudio.com/team-services/) and Release Management, have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan.com/posts/vsts-build-variables-and-echo/). The post describes how to see the output at any point in time while automating a process, through setting variables and displaying them during the build.
+>If you would like to learn more about using the [Build Variables](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch) in [VSTS](https://www.visualstudio.com/team-services/) and Release Management, have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan-devops.github.io/posts/vsts-build-variables-and-echo/). The post describes how to see the output at any point in time while automating a process, through setting variables and displaying them during the build.
 {: .prompt-tip }
 
 
@@ -132,7 +132,7 @@ The deployment process is now finished. **Visual Studio RM** has the best **DevO
 Continuous delivery provides you with an automated way of building, testing, and deploying to **Azure**. If needed, you can also configure manual approvals; therefore, continuous delivery essentially allows you to deploy with confidence.
 
 >If you would like to learn more about Microsoft Dynamics development, including the overview of the Microsoft Dynamics CRM itself, installing Microsoft Dynamics 2016 on Azure VM, how to upgrade to Dynamics 365, how to develop Dynamics CRM plugin, how to debug Microsoft Dynamics CRM project, create and run unit tests using FakeXRMEasy and Microsoft Fakes, JavaScript and front-end unit tests as well code quality using JSHint,
-Also, how to create and run UI and how to integrate all the practices as part of the CI/CD (Continuous Integration and Continuous Delivery), have a look at [**this post**](https://mohamedradwan.com/posts/devops-for-microsoft-dynamics/).
+Also, how to create and run UI and how to integrate all the practices as part of the CI/CD (Continuous Integration and Continuous Delivery), have a look at [**this post**](https://mohamedradwan-devops.github.io/posts/devops-for-microsoft-dynamics/).
 {: .prompt-tip }
 
 1. In the **Azure** portal your newly created application is already available. Open this application (in our case, the application is called <**Contoso portal**>).

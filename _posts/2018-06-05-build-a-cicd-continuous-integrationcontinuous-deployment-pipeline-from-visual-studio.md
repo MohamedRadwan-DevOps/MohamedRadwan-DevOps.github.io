@@ -6,16 +6,16 @@ date:   2018-06-05 19:38:17 +0100
 
 This article will demonstrate how to build a complete **CI/CD** pipeline in **Visual Studio** and deploy it to [**Azure**](https://azure.microsoft.com/en-us/?v=17.44) using the new [**Continuous Delivery Extension for Visual Studio**](https://marketplace.visualstudio.com/items?itemName=VSIDEDevOpsMSFT.ContinuousDeliveryToolsforVisualStudio). Using [**CI**](https://www.visualstudio.com/learn/what-is-continuous-integration/), allows you to merge the code changes in order to ensure that those changes work with the existing codebase and allows you to perform testing. On the other hand, using [**CD**](https://www.visualstudio.com/learn/what-is-continuous-delivery/) you are repeatedly pushing code through a deployment pipeline where it is built, tested, and deployed afterwards. This [**CI/CD**](https://www.visualstudio.com/team-services/continuous-integration/) team practice automates the build, testing and deployment of your application, and allows complete traceability in order to see code changes, reviews and test results.
 
-In order to create a **CI** build and a release pipeline and [**Release Management**](https://mohamedradwan.com/2016/07/24/difference-between-continuous-deployment-and-release-management/) that is going to deploy the code into **Azure**, all you need is an existing web-based application and an extension from the marketplace. *Otherwise, you can always contact the experts that offer end-to-end [DevOps consulting services](https://www.scnsoft.com/services/devops-consulting) based on the modern methodologies designed to deliver high-quality software faster.*
+In order to create a **CI** build and a release pipeline and [**Release Management**](https://mohamedradwan-devops.github.io/2016/07/24/difference-between-continuous-deployment-and-release-management/) that is going to deploy the code into **Azure**, all you need is an existing web-based application and an extension from the marketplace. *Otherwise, you can always contact the experts that offer end-to-end [DevOps consulting services](https://www.scnsoft.com/services/devops-consulting) based on the modern methodologies designed to deliver high-quality software faster.*
 
-> For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginner](https://mohamedradwan.com/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service)
+> For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginner](https://mohamedradwan-devops.github.io/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service)
 {: .prompt-info }
 
 {% include embed/youtube.html id='4DUhc0MjdUc' %}
 
 ## Step 1: Enable Continuous Delivery extension for Visual Studio
 
-In order to use **Continuous Delivery Tools for Visual Studio** extension you just need to enable it. The **Continuous Delivery Tools for Visual Studio** extension makes it simple to automate and stay up to date on your [**DevOps**](https://www.visualstudio.com/learn/what-is-devops/) pipeline for **[ASP.NET](https://mohamedradwan.com/2010/05/14/multiple-web-config-with-asp-net-and-visual-studio-2010/)** and other projects targeting **Azure**. The tools also allow you to improve your code quality and security.
+In order to use **Continuous Delivery Tools for Visual Studio** extension you just need to enable it. The **Continuous Delivery Tools for Visual Studio** extension makes it simple to automate and stay up to date on your [**DevOps**](https://www.visualstudio.com/learn/what-is-devops/) pipeline for **[ASP.NET](https://mohamedradwan-devops.github.io/2010/05/14/multiple-web-config-with-asp-net-and-visual-studio-2010/)** and other projects targeting **Azure**. The tools also allow you to improve your code quality and security.
 
 1.  Go to **Tools**, choose **Extensions and Updates**.
 2.  From the prompted window, select **Continuous Delivery Tools for Visual Studio** and click **Enable**.
@@ -26,7 +26,7 @@ In order to use **Continuous Delivery Tools for Visual Studio** extension you ju
 
 ## Step 2: Create a project in Team Services
 
-In this step you are going to create a project in [Team Services](https://mohamedradwan.com/posts/release-management-overview-for-tfs-and-vsts/) and put your project code there without leaving your IDE. Team Services is a tool that allows you to build a **continuous integration** and **continuous delivery**.
+In this step you are going to create a project in [Team Services](https://mohamedradwan-devops.github.io/posts/release-management-overview-for-tfs-and-vsts/) and put your project code there without leaving your IDE. Team Services is a tool that allows you to build a **continuous integration** and **continuous delivery**.
 
 1.  Go in the **Solution Explorer**, right-click on your web-based project.
 2.  Click on the new context menu **Configure Continuous Delivery.**
@@ -52,14 +52,14 @@ Now your project is created into **Team Services** account (the source code is u
 [![2.3-Linking Continiuos Delivery to the Build, Release and Azure Assets](/assets/images/2017/12/2.3-Linking-Continiuos-Delivery-to-the-Build-Release-and-Azure-Assets-1024x578.jpg)](/assets/images/2017/12/2.3-Linking-Continiuos-Delivery-to-the-Build-Release-and-Azure-Assets.jpg)
 
 
-> For more information about how to work with **Docker** like, pull docker image, run docker image and work with container, see **[Docker for beginners](https://mohamedradwan.com/posts/docker-for-beginners-step-by-step-tutorial/)
+> For more information about how to work with **Docker** like, pull docker image, run docker image and work with container, see **[Docker for beginners](https://mohamedradwan-devops.github.io/posts/docker-for-beginners-step-by-step-tutorial/)
 {: .prompt-info }
 
 {% include embed/youtube.html id='3RJv6yVfaRE' %}
 
 ## Step 3: Open the project in Team Services
 
-A **[build](https://mohamedradwan.com/2015/06/16/changing-the-connection-string-during-the-tfs-build-for-the-publish-profile-of-the-ssdt-sql-server-data-tool/) definition** is the entity through which you define your automated **build process**. In the build definition, you compose a set of **tasks**, each of which perform a step in your build.
+A **[build](https://mohamedradwan-devops.github.io/2015/06/16/changing-the-connection-string-during-the-tfs-build-for-the-publish-profile-of-the-ssdt-sql-server-data-tool/) definition** is the entity through which you define your automated **build process**. In the build definition, you compose a set of **tasks**, each of which perform a step in your build.
 
 1.  Choose the **Build Definition** link provided in Output window and copy.
 2.  Paste it in a browser in order to open the project containing your application in Team Services.
@@ -94,7 +94,7 @@ Each task has a **Version** selector that enables you to specify the major versi
 
 [![4.2-Visual Studio Test Assemblies Items](/assets/images/2017/12/4.2-Visual-Studio-Test-Assemblies-Items-1024x578.jpg)](/assets/images/2017/12/4.2-Visual-Studio-Test-Assemblies-Items.jpg)
 
-5.  **[Code coverage](https://mohamedradwan.com/2010/10/27/code-coverage-with-team-build-and-mvc-or-any-web-application/) enabled** is another very useful item that during executing your unit test, VSTS will monitor the code as it is being tested and highlight which lines of code were actually covered with your tests.
+5.  **[Code coverage](https://mohamedradwan-devops.github.io/2010/10/27/code-coverage-with-team-build-and-mvc-or-any-web-application/) enabled** is another very useful item that during executing your unit test, VSTS will monitor the code as it is being tested and highlight which lines of code were actually covered with your tests.
 
 [![4.3-Visual Stuido Coverage of Test Assemblies Items](/assets/images/2017/12/4.3-Visual-Stuido-Coverage-of-Test-Assemblies-Items-1024x578.jpg)](/assets/images/2017/12/4.3-Visual-Stuido-Coverage-of-Test-Assemblies-Items.jpg)
 
@@ -113,7 +113,7 @@ A **task** is the building block for defining automation in a build definition, 
 [![5.2-Visual Studio Marketplace extensions](/assets/images/2017/12/5.2-Visual-Studio-Marketplace-extensions-1024x578.jpg)](/assets/images/2017/12/5.2-Visual-Studio-Marketplace-extensions.jpg)
 
 
-> For more information about how to work with **Git** with animation. All commands will be represented in graphical animation. E.g. git branch, git merge, git rebase, git cherry-pick and many others, see **[Mastering Git with animation](https://mohamedradwan.com/posts/mastering-git-from-beginner-to-advanced-step-by-step-with-graphical-animation-commands/)
+> For more information about how to work with **Git** with animation. All commands will be represented in graphical animation. E.g. git branch, git merge, git rebase, git cherry-pick and many others, see **[Mastering Git with animation](https://mohamedradwan-devops.github.io/posts/mastering-git-from-beginner-to-advanced-step-by-step-with-graphical-animation-commands/)
 {: .prompt-info }
 
 {% include embed/youtube.html id='ZgCCnv9LxzA' %}
@@ -172,7 +172,7 @@ You can see the summary of the **build**, in other words everything that happene
 [![9.3-Build Summary with Associated changes, Code Coverage and Deployments](/assets/images/2017/12/9.3-Build-Summary-with-Associated-changes-Code-Coverage-and-Deployments-1024x578.jpg)](/assets/images/2017/12/9.3-Build-Summary-with-Associated-changes-Code-Coverage-and-Deployments.jpg)
 
 
-> For more information about DevOps, what is DevOps, how to work with DevOps, what is Continuous Integration and what is Continuous Delivery. What is the difference between CI pipelines and CD pipelines and many other topics. See **[DevOps for beginner](https://mohamedradwan.com/posts/devops-tutorial-for-beginners-developing-ci-cd-pipelines-continuous-integration-and-deployment/)
+> For more information about DevOps, what is DevOps, how to work with DevOps, what is Continuous Integration and what is Continuous Delivery. What is the difference between CI pipelines and CD pipelines and many other topics. See **[DevOps for beginner](https://mohamedradwan-devops.github.io/posts/devops-tutorial-for-beginners-developing-ci-cd-pipelines-continuous-integration-and-deployment/)
 {: .prompt-info }
 
 {% include embed/youtube.html id='8gQEOsRQqFM' %}
@@ -222,4 +222,4 @@ A **release definition** is one of the fundamental concepts in Release Managemen
 
 **Continuous Integration** is a software development practice in which you build and test software every time a developer pushes code to the application. **Continuous Delivery** is a software engineering approach in which continuous integration, automated testing, and automated deployment capabilities allow software to be developed and deployed rapidly, reliably, and repeatedly with minimal human intervention.
 
-High-performing teams usually practice **Continuous Integration (CI)** and **Continuous Delivery (CD)**. VSTS not only automates the build, testing and deployment of your application, but it gives you complete traceability to see everything in the build including changes to your code, reviews, and test results, as a tool which is fully supporting [DevOps](https://mohamedradwan.com/2016/09/28/what-is-devops/) practices.
+High-performing teams usually practice **Continuous Integration (CI)** and **Continuous Delivery (CD)**. VSTS not only automates the build, testing and deployment of your application, but it gives you complete traceability to see everything in the build including changes to your code, reviews, and test results, as a tool which is fully supporting [DevOps](https://mohamedradwan-devops.github.io/2016/09/28/what-is-devops/) practices.

@@ -13,7 +13,7 @@ Having the right size for the **Backlog items** and the tasks is crucial for smo
 
 Usually, there is a huge gap between customers and the people responsible for building the product. But still, in order to create a successful product, both sides should communicate with each other in the most efficient way. This implies that communication and understanding the requirements are crucial in delivering the product that the customer has envisioned.
 
-This post will briefly describe some of the practices I have captured while visiting some of my customers and also some of the practices I recommend to consider when defining the requirements, within the usage of [**VSTS**](https://mohamedradwan.com/posts/vsts-dashboards/).
+This post will briefly describe some of the practices I have captured while visiting some of my customers and also some of the practices I recommend to consider when defining the requirements, within the usage of [**VSTS**](https://mohamedradwan-devops.github.io/posts/vsts-dashboards/).
 
 ## Product Planning
 
@@ -21,7 +21,7 @@ The first step you would want to do is to discuss the high-level plan with your 
 
 Remember, if you are building the product for a customer, this division is done based on the information you currently have at hand. Of course, if you are building the project for yourself, many of the requirements will be clear, or at least you will think they are clear in this phase.
 
-However, [**VSTS**](https://docs.microsoft.com/en-us/vsts/work/work-items/guidance/cmmi/arrange-requirements-into-a-product-plan) allows users to plan and structure the project based on their needs. But there are still some key points you would want to consider while planning the delivery of the product. The user story should be Independent, **Estimable**, **Small**, and **Testable** (among other criteria). It should be considered an item that should be delivered in days. With this in mind, you can start building your product [**Backlog**](https://mohamedradwan.com/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/) around this idea.
+However, [**VSTS**](https://docs.microsoft.com/en-us/vsts/work/work-items/guidance/cmmi/arrange-requirements-into-a-product-plan) allows users to plan and structure the project based on their needs. But there are still some key points you would want to consider while planning the delivery of the product. The user story should be Independent, **Estimable**, **Small**, and **Testable** (among other criteria). It should be considered an item that should be delivered in days. With this in mind, you can start building your product [**Backlog**](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/) around this idea.
 
 ### If the user story, which is in **VSTS** captured as [**PBI (Product Backlog Item).**](https://docs.microsoft.com/en-us/vsts/work/backlogs/create-your-backlog)
 
@@ -39,7 +39,7 @@ What this means is that we usually use **Epics** as items that will be fully del
 
 ![VSTS backlog-Epic-Feature-PBI-Bug](/assets/images/2017/11/VSTS-backlog-Epic-Feature-PBI-Bug-1.png)
 
->If you want to know more about maintaining the backlog properly, you can visit the following post: [Key Tips For Maintaining Good Product Backlog in Agile and Scrum](https://mohamedradwan.com/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/). The post describes a way to efficiently organize the [backlog](https://docs.microsoft.com/en-us/vsts/work/backlogs/create-your-backlog) items, allowing you to understand the requirements better and providing you with a higher level of detail on what is actually expected from the work or delivery perspective.
+>If you want to know more about maintaining the backlog properly, you can visit the following post: [Key Tips For Maintaining Good Product Backlog in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/). The post describes a way to efficiently organize the [backlog](https://docs.microsoft.com/en-us/vsts/work/backlogs/create-your-backlog) items, allowing you to understand the requirements better and providing you with a higher level of detail on what is actually expected from the work or delivery perspective.
 {: .prompt-info}
 
 Bear in mind that if your project goes further than presented above, you will be able to add additional levels to your product backlog. Please see the picture below for more insights about the levels and structure that can be adjusted in **VSTS** to achieve the desired product management. In total, you can have seven levels, starting from the very top and going to the task level.
@@ -50,7 +50,7 @@ Bear in mind that if your project goes further than presented above, you will be
 
 Once you reach the point where you start to work on the user story, you will want to consider cutting the user story into smaller tasks. There are many reasons why you would want to slice the user story or **PBI** into a **Task**. One reason is that this particular user story will not be developed just by one person or developer or even a pair of developers. In many cases, one **PBI** or **User Story** is developed by two or more developers or people who specialize in a certain part of the **User Story**. In this case, slicing the **User Story** into a **Task** will be the fastest and most efficient way to deliver it.
 
-In **VSTS**, using the [**Agile**](https://mohamedradwan.com/posts/quick-intro-to-agile/) approach, we usually use tasks as items that can be delivered within hours and are shared between different developers.
+In **VSTS**, using the [**Agile**](https://mohamedradwan-devops.github.io/posts/quick-intro-to-agile/) approach, we usually use tasks as items that can be delivered within hours and are shared between different developers.
 
 #### Task -> Hours
 

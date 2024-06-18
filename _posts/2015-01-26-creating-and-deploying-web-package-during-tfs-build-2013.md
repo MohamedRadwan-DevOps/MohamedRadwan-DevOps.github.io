@@ -5,14 +5,14 @@ date:   2015-01-26 15:12:33 +0100
 ---
 
 I have an old post that perform++the same idea++with TFS 2010 but as usual
-there are some differences with TFS 2013:-) [How to run remote deploy with MS Deploy](https://mohamedradwan.com/posts/how-to-run-remote-deploy-with-ms-deploy/ "Run MSDeploy")
+there are some differences with TFS 2013:-) [How to run remote deploy with MS Deploy](https://mohamedradwan-devops.github.io/posts/how-to-run-remote-deploy-with-ms-deploy/ "Run MSDeploy")
 
 I tried many ways with++many blog posts, they are almost the same but
 none of them worked for me, so I decide to create my own solution and
 share that include++the Build Process Template, Of course I needed to
 install++MSDeploy (Web Deploy 3.5) on the Build machine, [remember how to
 install++Web Deployment Agent Service if it\'s not
-available](https://mohamedradwan.com/2015/08/07/install-missed-web-deployment-agent-service/)
+available](https://mohamedradwan-devops.github.io/2015/08/07/install-missed-web-deployment-agent-service/)
 
 ### Customize the process template as the following:
 

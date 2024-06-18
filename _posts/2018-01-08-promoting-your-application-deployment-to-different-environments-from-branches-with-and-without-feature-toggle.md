@@ -20,7 +20,7 @@ date: 2018-01-08 00:42:25 +0100
   follow the best practices for DevOps.
 
 
->For more information about how to work with Kubernetes clusters and deploy them to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginners](https://mohamedradwan.com/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)**
+>For more information about how to work with Kubernetes clusters and deploy them to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginners](https://mohamedradwan-devops.github.io/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)**
 {: .prompt-tip }
 {% include embed/youtube.html id='4DUhc0MjdUc' %}
 
@@ -31,7 +31,7 @@ And still, both strategies are part of **Continuous Integration and Continuous D
 Key importance to remember is that deployment should be considered as a part of the development process and not as an alternative or afterthought.
 If you would like to know more about CI/CD you can look at my post:
 
-[**Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)**](https://mohamedradwan.com/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/)
+[**Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)**](https://mohamedradwan-devops.github.io/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/)
 
 If you want more focus on VSTS Release Management, you can see my video: [**Release Management and Build Automation with TFS/VSTS**](https://www.youtube.com/watch?v=vev3Czaa1pA&t=841s)
 
@@ -102,7 +102,7 @@ As you can probably understand by now the philosophy behind
 
 >For more information about how to work with **Docker** like pulling docker
 images, running docker images, and working with containers, see **[Docker for
-beginners](https://mohamedradwan.com/posts/docker-for-beginners-step-by-step-tutorial/)**
+beginners](https://mohamedradwan-devops.github.io/posts/docker-for-beginners-step-by-step-tutorial/)**
 {: .prompt-tip }
 {% include embed/youtube.html id='3RJv6yVfaRE' %}
 
@@ -200,7 +200,7 @@ system, such as beta users or we can target just specific geographic
 areas or countries.
 
 
->For more information about how to work with **Git** with animation. All commands will be represented in graphical animation, e.g., git branch, git merge, git rebase, git cherry-pick, and many others, see **[Mastering Git with animation](https://mohamedradwan.com/posts/mastering-git-from-beginner-to-advanced-step-by-step-with-graphical-animation-commands/)**
+>For more information about how to work with **Git** with animation. All commands will be represented in graphical animation, e.g., git branch, git merge, git rebase, git cherry-pick, and many others, see **[Mastering Git with animation](https://mohamedradwan-devops.github.io/posts/mastering-git-from-beginner-to-advanced-step-by-step-with-graphical-animation-commands/)**
 {: .prompt-tip }
 {% include embed/youtube.html id='ZgCCnv9LxzA' %}
 

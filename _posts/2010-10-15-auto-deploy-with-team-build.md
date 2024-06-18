@@ -20,7 +20,7 @@ Second Issue: How to deploy the project to another machine, so you have to write
 
 ```
 
-For more information with how to make package and deploy it using MSDeploy [click-here](https://mohamedradwan.com/2010/10/10/how-to-run-remote-deploy-with-ms-deploy/ "Using MSDeploy")
+For more information with how to make package and deploy it using MSDeploy [click-here](https://mohamedradwan-devops.github.io/2010/10/10/how-to-run-remote-deploy-with-ms-deploy/ "Using MSDeploy")
 
 > You have to see [Ewald Hofman](http://www.ewaldhofman.nl/post/2010/04/12/Auto-deployment-of-my-web-application-with-Team-Build-2010-to-add-Interactive-Testing.aspx "Example") post because my post depend on it, because I didn\'t want to repeat any examples.
 {: .prompt-info }

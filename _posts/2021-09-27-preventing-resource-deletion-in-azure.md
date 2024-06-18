@@ -4,7 +4,7 @@ title: "Preventing Resource Deletion in Azure"
 date:   2021-09-27 23:46:13 +0100
 ---
 
-When we build Azure resources, it doesn't mean that someone is not going to go in and delete it for us, or we also might accidentally delete something important just because we forgot that we weren't supposed to. Even if we are a [DevOps](https://mohamedradwan.com/posts/devops-tutorial-for-beginners-developing-ci-cd-pipelines-continuous-integration-and-deployment/) person or an Ops person, we may have sometimes the right to do it because sometimes we need to delete production resources, but we just want to prevent it to do by accident. 
+When we build Azure resources, it doesn't mean that someone is not going to go in and delete it for us, or we also might accidentally delete something important just because we forgot that we weren't supposed to. Even if we are a [DevOps](https://mohamedradwan-devops.github.io/posts/devops-tutorial-for-beginners-developing-ci-cd-pipelines-continuous-integration-and-deployment/) person or an Ops person, we may have sometimes the right to do it because sometimes we need to delete production resources, but we just want to prevent it to do by accident. 
 
 For cases like this, there is a great tool within Azure which is called Locks, which locks some resources in order to prevent any modification or deletion. This post explains this new feature, preventing deleting production resources by accident. If we are deploying in a production environment, we may probably want to have some locks. Usually, we should generate some locks on every resource deployed in the production environment. It's up to us to take our templates or generate the templates and adapt them to our use case and constraint, but in both cases, the logs are automatically generated in a production environment. 
 
@@ -32,6 +32,6 @@ It's important to understand that locks don't apply to all types of operations. 
 
 As an administrator, you can lock a subscription, resource group, or resource to prevent other users in your organization from accidentally deleting or modifying critical resources. The lock overrides any permissions the user might have.
 
-In this post, you can find also an [Overview of some Azure Services (Part 1)](https://mohamedradwan.com/posts/overview-for-some-azure-services-part-1/)
+In this post, you can find also an [Overview of some Azure Services (Part 1)](https://mohamedradwan-devops.github.io/posts/overview-for-some-azure-services-part-1/)
 
 Read more for Lock resources [here.](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json&wt.mc_id=devops-42208-cxa)

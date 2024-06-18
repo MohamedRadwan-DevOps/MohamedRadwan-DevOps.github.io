@@ -4,7 +4,7 @@ title: "Backup and Restore (Rollback) DB and Web Application during TFS Build"
 date: 2015-08-07 13:23:16 +0100
 ---
 
-One of our TFS assignments needed to extend the current build and deployment process which includes [Creating and Deploying Web package](https://mohamedradwan.com/posts/creating-and-deploying-web-package-during-tfs-build-2013/), [Deploying Database](https://mohamedradwan.com/posts/deploying-ssdt-during-local-and-server-build/), [Versioning Assembly](https://mohamedradwan.com/posts/versioning-assembly-during-tfs-build-2013/), running post-integration tests after deployment, etc., to include rollback which will perform backup and restore. We agreed on performing the backup during the deployment and the restore will be a separate build definition. For the backup during the deployment, I added the following section that backs up the DB and the Web App.
+One of our TFS assignments needed to extend the current build and deployment process which includes [Creating and Deploying Web package](https://mohamedradwan-devops.github.io/posts/creating-and-deploying-web-package-during-tfs-build-2013/), [Deploying Database](https://mohamedradwan-devops.github.io/posts/deploying-ssdt-during-local-and-server-build/), [Versioning Assembly](https://mohamedradwan-devops.github.io/posts/versioning-assembly-during-tfs-build-2013/), running post-integration tests after deployment, etc., to include rollback which will perform backup and restore. We agreed on performing the backup during the deployment and the restore will be a separate build definition. For the backup during the deployment, I added the following section that backs up the DB and the Web App.
 
 ![Backup DB and Web Sequence](/assets/images/2015/08/backup-db-and-web-squence1.png)
 
@@ -22,7 +22,7 @@ The build definition for that part will be as the following:
 
 [![Backup DB and Web Squence-parameters](/assets/images/2015/08/backup-db-and-web-squence-parameters.png)](/assets/images/2015/08/backup-db-and-web-squence-parameters.png)
 
->If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan.com/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
+>If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
 {: .prompt-tip }
 
 For the rollback and restore, I added the following section that restores the backup for both DB and Web. For the DB, I had to get exclusive access so I can restore the DB even if there are active connections from other clients.
@@ -80,7 +80,7 @@ Invoke-Sqlcmd -Query "use master; alter database database1 set single_user with 
 >If you would like to learn more about using the
 [Build Variables](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch)
 in [VSTS](https://www.visualstudio.com/team-services/) and Release
-Management, - have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan.com/posts/vsts-build-variables-and-echo/).
+Management, - have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan-devops.github.io/posts/vsts-build-variables-and-echo/).
 The post describes how to see the output at any point of time, while
 automating a process, through setting variables and displaying them
 during the build.
@@ -158,9 +158,9 @@ msdeploy -verb:sync -source:package="C:\Windows\SysWOW64\defaultWebsiteBackup.zi
 >Read about basic guidelines that you need to consider
 when building a **product backlog** in the following post, [Requirements
 (Epic, Feature, User Story), Task Size and Estimation in Agile and
-Scrum](https://mohamedradwan.com/posts/requirements-epic-feature-user-story-task-size-and-estimation-in-agile-and-scrum/),
+Scrum](https://mohamedradwan-devops.github.io/posts/requirements-epic-feature-user-story-task-size-and-estimation-in-agile-and-scrum/),
 and also about its maintaining and refinement of product backlog in [Key
 tips for Maintaining good product backlog in Agile and
-Scrum](https://mohamedradwan.com/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/).
+Scrum](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/).
 {: .prompt-tip }
 

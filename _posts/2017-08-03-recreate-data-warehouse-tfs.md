@@ -63,7 +63,7 @@ I can\'t even right-click and see the property of the Analysis data So here the 
 
 If you want to see the reports immediately, you will need to process the Data-warehouse and the Analysis service from the web services, or just leave it when the schedule job is running, for the step-by-step on how to process this manually just see the following post. 
 
-[Process theTFS Data Warehouse and Analysis Service manually](https://mohamedradwan.com/2011/07/11/process-the-tfs-data-warehouse-manually/ "Process the TFS Data Warehouse and Analysis Service manually")
+[Process theTFS Data Warehouse and Analysis Service manually](https://mohamedradwan-devops.github.io/2011/07/11/process-the-tfs-data-warehouse-manually/ "Process the TFS Data Warehouse and Analysis Service manually")
 
 Or see the step-by-step video
 

@@ -22,7 +22,7 @@ remove GUID tag to re-run the migration again and many others. -�
 and ways for Team Foundation Server to Visual Studio Team Services
 migration, - have a look at the [quick guide about real stories for
 migrating Team Foundation Server to Visual Studio Team
-Services](https://mohamedradwan.com/posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/).
+Services](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/).
 The guide describes some of the real migration scenarios and explains
 how to use different tools for several cases.
 {: .prompt-tip }

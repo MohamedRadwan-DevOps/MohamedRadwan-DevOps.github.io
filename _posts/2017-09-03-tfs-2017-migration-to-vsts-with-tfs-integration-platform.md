@@ -22,7 +22,7 @@ Migrating **TFS** to **VSTS** can be done using several tools, [**Microsoft Exce
 
 I'll demonstrate another tool, which is **TFS Integration Platform**. Using TFS Integration Platform requires [**SQL Server 2012**](https://www.microsoft.com/en-us/download/details.aspx?id=29062) first, as the tool is a little bit old. This tool migrates everything except the relations between work items. Note: This tool is [**deprecated**], but you can still use it at your own risk. Migration with TFS Integration Tool is very easy, but again, we have a limitation that relations between work items can't be migrated. Before getting into the real work, you should have access to both TFS & VSTS with **full administrative privileges.** TFS Integration Platform is only helpful when you want only to migrate work items, with no need to migrate links & relations between them.
 
->If you would like to learn more about my personal experience of the Migration Team Foundation Server to Visual Studio Team Services using Database Import Service or TFS Migrator, have a look at [this post](https://mohamedradwan.com/posts/migrating-team-foundation-server-to-visual-studio-team-services-using-database-import-service-tfs-migrator/).
+>If you would like to learn more about my personal experience of the Migration Team Foundation Server to Visual Studio Team Services using Database Import Service or TFS Migrator, have a look at [this post](https://mohamedradwan-devops.github.io/posts/migrating-team-foundation-server-to-visual-studio-team-services-using-database-import-service-tfs-migrator/).
 {: .prompt-tip }
 
 
@@ -51,7 +51,7 @@ Before getting started, we will need to install **Microsoft SQL Server 2012**. A
 {: .prompt-warning }
 
 
->If you would like to learn more about different tools and ways for Team Foundation Server to Visual Studio Team Services migration, have a look at the [quick guide about real stories for migrating Team Foundation Server to Visual Studio Team Services](https://mohamedradwan.com/posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/). The guide describes some real migration scenarios and explains how to use different tools for several cases.
+>If you would like to learn more about different tools and ways for Team Foundation Server to Visual Studio Team Services migration, have a look at the [quick guide about real stories for migrating Team Foundation Server to Visual Studio Team Services](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/). The guide describes some real migration scenarios and explains how to use different tools for several cases.
 {: .prompt-info }
 
 
@@ -98,7 +98,7 @@ Before getting started, we will need to install **Microsoft SQL Server 2012**. A
 
 ![Final_Tables_Look](/assets/images/2017/09/Final_Tables_Look-1-1024x549.png)
 
->The post [Upgrade to TFS 2018 Has Been Done in Production](https://mohamedradwan.com/posts/upgrade-to-tfs-2018-has-been-done-in-production/) describes a full upgrade and migration from TFS2015 to TFS2018 and describes the improvements over the old TFS 2015.
+>The post [Upgrade to TFS 2018 Has Been Done in Production](https://mohamedradwan-devops.github.io/posts/upgrade-to-tfs-2018-has-been-done-in-production/) describes a full upgrade and migration from TFS2015 to TFS2018 and describes the improvements over the old TFS 2015.
 {: .prompt-tip }
 
 ## Conclusion

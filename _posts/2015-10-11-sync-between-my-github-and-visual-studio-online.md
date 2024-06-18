@@ -8,7 +8,7 @@ date:   2015-10-11 21:45:57 +0100
 
 This post will describe how to sync a project between [GitHub](https://github.com/) and **Visual Studio Online (VSO)**. **Visual Studio Online** provides a set of cloud-powered collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. To implement synchronization, we used [Git remote](http://git-scm.com/docs/git-remote.html), which will enable connecting to a remote repo and then pulling from it and pushing to the other repo. **Remote repositories** are versions of your project that are hosted on the Internet or network somewhere. You can have several of them, each of which generally is either read-only or read/write for you. Collaborating with others involves managing these remote repositories and **pushing** and **pulling** data to and from them when you need to share work. Managing remote repositories includes knowing how to add remote repositories, remove remotes that are no longer valid, manage various remote branches and define them as being tracked or not, and more.
 
-> If you would like to start using [Visual Studio](https://www.visualstudio.com/) for developing, read the details about its installation, launching, and creating a new project in my post [Get Started Developing with Visual Studio](https://mohamedradwan.com/postsget-started-developing-with-visual-studio-2015/). If you prefer to use Mac, see how it looks in [Visual Studio for Mac](https://mohamedradwan.com/2017/07/30/visual-studio-for-mac/) post.
+> If you would like to start using [Visual Studio](https://www.visualstudio.com/) for developing, read the details about its installation, launching, and creating a new project in my post [Get Started Developing with Visual Studio](https://mohamedradwan-devops.github.io/postsget-started-developing-with-visual-studio-2015/). If you prefer to use Mac, see how it looks in [Visual Studio for Mac](https://mohamedradwan-devops.github.io/2017/07/30/visual-studio-for-mac/) post.
 {: .prompt-info }
 
 ### Step 1: Enabling Alternate Authentication Credentials for VSO Account 
@@ -57,7 +57,7 @@ Use the **\<git pull\>** command to automatically fetch and then merge that remo
    
 ![3-2 git Push origin to the Visual Studio Online](/assets/images/2016/06/3-2-git-Push-origin-to-the-Visual-Studio-Online.png "3-2 git Push origin to the Visual Studio Online")
 
-> If you would like to learn more about using the [Build Variables](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch) in [VSTS](https://www.visualstudio.com/team-services/) and Release Management, - have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan.com/posts/vsts-build-variables-and-echo/). The post describes how to see the output at any point in time while automating a process, through setting variables and displaying them during the build.
+> If you would like to learn more about using the [Build Variables](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch) in [VSTS](https://www.visualstudio.com/team-services/) and Release Management, - have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan-devops.github.io/posts/vsts-build-variables-and-echo/). The post describes how to see the output at any point in time while automating a process, through setting variables and displaying them during the build.
 {: .prompt-info }
 
 

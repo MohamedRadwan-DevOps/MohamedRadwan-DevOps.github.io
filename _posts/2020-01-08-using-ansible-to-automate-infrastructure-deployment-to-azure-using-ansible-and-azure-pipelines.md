@@ -25,7 +25,7 @@ Then the first step is to start installing and configuring [Ansible](https://www
 
 After that, I will start configuring the authentication from the Ansible machine to my Azure subscription. I need to create a credential file inside the virtual machine. This virtual machine can have permission to my Azure subscription to create infrastructure for my application. After that, I will generate a pair of RSA keys, private and public key. Once this machine is ready, I will go to Azure DevOps and navigate to the project setting, then start using the private key to create a service connection. The main idea here is to make Azure pipeline have authentication to the virtual machine so it can communicate with it because Azure pipeline will execute Ansible playbook remotely on the Ansible virtual machine. This is because we are using Ansible to automate infrastructure.
 
-> For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginner](https://mohamedradwan.com/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)**
+> For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see **[Kubernetes cluster for beginner](https://mohamedradwan-devops.github.io/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)**
 {: .prompt-tip }
 
 ## Run and execute Continuous Integration (CI) pipeline

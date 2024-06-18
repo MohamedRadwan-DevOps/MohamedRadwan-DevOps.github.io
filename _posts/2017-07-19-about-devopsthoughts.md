@@ -6,7 +6,7 @@ date:   2017-07-19 08:00:16 +0100
 
 # About the project
 
-**DevOpsThoughts** is a community initiative aimed to teach the best practices in [**DevOps**](https://mohamedradwan.com/posts/what-is-devops/) through a multi-platform application which targets a variety of technologies. **DevOps** is one of the most emerging topics of software development today as it improves the whole software development process, but unfortunately, there is no clear, detailed and explicit model to teach the best DevOps & Software Engineering practices on real world projects, this was the main problem that leads to **DevOpsThoughts** community establishment. **DevOpsThoughts** teaches the best practices on a series of real-world e-commerce projects, each of which is
+**DevOpsThoughts** is a community initiative aimed to teach the best practices in [**DevOps**](https://mohamedradwan-devops.github.io/posts/what-is-devops/) through a multi-platform application which targets a variety of technologies. **DevOps** is one of the most emerging topics of software development today as it improves the whole software development process, but unfortunately, there is no clear, detailed and explicit model to teach the best DevOps & Software Engineering practices on real world projects, this was the main problem that leads to **DevOpsThoughts** community establishment. **DevOpsThoughts** teaches the best practices on a series of real-world e-commerce projects, each of which is
 
 - Named after an animal name (We love animals, who doesn\'t?)
 - Built with a specific set of technologies
@@ -23,7 +23,7 @@ git clone https://github.com/DevOpsThoughts/E-Commerce.git -b BranchName
 cd E-Commerce
 ```
 
->You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan.com/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan.com/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing \"the big picture\", while still maintaining the high level of detail.
+>You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan-devops.github.io/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing \"the big picture\", while still maintaining the high level of detail.
 
 # DevOpsThoughts Rabbit
 
@@ -69,7 +69,7 @@ Below is the homepage for **DevOpsThoughts Rabbit**.
   - Notification, Error, Warning
 
 
->If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan.com/2017/12/29/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
+>If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/2017/12/29/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
 {: .prompt-tip }
 
 
@@ -92,7 +92,7 @@ I\'ll explain the details of each level in the next blog post of this series.
 
 Which represents a list of user actions and system\'s response to it. In DevOps Thoughts, each PBI was mapped to a single use case scenario, which consists from related PBI\'S, Main Actors List, the list of pre-conditions, basic and alternative flow and from post conditions of scenario. **Basic Mockups**, which are very basic UI representation used to deliver an abstract format of the expected to UI design to a UI developer from end-user or product owner perspective. **PhotoShop Designs (PSDs)**, which are based on the Test Cases, Basic Mockups and PBI\'s. **Website Components** (HTML, CSS and JavaScript), which are basically the source code for UI, together with all elements used in UI, such as images, icons and libraries. **Storyboarding**, which is showing an illustration of user interaction with application story. **Products Data**, which was added into the application for the purpose of displaying a real image of the application. All products are filled with code, title, description, category, brand, etc, in order to ensure the, the application meets the real criteria.
 
-[Tip]{.ion-tip} If you are interested in developing a [Visual Studio Team Service extension](https://docs.microsoft.com/en-us/vsts/extend/overview), and you would like to know and to follow the best practices for DevOps, Continuous Integration and Continuous Delivery, - have a look at the following post, [Develop VSTS Extension and Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan.com/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
+[Tip]{.ion-tip} If you are interested in developing a [Visual Studio Team Service extension](https://docs.microsoft.com/en-us/vsts/extend/overview), and you would like to know and to follow the best practices for DevOps, Continuous Integration and Continuous Delivery, - have a look at the following post, [Develop VSTS Extension and Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
 
 # Conclusion
 

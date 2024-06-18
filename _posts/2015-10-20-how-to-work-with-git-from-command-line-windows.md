@@ -13,7 +13,7 @@ date:   2015-10-20 21:04:21 +0100
 
 This post will describe how to work with [Git from command line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line) in Windows. It's very important to know the commands behind the UI in Visual Studio, so this post will explain the basics of what you need to know to work with Git from command line. The **Git command line** is the only place you can run all Git commands. If you know how to run the command line version, you can probably also figure out how to run the [GUI version](https://git-scm.com/downloads/guis), though the opposite is not necessarily true. To run the command line version, you need to have at least a basic understanding of how to open Terminal in Mac or Command Prompt or [Powershell in Windows](https://technet.microsoft.com/en-us/library/ee221100.aspx).
 
-> In order to ensure [**Continuous Integration**](https://www.visualstudio.com/team-services/continuous-integration/), we need to use proper **deploying strategy**. Read more about deploying with Feature Branches and Feature Toggle in the following post: [Deploy from Branches with and without Feature Toggle](https://mohamedradwan.com/posts/promoting-your-application-deployment-to-different-environments-from-branches-with-and-without-feature-toggle/)
+> In order to ensure [**Continuous Integration**](https://www.visualstudio.com/team-services/continuous-integration/), we need to use proper **deploying strategy**. Read more about deploying with Feature Branches and Feature Toggle in the following post: [Deploy from Branches with and without Feature Toggle](https://mohamedradwan-devops.github.io/posts/promoting-your-application-deployment-to-different-environments-from-branches-with-and-without-feature-toggle/)
 {: .prompt-tip }
 
 
@@ -41,7 +41,7 @@ git config --global -l
 
 ![1-3 Setting the global settings in Git command line git-config-global-e-edit](/assets/images/2016/06/1-3-Setting-the-global-settings-in-Git-command-linegit-config-global-e-edit.png "1-3 Setting the global settings in Git command line git-config-global-e-edit")
 
-[More Info]{.ion-info} You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan.com/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan.com/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing "the big picture", while still maintaining the high level of detail.
+[More Info]{.ion-info} You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan-devops.github.io/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing "the big picture", while still maintaining the high level of detail.
 
 
 ### Step 2: Opening the file with appropriate exit {#Step2}
@@ -96,7 +96,7 @@ You can see the follwoing video if you would like to find more information about
 
 **Git** is a **free** and **open source** distributed version control system designed to handle everything from small to very large projects with speed and efficiency. **Git** allows and encourages you to have multiple local branches that can be entirely independent of each other. The creation, merging, and deletion of those lines of development take seconds. There are ways to accomplish some of this with other systems, but the work involved is much more difficult and error-prone. Git makes this process incredibly easy and it changes the way most developers work when they learn it.
 
-> In some of the posts you can find high-level descriptions of [Agile](https://mohamedradwan.com/posts/quick-intro-to-agile/) principles and the usage of some [Agile tools](https://mohamedradwan.com/posts/tfs-2015-agile-project-management/) and [Agile methodology](http://agilemanifesto.org/).
+> In some of the posts you can find high-level descriptions of [Agile](https://mohamedradwan-devops.github.io/posts/quick-intro-to-agile/) principles and the usage of some [Agile tools](https://mohamedradwan-devops.github.io/posts/tfs-2015-agile-project-management/) and [Agile methodology](http://agilemanifesto.org/).
 {: .prompt-tip }
 
 

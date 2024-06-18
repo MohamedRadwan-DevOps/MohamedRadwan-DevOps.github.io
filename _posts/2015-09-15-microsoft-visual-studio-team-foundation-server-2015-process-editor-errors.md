@@ -10,7 +10,7 @@ As we know that **[Visual Studio 2015 and Team Foundation Server 2015](https://w
 
 ![non-existing field System.ID](/assets/images/2015/09/non-existing-field-system-id.png)
 
-[Tip]{.ion-tip} If you would like to learn more about different tools and ways for Team Foundation Server to Visual Studio Team Services migration, - have a look at the [quick guide about real stories for migrating Team Foundation Server to Visual Studio Team Services](https://mohamedradwan.com/posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/). The guide describes some of the real migration scenarios and explains how to use different tools for several cases.
+[Tip]{.ion-tip} If you would like to learn more about different tools and ways for Team Foundation Server to Visual Studio Team Services migration, - have a look at the [quick guide about real stories for migrating Team Foundation Server to Visual Studio Team Services](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/). The guide describes some of the real migration scenarios and explains how to use different tools for several cases.
 
 We just need to change the name of the control to the right one with small letters as shown below:
 
@@ -28,7 +28,7 @@ VS402479: You can't overwrite the Scrum process template, because it's locked. F
 
 ![VS402479 You can't overwrite the Scrum process template, because it's locked. For more information about customizing process templates, click Help.](/assets/images/2015/09/vs402479-you-cant-overwrite-the-scrum-process-template-because-its-locked-for-more-information-about-customizing-process-templates-click-help.png)
 
->The post [Upgrade to TFS 2018 Has Been Done in Production](https://mohamedradwan.com/posts/upgrade-to-tfs-2018-has-been-done-in-production/) describes a full upgrade and migration from TFS2015 to TFS2018 and describes the improvements over the old TFS 2015.
+>The post [Upgrade to TFS 2018 Has Been Done in Production](https://mohamedradwan-devops.github.io/posts/upgrade-to-tfs-2018-has-been-done-in-production/) describes a full upgrade and migration from TFS2015 to TFS2018 and describes the improvements over the old TFS 2015.
 {: .prompt-info }
 
 We just need to generate a GUID and add it to the ProcessTemplate.xml file as shown below:

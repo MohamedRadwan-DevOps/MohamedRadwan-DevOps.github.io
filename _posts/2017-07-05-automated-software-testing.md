@@ -7,15 +7,15 @@ date:   2017-07-05 15:00:10 +0100
 
 ## Introduction
 
-**Automated testing** is a very extensive topic, so in this blog post, I\'ll just summarize the most important parts of **Automated testing**. Software testing is present in almost every cycle of software development. From **[DevOps](https://mohamedradwan.com/posts/what-is-devops/)** view, the software testing is mapped to practices and then to actual technologies which can be used for implementation, as shown in the image below. The key point of 100 Level is rapid deployment and production with high quality. From here the practice of Automated testing comes into 200 Level. From here the Automated testing can be mapped to numerous processes and tools for implementation, such as **[Unit](https://msdn.microsoft.com/en-us/library/ms182532.aspx)** and **[Load testing](https://www.visualstudio.com/en-us/docs/test/performance-testing/getting-started/getting-started-with-performance-testing)**.
+**Automated testing** is a very extensive topic, so in this blog post, I\'ll just summarize the most important parts of **Automated testing**. Software testing is present in almost every cycle of software development. From **[DevOps](https://mohamedradwan-devops.github.io/posts/what-is-devops/)** view, the software testing is mapped to practices and then to actual technologies which can be used for implementation, as shown in the image below. The key point of 100 Level is rapid deployment and production with high quality. From here the practice of Automated testing comes into 200 Level. From here the Automated testing can be mapped to numerous processes and tools for implementation, such as **[Unit](https://msdn.microsoft.com/en-us/library/ms182532.aspx)** and **[Load testing](https://www.visualstudio.com/en-us/docs/test/performance-testing/getting-started/getting-started-with-performance-testing)**.
 
 You can find more information about DevOps
 
-in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan.com/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan.com/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing \"the big picture\", while still maintaining the high level of detail.
+in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan-devops.github.io/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing \"the big picture\", while still maintaining the high level of detail.
 
 ![0-DevOpsFrame-Automated software testing](/assets/images/2017/01/0-DevOpsFrame-Automated-software-testing.jpg "0-DevOpsFrame-Automated software testing")
 
-- The purpose of running **Automated tests** it to run tests **[agile](https://mohamedradwan.com/posts/im-just-professional-agile/)** and frequently. In particular, when testing in an **agile environment**, it\'s not only required to adopt quickly to software changes, it\'s necessary. There are many benefits for running Automated tests, such as:
+- The purpose of running **Automated tests** it to run tests **[agile](https://mohamedradwan-devops.github.io/posts/im-just-professional-agile/)** and frequently. In particular, when testing in an **agile environment**, it\'s not only required to adopt quickly to software changes, it\'s necessary. There are many benefits for running Automated tests, such as:
 
 - Speed optimization and efficiency;
 - Maintaining and improving quality;
@@ -33,11 +33,11 @@ in the following post: [DevOps: The Three Stage Conversation - People, Process, 
 
 ## Types of Automated testing
 
-As already explained in post [**Introduction to software testing**](https://mohamedradwan.com/posts/introduction-to-software-testing/){target="_blank" rel="noopener noreferrer"} the **Automated test** will run by a computer, but they will be created by the tester, which can create the test in the way that it will run every time when code or part of it will be changed. There are several particular **types of software tests**, which can be Automated. 
+As already explained in post [**Introduction to software testing**](https://mohamedradwan-devops.github.io/posts/introduction-to-software-testing/){target="_blank" rel="noopener noreferrer"} the **Automated test** will run by a computer, but they will be created by the tester, which can create the test in the way that it will run every time when code or part of it will be changed. There are several particular **types of software tests**, which can be Automated. 
 
 ![1-Automated testing types](/assets/images/2017/01/Automated-testing-types.jpg "1-Automated testing types")
 
->If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan.com/2017/12/29/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
+>If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/2017/12/29/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
 {: .prompt-tip }
 
 
@@ -66,7 +66,7 @@ The word \"**Unit**\" is already pointing that this type of software testing is 
 - **Keyword Testing** where the keywords are specified for each action in the test case. The keywords can be keystrokes, mouse click or other action. Every keyword or set of keywords is then associated to function or action. This type of testing doesn\'t require any programming skills as it\'s very easy to design such test cases, so it\'s very appropriate type of testing for new testers or non-technical ones.
 
 >In order to ensure [**Continuous Integration**](https://www.visualstudio.com/team-services/continuous-integration/), we need to use proper **deploying strategy**. Read more about deploying with Feature Branches and Feature Toggle in the following post; 
-[Deploy from Branches with and without Feature Toggle](https://mohamedradwan.com/posts/promoting-your-application-deployment-to-different-environments-from-branches-with-and-without-feature-toggle/).
+[Deploy from Branches with and without Feature Toggle](https://mohamedradwan-devops.github.io/posts/promoting-your-application-deployment-to-different-environments-from-branches-with-and-without-feature-toggle/).
 {: .prompt-tip }
 
 

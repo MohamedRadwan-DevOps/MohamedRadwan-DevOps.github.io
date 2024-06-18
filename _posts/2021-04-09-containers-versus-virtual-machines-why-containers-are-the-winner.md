@@ -6,7 +6,7 @@ date:   2021-04-09 20:47:52 +0100
 
 ## Introduction
 
-Welcome to Module 3 of Lesson 1. This is an in-depth insight into Containers versus Virtual Machine. The module plays an important role in your understanding of [Application Modernization and Containers](https://docs.microsoft.com/en-gb/documentation/). I design this course and I have applied some of my knowledge and expertise in the arena of Microsoft\'s [Azure Kubernetes Service](https://mohamedradwan.com/posts/azure-kubernetes-service-aks-deep-dive-free-course/) (AKS). https://youtu.be/5hEHQfMFGrI First, let\'s take a look at what exactly is a Virtual Machine.
+Welcome to Module 3 of Lesson 1. This is an in-depth insight into Containers versus Virtual Machine. The module plays an important role in your understanding of [Application Modernization and Containers](https://docs.microsoft.com/en-gb/documentation/). I design this course and I have applied some of my knowledge and expertise in the arena of Microsoft\'s [Azure Kubernetes Service](https://mohamedradwan-devops.github.io/posts/azure-kubernetes-service-aks-deep-dive-free-course/) (AKS). https://youtu.be/5hEHQfMFGrI First, let\'s take a look at what exactly is a Virtual Machine.
 
 ## What is a Virtual Machine (VM)?
 
@@ -27,7 +27,7 @@ Virtual machines have the ability to host hundreds to thousands of workloads. Th
 ![Hosting workloads in virtual machine AKS](/assets/images/2020/10/Hosting-workloads-in-virtual-machine-AKS.png)
 ## Advantage of Containers
 
-Containers are a great solution to solve the challenges posed by VMs. Imagine you wish to ship a package to a particular destination in the world. Once you place the package in a container, you can send it to just about anywhere: Asia, Africa, even Australia. Software Containers work in a similar way. You can package an app, place it inside a container, then send it to any destination you choose - A personal machine, a colleague\'s machine, a test environment, or [even the cloud](https://mohamedradwan.com/2020/06/16/announcing-cloud-devops-visions-community/).
+Containers are a great solution to solve the challenges posed by VMs. Imagine you wish to ship a package to a particular destination in the world. Once you place the package in a container, you can send it to just about anywhere: Asia, Africa, even Australia. Software Containers work in a similar way. You can package an app, place it inside a container, then send it to any destination you choose - A personal machine, a colleague\'s machine, a test environment, or [even the cloud](https://mohamedradwan-devops.github.io/2020/06/16/announcing-cloud-devops-visions-community/).
 
 ![Advantages of using a container over a VM](/assets/images/2020/10/Advantages-of-using-a-container-over-a-VM.png)
 

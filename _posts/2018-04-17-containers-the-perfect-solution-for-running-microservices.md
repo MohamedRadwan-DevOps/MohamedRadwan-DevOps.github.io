@@ -9,7 +9,7 @@ date: 2018-04-17 11:39:27 +0100
 A container image is a lightweight executable package of a piece of software that will always run the same, regardless of the environment you are using it with. The series of videos presented below will explain the basic and advanced principles of using Containers, as well as various technologies and services around it.
 
 >If you would like to learn more about enhancing frontend development code quality, it includes understanding different types of JavaScript unit testing frameworks like Jasmine, Mocha, Jest, different types of task runner like Grunt and Gulp, different types of linting tools, like JSHint, ESLint, JSLint, CSSLint, different types of code formatter like Prettier and Tidy, how to write your first JavaScript using test with Jasmine standalone version, how to run JavaScript unit tests using Grunt.
-Command Line and PhantomJS, how to calculate code coverage for JavaScript unit tests using Istanbul, how to run JavaScript unit tests using Visual Studio Test Explorer using chutzpah extension, how to lint JavaScript code using JSHint and how to run that from Command Line using Grunt, finally it shows how to integrate all the quality practices with Visual Studio Team Service Build automation so it can be part of CI/CD or Continuous Integration and Continuous Delivery, - have a look at the [this post](https://mohamedradwan.com/posts/front-end-code-quality-javascript-unit-test-and-linting-automation-with-vsts-build/)
+Command Line and PhantomJS, how to calculate code coverage for JavaScript unit tests using Istanbul, how to run JavaScript unit tests using Visual Studio Test Explorer using chutzpah extension, how to lint JavaScript code using JSHint and how to run that from Command Line using Grunt, finally it shows how to integrate all the quality practices with Visual Studio Team Service Build automation so it can be part of CI/CD or Continuous Integration and Continuous Delivery, - have a look at the [this post](https://mohamedradwan-devops.github.io/posts/front-end-code-quality-javascript-unit-test-and-linting-automation-with-vsts-build/)
 {: .prompt-tip }
 
 ## Containers Introduction and abstract
@@ -24,7 +24,7 @@ This is the first video in this series. We will understand what is the story beh
 
 {% include embed/youtube.html id='18i94MfJSAI' %}
 
->If you would like to know more about Azure deployments, have a look at the post [How to deploy to Azure using Team Services Release Management](https://mohamedradwan.com/posts/how-to-deploy-to-azure-using-team-services-release-management/). The post describes how Azure deployments are made easy by using Visual Studio Team Services (VSTS) Release Management. You will see a step-by-step tutorial on how to configure and deploy to Azure in Release Management, and, moreover, how to configure an end-to-end pipeline for deploying applications on Azure.
+>If you would like to know more about Azure deployments, have a look at the post [How to deploy to Azure using Team Services Release Management](https://mohamedradwan-devops.github.io/posts/how-to-deploy-to-azure-using-team-services-release-management/). The post describes how Azure deployments are made easy by using Visual Studio Team Services (VSTS) Release Management. You will see a step-by-step tutorial on how to configure and deploy to Azure in Release Management, and, moreover, how to configure an end-to-end pipeline for deploying applications on Azure.
 {: .prompt-info}
 
 ## 2. Creating Linux VM on Azure and establish a remote connection

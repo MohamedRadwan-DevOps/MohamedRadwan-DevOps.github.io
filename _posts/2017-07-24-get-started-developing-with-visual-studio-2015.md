@@ -19,7 +19,7 @@ I will explain in this article the basic installation and setup steps.
 
 ### More Info 
 
-If you prefer to use Mac, see how it looks in [Visual Studio for Mac](https://mohamedradwan.com/posts/visual-studio-for-mac/) post.
+If you prefer to use Mac, see how it looks in [Visual Studio for Mac](https://mohamedradwan-devops.github.io/posts/visual-studio-for-mac/) post.
 
 ### Part 1: Installing Visual Studio 
 

@@ -8,7 +8,7 @@ date: 2018-04-04 07:17:19 +0100
 
 DevOps became one of the buzzwords in the software development ecosystem. This is why it's important to consider that with all kinds of development, including custom development for Microsoft Dynamics. So I created a series of videos for new CRM developers to start considering DevOps from the beginning. Also, this series can help DevOps engineers who haven't worked with Dynamics development before.
 
->If you would like to learn more about how to use PowerShell to change some values for Microsoft Dynamics 365 - have a look at [**this post**](https://mohamedradwan.com/posts/working-with-microsoft-dynamics-365-powershell/).
+>If you would like to learn more about how to use PowerShell to change some values for Microsoft Dynamics 365 - have a look at [**this post**](https://mohamedradwan-devops.github.io/posts/working-with-microsoft-dynamics-365-powershell/).
 {: .prompt-tip }
 
 ## DevOps for Microsoft Dynamics Introduction and abstract 
@@ -39,7 +39,7 @@ How to develop your first project for Microsoft Dynamics 365 CRM Project. Unders
 
 
 
->If, after adding a new user to [Dynamics 365](https://dynamics.microsoft.com/en-gb/), you get the following error: *You do not have permissions to see this view. Contact a system administrator CRM*, have a look at [**this post**](https://mohamedradwan.com/posts/fix-you-do-not-have-permissions-to-see-this-view-contact-a-system-administrator-crm/).
+>If, after adding a new user to [Dynamics 365](https://dynamics.microsoft.com/en-gb/), you get the following error: *You do not have permissions to see this view. Contact a system administrator CRM*, have a look at [**this post**](https://mohamedradwan-devops.github.io/posts/fix-you-do-not-have-permissions-to-see-this-view-contact-a-system-administrator-crm/).
 {: .prompt-tip }
 
 ## 4-Debugging Microsoft Dynamics 365 CRM project
@@ -67,5 +67,5 @@ How to integrate automated UI tests with Visual Studio build automation in order
 
 {% include embed/youtube.html id='tfWCYXxeTmc' %}
 
->You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan.com/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan.com/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing "the big picture", while still maintaining a high level of detail.
+>You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan-devops.github.io/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing "the big picture", while still maintaining a high level of detail.
 {: .prompt-tip }

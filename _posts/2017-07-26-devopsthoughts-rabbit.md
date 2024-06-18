@@ -12,7 +12,7 @@ As already explained in the first post of this series **About DevOpsThoughts**, 
 
 A **User Story** is a description of specific functionality from an end-user perspective. A **Product Backlog Item** is a single unit of work. Here we mapped each user story to a PBI, so a PBI is a user story plus acceptance criteria, priority, and tags.
 
->The post [User stories in Agile world](https://mohamedradwan.com/posts/user-stories-in-agile-world/) focuses on an important unit of the Agile software development process, which is [User Story](https://docs.microsoft.com/en-us/vsts/work/work-items/guidance/agile-process-workflow). The post also describes some basic rules and recommendations you have to follow before adding the descriptions of **PBI**.
+>The post [User stories in Agile world](https://mohamedradwan-devops.github.io/posts/user-stories-in-agile-world/) focuses on an important unit of the Agile software development process, which is [User Story](https://docs.microsoft.com/en-us/vsts/work/work-items/guidance/agile-process-workflow). The post also describes some basic rules and recommendations you have to follow before adding the descriptions of **PBI**.
 {: .prompt-tip }
 
 
@@ -34,7 +34,7 @@ All BWF PBIs are added to the source control in plain text format, so we can qui
 
 ![Detailed PBI](/assets/images/2017/07/Detailed-PBI.png)
 
->Read about basic guidelines that you need to consider when building a **product backlog** in the following post: [Requirements (Epic, Feature, User Story), Task Size and Estimation in Agile and Scrum](https://mohamedradwan.com/posts/requirements-epic-feature-user-story-task-size-and-estimation-in-agile-and-scrum/). Also, read about maintaining and refining the product backlog in [Key tips for Maintaining good product backlog in Agile and Scrum](https://mohamedradwan.com/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/).
+>Read about basic guidelines that you need to consider when building a **product backlog** in the following post: [Requirements (Epic, Feature, User Story), Task Size and Estimation in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/requirements-epic-feature-user-story-task-size-and-estimation-in-agile-and-scrum/). Also, read about maintaining and refining the product backlog in [Key tips for Maintaining good product backlog in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/).
 {: .prompt-info }
 
 # Test Cases

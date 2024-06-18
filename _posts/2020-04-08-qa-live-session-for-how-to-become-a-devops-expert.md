@@ -18,11 +18,11 @@ So, I would suggest following the next plan whether you are very new to DevOps o
 
 ### Here is the plan:
 
-[![DevOps Expert](/assets/images/2020/04/DevOps-Expert.jpg)](https://mohamedradwan.com/2020/04/08/qa-live-session-for-how-to-become-a-devops-expert/devops-expert/)
+[![DevOps Expert](/assets/images/2020/04/DevOps-Expert.jpg)](https://mohamedradwan-devops.github.io/2020/04/08/qa-live-session-for-how-to-become-a-devops-expert/devops-expert/)
 
 ### Watch the following videos. Please respect the order.
 
-[![DevOps Videos](/assets/images/2020/04/DevOps-Videos.png)](https://mohamedradwan.com/2020/04/08/qa-live-session-for-how-to-become-a-devops-expert/devops-videos/)
+[![DevOps Videos](/assets/images/2020/04/DevOps-Videos.png)](https://mohamedradwan-devops.github.io/2020/04/08/qa-live-session-for-how-to-become-a-devops-expert/devops-videos/)
 
 - Knowing how, when, and what for DevOps. E.g., how to measure DevOps and what the big picture looks like. [https://bit.ly/2XbhAWX](https://bit.ly/2XbhAWX)
 - Knowing what CI/CD means no matter what the tools and technologies are. [https://bit.ly/2RhNnlv](https://bit.ly/2RhNnlv)

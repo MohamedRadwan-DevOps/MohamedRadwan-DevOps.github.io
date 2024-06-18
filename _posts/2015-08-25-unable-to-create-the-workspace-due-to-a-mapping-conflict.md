@@ -20,7 +20,7 @@ at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBod
 
 [![Unable to create the workspace due to a mapping conflict](/assets/images/2015/08/unable-to-create-the-workspace-due-to-a-mapping-conflict.png)](/assets/images/2015/08/unable-to-create-the-workspace-due-to-a-mapping-conflict.png)
 
-If you would like to learn more about using the [Build Variables](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch) in [VSTS](https://www.visualstudio.com/team-services/) and Release Management, have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan.com/posts/vsts-build-variables-and-echo/). The post describes how to see the output at any point of time, while automating a process, through setting variables and displaying them during the build.
+If you would like to learn more about using the [Build Variables](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch) in [VSTS](https://www.visualstudio.com/team-services/) and Release Management, have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan-devops.github.io/posts/vsts-build-variables-and-echo/). The post describes how to see the output at any point of time, while automating a process, through setting variables and displaying them during the build.
 {: .prompt-info }
 
 You will need to go to the build machine, search for the old workspace that uses the same build definition name, delete that one so the build can create a new workspace with the same name again. 
