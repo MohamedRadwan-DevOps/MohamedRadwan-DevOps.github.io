@@ -4,7 +4,7 @@ title: "Fast hardware gives Marvel ALM !!!"
 date:   2012-08-09 10:42:03 +0100
 ---
 
-In the [previous post "Being fast, it's not optional for us!!!"](https://mohamedradwan.com/posts/being-fast-its-not-an-option-for-us/ "Get the fastest hardware you have ever had") I talked about one of [TFSEG](https://sites.google.com/site/tfsegyptusergroup/ "TFSEG") principles, which is "**Get the fastest hardware you have ever had**," and how this is very important to our approach. Today in this post I will demonstrate the new machine and its components, and of course, it will help to produce perfect and **Marvel ALM.** These are the final components assembled.
+In the [previous post "Being fast, it's not optional for us!!!"](https://mohamedradwan-devops.github.io/posts/being-fast-its-not-an-option-for-us/ "Get the fastest hardware you have ever had") I talked about one of [TFSEG](https://sites.google.com/site/tfsegyptusergroup/ "TFSEG") principles, which is "**Get the fastest hardware you have ever had**," and how this is very important to our approach. Today in this post I will demonstrate the new machine and its components, and of course, it will help to produce perfect and **Marvel ALM.** These are the final components assembled.
 
 ![Radwan-Server](/assets/images/2012/08/radwan-server-jpg.jpg)
 
@@ -100,4 +100,4 @@ So let's see the specs of each component:
 
 ![DGE-528T 10-100-1000MBPS](/assets/images/2012/08/dge-528t-10-100-1000mbps.jpg)
 
-## [Being fast it's not an option for us !!!](https://mohamedradwan.com/2012/08/09/being-fast-its-not-an-option-for-us/ "Being fast it's not an option in our approach!!!")
+## [Being fast it's not an option for us !!!](https://mohamedradwan-devops.github.io/2012/08/09/being-fast-its-not-an-option-for-us/ "Being fast it's not an option in our approach!!!")

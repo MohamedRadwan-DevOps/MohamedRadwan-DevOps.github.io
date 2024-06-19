@@ -4,7 +4,7 @@ title: "Visual Studio 2012 RC ALM Hands-On-Labs Now in Arabic"
 date:   2012-06-24 10:48:06 +0100
 ---
 
-بعد [ترجمة مختبرات تدريب ALM لفيجوال ستوديو 11 إلى العربية](https://mohamedradwan.com/posts/visual-studio-11-alm-hands-on-labs-in-arabic/ "Visual Studio 11 Labs in Arabic"),
+بعد [ترجمة مختبرات تدريب ALM لفيجوال ستوديو 11 إلى العربية](https://mohamedradwan-devops.github.io/posts/visual-studio-11-alm-hands-on-labs-in-arabic/ "Visual Studio 11 Labs in Arabic"),
 قررت ترجمة مختبرات فيجوال ستوديو 2012 RC الجديدة إلى العربية.
 
 للحصول على النسخة الإنجليزية الأصلية يمكنك زيارة مدونة [Brian Keller](http://blogs.msdn.com/b/briankel/archive/2011/09/16/visual-studio-11-application-lifecycle-management-virtual-machine-and-hands-on-labs-demo-scripts.aspx?ocid=soc-n-eg-elite--MRadwan) من [هنا](http://blogs.msdn.com/b/briankel/archive/2011/09/16/visual-studio-11-application-lifecycle-management-virtual-machine-and-hands-on-labs-demo-scripts.aspx?ocid=soc-n-eg-elite--MRadwan).

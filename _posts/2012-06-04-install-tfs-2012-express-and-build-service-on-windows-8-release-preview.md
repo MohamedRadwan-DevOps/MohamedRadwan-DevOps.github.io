@@ -26,7 +26,7 @@ and Board feature, and of-course no SharePoint. See the video here
 To see the first step video of
 install [Windows 8 Release Preview](http://windows.microsoft.com/en-US/windows-8/release-preview "Windows 8 Release Preview"),
 click here ([Install Windows 8 Release
-Preview](https://mohamedradwan.com/2012/06/04/install-windows-8-release-preview-and-have-a-look-on-touch-screen/ "Install Windows 8 Release Preview"))
+Preview](https://mohamedradwan-devops.github.io/2012/06/04/install-windows-8-release-preview-and-have-a-look-on-touch-screen/ "Install Windows 8 Release Preview"))
 Here also some snapshots of the installation and the examination.
 
 [![](/assets/images/2012/06/install-team-foundation-express-20121.jpg "Install Team Foundation Express 2012")](/assets/images/2012/06/install-team-foundation-express-20121.jpg)

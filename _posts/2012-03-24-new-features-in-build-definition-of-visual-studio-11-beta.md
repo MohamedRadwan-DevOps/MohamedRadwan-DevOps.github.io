@@ -4,7 +4,7 @@ title: "New Features in Build Definition of Visual Studio 11 Beta"
 date:   2012-03-24 00:01:15 +0100
 ---
 
-After I [upgrade my build server 2010 to build service 11 beta](https://mohamedradwan.com/posts/install-or-upgrade-tfs-build-service-11-beta-on-a-separate-build-server/ "Upgrade TFS build service")
+After I [upgrade my build server 2010 to build service 11 beta](https://mohamedradwan-devops.github.io/posts/install-or-upgrade-tfs-build-service-11-beta-on-a-separate-build-server/ "Upgrade TFS build service")
 I just try the build definition and I found new features that give us
 more control over the build process.
 

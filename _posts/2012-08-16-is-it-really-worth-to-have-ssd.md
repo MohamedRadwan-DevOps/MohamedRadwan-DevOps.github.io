@@ -6,7 +6,7 @@ date: 2012-08-16 02:19:57 +0100
 
 ![SSD-Corsair240GT](/assets/images/2012/08/ssd-corsair240gt.jpg){.alignnone .wp-image-2321 width="181" height="219"}
 
-In a previous post, I talked about ["Being fast, it\'s not optional for us!!!"](https://mohamedradwan.com/2012/08/09/being-fast-its-not-an-option-for-us/ "Being fast, it's not optional for us!!!"). Today I will just show the benefit of the SSD, so just see the following video for copying 7 GB between SSDs.
+In a previous post, I talked about ["Being fast, it\'s not optional for us!!!"](https://mohamedradwan-devops.github.io/2012/08/09/being-fast-its-not-an-option-for-us/ "Being fast, it's not optional for us!!!"). Today I will just show the benefit of the SSD, so just see the following video for copying 7 GB between SSDs.
 
 {% include embed/youtube.html id='F_RZNoR59zI' %}
 

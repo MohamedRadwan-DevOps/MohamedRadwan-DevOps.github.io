@@ -10,7 +10,7 @@ date:   2012-03-08 21:48:29 +0100
 [How to add new tabs like storyboard and other fixes](http://blogs.msdn.com/b/visualstudioalm/archive/2012/03/06/get-your-agile-project-fixed-after-an-upgrade-from-tfs2010-to-tfs11-beta.aspx?ocid=soc-n-eg-elite--MRadwan "Hofman, how to fix?")
 [Upgrade project from Buck Hodges](http://blogs.msdn.com/b/buckh/archive/2012/03/05/updating-a-team-project-to-use-new-features-after-upgrading-to-tfs-11-beta.aspx?ocid=soc-n-eg-elite--MRadwan "Buck Hodges") 
 
-When I completed upgrading my environment to [TFS 11 Beta](https://mohamedradwan.com/category/visual-studio-11-beta/ "Visual Studio 11 Beta"), ([Upgrade to TFS 11 Beta](https://mohamedradwan.com/posts/upgrade-tfs-2010-to-tfs-11-beta-step-by-step-and-its-prerequisites/ "Upgrade to TFS 11 Beta")), I found the following error in the Web Access:
+When I completed upgrading my environment to [TFS 11 Beta](https://mohamedradwan-devops.github.io/category/visual-studio-11-beta/ "Visual Studio 11 Beta"), ([Upgrade to TFS 11 Beta](https://mohamedradwan-devops.github.io/posts/upgrade-tfs-2010-to-tfs-11-beta-step-by-step-and-its-prerequisites/ "Upgrade to TFS 11 Beta")), I found the following error in the Web Access:
 
 > [TF400508: The current process settings are either missing or not valid. These settings must be defined by a project administrator]
 

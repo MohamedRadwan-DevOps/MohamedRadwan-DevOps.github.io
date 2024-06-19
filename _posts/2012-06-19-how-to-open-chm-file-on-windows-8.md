@@ -17,7 +17,7 @@ my Laptop [(Dell XPS)](http://www.dell.com/content/topics/segtopic.aspx/xps-lapt
 specially with touch screen driver that still a beta with some error of
 course, so the following solution is just a temp for now, by the way if
 you want to have a look on Windows 8 on touch screen, [see the this
-post](https://mohamedradwan.com/posts/install-windows-8-release-preview-and-have-a-look-on-touch-screen/) 
+post](https://mohamedradwan-devops.github.io/posts/install-windows-8-release-preview-and-have-a-look-on-touch-screen/) 
 So finally I search for
 [Ubuntu ](http://www.ubuntu.com/) chm file so I found
 this wonderful application that makes me able to view chm file :-) xCHM

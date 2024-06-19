@@ -4,7 +4,7 @@ title: "Upgrade TFS 11 Beta Failure and Its Solution"
 date:   2012-03-06 08:26:48 +0100
 ---
 
-When I started upgrading [TFS 2010](https://mohamedradwan.com/category/alm/tfs/ "TFS links") to [TFS 11 Beta](https://mohamedradwan.com/category/visual-studio-11-beta/ "TFS 11 Beta") (Visual Studio 11 Beta Team Foundation Server), I encountered the following error:
+When I started upgrading [TFS 2010](https://mohamedradwan-devops.github.io/category/alm/tfs/ "TFS links") to [TFS 11 Beta](https://mohamedradwan-devops.github.io/category/visual-studio-11-beta/ "TFS 11 Beta") (Visual Studio 11 Beta Team Foundation Server), I encountered the following error:
 
 > Package (tfs_objectmodel_x64) caching failed with the following status 0x80070001.  
 > Package caching failed. Check individual package cache errors for more information.  

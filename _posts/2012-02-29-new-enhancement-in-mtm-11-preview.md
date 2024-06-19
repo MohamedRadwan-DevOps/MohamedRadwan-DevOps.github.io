@@ -4,7 +4,7 @@ title: "New enhancement in MTM 11 Preview"
 date:   2012-02-29 12:04:07 +0100
 ---
 
-There are very good enhancements in [MTM (Microsoft Test Manager) 11 Preview](https://mohamedradwan.com/category/tfs-11-beta/ "TFS 11 Beta"), I will describe 3 of them:
+There are very good enhancements in [MTM (Microsoft Test Manager) 11 Preview](https://mohamedradwan-devops.github.io/category/tfs-11-beta/ "TFS 11 Beta"), I will describe 3 of them:
 
 - Change the screenshot annotation tool
 - Audio Recording

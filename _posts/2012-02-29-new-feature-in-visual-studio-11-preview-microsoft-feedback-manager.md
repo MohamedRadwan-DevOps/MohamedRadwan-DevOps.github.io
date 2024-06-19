@@ -5,7 +5,7 @@ date:   2012-02-29 12:41:59 +0100
 ---
 
 Now, there is a very powerful tool called Microsoft Feedback Manager
-released with [MTM 11 Preview](https://mohamedradwan.com/category/tfs-11-beta/ "TFS 11 Beta"),
+released with [MTM 11 Preview](https://mohamedradwan-devops.github.io/category/tfs-11-beta/ "TFS 11 Beta"),
 this feature enable customer or product owner or what ever
 anyone interested to give feedback on the product or on the implemented
 user stories This feature like the MTM, it will record the session that

@@ -4,7 +4,7 @@ title: "Visual Studio 2012 Wallpapers and Windows Theme v 3.0 with PSD"
 date:   2012-06-23 18:12:41 +0100
 ---
 
-This post just updates the old [Visual Studio 11 beta wallpaper and themes](https://mohamedradwan.com/posts/visual-studio-11-beta-wallpapers-and-windows-theme-v-2-0/ "Visual Studio 11 Beta Wallpaper and Theme")
+This post just updates the old [Visual Studio 11 beta wallpaper and themes](https://mohamedradwan-devops.github.io/posts/visual-studio-11-beta-wallpapers-and-windows-theme-v-2-0/ "Visual Studio 11 Beta Wallpaper and Theme")
 with the new logo of [Visual Studio 2012 RC](http://www.microsoft.com/visualstudio/11/en-us/downloads).
 It also has some enhancements in the logo design. This time, I also
 include the PSD files, so anyone can edit and create their own. I hope you

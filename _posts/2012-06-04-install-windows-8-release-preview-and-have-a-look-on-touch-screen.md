@@ -13,7 +13,7 @@ my beautiful [Dell](http://www.dell.com/ "Dell") Laptop
 [XPS Laptop](http://www.dell.com/content/topics/segtopic.aspx/xps-laptops?c=us&l=en&cs=19 "XPS Dell Laptops").
 For the installation key, see the following post: [Windows 8 Release
 Preview
-Key](https://mohamedradwan.com/2012/06/04/windows-8-release-preview-key/ "Windows 8 Preview Key").
+Key](https://mohamedradwan-devops.github.io/2012/06/04/windows-8-release-preview-key/ "Windows 8 Preview Key").
 See the following video:
 
 {% include embed/youtube.html id='rJRFIp4tYM8' %}

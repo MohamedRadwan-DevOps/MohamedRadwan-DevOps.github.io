@@ -12,7 +12,7 @@ date:   2012-03-07 16:54:55 +0100
 >Upgrading from TFS 11 Developer Preview to TFS 11 Beta is not supported.
 {: .prompt-info}
 
-When I tried to upgrade my existing environment of TFS 2010 to TFS 11 Beta, first I saw the video for [NORTHWEST CADENCE](http://blog.nwcadence.com/upgrading-to-team-foundation-server-11-tfs-11-beta/ "NORTHWEST CADENCE") by Steven Borg. Thanks, Steven! However, when I tried to upgrade my environment, I faced the first issue which is described [here](https://mohamedradwan.com/posts/upgrade-tfs-11-beta-failure-and-its-solution/ "TFS 11 Upgrade issue"). Then, I had another configuration failure because I had to update SQL Server 2008 R2 SP1 to its Cumulative Update 1. The error was as follows:
+When I tried to upgrade my existing environment of TFS 2010 to TFS 11 Beta, first I saw the video for [NORTHWEST CADENCE](http://blog.nwcadence.com/upgrading-to-team-foundation-server-11-tfs-11-beta/ "NORTHWEST CADENCE") by Steven Borg. Thanks, Steven! However, when I tried to upgrade my environment, I faced the first issue which is described [here](https://mohamedradwan-devops.github.io/posts/upgrade-tfs-11-beta-failure-and-its-solution/ "TFS 11 Upgrade issue"). Then, I had another configuration failure because I had to update SQL Server 2008 R2 SP1 to its Cumulative Update 1. The error was as follows:
 
 > [The SQL instance used does not meet the minimum requirements for TFS. You must update SQL Server 2008 R2 to the latest Service Pack and Cumulative Update. Minimum requirements are SP1, Cumulative Update 1]
 
@@ -46,4 +46,4 @@ Let's see the upgrade process step by step:
 
 ![3-7-2012 6-40-31 PM](/assets/images/2012/03/3-7-2012-6-40-31-PM.png)
 
-[And now OceanSoft upgraded to TFS 11 Core component](https://mohamedradwan.com/posts/now-oceansoft-upgraded-to-tfs-11-beta-with-go-live-support/ "OceanSoft upgrade to TFS 11 Beta")
+[And now OceanSoft upgraded to TFS 11 Core component](https://mohamedradwan-devops.github.io/posts/now-oceansoft-upgraded-to-tfs-11-beta-with-go-live-support/ "OceanSoft upgrade to TFS 11 Beta")

@@ -5,13 +5,13 @@ date:   2012-03-17 01:24:59 +0100
 ---
 
 After 18 days of release [Visual Studio11 Beta (VS 11
-Beta)](https://mohamedradwan.com/category/visual-studio-11-beta/ "VS 11 Beta cat")
+Beta)](https://mohamedradwan-devops.github.io/category/visual-studio-11-beta/ "VS 11 Beta cat")
 and Windows 8 Consumer Preview, I just want to collect and share in one
 place all  the useful links that I have met throughout my reading
 and investigation, I will mention also some of my articles
 like, [Upgrade From TFS 2010 to TFS 11
 Beta](mohamedradwan.com/2012/03/07/upgrade-tfs-2010-to-tfs-11-beta-step-by-step-and-its-prerequisites/ "Upgrade to TFS 11 Beta"),
-[Upgrade Build Server to TFS 11 Beta](https://mohamedradwan.com/postsinstall-or-upgrade-tfs-build-service-11-beta-on-a-separate-build-server/ "Upgrade TFS Build Server to TFS 11 Beta") and  [Fix Existing project after upgrade to TFS 11 Beta](How%20to%20fix%20existing%20project%20in%20old%20TFS%20after%20upgrade%20to%20TFS%2011%20beta "Fix Existing Project after Upgrade to TFS 11 Beta")
+[Upgrade Build Server to TFS 11 Beta](https://mohamedradwan-devops.github.io/postsinstall-or-upgrade-tfs-build-service-11-beta-on-a-separate-build-server/ "Upgrade TFS Build Server to TFS 11 Beta") and  [Fix Existing project after upgrade to TFS 11 Beta](How%20to%20fix%20existing%20project%20in%20old%20TFS%20after%20upgrade%20to%20TFS%2011%20beta "Fix Existing Project after Upgrade to TFS 11 Beta")
 [Windows Server \"8\" Beta](http://technet.microsoft.com/en-us/evalcenter/hh670538.aspx?ocid=&wt.mc_id=TEC_108_1_33 "Windows Server "8" Beta")
 
 [Windows 8 Consumer Preview](http://windows.microsoft.com/en-US/windows-8/download "Windows 8 Consumer Preview")

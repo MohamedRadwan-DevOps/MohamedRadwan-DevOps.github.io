@@ -11,11 +11,11 @@ date:   2016-08-15 22:07:09 +0100
 
 ![0-Visual Studio Code](/assets/images/2016/08/0-Visual-Studio-Code.jpg "0-Visual Studio Code")
 
->You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan.com/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan.com/postspublished-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing "the big picture," while still maintaining a high level of detail.
+>You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan-devops.github.io/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan-devops.github.io/postspublished-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing "the big picture," while still maintaining a high level of detail.
 {: .prompt-tip }
 
 
->If you want to know more about maintaining the backlog in a proper way, you can visit the following post: [Key Tips For Maintaining Good Product Backlog in Agile and Scrum](https://mohamedradwan.com/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/). The post describes a way to efficiently organize the [backlog](https://docs.microsoft.com/en-us/vsts/work/backlogs/create-your-backlog) items allowing you to understand the requirements better, and providing you with a higher level of detail of what is actually expected from the work or delivery perspective.
+>If you want to know more about maintaining the backlog in a proper way, you can visit the following post: [Key Tips For Maintaining Good Product Backlog in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/). The post describes a way to efficiently organize the [backlog](https://docs.microsoft.com/en-us/vsts/work/backlogs/create-your-backlog) items allowing you to understand the requirements better, and providing you with a higher level of detail of what is actually expected from the work or delivery perspective.
 {: .prompt-info }
 
 
@@ -30,10 +30,10 @@ The main user interface of **Visual Studio Code** is divided into five sections:
 
 ![1-user interface of Visual Studio Code](/assets/images/2016/08/1.jpg "1-user interface of Visual Studio Code")
 
->The post [User stories in Agile world](https://mohamedradwan.com/posts/user-stories-in-agile-world/) focuses on an important unit of Agile software development process 
+>The post [User stories in Agile world](https://mohamedradwan-devops.github.io/posts/user-stories-in-agile-world/) focuses on an important unit of Agile software development process 
 {: .prompt-tip }
 
-The post [User stories in Agile world](https://mohamedradwan.com/posts/user-stories-in-agile-world/) focuses on an important unit of Agile software development process, which is [User Story](https://docs.microsoft.com/en-us/vsts/work/work-items/guidance/agile-process-workflow). The post also describes some basic rules and recommendations you have to follow before adding the descriptions of **PBI**.
+The post [User stories in Agile world](https://mohamedradwan-devops.github.io/posts/user-stories-in-agile-world/) focuses on an important unit of Agile software development process, which is [User Story](https://docs.microsoft.com/en-us/vsts/work/work-items/guidance/agile-process-workflow). The post also describes some basic rules and recommendations you have to follow before adding the descriptions of **PBI**.
 {: .prompt-tip }
 
 
@@ -57,7 +57,7 @@ The **view bar** on the left-hand side works in conjunction with the side bar. A
 {: .prompt-tip }
 {% include embed/youtube.html id='C0ecnvmdAuQ' %}
 
->In some of the previous posts you can find high-level descriptions of [Agile](https://mohamedradwan.com/posts/quick-intro-to-agile/) principles and the usage of some [Agile tools](https://mohamedradwan.com/posts/tfs-2015-agile-project-management/) and [Agile methodology](http://agilemanifesto.org/).
+>In some of the previous posts you can find high-level descriptions of [Agile](https://mohamedradwan-devops.github.io/posts/quick-intro-to-agile/) principles and the usage of some [Agile tools](https://mohamedradwan-devops.github.io/posts/tfs-2015-agile-project-management/) and [Agile methodology](http://agilemanifesto.org/).
 {: .prompt-info }
 
 ### Conclusion

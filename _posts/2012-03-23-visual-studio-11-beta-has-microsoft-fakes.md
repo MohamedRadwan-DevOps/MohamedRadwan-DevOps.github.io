@@ -7,7 +7,7 @@ date:   2012-03-23 18:59:33 +0100
 From long time ago I write about how we can use
 [Mole](http://research.microsoft.com/en-us/projects/moles/ "Microsoft Moles")
 in layer isolation, for more info see the post
-[here](https://mohamedradwan.com/2011/07/21/how-to-isolate-layers-and-other-library-using-moles-in-unit-testing/ "Using Moles").
+[here](https://mohamedradwan-devops.github.io/2011/07/21/how-to-isolate-layers-and-other-library-using-moles-in-unit-testing/ "Using Moles").
 But with release of Visual Studio 11 Beta, it came with Microsoft Fakes,
 which I think it based on Moles, the main benfit of  Microsoft Fakes or
 Moles the ability to mock or stub the sealed classes (no public

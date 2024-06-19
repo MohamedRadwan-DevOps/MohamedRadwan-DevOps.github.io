@@ -4,7 +4,7 @@ title: "Speaking at Microsoft on Monday, September 10, 2012"
 date: 2012-09-06 19:42:34 +0100
 ---
 
-Updated on October, 16th, 2012 [Some pictures from the event](https://mohamedradwan.com/events/ "Bizspark event pictures")  
+Updated on October, 16th, 2012 [Some pictures from the event](https://mohamedradwan-devops.github.io/events/ "Bizspark event pictures")  
 I'm speaking at Microsoft about what's new in Visual Studio 2012 and Team Foundation Server 2012. If the registration is full, you can join online. Waiting for you :-)
 
 ![microsoft](/assets/images/2012/09/microsoft.gif)

@@ -23,5 +23,5 @@ or inquiry please don\'t hesitate to contact me, I may create
 a details video later based on the community demand and questions.
 Waiting for your feedback and questions For the prize of the video just
 see this
-[post](https://mohamedradwan.com/posts/visual-studio-11-beta-wallpapers-and-windows-theme-v-2-0/)
+[post](https://mohamedradwan-devops.github.io/posts/visual-studio-11-beta-wallpapers-and-windows-theme-v-2-0/)
 

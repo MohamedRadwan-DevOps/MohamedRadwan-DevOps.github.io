@@ -6,7 +6,7 @@ date:   2012-02-25 16:35:58 +0100
 
 Microsoft announce that Feb 29th 2012 will be the release for Visual
 Studio and [TFS 11
-beta](https://mohamedradwan.com/category/tfs-11-beta/ "TFS 11 Beta"), they publish a comparison of the different between Visual Studio 11 beta editions. We will find very excited features like \"Windows 8 Metro
+beta](https://mohamedradwan-devops.github.io/category/tfs-11-beta/ "TFS 11 Beta"), they publish a comparison of the different between Visual Studio 11 beta editions. We will find very excited features like \"Windows 8 Metro
 Style Simulator\" and \"Windows Phone 7 Emulator\" that will
 be available for all edition (Ultimate, Premium, Professional) , there
 are many other new feature that seems amazing, we really waiting this

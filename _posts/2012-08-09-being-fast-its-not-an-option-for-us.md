@@ -4,7 +4,7 @@ title: "Being fast, it's not optional for us!!!"
 date:   2012-08-09 10:40:28 +0100
 ---
 
-In a previous post I introduced our [TFSEG (TFS Egypt User Group) Principles](https://mohamedradwan.com/posts/getting-religion-with-tfs-for-agile-software-development/ " TFSEG Values and Principles"),
+In a previous post I introduced our [TFSEG (TFS Egypt User Group) Principles](https://mohamedradwan-devops.github.io/posts/getting-religion-with-tfs-for-agile-software-development/ " TFSEG Values and Principles"),
 I mention how these Principles are interconnected with each other and
 how they are considered as one unit and breaking one could break all of
 them. Today I will talk about the following Principle: \"[**Get the
@@ -60,9 +60,9 @@ problem.**  So This is the new machine I got it now !!!!,
 for details specs, see the following post : [Fast hardware gives Marvel
 ALM
 
-!!!](https://mohamedradwan.com/posts/fast-hardware-gives-marvel-alm/)
+!!!](https://mohamedradwan-devops.github.io/posts/fast-hardware-gives-marvel-alm/)
 
-[![](/assets/images/2012/08/items-3.jpg "Items-3")](https://mohamedradwan.com/2012/08/09/fast-hardware-gives-marvel-alm/)
+[![](/assets/images/2012/08/items-3.jpg "Items-3")](https://mohamedradwan-devops.github.io/2012/08/09/fast-hardware-gives-marvel-alm/)
 
-[![](/assets/images/2012/08/radwan-server-jpg.jpg "Radwan-Server-jpg")](https://mohamedradwan.com/2012/08/09/fast-hardware-gives-marvel-alm/)
+[![](/assets/images/2012/08/radwan-server-jpg.jpg "Radwan-Server-jpg")](https://mohamedradwan-devops.github.io/2012/08/09/fast-hardware-gives-marvel-alm/)
 

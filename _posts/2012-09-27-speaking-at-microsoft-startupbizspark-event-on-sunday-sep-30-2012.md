@@ -4,9 +4,9 @@ title: "Speaking at Microsoft Startup/Bizspark event on Sunday, Sep 30, 2012"
 date: 2012-09-27 08:37:07 +0100
 ---
 
-[Updated on October, 16th, 2012](https://mohamedradwan.com/events/ "Bizspark event pictures") 
+[Updated on October, 16th, 2012](https://mohamedradwan-devops.github.io/events/ "Bizspark event pictures") 
 
-[Some pictures from the event](https://mohamedradwan.com/events/ "Bizspark event pictures")
+[Some pictures from the event](https://mohamedradwan-devops.github.io/events/ "Bizspark event pictures")
 
 [![bizspark_startup](/assets/images/2012/09/bizspark_startup.jpg)](/assets/images/2012/09/bizspark_startup.jpg)
 

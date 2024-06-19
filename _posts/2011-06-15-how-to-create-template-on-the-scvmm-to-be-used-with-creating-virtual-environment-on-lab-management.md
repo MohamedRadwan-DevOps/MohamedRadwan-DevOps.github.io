@@ -22,4 +22,4 @@ After I create the environment, I make the following, just for reminding:
 
 - Configure Test Agent for client machine as an interactive process with **TFSLAB** account.
 - Add **TFSBUILD** account to the Administrators local group account for any virtual machine that will have build.
-- Configure Build Agent using **TFSBUILD** account ([no longer needed, see this post] [click here](https://mohamedradwan.com/2011/06/17/complete-the-virtual-machine-after-you-create-your-environment/ "After create your environment")).
+- Configure Build Agent using **TFSBUILD** account ([no longer needed, see this post] [click here](https://mohamedradwan-devops.github.io/2011/06/17/complete-the-virtual-machine-after-you-create-your-environment/ "After create your environment")).

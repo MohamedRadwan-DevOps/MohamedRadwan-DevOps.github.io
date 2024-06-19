@@ -5,10 +5,10 @@ date:   2012-03-08 09:59:39 +0100
 ---
 
 OceanSoft now complete [upgrading TFS 2010 to TFS 11
-Beta](https://mohamedradwan.com/posts/upgrade-tfs-2010-to-tfs-11-beta-step-by-step-and-its-prerequisites/ "Upgrade to TFS 11 Beta").
+Beta](https://mohamedradwan-devops.github.io/posts/upgrade-tfs-2010-to-tfs-11-beta-step-by-step-and-its-prerequisites/ "Upgrade to TFS 11 Beta").
 Why? New features, better performance, many enhancements, easy upgrade,
 Microsoft will not put \"Go Live\" tag on the [Visual Studio Beta
-11](https://mohamedradwan.com/category/visual-studio-11-beta/ "Visual Studio 11 Beta")
+11](https://mohamedradwan-devops.github.io/category/visual-studio-11-beta/ "Visual Studio 11 Beta")
 without give the real support and trust of the product, it will be
 committed to support us, it will support our production project to be
 going into RTM, what is that means? It means that, it will

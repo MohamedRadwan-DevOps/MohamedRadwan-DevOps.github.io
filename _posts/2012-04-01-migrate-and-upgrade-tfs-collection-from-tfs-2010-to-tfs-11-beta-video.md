@@ -4,7 +4,7 @@ title: "Migrate and Upgrade TFS Collection from TFS 2010 to TFS 11 Beta Video"
 date:   2012-04-01 15:12:49 +0100
 ---
 
-When I downloaded the new [VM of TFS 11 Beta](http://blogs.msdn.com/b/briankel/archive/2012/02/29/visual-studio-11-alm-virtual-machine-and-hands-on-labs-demo-scripts-updated-for-beta.aspx?ocid=soc-n-eg-elite--MRadwan "VM of TFS 11 Beta") provided by [Brian Keller](http://blogs.msdn.com/b/briankel/?ocid=soc-n-eg-elite--MRadwan "Brian Keller"), I didn't find Tailspin Toys. I used to work with Tailspin labs and business, so I decided to migrate and upgrade the TFS Collection from TFS 2010 to [TFS 11 Beta](https://mohamedradwan.com/category/tfs-11-beta/ "TFS 11 Beta links"). I also migrated the DB and the Web Application of Tailspin to the TFS 11 Beta VM.
+When I downloaded the new [VM of TFS 11 Beta](http://blogs.msdn.com/b/briankel/archive/2012/02/29/visual-studio-11-alm-virtual-machine-and-hands-on-labs-demo-scripts-updated-for-beta.aspx?ocid=soc-n-eg-elite--MRadwan "VM of TFS 11 Beta") provided by [Brian Keller](http://blogs.msdn.com/b/briankel/?ocid=soc-n-eg-elite--MRadwan "Brian Keller"), I didn't find Tailspin Toys. I used to work with Tailspin labs and business, so I decided to migrate and upgrade the TFS Collection from TFS 2010 to [TFS 11 Beta](https://mohamedradwan-devops.github.io/category/tfs-11-beta/ "TFS 11 Beta links"). I also migrated the DB and the Web Application of Tailspin to the TFS 11 Beta VM.
 
 {% include embed/youtube.html id='s-uZEV8wgHU' %}
 

@@ -6,11 +6,11 @@ date:   2012-08-02 07:38:05 +0100
 
 In this series, I will start introducing what's new in Visual Studio 11 and Team Foundation Server 11 (TFS 11) or as we expect to be [Visual Studio 2012](http://www.microsoft.com/visualstudio/11/en-us "Visual Studio 2012") and [Team Foundation Server 2012](http://msdn.microsoft.com/en-us/library/fda2bad5%28v=vs.110%29 "Application Lifecycle Management with Visual Studio and Team Foundation Server") (TFS 2012).
 
-1.  [Introduction](https://mohamedradwan.com/posts/whats-new-in-tfs-11-introduction/ "Introduction")
-2.  [Project Management Tool](https://mohamedradwan.com/posts/whats-new-in-tfs-2012-management-tool/ "TFS Management Tool")
-3.  [SSDT (SQL Server Developer Tool)](https://mohamedradwan.com/posts/whats-new-in-tfs-2012-ssdt-sql-server-developer-tool/ "SSDT (SQL Server Developer Tool)")
-4.  [Team Explorer](https://mohamedradwan.com/posts/whats-new-in-tfs-2012-team-explorer/ "Team Explorer")
-5.  [My Work](https://mohamedradwan.com/posts/whats-new-in-tfs-2012-my-work/ "My Work")
+1.  [Introduction](https://mohamedradwan-devops.github.io/posts/whats-new-in-tfs-11-introduction/ "Introduction")
+2.  [Project Management Tool](https://mohamedradwan-devops.github.io/posts/whats-new-in-tfs-2012-management-tool/ "TFS Management Tool")
+3.  [SSDT (SQL Server Developer Tool)](https://mohamedradwan-devops.github.io/posts/whats-new-in-tfs-2012-ssdt-sql-server-developer-tool/ "SSDT (SQL Server Developer Tool)")
+4.  [Team Explorer](https://mohamedradwan-devops.github.io/posts/whats-new-in-tfs-2012-team-explorer/ "Team Explorer")
+5.  [My Work](https://mohamedradwan-devops.github.io/posts/whats-new-in-tfs-2012-my-work/ "My Work")
 6.  Code Review
 7.  Suspend and Resume
 8.  Local Workspace
