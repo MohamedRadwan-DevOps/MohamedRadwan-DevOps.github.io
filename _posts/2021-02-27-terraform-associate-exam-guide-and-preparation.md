@@ -15,7 +15,7 @@ Understanding Infrastructure as Code (IaC) concepts. Understanding Terraform\'s 
 
 ## GitHub repo for the course
 
-The following repo, I created on GitHub so you can just use it for this exam preparation activity, please click watch then click star to keep connected. If you have any questions or issues regarding the exam objectives or topics, please visit this repo ([click here](https://github.com/MohamedRadwan-DevOps/terraform-associate-exam-prep){target="_blank" rel="noopener noreferrer"}) and click issues then search for your question, if you couldn\'t find a similar one, please raise a new one.
+The following repo, I created on GitHub so you can just use it for this exam preparation activity, please click watch then click star to keep connected. If you have any questions or issues regarding the exam objectives or topics, please visit this repo ([click here](https://github.com/MohamedRadwan-DevOps/terraform-associate-exam-prep)) and click issues then search for your question, if you couldn\'t find a similar one, please raise a new one.
 <https://github.com/MohamedRadwan-DevOps/terraform-associate-exam-prep>
 Also, make sure to review and follow the rules for asking questions or raising an issue because the issue must have a minimum quality of information.
 

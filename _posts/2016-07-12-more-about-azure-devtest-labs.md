@@ -94,7 +94,7 @@ In the lab, you have user roles. **User roles** are assigned to team members who
 
 ### VSO & TFS Integration 
 
-From [Visual Studio Build](https://msdn.microsoft.com/en-us/library/cyz1h6zd.aspx)and [VS Release Management](https://www.visualstudio.com/en-us/features/release-management-vs.aspx){target="_blank" rel="noopener noreferrer"}, Azure DevTest Lab can be integrated with VS Build and VS Release Management. Directly from VS Build and VS Release Management, you can use the command lines and actions on [VSO](https://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)and [TFS](https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx)to invoke environment building in the lab with templates while still applying all of the **policies**.
+From [Visual Studio Build](https://msdn.microsoft.com/en-us/library/cyz1h6zd.aspx)and [VS Release Management](https://www.visualstudio.com/en-us/features/release-management-vs.aspx), Azure DevTest Lab can be integrated with VS Build and VS Release Management. Directly from VS Build and VS Release Management, you can use the command lines and actions on [VSO](https://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)and [TFS](https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx)to invoke environment building in the lab with templates while still applying all of the **policies**.
 
 ### Conclusion 
 

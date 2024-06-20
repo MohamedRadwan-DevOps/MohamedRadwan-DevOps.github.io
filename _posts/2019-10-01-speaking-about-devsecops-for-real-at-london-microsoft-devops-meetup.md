@@ -10,6 +10,6 @@ Are you around London on 28 October 2019? If yes, come and join me at Microsoft 
 
 [London Microsoft DevOps Meetup](https://www.meetup.com/London-Microsoft-DevOps/events/264931664/)
 
->For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see [Kubernetes cluster for beginner](https://mohamedradwan.com/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)
+>For more information about how to work with Kubernetes cluster and deploy it to **Azure Kubernetes Service (AKS)** and work with **Azure Container Registry**, see [Kubernetes cluster for beginner](https://mohamedradwan-devops.github.io/posts/getting-started-with-kubernetes-cluster-ci-cd-for-azure-kubernetes-service/)
 {: .prompt-tip }
 {% include embed/youtube.html id='4DUhc0MjdUc' %}

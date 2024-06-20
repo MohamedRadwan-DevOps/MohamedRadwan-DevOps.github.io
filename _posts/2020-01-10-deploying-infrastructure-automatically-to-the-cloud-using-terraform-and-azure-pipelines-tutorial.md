@@ -10,7 +10,7 @@ The following video has all the steps on how to do this tutorial:
 
 ## Intro
 
-In this post, you are going to see a complete tutorial on how to use [Terraform](https://www.terraform.io/){target="_blank" rel="noopener noreferrer"} for automating infrastructure as code to the cloud and using [Azure pipeline](https://azure.microsoft.com/en-gb/services/devops/pipelines/)We will see and learn different DevOps and infrastructure components and configurations.
+In this post, you are going to see a complete tutorial on how to use [Terraform](https://www.terraform.io/) for automating infrastructure as code to the cloud and using [Azure pipeline](https://azure.microsoft.com/en-gb/services/devops/pipelines/)We will see and learn different DevOps and infrastructure components and configurations.
 
 ## Run and execute Continuous Integration (CI) pipeline
 

@@ -33,7 +33,7 @@ in the following post: [DevOps: The Three Stage Conversation - People, Process, 
 
 ## Types of Automated testing
 
-As already explained in post [**Introduction to software testing**](https://mohamedradwan-devops.github.io/posts/introduction-to-software-testing/){target="_blank" rel="noopener noreferrer"} the **Automated test** will run by a computer, but they will be created by the tester, which can create the test in the way that it will run every time when code or part of it will be changed. There are several particular **types of software tests**, which can be Automated. 
+As already explained in post [**Introduction to software testing**](https://mohamedradwan-devops.github.io/posts/introduction-to-software-testing/) the **Automated test** will run by a computer, but they will be created by the tester, which can create the test in the way that it will run every time when code or part of it will be changed. There are several particular **types of software tests**, which can be Automated. 
 
 ![1-Automated testing types](/assets/images/2017/01/Automated-testing-types.jpg "1-Automated testing types")
 

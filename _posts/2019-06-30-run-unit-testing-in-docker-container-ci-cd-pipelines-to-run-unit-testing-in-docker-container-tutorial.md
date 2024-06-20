@@ -53,7 +53,7 @@ I will start this method by creating a dockerfile, which runs the unit tests ins
 
 ## Run unit testing fully automated as part of the CI/CD pipeline in details (Details)
 
-I will push the application to a remote repo on [Azure repo](https://azure.microsoft.com/en-gb/services/devops/repos/){target="_blank" rel="noopener noreferrer"}, then create a dockerfile in Azure Repos for the Azure pipeline. After that, I will configure the build definition to use that dockerfile to run the unit tests as a part of the build automation and see the test results as a part of the build or CI pipeline execution.
+I will push the application to a remote repo on [Azure repo](https://azure.microsoft.com/en-gb/services/devops/repos/), then create a dockerfile in Azure Repos for the Azure pipeline. After that, I will configure the build definition to use that dockerfile to run the unit tests as a part of the build automation and see the test results as a part of the build or CI pipeline execution.
 
 
 For more information about how to work with **Docker** like pulling docker images, running docker images, and working with containers, see **[Docker for beginners](https://mohamedradwan-devops.github.io/posts/docker-for-beginners-step-by-step-tutorial/)**.
