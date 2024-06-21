@@ -10,19 +10,19 @@ Here, we can find a step-by-step tutorial on how to use **DevMagicFake**. **DevM
 
 ### DevMagicFake on CodePlex
 
-[![](/assets/images/2011/09/CodePlex.png)](http://devmagicfake.codeplex.com/)
+[![](/assets/img/2011/09/CodePlex.png)](http://devmagicfake.codeplex.com/)
 
 ### DevMagicFake on NuGet
 
-[![nugetlogo](/assets/images/2011/09/nugetlogo.png)](https://www.nuget.org/packages/DevMagicFake/)
+[![nugetlogo](/assets/img/2011/09/nugetlogo.png)](https://www.nuget.org/packages/DevMagicFake/)
 
 ### Step-by-Step Tutorial
 
 [![](https://secure.wlxrs.com/rtYuWUo790ML5QiFf5siTA/images/icons/Large/Pdf.png "Dev Magic Fake Tutorial")](https://skydrive.live.com/?cid=4bcaa16d27b46600&sc=documents&nl=1&uc=5&id=4BCAA16D27B46600%211907#)
 
 Some snapshots of the tutorial document:
-[![](/assets/images/2012/08/3.jpg "3")](/assets/images/2012/08/3.jpg)
+[![](/assets/img/2012/08/3.jpg "3")](/assets/img/2012/08/3.jpg)
 
-[![](/assets/images/2012/08/2.jpg "2")](/assets/images/2012/08/2.jpg)
+[![](/assets/img/2012/08/2.jpg "2")](/assets/img/2012/08/2.jpg)
 
-[![](/assets/images/2012/08/1.jpg "1")](/assets/images/2012/08/1.jpg)
+[![](/assets/img/2012/08/1.jpg "1")](/assets/img/2012/08/1.jpg)

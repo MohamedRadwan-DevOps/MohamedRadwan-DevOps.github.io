@@ -31,22 +31,22 @@ for licence wise
 
 So let\'s see the steps Open Microsoft Feedback Manager 11 Preview
 
-[![](/assets/images/2012/02/9-15-2011-12-48-45-PM.png)](/assets/images/2012/02/9-15-2011-12-48-45-PM.png)
+[![](/assets/img/2012/02/9-15-2011-12-48-45-PM.png)](/assets/img/2012/02/9-15-2011-12-48-45-PM.png)
 
-[![9-15-2011 12-50-44 PM](/assets/images/2012/02/9-15-2011-12-50-44-PM.png)](/assets/images/2012/02/9-15-2011-12-50-44-PM.png)
+[![9-15-2011 12-50-44 PM](/assets/img/2012/02/9-15-2011-12-50-44-PM.png)](/assets/img/2012/02/9-15-2011-12-50-44-PM.png)
 
 - Record your actions
 
-[![](/assets/images/2012/02/9-15-2011-12-52-18-PM.jpg)](/assets/images/2012/02/9-15-2011-12-52-18-PM.jpg)
+[![](/assets/img/2012/02/9-15-2011-12-52-18-PM.jpg)](/assets/img/2012/02/9-15-2011-12-52-18-PM.jpg)
 
 - Write a comments
 
-[![](/assets/images/2012/02/9-15-2011-12-53-19-PM.jpg)](/assets/images/2012/02/9-15-2011-12-53-19-PM.jpg)
+[![](/assets/img/2012/02/9-15-2011-12-53-19-PM.jpg)](/assets/img/2012/02/9-15-2011-12-53-19-PM.jpg)
 
 - Submit your feedback
-[![](/assets/images/2012/02/9-15-2011-12-54-47-PM.png)](/assets/images/2012/02/9-15-2011-12-54-47-PM.png)
+[![](/assets/img/2012/02/9-15-2011-12-54-47-PM.png)](/assets/img/2012/02/9-15-2011-12-54-47-PM.png)
 
-[![](/assets/images/2012/02/9-15-2011-12-55-48-PM.png)](/assets/images/2012/02/9-15-2011-12-55-48-PM.png)
+[![](/assets/img/2012/02/9-15-2011-12-55-48-PM.png)](/assets/img/2012/02/9-15-2011-12-55-48-PM.png)
 
-[![](/assets/images/2012/02/9-15-2011-12-56-06-PM.png)](/assets/images/2012/02/9-15-2011-12-56-06-PM.png)
+[![](/assets/img/2012/02/9-15-2011-12-56-06-PM.png)](/assets/img/2012/02/9-15-2011-12-56-06-PM.png)
 

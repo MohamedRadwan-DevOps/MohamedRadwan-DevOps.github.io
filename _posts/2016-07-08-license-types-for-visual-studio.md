@@ -9,7 +9,7 @@ date: 2016-07-08 23:01:52 +0100
 
 [**Visual Studio**](https://www.visualstudio.com/) is a very powerful tool and service appropriate for individual developers or even for a team. With **Visual Studio**, you can create any application for PCs or the web, and the best part is that all are powered by the cloud. With a unified development solution, you can create applications for **Windows**, **iOS**, or **Android**. It also helps you to improve team productivity. It enables usage of **Agile** project planning tools, team rooms, charts, and with subscription, you will get some great benefits.
 
-![0-Visual Studio Introduction](/assets/images/2016/07/0-Visual-Studio-Introduction.jpg "0-Visual Studio Introduction")
+![0-Visual Studio Introduction](/assets/img/2016/07/0-Visual-Studio-Introduction.jpg "0-Visual Studio Introduction")
 
 >If your migration process only requires migrating the work items, with no need to migrate links & relations between them, you can consider using the TFS Integration Platform, which is less complicated than the VSTS Sync Migrator. For more information about this tool, visit [TFS 2017 Migration To VSTS with TFS Integration Platform](https://mohamedradwan-devops.github.io/posts/tfs-2017-migration-to-vsts-with-tfs-integration-platform/).
 
@@ -23,7 +23,7 @@ For **Standard Subscription with MSDN**, you will have to commit for a specific 
 
 You will get the same features in an annual **Cloud subscription** except for **Perpetual license terms**. However, for **monthly Cloud subscriptions**, you will be committed only for 1 month but will **not get any Subscriber Benefits**. For **both Cloud subscriptions**, you will need to have also **Azure subscription for billing**.
 
-![1-Visual Studio Professional licenses](/assets/images/2016/07/1-Visual-Studio-Professional-licenses.jpg "1-Visual Studio Professional licenses")
+![1-Visual Studio Professional licenses](/assets/img/2016/07/1-Visual-Studio-Professional-licenses.jpg "1-Visual Studio Professional licenses")
 
 >If you would like to learn more about using different environments during the realization of a software system, have a look at the post [Azure DevTest Labs Updates](https://mohamedradwan-devops.github.io/posts/azure-devtest-labs-updates/). [Azure DevTest Labs](https://azure.microsoft.com/en-us/services/devtest-lab/) is a service provided by Microsoft Azure which provides functionality for managing environments that contain [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/). The post mentioned above describes both the core capabilities of DevTest Labs and the new features of the service (as of February 2018).
 {: .prompt-info }
@@ -40,7 +40,7 @@ If, after adding a new user to [Dynamics 365](https://dynamics.microsoft.com/en-
 
 You will get **Perpetual license terms** and **full subscription benefits**, which besides benefits for Visual Studio Professional Licenses Standard Subscription with MSDN includes also [**Test Manager**](https://marketplace.visualstudio.com/items?itemName=ms.vss-testmanager-web) as an additional **Visual Studio Team Services extension**, \$150 monthly credit for dev/test **Microsoft Azure**, **Office 365 Developer Subscription**, [**eDevTech SmartOffice4TFS and inteGREAT4TFS**](http://www.modernrequirements.com/), **SharePoint**, **Exchange** and all other servers, 45 courses for **Pluralsight** training and some more. **Both Cloud subscriptions** are **Non-perpetual**, but the annual subscription will get you also full subscription benefits as the standard one.
 
-![2-Visual Studio Enterprise licenses](/assets/images/2016/07/2-Visual-Studio-Enterprise-licenses.jpg "2-Visual Studio Enterprise licenses")
+![2-Visual Studio Enterprise licenses](/assets/img/2016/07/2-Visual-Studio-Enterprise-licenses.jpg "2-Visual Studio Enterprise licenses")
 
 >If you would like to learn more about using the [Build Variables](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch) in [VSTS](https://www.visualstudio.com/team-services/) and Release Management, have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan-devops.github.io/2018/03/11/vsts-build-variables-and-echo/). The post describes how to see the output at any point of time while automating a process through setting variables and displaying them during the build.
 {: .prompt-tip }

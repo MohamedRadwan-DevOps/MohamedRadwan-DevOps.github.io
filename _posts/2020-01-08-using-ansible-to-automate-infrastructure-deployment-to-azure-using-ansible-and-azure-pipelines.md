@@ -15,7 +15,7 @@ This post will explain using Ansible to automate infrastructure deployment to Az
 ## Create a Linux machine
 
 So, I will start on my client machine. I have a Windows machine with Git bash installed. So, I can use Git bash as a terminal connection with SSH to the remote Linux machine. The next step is to start logging into my Azure portal and start creating a resource group and start creating a remote Linux machine. I need port 22 to be open so I can communicate with this machine using SSH. Once I complete the creation of the machine, I will log in to the machine from my local machine using SSH and the username and password I used to create the Linux virtual machine.  
-![Ansible-Workflow](/assets/images2020/01/Ansible-Workflow.gif)
+![Ansible-Workflow](/assets/img2020/01/Ansible-Workflow.gif)
 
 ## Install and configure Ansible on the Linux machine
 

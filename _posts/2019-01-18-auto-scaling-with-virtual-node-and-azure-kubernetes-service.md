@@ -16,7 +16,7 @@ Sometimes, all you need to do is just run a container. VMs take up too much mana
 
 Virtual Kubelet is able to connect the Kubernetes APIs to any other kind of service. For Azure, it connects with Azure Container Instances, but there are also providers for IoT Edge and other services from Amazon, Hyper SH, and VMware. With ACI and Virtual Kubelet, AKS has built a preview called Virtual Node. In Image 1, the architecture of Virtual Node in AKS is shown.
 
-![Image 1 - Virtual node architecture in AKS](/assets/images/2019/01/Image-1-Virtual-node-architecture-in-AKS.png)
+![Image 1 - Virtual node architecture in AKS](/assets/img/2019/01/Image-1-Virtual-node-architecture-in-AKS.png)
 _Image 1 - Virtual node architecture in AKS_
 
 You get the management of a Kubernetes cluster, and the masters are already controlled for you because it is a managed control plane. You also get extra burst capacity through ACI and Virtual Node. Now you can have one to X amount of VMs in your cluster and then install Virtual Node in order to scale out (basically infinitely) into ACI. There are no VMs to think about. When you are scaling, you don’t have to scale VMs and then think about the workloads that go on top of them. All you do is scale out Azure Container Instances, and you don’t realize it because the management plane is still Kubernetes.
@@ -28,22 +28,22 @@ You get the management of a Kubernetes cluster, and the masters are already cont
 
 Let us see it in practice. I have already installed a Virtual Node in my cluster and installed an entire application. This application is a simple front-end that simulates a Black Friday event (selling service books, Xboxes). In other words, it is just a simple website. I started a big amount of load with a load tester, which is hitting the front-end a lot to see how our cluster scales with the demand of customer traffic. Now we are going to head over to Application Insights, which has a live metrics stream. Here, we can see the amount of incoming requests, how long the requests are actually taking, and the amount of servers that are coming up to handle the load (Image 2).
 
-![Image 2 - Live metrics stream](/assets/images/2019/01/Image-2-Live-metrics-stream.png)
+![Image 2 - Live metrics stream](/assets/img/2019/01/Image-2-Live-metrics-stream.png)
 _Image 2 - Live metrics stream_
 
 In addition, we are going to use another dashboard, Grafana, which is an open-source dashboarding tool. We can see that the RPS (requests per second) and RPS per pod are going exponentially up. On the other hand, the response time is actually going down because we are getting a bunch of more infrastructure starting up (Image 3).
 
-![Image 3 - Grafana](/assets/images/2019/01/Image-3-Grafana.png)
+![Image 3 - Grafana](/assets/img/2019/01/Image-3-Grafana.png)
 _Image 3 - Grafana_
 
 If we open the Azure Cloud Shell (Image 4), we can see the number of containers that are pending. This is where Kubernetes is stepping in and helping to auto scale out. We are using the horizontal pod autoscaler, which is a well-known feature in Kubernetes that allows you to horizontally scale out your pods.
 
-![Image 4 - Azure Cloud Shell - pending containers](/assets/images/2019/01/Image-4-Azure-Cloud-Shell-pending-containers.png)
+![Image 4 - Azure Cloud Shell - pending containers](/assets/img/2019/01/Image-4-Azure-Cloud-Shell-pending-containers.png)
 _Image 4 - Azure Cloud Shell - pending containers_
 
 If we go back to the Live Metrics stream and refresh the page, we can see all of the container instances that are actually spinning up in the same resource group. We can note that many of them started up within a couple of seconds (Image 5).
 
-![Image 5 - Container instances spinning up in the same resource group](/assets/images/2019/01/Image-5-Container-instances-spinning-up-in-the-same-resource-group.png)
+![Image 5 - Container instances spinning up in the same resource group](/assets/img/2019/01/Image-5-Container-instances-spinning-up-in-the-same-resource-group.png)
 _Image 5 - Container instances spinning up in the same resource group_
 
 For this number of containers, you would probably need 5 to 10 VMs, all starting up one after another. But in our case, we just have 20 or 30 pods started up in tandem.

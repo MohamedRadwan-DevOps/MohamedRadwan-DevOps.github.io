@@ -29,7 +29,7 @@ Get-CrmServer
 
 The information of the current CRM Server will be displayed. 
 
-![Get-CrmServer info](/assets/images/2018/04/Get-CrmServer-info-1024x123.png)
+![Get-CrmServer info](/assets/img/2018/04/Get-CrmServer-info-1024x123.png)
 
 
 By default, this will connect to the current CRM server URL. So it looks at the address in the Deployment manager address for (Deployment Web Service) as shown in the image below (Dynamics 365 Deployment Manager). If you want to pass the CRM address, you need to provide it as a parameter (**-DwsServerUrl**) for that command.
@@ -40,11 +40,11 @@ Get-CrmServer -DwsServerUrl "http://localhost" -Credential "mradwan"
 
 Remember, because I use **-DwsServerUrl**, I have to provide the credential parameter as well. If I put only the username, it will prompt for the password:
 
-![Get-CrmServer-DwsServerUrl-Credential](/assets/images/2018/04/Get-CrmServer-DwsServerUrl-Credential-1024x416.png)
+![Get-CrmServer-DwsServerUrl-Credential](/assets/img/2018/04/Get-CrmServer-DwsServerUrl-Credential-1024x416.png)
 
 Get-CrmServer-DwsServerUrl-Credential
 
-![Get-CrmServer -DwsServerUrl -Credential prompt for password](/assets/images/2018/04/Get-CrmServer-DwsServerUrl-Credential-prompt-for-password-1024x194.png)
+![Get-CrmServer -DwsServerUrl -Credential prompt for password](/assets/img/2018/04/Get-CrmServer-DwsServerUrl-Credential-prompt-for-password-1024x194.png)
 
 Get-CrmServer -DwsServerUrl -Credential prompt for password
 
@@ -69,11 +69,11 @@ credential parameter to send the credential object
 Get-CrmServer -DwsServerUrl "http://localhost" -Credential $cred
 ```
 
-![Get-CrmServer -DwsServerUrl -Credential with credential object](/assets/images/2018/04/Get-CrmServer-DwsServerUrl-Credential-with-credential-object-1024x268.png)
+![Get-CrmServer -DwsServerUrl -Credential with credential object](/assets/img/2018/04/Get-CrmServer-DwsServerUrl-Credential-with-credential-object-1024x268.png)
 
 This is how it looks like when I display what is inside the credential object:
 
-![PowerShell Credential object values](/assets/images/2018/04/PowerShell-Credential-object-values.png)
+![PowerShell Credential object values](/assets/img/2018/04/PowerShell-Credential-object-values.png)
 
 - We can also Disable or Enable CRM Organization
 
@@ -98,17 +98,17 @@ Get-CrmSetting
 It will ask me which settings I want.
 
 
-![Get-CrmSetting](/assets/images/2018/04/Get-CrmSetting.png)
+![Get-CrmSetting](/assets/img/2018/04/Get-CrmSetting.png)
 
 If I pass "WebAddressSettings", it will show me all the addresses in the Deployment Manager address.
 
-![WebAddressSettings](/assets/images/2018/04/WebAddressSettings.png)
+![WebAddressSettings](/assets/img/2018/04/WebAddressSettings.png)
 
 > **Tip**: If you would like to learn more about how to create a new Dynamics 365 CRM environment locally with Windows Server 2016 Standard Edition, then prepare this machine to be ready to upload to the cloud (Azure), upload the machine to Azure, and create an image of that machine. After that, we will start using this image for creating a new virtual machine with Dynamics 365 and reconfigure the machine to fix all the problems caused by changing the hard disk and the machine name, which will cause problems for SSRS (SQL Server Reporting Server). All IIS application pools crashed, the SQL Server name crashed, and of course, Dynamics 365 CRM doesn't work. I will show exactly how to solve all those problems so we can have a new copy of an existing Dynamics CRM machine and make it work fine. Have a look at [**this post**](https://mohamedradwan-devops.github.io/posts/automatically-creating-staging-environment-for-dynamics-365-on-the-cloud/).
 
 Remember, if I don't provide an address to any of those PowerShell commands, it will use the one in the Deployment Manager address for (Deployment Web Service).
 
-![Dynamics 365 Deployment Manager](/assets/images/2018/04/Dynamics-365-Deployment-Manager.png)
+![Dynamics 365 Deployment Manager](/assets/img/2018/04/Dynamics-365-Deployment-Manager.png)
 
 > **More Info**: If, after adding a new user to [Dynamics 365](https://dynamics.microsoft.com/en-gb/), you get the following error: *You do not have permissions to see this view. Contact a system administrator crm*, have a look at [**this post**](https://mohamedradwan-devops.github.io/posts7/fix-you-do-not-have-permissions-to-see-this-view-contact-a-system-administrator-crm/).
 
@@ -145,8 +145,8 @@ Import-CrmOrganization -SqlServerName $SqlServerName -DatabaseName $DatabaseName
 ```
 
 
-![Import CRM Organization from Deployment Manager](/assets/images/2018/04/Import-CRM-Organization-from-Deployment-Manager-1024x465.png)
+![Import CRM Organization from Deployment Manager](/assets/img/2018/04/Import-CRM-Organization-from-Deployment-Manager-1024x465.png)
 
-![Generate a new mapping file when Import CRM Organization from Deployment Manager](/assets/images/2018/04/Generate-a-new-mapping-file-when-Import-CRM-Organization-from-Deployment-Manager-1024x430.png)
+![Generate a new mapping file when Import CRM Organization from Deployment Manager](/assets/img/2018/04/Generate-a-new-mapping-file-when-Import-CRM-Organization-from-Deployment-Manager-1024x430.png)
 
 

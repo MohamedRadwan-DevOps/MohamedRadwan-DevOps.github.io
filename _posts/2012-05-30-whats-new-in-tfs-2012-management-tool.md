@@ -44,7 +44,7 @@ Management tools for TFS 11 (Team Foundation Server )
 
 ### What is team feature?
 
-[![What is team](/assets/images/2012/05/What-is-team.jpg)](/assets/images/2012/05/What-is-team.jpg)
+[![What is team](/assets/img/2012/05/What-is-team.jpg)](/assets/img/2012/05/What-is-team.jpg)
 
 
 The team feature is the third dimension of the [team
@@ -82,7 +82,7 @@ you are working on the default team (Which will be the team project) so
 the team project has at least one team by default and this is what we
 will work on. 
 
-[![Manage Teams](/assets/images/2012/05/Manage-Teams.png)](/assets/images/2012/05/Manage-Teams.png)
+[![Manage Teams](/assets/img/2012/05/Manage-Teams.png)](/assets/img/2012/05/Manage-Teams.png)
 
 [![](https://public.sn2.livefilestore.com/y1poiVWIGXUukUqkzdeCJY4cHvSqN1_6z-mJc8_4KHHVjHCjtdPp6spPSJMHAWhSlkE5o9-DY1dGz234pM34ruTBw/Manage%20Teams.png?psid=1 "TFS Team Settings")](https://public.sn2.livefilestore.com/y1poiVWIGXUukUqkzdeCJY4cHvSqN1_6z-mJc8_4KHHVjHCjtdPp6spPSJMHAWhSlkE5o9-DY1dGz234pM34ruTBw/Manage%20Teams.png?psid=1)
 

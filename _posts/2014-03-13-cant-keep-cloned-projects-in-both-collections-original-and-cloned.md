@@ -34,7 +34,7 @@ started.
 The project exists in the following collections:
 
 
-![TF253021](/assets/images/2014/03/tf253021.jpg?w=660)
+![TF253021](/assets/img/2014/03/tf253021.jpg)
 
 **Note 2:** It\'s Important to know that you must detach the collection
 otherwise it will not appear when you try to attach, you can make the

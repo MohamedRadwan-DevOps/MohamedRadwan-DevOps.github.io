@@ -9,13 +9,13 @@ date: 2016-06-29 16:34:36 +0100
 
 **[Azure DevTest Labs](https://azure.microsoft.com/en-us/services/devtest-lab/)** is a service that helps developers and testers quickly create environments in **Azure** while minimizing waste and controlling cost. In other words, it is also known as a self-service sandbox environment in **Azure** for quick creation of test environments while minimizing waste and controlling costs. Users can test the latest version of applications by provisioning **Windows** and **Linux** environments through reusable templates and **Artifacts**. **Azure DevTest Labs** allows users to easily integrate their deployment pipeline with **DevTest Labs** to provision on-demand environments. Users can scale up their load testing by provisioning multiple test agents and create pre-provisioned situations for training and demos. **Azure DevTest Labs** is a free service. However, you will be charged for other **Azure** resources that are created in the **Lab**. For example, you will be charged for the **[Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/)** that are created in the **DevTest Labs** in accordance with **Virtual Machine** pricing. More about pricing is available on [https://azure.microsoft.com/en-us/pricing/details/virtual-machines/.](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/.). The cost of **Virtual Machines** can be reduced with [Scheduled VM Shutdown with Azure Automation](https://mohamedradwan-devops.github.io/posts/microsoft-azure-scheduled-vm-shutdown-with-azure-automation/). The service is available in all 15 public regions that support the required **Azure** resources used in the **Labs**, including Australia, Brazil, and more regions in the United States, Europe, and Asia. This post will introduce the main advantages of using **Azure DevTest Labs** as a service for developers and testers, how it can help improve your team projects, and how to achieve very high quality without time-consuming tasks.
 
-![1-Azure DevTest Labs](/assets/images/2016/06/1-Azure-DevTest-Labs.jpg "1-Azure DevTest Labs")
+![1-Azure DevTest Labs](/assets/img/2016/06/1-Azure-DevTest-Labs.jpg "1-Azure DevTest Labs")
 
 ### Challenges in process of delivering the project 
 
 Many developers and testers face numerous challenges in the process of delivering projects on time and with high quality. Using **Azure DevTest Labs** helps developers overcome challenges such as: time-consuming settings of environments, delays in delivering environments to developers/testers introduced by the traditional environment-request model, production devotion issues, and the high cost of cloud resource management to optimize resource usage.
 
-![2-Azure DevTest Labs Challenges in process of delivering the project](/assets/images/2016/06/2-Azure-DevTest-Labs-Challenges-in-process-of-delivering-the-project.jpg "2-Azure DevTest Labs Challenges in process of delivering the project")
+![2-Azure DevTest Labs Challenges in process of delivering the project](/assets/img/2016/06/2-Azure-DevTest-Labs-Challenges-in-process-of-delivering-the-project.jpg "2-Azure DevTest Labs Challenges in process of delivering the project")
 
 ### Benefits of Azure DevTest Labs 
 
@@ -29,7 +29,7 @@ Many developers and testers face numerous challenges in the process of deliverin
 
 - **Integration with existing toolchain:** Users can use predefined plug-ins or **Azure's API** to provision test environments directly from their preferred continuous integration (CI) tool, integrated development environment (IDE), or automated release pipeline. The service allows users to use their comprehensive command-line tool. In addition to **API's** and command-line tools, **Azure DevTest Labs Tasks** is available in **Visual Studio Marketplace** to better support your release pipeline in **Visual Studio Team Services**. There are three tasks that you can use to (respectively) create a **Lab VM** to run the tests, save the **VM** with the latest bits as a golden image, and delete the **VM** when it's no longer needed after the testing is done.
 
-![3-Benefits of Azure DevTest Labs](/assets/images/2016/06/3-Benefits-of-Azure-DevTest-Labs.jpg)
+![3-Benefits of Azure DevTest Labs](/assets/img/2016/06/3-Benefits-of-Azure-DevTest-Labs.jpg)
 
 ### Conclusion
 

@@ -12,11 +12,11 @@ variety of programs to help companies who develop and market solutions
 based on Microsoft technologies, provide consulting or technical
 services for Microsoft systems.
 
-[![DreamSpark](/assets/images/2010/05/DreamSpark.jpg)](/assets/images/2010/05/DreamSpark.jpg)
+[![DreamSpark](/assets/img/2010/05/DreamSpark.jpg)](/assets/img/2010/05/DreamSpark.jpg)
 
-[![Microsoft_BizSpark](/assets/images/2010/05/Microsoft_BizSpark.jpg)](/assets/images/2010/05/Microsoft_BizSpark.jpg)
+[![Microsoft_BizSpark](/assets/img/2010/05/Microsoft_BizSpark.jpg)](/assets/img/2010/05/Microsoft_BizSpark.jpg)
 
-[![WebsiteSpark-Banner-2](/assets/images/2010/05/WebsiteSpark-Banner-2.jpg)](/assets/images/2010/05/WebsiteSpark-Banner-2.jpg)
+[![WebsiteSpark-Banner-2](/assets/img/2010/05/WebsiteSpark-Banner-2.jpg)](/assets/img/2010/05/WebsiteSpark-Banner-2.jpg)
 
 And each program has a registration requirement for example for the
 DreamSpark program you will need to get e-mail of

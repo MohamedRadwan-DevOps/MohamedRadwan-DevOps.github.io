@@ -29,7 +29,7 @@ the cost. 1. Click on **Settings** button. 2. On the right side new
 column with all settings data will show up, from the list go to VM
 policies and click on policy **Allowed VM sizes**. 
 
-![1-1 Adding VM sizes policy in DevTest Labs](/assets/images/2016/06/1-1-Adding-VM-sizes-policy-in-DevTest-Labs.jpg "1-1 Adding VM sizes policy in DevTest Labs")
+![1-1 Adding VM sizes policy in DevTest Labs](/assets/img/2016/06/1-1-Adding-VM-sizes-policy-in-DevTest-Labs.jpg "1-1 Adding VM sizes policy in DevTest Labs")
 
 3. First click on **Enable** button, so that all options will be
 available for selection. 4. From the list of all **VM sizes**, choose
@@ -39,7 +39,7 @@ When you will choose the sizes, the chosen ones will be colored in blue
 color. 5. Click on **Save** button to save selection. 6. You will see
 that **Policy** has been saved. 
 
-![1-2 Allowed VM sizes policy in DevTest Labs](/assets/images/2016/06/1-2-Allowed-VM-sizes-policy-in-DevTest-Labs.jpg "1-2 Allowed VM sizes policy in DevTest Labs")
+![1-2 Allowed VM sizes policy in DevTest Labs](/assets/img/2016/06/1-2-Allowed-VM-sizes-policy-in-DevTest-Labs.jpg "1-2 Allowed VM sizes policy in DevTest Labs")
 
 >If you would like to learn more about different tools
 and ways for Team Foundation Server to Visual Studio Team Services
@@ -60,7 +60,7 @@ on **Enable** button, so that the typing window will be available. 3.
 Type the **number of VM\'s allowed per user**. 4. Click on **Save**
 button. 5. You will see that **Policy** has been saved. 
 
-![2-Maximum VM\'s per user in DevTest Labs](/assets/images/2016/06/2-Maximum-VM's-per-user-in-DevTest-Labs.jpg "2-Maximum VM's per user in DevTest Labs")
+![2-Maximum VM\'s per user in DevTest Labs](/assets/img/2016/06/2-Maximum-VM's-per-user-in-DevTest-Labs.jpg "2-Maximum VM's per user in DevTest Labs")
 
 
 >The post [Upgrade to TFS 2018 Has Been Done in
@@ -79,7 +79,7 @@ allowed**. 2. Click on **Enable button**, so that the typing window will
 be available. 3. Type the **number of VM\'s allowed in Lab**. 4. Click
 on **Save** button. 5. You will see that **Policy** has been saved.
 
-![3-Total VM\'s allowed in DevTest Labs](/assets/images/2016/06/3-Total-VM's-allowed-in-DevTest-Labs.jpg "3-Total VM's allowed in DevTest Labs")
+![3-Total VM\'s allowed in DevTest Labs](/assets/img/2016/06/3-Total-VM's-allowed-in-DevTest-Labs.jpg "3-Total VM's allowed in DevTest Labs")
 
 ### Step 4: Auto Shutdown policy 
 
@@ -95,7 +95,7 @@ back to **VM policies tab** and click on **Auto shutdown**. 2. Click on
 Choose the **time** when the **Virtual Machine** should stop. 4. Click
 on **Save** button. 5. You will see that **Policy** has been saved.
 
-![4-Auto Shutdown policy in DevTest Labs](/assets/images/2016/06/4-Auto-Shutdown-policy-in-DevTest-Labs.jpg "4-Auto Shutdown policy in DevTest Labs")
+![4-Auto Shutdown policy in DevTest Labs](/assets/img/2016/06/4-Auto-Shutdown-policy-in-DevTest-Labs.jpg "4-Auto Shutdown policy in DevTest Labs")
 
 ### Conclusion 
 

@@ -15,7 +15,7 @@ In this post, you are going to see a complete tutorial on how to use [Terraform]
 ## Run and execute Continuous Integration (CI) pipeline
 
 So, first, I will open Azure pipeline then start navigating to the continuous integration pipeline and queue a build. This pipeline will run a build for a web application developed in ASP.NET. It will first start by restoring all the NuGet packages, building the application, running unit tests, and then creating the web package.zip file for the web application. After that, the pipeline will store the web package on Azure DevOps artifacts. Also, the pipeline will store the Terraform configuration file .tf on the artifact along with the web package.zip.  
-[![Terraform workflow](/assets/images2020/01/Terraform.gif)](https://mohamedradwan-devops.github.io/posts/deploying-infrastructure-automatically-to-the-cloud-using-terraform-and-azure-pipelines-tutorial/terraform/)
+[![Terraform workflow](/assets/img2020/01/Terraform.gif)](https://mohamedradwan-devops.github.io/posts/deploying-infrastructure-automatically-to-the-cloud-using-terraform-and-azure-pipelines-tutorial/terraform/)
 
 ## Understanding Terraform configuration file and language
 

@@ -4,7 +4,7 @@ title: "What and How about Team Foundation Server Update"
 date: 2013-10-17 22:26:19 +0100
 ---
 
-![TFS Update](/assets/images/2013/10/tfs-update.jpg)
+![TFS Update](/assets/img/2013/10/tfs-update.jpg)
 
 I just want to highlight that Visual Studio and Team Foundation Server (TFS) installation mechanics are different. The Visual Studio update installs on top of whatever is already installed on the computer, so you will find **Visual Studio Update N** media or installation file. Most of Visual Studio updates are cumulative releases that include the new features and fixes that were delivered in previous releases. The TFS update is a full layout that replaces whatever is installed on the computer, so you will always find **TFS with Update N media**. Before you try to apply the TFS update, make sure that you have a full backup of your current databases. **If the TFS update installation fails, you will be unable to restart the update or roll back to the earlier version of TFS without performing a restore procedure**.
 

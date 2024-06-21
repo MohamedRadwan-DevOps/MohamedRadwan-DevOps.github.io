@@ -6,11 +6,11 @@ date: 2013-05-28 15:07:18 +0100
 
 It has been some time since my last blog post here because I was on a business trip, and I just got back. I really missed my blog so much.. :-) Recently, my blog post "[**TF.exe Fast Overview**](https://mohamedradwan-devops.github.io/2013/02/03/tf-exe-fast-overview/)" got featured in the [ALM Mag](http://www.almmag.com/ "ALM Mag") Issue 3 - May 2013.
 
-![ALM-Radwan](/assets/images/2013/05/alm-radwan-1.jpg?w=660)
+![ALM-Radwan](/assets/img/2013/05/alm-radwan-1.jpg)
 
 So what is ALM Mag?
 
-![ALM-Mag](/assets/images/2013/05/alm-mag-1.jpg?w=660)
+![ALM-Mag](/assets/img/2013/05/alm-mag-1.jpg)
 
 ALM Mag features articles from the best and brightest in the industry who share their knowledge, expertise, and experiences. This knowledge comes in the form of whitepapers, study results, blogs, how-to guides, step-by-step articles, and top tips. Our contributors provide reviews of primary tools and third-party integrated or bridging tools as new versions are released. They also review relevant books and community-related events.
 

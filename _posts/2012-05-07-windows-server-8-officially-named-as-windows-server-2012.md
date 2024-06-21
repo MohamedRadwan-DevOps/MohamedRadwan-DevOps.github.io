@@ -11,7 +11,7 @@ have a lot of programs that will release by Microsoft that I think it
 will cover the rest of the current decade, so brace yourself! Windows
 server 2012 start screen, it\'s really awesome!
 
-[![Windows_8_server_start_screen](/assets/images/2017/08/Windows_8_server_start_screen.jpg)](/assets/images/2017/08/Windows_8_server_start_screen.jpg)
+[![Windows_8_server_start_screen](/assets/img/2017/08/Windows_8_server_start_screen.jpg)](/assets/img/2017/08/Windows_8_server_start_screen.jpg)
 
 Fore more information about this news see the following link [Windows Server 8 officially dubbed Windows Server 2012](http://www.zdnet.com/blog/microsoft/windows-server-8-officially-dubbed-windows-server-2012/12475?tag=mantle_skin;content)
 

@@ -49,7 +49,7 @@ a detailed technical overview of a subset of product/technology
 features, covering architecture, performance, migration, deployment, and
 development. 
 
-![1- DevOps Framework](/assets/images/2016/07/1-DevOps-Framework.jpg "1- DevOps Framework")
+![1- DevOps Framework](/assets/img/2016/07/1-DevOps-Framework.jpg "1- DevOps Framework")
 
 >In order to ensure [**Continuous Integration**](https://www.visualstudio.com/team-services/continuous-integration/) 
 we need to use proper **deploying strategy**. Read more about deploying
@@ -102,7 +102,7 @@ development, testing, deployment and support of software releases.
 maintaining consistency of a product\'s performance with its
 requirements, design and operational information throughout its life.
 
-![2- DevOps Practices](/assets/images/2016/07/2-DevOps-Practices.jpg "2- DevOps Practices")
+![2- DevOps Practices](/assets/img/2016/07/2-DevOps-Practices.jpg "2- DevOps Practices")
 
 >You can see this video, if you would like to find more information about how to get started with
 Release Management and its advantages. See how to create a build

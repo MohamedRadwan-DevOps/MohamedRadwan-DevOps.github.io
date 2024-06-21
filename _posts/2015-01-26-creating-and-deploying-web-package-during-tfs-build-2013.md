@@ -23,18 +23,18 @@ available](https://mohamedradwan-devops.github.io/2015/08/07/install-missed-web-
     add++**ConverWorkspaceItem** part of the **If++**sequence, this even
     could be better, you can do that too :-) 
     
-     ![ConvertWorkspaceItem and Create packge with Deploy](/assets/images/2015/01/convertworkspaceitem-and-create-packge-with-deploy.png)
+     ![ConvertWorkspaceItem and Create packge with Deploy](/assets/img/2015/01/convertworkspaceitem-and-create-packge-with-deploy.png)
 
 -   The **ConverWorkspaceItem** will transform the web application
     selected in the build definition to a local path
 
-    ![ConverWorkspaceItem](/assets/images/2015/01/converworkspaceitem.png?w=660)
+    ![ConverWorkspaceItem](/assets/img/2015/01/converworkspaceitem.png)
 
 -   In the **If** activity the main 2 activities are, Create Package
     (**MSBuild** activity) and Deploy Package (**InvokeProcess**
     activity) 
     
-    ![Create and Deploy package workflow](/assets/images/2015/01/create-and-deploy-package-workflow.png?w=660)
+    ![Create and Deploy package workflow](/assets/img/2015/01/create-and-deploy-package-workflow.png)
 
 -   The **Create Package** activity will be as the following:
     -   Configuration \-\--\> the configuration that entered in the
@@ -43,34 +43,34 @@ available](https://mohamedradwan-devops.github.io/2015/08/07/install-missed-web-
     -   Project \-\-\--\> the project that transformed from
         **ConverWorkspaceItem** activity
 
-    ![Create Package - MSBuild](/assets/images/2015/01/create-package-msbuild.png?w=660)
+    ![Create Package - MSBuild](/assets/img/2015/01/create-package-msbuild.png)
 
 -   The Deploy Web Package (InvokeProcess)++activity will be as the
     following image: 
     
-    ![Deploy Web Package InvokeProcess](/assets/images/2015/01/deploy-web-package-invokeprocess.png?w=660)
+    ![Deploy Web Package InvokeProcess](/assets/img/2015/01/deploy-web-package-invokeprocess.png)
 
 -   The created package on the working directory on the build agent will
     be as the following: 
     
-    ![Web Package](/assets/images/2015/01/web-package.png?w=660)
+    ![Web Package](/assets/img/2015/01/web-package.png)
 
 -   The Deployment section on the build definition will be as the
     following:
 
-    ![Dev_Build_Deploy](/assets/images/2015/01/dev_build_deploy.png?w=660)
+    ![Dev_Build_Deploy](/assets/img/2015/01/dev_build_deploy.png)
 
 -   How to test the create deployment file on the build agent 
-    ![Run file.Deploy.cmd](/assets/images/2015/01/run-file-deploy-cmd.png?w=660)
+    ![Run file.Deploy.cmd](/assets/img/2015/01/run-file-deploy-cmd.png)
 
 -   How to publish without a package using a publish profile 
 
-    ![Run MSBuild with publish profile](/assets/images/2015/01/run-msbuild-with-publish-profile.png?w=660)
+    ![Run MSBuild with publish profile](/assets/img/2015/01/run-msbuild-with-publish-profile.png)
 
 -   How to add a parameters value inside the parameter file.xml that
     created with the package 
     
-    ![Create Web package and add one paramter in the file](/assets/images/2015/01/create-web-package-and-add-one-paramter-in-the-file.png?w=660)
+    ![Create Web package and add one paramter in the file](/assets/img/2015/01/create-web-package-and-add-one-paramter-in-the-file.png)
 
 [**Download the process Template**](https://onedrive.live.com/redir?resid=4BCAA16D27B46600!22426&authkey=!AAwD26mHv7T1OrQ&ithint=file%2czip "Download Process Template")
 

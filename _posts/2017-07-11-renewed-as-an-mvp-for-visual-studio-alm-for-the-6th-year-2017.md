@@ -14,5 +14,5 @@ It was a great pleasure to receive Microsoft\'s email announcing, that I\'ve bee
 
 Congrats also to all other MVP\'s that got the reward in July! 
  
-![MVP](/assets/images/2017/07/MVP.jpg)
+![MVP](/assets/img/2017/07/MVP.jpg)
   

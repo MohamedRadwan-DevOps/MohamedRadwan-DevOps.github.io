@@ -4,7 +4,7 @@ title: "Windows 8 RTM available dates"
 date:   2012-08-01 22:46:37 +0100
 ---
 
-![](/assets/images/2012/08/windows-8.jpg "Windows 8")
+![](/assets/img/2012/08/windows-8.jpg "Windows 8")
 
 -   **August 15th:** Developers will be able to download the final
     version of Windows 8 via your [MSDN

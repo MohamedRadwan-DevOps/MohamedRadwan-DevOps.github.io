@@ -19,13 +19,13 @@ Our community interview is all about Standing on the shoulders of giants! This i
 
 So, our giant in this episode is Pierre Roman, who is working as a Senior Cloud Advocate at Microsoft. Pierre Roman has more than 30 years of experience, 15 of them at Microsoft. He is a very specialized IT Pro in Azure and he delivered many amazing sessions and talks all over the globe. A few insights from Pierre's sessions/talks:
 
-![Pierre-Roman](/assets/images/2020/01/Pierre-Roman-2.jpg)
+![Pierre-Roman](/assets/img/2020/01/Pierre-Roman-2.jpg)
 
-![Pierre-Roman](/assets/images/2020/01/Pierre-Roman-1-1.jpg)
+![Pierre-Roman](/assets/img/2020/01/Pierre-Roman-1-1.jpg)
 
-![Pierre-Roman](/assets/images/2020/01/Pierre-Roman-3.jpg)
+![Pierre-Roman](/assets/img/2020/01/Pierre-Roman-3.jpg)
 
-![Pierre-Roman](/assets/images/2020/01/Pierre-Roman-4-2.jpg)
+![Pierre-Roman](/assets/img/2020/01/Pierre-Roman-4-2.jpg)
 
 It was a huge experience for me, it's like I opened 1000s of books and I started extracting the deep experience out of them. This interview is saying a lot but in a little. Here is the interview:
 

@@ -10,7 +10,7 @@ date:   2022-12-25 11:30:09 +0100
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide2-1024x576.png"
+src="/assets/img/2023/03/Slide2-1024x576.png"
 class="wp-image-10696" />
 </figure>
 
@@ -23,7 +23,7 @@ class="wp-image-10696" />
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide4-1024x576.png"
+src="/assets/img/2023/03/Slide4-1024x576.png"
 class="wp-image-10697" />
 </figure>
 
@@ -37,7 +37,7 @@ class="wp-image-10697" />
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide8-1024x576.png"
+src="/assets/img/2023/03/Slide8-1024x576.png"
 class="wp-image-10698" />
 </figure>
 
@@ -53,7 +53,7 @@ the Docker image yet.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide14-1024x576.png"
+src="/assets/img/2023/03/Slide14-1024x576.png"
 class="wp-image-10699" />
 </figure>
 
@@ -63,7 +63,7 @@ class="wp-image-10699" />
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide18-1024x576.png"
+src="/assets/img/2023/03/Slide18-1024x576.png"
 class="wp-image-10700" />
 </figure>
 
@@ -73,7 +73,7 @@ class="wp-image-10700" />
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide20-1024x576.png"
+src="/assets/img/2023/03/Slide20-1024x576.png"
 class="wp-image-10701" />
 </figure>
 
@@ -83,7 +83,7 @@ class="wp-image-10701" />
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide22-1024x576.png"
+src="/assets/img/2023/03/Slide22-1024x576.png"
 class="wp-image-10702" />
 </figure>
 
@@ -91,7 +91,7 @@ class="wp-image-10702" />
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide26-1024x576.png"
+src="/assets/img/2023/03/Slide26-1024x576.png"
 class="wp-image-10703" />
 </figure>
 

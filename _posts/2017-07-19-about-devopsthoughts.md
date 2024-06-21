@@ -35,7 +35,7 @@ cd E-Commerce
 
 Below is the homepage for **DevOpsThoughts Rabbit**. 
 
-![Homepage DevOpsThoughts Rabbit](/assets/images/2017/07/Homepage-DevOpsThoughts-Rabbit.png)
+![Homepage DevOpsThoughts Rabbit](/assets/img/2017/07/Homepage-DevOpsThoughts-Rabbit.png)
 
 **Pages list Grouped by User Role:**
 

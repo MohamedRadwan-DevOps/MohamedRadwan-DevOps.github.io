@@ -22,24 +22,24 @@ queue  my code for build and it has an error.
 
 Open the error and click on view log 
 
-![Build Error Message](/assets/images/2010/06/ViewLogFile.jpg)
+![Build Error Message](/assets/img/2010/06/ViewLogFile.jpg)
 
 See where the pat that locate for the need files
 
-![Log file](/assets/images/2010/06/LogFile.jpg)
+![Log file](/assets/img/2010/06/LogFile.jpg)
 
 Open this target in the MS Build machine, in my case will be as the following
 
-![MS Build Machine path from Log file](/assets/images/2010/06/The-WebApplication-folder.jpg)
+![MS Build Machine path from Log file](/assets/img/2010/06/The-WebApplication-folder.jpg)
 
 Open your Visual Studio 2010 machine Copy the WebApplications and put it in the same target in the MS Build machine as
 the previous image
 
-![File copied to MS Build machine](/assets/images/2010/06/MSBuildTargets-Files.jpg)
+![File copied to MS Build machine](/assets/img/2010/06/MSBuildTargets-Files.jpg)
 
 Queue another Build the error should disappear but an new error displayed, this error was that MVC dll can\'t be found So I open my Visual Studio machine and copy this dll 
 
-![MVC dll](/assets/images/2010/06/MVCDll.jpg)
+![MVC dll](/assets/img/2010/06/MVCDll.jpg)
 
 And put it in the following path, and to help another error I had to put it in the
 GAC also C:Program FilesReference AssembliesMicrosoftFramework.NETFrameworkv4.0 And now the MVC 2 project get in the queue and build  successfully.

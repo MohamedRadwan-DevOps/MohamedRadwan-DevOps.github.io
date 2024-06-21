@@ -11,13 +11,13 @@ This is a very trivial post but just to remember,
 - The service returns True when it successfully starts the processing of the warehouse and False if it is not successful.
 - GetProcessingStatus, and then click Invoke.
 
-![TFS_WebServices]( /assets/images/2011/07/TFS_WebServices.jpg)
+![TFS_WebServices]( /assets/img/2011/07/TFS_WebServices.jpg)
 
-![IIS_TFS_AppTire PM]( /assets/images/2011/07/IIS_TFS_AppTire-PM.jpg)
+![IIS_TFS_AppTire PM]( /assets/img/2011/07/IIS_TFS_AppTire-PM.jpg)
 
-![]( /assets/images/2012/08/warehousecontrolwebservice.jpg "WarehouseControlWebService")
+![]( /assets/img/2012/08/warehousecontrolwebservice.jpg "WarehouseControlWebService")
 
-![]( /assets/images/2012/08/process-successfuly-invoked.jpg "Process successfully invoked")
+![]( /assets/img/2012/08/process-successfuly-invoked.jpg "Process successfully invoked")
 
 Warehouse processing is completed when the GetProcessingStatus service returns a value of Idle for the following jobs:
 
@@ -29,10 +29,10 @@ Warehouse processing is completed when the GetProcessingStatus service returns a
 
 After that, process the Analysis Service using the same steps but for the Analysis Service.
 
-![]( /assets/images/2012/08/warehousecontrolwebservice-analysis-service.jpg "WarehouseControlWebService-Analysis Service")
+![]( /assets/img/2012/08/warehousecontrolwebservice-analysis-service.jpg "WarehouseControlWebService-Analysis Service")
 
-![]( /assets/images/2012/08/invoke-warehousecontrolwebservice-2.jpg "Invoke WarehouseControlWebService 2")
+![]( /assets/img/2012/08/invoke-warehousecontrolwebservice-2.jpg "Invoke WarehouseControlWebService 2")
 
-![]( /assets/images/2012/08/process-successfuly-invoked2.jpg "Process successfully invoked 2")
+![]( /assets/img/2012/08/process-successfuly-invoked2.jpg "Process successfully invoked 2")
 
 For more information see the following link: [click here](http://msdn.microsoft.com/en-us/library/ff400237.aspx#ProcessWarehouse "MSDN")

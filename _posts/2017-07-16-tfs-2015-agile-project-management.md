@@ -35,13 +35,13 @@ describes the improvements over the old TFS 2015.
         reorder the items on the board itself.
 
 
-![add-button TFS](/assets/images/2016/09/Add-Button.jpg "add-button TFS")
+![add-button TFS](/assets/img/2016/09/Add-Button.jpg "add-button TFS")
 
 3. If you made a typo, you
 can change the title without opening the boards by clicking on **Pen
 Icon**. 
 
-![changing-title TFS](/assets/images/2016/09/Changing-title.jpg "changing-title TFS")
+![changing-title TFS](/assets/img/2016/09/Changing-title.jpg "changing-title TFS")
 
 4. In previous versions of
 TFS you could add bugs to the boards but that would affect all teams
@@ -51,7 +51,7 @@ This team is using only the **Kanban board** and as such wants to see
 bugs on their board. Go to **Settings**, go to **bugs section** and
 choose **bugs appear on the backlog**. 
 
-![bugs-on-backlog TFS](/assets/images/2016/09/Bugs-on-backlog.jpg "bugs-on-backlog TFS") 
+![bugs-on-backlog TFS](/assets/img/2016/09/Bugs-on-backlog.jpg "bugs-on-backlog TFS") 
 
 5. The bugs now appear on the
 board. 6. You are probably familiar with the ability to add new columns
@@ -59,7 +59,7 @@ to the boards. This team wants to change their columns to design,
 implementation, code review and acceptance tests which was already
 possible in **TFS 2013**. 
 
-![new-board-configuration-options TFS](/assets/images/2016/09/New-board-configuration-options.jpg "new-board-configuration-options TFS")
+![new-board-configuration-options TFS](/assets/img/2016/09/New-board-configuration-options.jpg "new-board-configuration-options TFS")
 
 7. All active columns are
 visible in the top bar of the **Kanban** board and the new columns are
@@ -79,7 +79,7 @@ configure it properly.
 {% include embed/youtube.html id='vev3Czaa1pA' %}
 
 
-![columns-added-to-board TFS](/assets/images/2016/09/columns-added-to-board.jpg "columns-added-to-board TFS")
+![columns-added-to-board TFS](/assets/img/2016/09/columns-added-to-board.jpg "columns-added-to-board TFS")
 
 8. Using a pool model is
 typical for **Kanban** where team members put items into the next
@@ -87,34 +87,34 @@ column. To support that model **TFS 2015** have introduced **split
 column**. So lets split the code review column. Click on the **gear
 icon** on the top right hand corner. 9. Click on **Columns.**
 
-![split-columns TFS](/assets/images/2016/09/split-columns.jpg "split-columns TFS")
+![split-columns TFS](/assets/img/2016/09/split-columns.jpg "split-columns TFS")
 
 10. Click the **check box**.
 
 11. Click on **OK**.
 
-![split-code-review TFS](/assets/images/2016/09/split-code-review.jpg "split-code-review TFS")
+![split-code-review TFS](/assets/img/2016/09/split-code-review.jpg "split-code-review TFS")
 
 12. You will now see two
 sections: a **doing section** and a **done section**. 
 
-![code-review-splitted TFS 2015](/assets/images/2016/09/Code-review-splitted-1.jpg "code-review-splitted TFS 2015")
+![code-review-splitted TFS 2015](/assets/img/2016/09/Code-review-splitted-1.jpg "code-review-splitted TFS 2015")
 
 13. The board now also
 supports an **expedite swimlane**. This gives the team the ability to
 identify the items that needs to be finished as soon as possible. Click
 on the **gear icon**. 14. Click on **Swimlanes.** 
 
-![swimlanes TFS](/assets/images/2016/09/swimlanes.jpg "swimlanes TFS")
+![swimlanes TFS](/assets/img/2016/09/swimlanes.jpg "swimlanes TFS")
 
 15. Click on **Add Swimlane
 button**. 16. Click on **OK** on the bottom right hand corner.
 
-![expedite-swimlane TFS](/assets/images/2016/09/expedite-swimlane.jpg "expedite-swimlane TFS")
+![expedite-swimlane TFS](/assets/img/2016/09/expedite-swimlane.jpg "expedite-swimlane TFS")
 
 17. The **Expedite swimlane** is now added to the board.
 
-![expedite-swimlane-added-to-board](/assets/images/2016/09/expedite-swimlane-added-to-board.jpg "expedite-swimlane-added-to-board")
+![expedite-swimlane-added-to-board](/assets/img/2016/09/expedite-swimlane-added-to-board.jpg "expedite-swimlane-added-to-board")
 
 [More Info]{.ion-info}In some of the previous posts you can find
 high-level descriptions of
@@ -155,12 +155,12 @@ it to the Azure storage container. See first how to import (dry - run)
 and how to change the configuration afterwards in order to import
 (production).
 
-![Team Epic TFS 2015](/assets/images/2016/09/Team-epics.jpg "Team Epic TFS 2015")
+![Team Epic TFS 2015](/assets/img/2016/09/Team-epics.jpg "Team Epic TFS 2015")
 
 And if you are inside a **feature team** you can do the same drill down from the **features**
 into **stories** into **tasks**.
 
-![Features TFS 2015](/assets/images/2016/09/Features.jpg "Features TFS 2015")
+![Features TFS 2015](/assets/img/2016/09/Features.jpg "Features TFS 2015")
 
 >The post [Upgrade to TFS 2018 Has Been Done in
 Production](https://mohamedradwan-devops.github.io/posts/upgrade-to-tfs-2018-has-been-done-in-production/)

@@ -18,7 +18,7 @@ pin: true
 
 ## Introduction {#_Toc500069570}
 
-![MVP Banner](/assets/images/2020/07/mvp-banner-.jpg)
+![MVP Banner](/assets/img/2020/07/mvp-banner-.jpg)
 
 Based on the feedback requests we received in [Cloud DevOps Visions](http://clouddevopsvisions.com/), we decided to hold a workshop about the Road to Microsoft MVP and the following are the highlights. [Cloud DevOps Visions](http://clouddevopsvisions.com/) is a community that has been co-founded with a main set of objectives. The main objective is delivering sessions, discussion panels, and inviting Microsoft guest speakers. The code of conduct is based on responsibility, coaching, innovation, ethics, goals, teamwork, customers, and trust.
 
@@ -32,7 +32,7 @@ The [Microsoft Most Valuable Professional (MVP) Award](https://mvp.microsoft.com
 
 Currently, there are 2850 MVPs worldwide in all technology areas. All MVPs are distributed over 90 countries. There are 11 categories divided into 95 tech areas. The first country with the biggest number of MVPs (498) is the USA, and the second country is the UK with 186 MVPs.
 
-![MVPs related numbers](/assets/images/2020/07/MVPs-numbers.png)
+![MVPs related numbers](/assets/img/2020/07/MVPs-numbers.png)
 
 ## MVP categories {#_Toc500069573}
 
@@ -54,11 +54,11 @@ There are 11 main MVP categories. Each category is divided into contribution/tec
 
 On the following graph is presented the number of MVPs in each country, starting with the country with most MVPs.
 
-![MVP countries 1](/assets/images/2020/07/MVP-country1.png)
+![MVP countries 1](/assets/img/2020/07/MVP-country1.png)
 
-![MVP countries 2](/assets/images/2020/07/MVP-country2.png)
+![MVP countries 2](/assets/img/2020/07/MVP-country2.png)
 
-![MVP countries 3](/assets/images/2020/07/MVP-country3.png)
+![MVP countries 3](/assets/img/2020/07/MVP-country3.png)
 
 ## Benefits of being an MVP {#_Toc500069575}
 
@@ -98,7 +98,7 @@ There are big differences between Microsoft Certificate and Microsoft MVP Award.
 - Take the certificate exams
 - Pass the certificate exams
 
-![Microsoft Certificate Process](/assets/images/2020/07/Microsoft-Certificate-Process.png)
+![Microsoft Certificate Process](/assets/img/2020/07/Microsoft-Certificate-Process.png)
 
 **Microsoft MVP Award Process:**
 
@@ -113,7 +113,7 @@ There are big differences between Microsoft Certificate and Microsoft MVP Award.
 - Continue sharing your knowledge
 - Wait for the result
 
-![Microsoft MVP award process](/assets/images/2020/07/Microsoft-MVP-award-process.png)
+![Microsoft MVP award process](/assets/img/2020/07/Microsoft-MVP-award-process.png)
 
 The key point to be an MVP is helping others by sharing your valuable knowledge in high quality and unique style to make an impact on the community.
 

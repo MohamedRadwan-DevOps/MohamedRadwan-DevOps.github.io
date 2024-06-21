@@ -22,31 +22,31 @@ We can use BPA or Best Practices Analyzer for different scenarios, for example, 
 
 **Start Best Practices Analyzer (BPA)**
 
-![Run Best Practices Analyzer](/assets/images/2012/12/run-best-practices-analyzer-1.png)
+![Run Best Practices Analyzer](/assets/img/2012/12/run-best-practices-analyzer-1.png)
 
 **Select the check type**
 
-![Rule Checking Performed by the Best Practices Analyzer Tool](/assets/images/2012/12/rule-checking-performed-by-the-best-practices-analyzer-tool.png)
+![Rule Checking Performed by the Best Practices Analyzer Tool](/assets/img/2012/12/rule-checking-performed-by-the-best-practices-analyzer-tool.png)
 
 **Run the scan**
 
-![During Best Practices Analyzer Scan](/assets/images/2012/12/during-best-practices-analyzer-scan.png)
+![During Best Practices Analyzer Scan](/assets/img/2012/12/during-best-practices-analyzer-scan.png)
 
 **The scan completed**
 
-![Scan Completed by Best Practices Analyzer](/assets/images/2012/12/scan-completed-by-best-practices-analyzer.png)
+![Scan Completed by Best Practices Analyzer](/assets/img/2012/12/scan-completed-by-best-practices-analyzer.png)
 
 **Analyze the issues and solve them**
 
-![Critical Issues by Best Practices Analyzer](/assets/images/2012/12/critical-issues-by-best-practices-analyzer-1.png)
+![Critical Issues by Best Practices Analyzer](/assets/img/2012/12/critical-issues-by-best-practices-analyzer-1.png)
 
 **Get information from issues in order to solve them**
 
-![Investigate Issues in Best Practices Analyzer](/assets/images/2012/12/invistegate-issues-in-best-practices-analyzer.png)
+![Investigate Issues in Best Practices Analyzer](/assets/img/2012/12/invistegate-issues-in-best-practices-analyzer.png)
 
 **Get information from info in order to collect the current configuration and status**
 
-![Information in Best Practices Analyzer](/assets/images/2012/12/information-in-best-practices-analyzer.png)
+![Information in Best Practices Analyzer](/assets/img/2012/12/information-in-best-practices-analyzer.png)
 
 - [The list of the Best Practices Analyzer issues and its resolutions](http://msdn.microsoft.com/en-us/library/ee248675(v=vs.100).aspx "The list of the Best Practices Analyzer issues and it's resolutions")
 - [Video - Team Foundation Server Best Practices Analyzer](http://msdn.microsoft.com/en-us/vstudio/cc137713.aspx "Video - Team Foundation Server Best Practices Analyzer")

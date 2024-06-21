@@ -18,46 +18,46 @@ Azure Functions is serverless compute, which is the ability to run custom code o
 
 We are going to see how anyone can get a function up and running in just a few minutes. To accomplish this, I am going to use VS Code and the Azure Functions extension. The Functions extension enables us to create new functions projects, add new functions to the project, and even publish to Azure directly from within VS Code, just with a click of one button (Image 1).
 
-![Image 1 - Azure functions](/assets/images/2019/01/Image-1-Azure-functions.png)
+![Image 1 - Azure functions](/assets/img/2019/01/Image-1-Azure-functions.png)
 _Image 1 - Azure functions_
 
 Now I am going to create our very first function. For the purpose of this demo, I am going to use JavaScript. By choosing a language, we will have initialized functions projects with a couple of files, namely, the local and the hosting configuration. Now, we can go back to the Azure Functions extension and add a new function to this project. In the menu (Image 2), templates are presented that we would like to use to create a function.
 
-![Image 2 - Templates to create a function](/assets/images/2019/01/Image-2-Templates-to-create-a-function.png)
+![Image 2 - Templates to create a function](/assets/img/2019/01/Image-2-Templates-to-create-a-function.png)
 _Image 2 - Templates to create a function_
 
 >If you would like to know more about this new developer service available on the [Azure](https://azure.microsoft.com/en-gb/) platform, you can have a look at the following post; [More about Azure DevTest Labs](https://mohamedradwan-devops.github.io/posts/more-about-azure-devtest-labs/). If you prefer a more concise description of the same feature, - [have a look at Quick Overview of Azure DevTest Labs](https://mohamedradwan-devops.github.io/posts/quick-overview-of-azure-devtest-labs/).
 
 These templates directly correspond to the triggers available to us in order to execute the function. I will pick HTTP trigger provided with a friendly name and secure the HTTP endpoint with a function or an API key. Going back to our directory, we can see that it created a new subdirectory with the name we gave for the function, with a node script and function JSON configuration file (Image 3).
 
-![Image 3 - HttpTrigger subdirectory](/assets/images/2019/01/Image-3-HttpTrigger-sub-directory.png)
+![Image 3 - HttpTrigger subdirectory](/assets/img/2019/01/Image-3-HttpTrigger-sub-directory.png)
 _Image 3 - HttpTrigger subdirectory_
 
 If we look at the node function, we can see that it consumes an HTTP request input and parses the content of that input in order to find the name property in the body of the query string. Then, it uses the name property to construct an HTTP response, which is returned back from the function (Image 4).
 
-![Image 4 - Index.js](/assets/images/2019/01/Image-4-Index.js.png)
+![Image 4 - Index.js](/assets/img/2019/01/Image-4-Index.js.png)
 _Image 4 - Index.js_
 
 >If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration, and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
 
 The JSON configuration describes the HTTP request input and the response output binding (Image 5).
 
-![Image 5 - Function.json](/assets/images/2019/01/Image-5-Function.json_.png)
+![Image 5 - Function.json](/assets/img/2019/01/Image-5-Function.json_.png)
 _Image 5 - Function.json_
 
 Now we have our function and we can publish to Azure or we can use the open-source Functions runtime to debug and test locally. VS Code enables you to do all of this simply by clicking F5, but if you have the Node extension installed, you can even go ahead and set breakpoints in your code in order to debug. Now I am going to show another example of a node function that triggers off a message or an event received on an IoT hub, then grabs the content of the message and outputs it to the console (Image 6).
 
-![Image 6 - Function that triggers off a message](/assets/images/2019/01/Image-6-Function-that-triggers-off-a-message.png)
+![Image 6 - Function that triggers off a message](/assets/img/2019/01/Image-6-Function-that-triggers-off-a-message.png)
 _Image 6 - Function that triggers off a message_
 
 Now let us look at how to publish the app. We can go ahead, pick a subscription, and create a new app with a unique name. After we give it a unique name, we can pick a resource group for this function app as well as a storage account to contain the content of the app and the files. After a while, we will have our function app provisioned and we have one more step to configure any settings for the function app. For a function to connect to IoT hub, we need to configure the IoT hub connection string (Image 7) in order to provision it as an app setting on the function app.
 
-![Image 7 - IoT hub connection string](/assets/images/2019/01/Image-7-IOT-hub-connection-string.png)
+![Image 7 - IoT hub connection string](/assets/img/2019/01/Image-7-IOT-hub-connection-string.png)
 _Image 7 - IoT hub connection string_
 
 After that, we can go ahead and test our application running on Azure. I will connect to the streaming logs for our function app. After that, we can start seeing the app inside logging. In order to simulate these events on the IoT hub, I got an app that will register multiple devices and start sending notifications to the IoT hub. Shortly, we should notice that our function started to pick these up and output those events or messages back to the console (Image 8).
 
-![Image 8 - Console](/assets/images/2019/01/Image-8-Console.png)
+![Image 8 - Console](/assets/img/2019/01/Image-8-Console.png)
 _Image 8 - Console_
 
 We developed an end-to-end service application, tested it locally, published it to Azure, and even looked at the monitoring logs. All of that from the local instance of VS Code.

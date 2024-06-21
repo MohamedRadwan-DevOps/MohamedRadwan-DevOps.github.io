@@ -20,17 +20,17 @@ With workflow visualizations, we can view and understand complex workflows, trac
 
 Let's say that we have a project that is built for Android, iOS, and web, and each of those platforms has its own test suite. If the tests are successful then we have a release step as well. We have already started a pull request. Here we can use autocomplete, which works for numbered lists and unnumbered lists as well. Next, instead of having to wait for tests to run, or for the review to come back, we can go to the bottom of the pull request and enable the option auto-merge, shown on Image 1.
 
-![Image 1 - Enable auto-merge](/assets/images/2021/12/Image-1-Enable-auto-merge-1024x590.png)
+![Image 1 - Enable auto-merge](/assets/img/2021/12/Image-1-Enable-auto-merge-1024x590.png)
 Image 1 - Enable auto-merge
 
 Next, we can create our commit message and hit Confirm auto-merge, shown on image 2. After this, the pull request will be automatically merged when all the tests are passed and when all the required reviews have been submitted.
 
-![Image 2 - Confirm auto-merge](/assets/images/2021/12/Image-2-Confirm-auto-merge-1024x345.png)
+![Image 2 - Confirm auto-merge](/assets/img/2021/12/Image-2-Confirm-auto-merge-1024x345.png)
 Image 2 - Confirm auto-merge
 
 The next improvement that we are going to mention in this post is custom notifications. Before, in the notifications settings, we could only watch the participating option, all activity, and ignore. Now we can see one more option displayed last in the list, it is the option Custom. When choosing this option, we can choose to receive notifications for issues, pull requests, releases, or all three (shown on Image 3).
 
-![Image 3 - Custom notifications](/assets/images/2021/12/Image-3-Custom-notifications.png)
+![Image 3 - Custom notifications](/assets/img/2021/12/Image-3-Custom-notifications.png)
 
 Image 3 - Custom notifications
 

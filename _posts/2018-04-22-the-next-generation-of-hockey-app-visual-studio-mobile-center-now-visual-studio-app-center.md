@@ -23,13 +23,13 @@ How to calculate code coverage for JavaScript unit tests using Istanbul, how to 
 5. **Crashes**
 6. **Analytics**
 
-![1 - Mobile Center Interface and services](/assets/images/2017/12/1-Mobile-Center-Interface-and-services-1024x565.jpg)
+![1 - Mobile Center Interface and services](/assets/img/2017/12/1-Mobile-Center-Interface-and-services-1024x565.jpg)
 
 ## Transition from Hockey App to Mobile Center
 
 To ensure a smooth transition from **Hockey App** to **Mobile Center**, **Microsoft** is providing a side-by-side viewing - when all your apps, organizations, collaborators, and testers coexist on both of these platforms. Your data will be synced back and forth, and any changes you make to **Hockey App** will automatically be delivered to **Mobile Center** and vice versa, ensuring consistency between the two services.
 
-![2 - Side-by-side viewing with Hockey App and Mobile Center](/assets/images/2017/12/2-Side-by-side-viewing-with-Hockey-App-and-Mobile-Center.jpg)
+![2 - Side-by-side viewing with Hockey App and Mobile Center](/assets/img/2017/12/2-Side-by-side-viewing-with-Hockey-App-and-Mobile-Center.jpg)
 
 >f you would like to learn more about what is the story behind containers and what drives or the needs for it, we will know why companies moved from traditional solution architecture to Microservices and how this put containers as the perfect solution for running them, we will get quick intro to clear some definitions, tools, and keywords related to this ecosystem. For example, we will understand what is the difference between VM, Container and Hyper-V Container, why we would prefer container over VM and when the VM is better, we will understand the difference between container and image and know the life cycle of creating a new image and why I do that, like adding more layers to the base image, push that to container images registry on the cloud, then pull that from the registry to anywhere to have a new container. We will understand different technologies and services around the container, like Docker, Docker Swarm, Kubernetes, Azure Container Services (ACS), Azure Container Registry, etc. - have a look at the [this post](https://mohamedradwan-devops.github.io/posts/containers-the-perfect-solution-for-running-microservices/)
 {: .prompt-info}
@@ -38,7 +38,7 @@ To ensure a smooth transition from **Hockey App** to **Mobile Center**, **Micros
 
 The side-by-side collaboration tool allows you to continue to use **Hockey App** but at the same time to start using **Mobile Center** and all the tools and improvements on existing services inside it. The tool is now available for **Hockey App** pre-season customers. To obtain access you have to perform the following steps:
 
-![3 - Side-by-side collaboration tool installation](/assets/images/2017/12/3-Side-by-side-collaboration-tool-installation-1024x511.jpg)
+![3 - Side-by-side collaboration tool installation](/assets/img/2017/12/3-Side-by-side-collaboration-tool-installation-1024x511.jpg)
 
 ## Conclusion
 

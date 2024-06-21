@@ -92,7 +92,7 @@ AzureRM Modules has sub Modules like:
 Get-Module
 ```
 
-![Get-Module PowerShell](/assets/images/2019/01/Get-Module-PowerShell.png)
+![Get-Module PowerShell](/assets/img/2019/01/Get-Module-PowerShell.png)
 
 ```powershell
 Get-Command -Module Module Name
@@ -102,16 +102,16 @@ Examples:
 Get-Command -Module AzureRM.Profile
 ```
 
-![Get-command -Module Module Name](/assets/images/2019/01/Get-command-Module-Azure.png)
+![Get-command -Module Module Name](/assets/img/2019/01/Get-command-Module-Azure.png)
 
 ```powershell
 Get-help Add-AzureRMAccount
 ```
-![PowerShell get-help command](/assets/images/2019/01/PowerShell-get-help-command.png)
+![PowerShell get-help command](/assets/img/2019/01/PowerShell-get-help-command.png)
 
 ```powershell
 Get-help Add-AzureRMAccount -examples
 ```
 
-![PowerShell get help examples](/assets/images/2019/01/PowerShell-get-help-examples.png)
+![PowerShell get help examples](/assets/img/2019/01/PowerShell-get-help-examples.png)
 

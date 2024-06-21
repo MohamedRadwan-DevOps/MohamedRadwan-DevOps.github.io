@@ -37,7 +37,7 @@ First let's see the main object node ID that exist
 
 **Add Document Type (ex."Course Categories")**
 
-[![Document Type](/assets/images/2010/05/Document-Type.jpg)](/assets/images/2010/05/Document-Type.jpg)
+[![Document Type](/assets/img/2010/05/Document-Type.jpg)](/assets/img/2010/05/Document-Type.jpg)
 
 1-add 1 record "node" to **\[umbracoNode\]** Table "with objectNodeID ending with **0EFB**”
 
@@ -51,27 +51,27 @@ First let's see the main object node ID that exist
 
 **ERD**
 
-[![Document Type DB Diagram](/assets/images/2010/05/Document-Type-DB-Diagram.jpg)](/assets/images/2010/05/Document-Type-DB-Diagram.jpg)
+[![Document Type DB Diagram](/assets/img/2010/05/Document-Type-DB-Diagram.jpg)](/assets/img/2010/05/Document-Type-DB-Diagram.jpg)
 
 **umbracoNode Table**
 
-[![Document Type DB Diagram t1](/assets/images/2010/05/Document-Type-DB-Diagram-t1.jpg)](/assets/images/2010/05/Document-Type-DB-Diagram-t1.jpg)
+[![Document Type DB Diagram t1](/assets/img/2010/05/Document-Type-DB-Diagram-t1.jpg)](/assets/img/2010/05/Document-Type-DB-Diagram-t1.jpg)
 
 **cmsContentType Table**
 
-[![Document Type DB Diagram t2](/assets/images/2010/05/Document-Type-DB-Diagram-t2.jpg)](/assets/images/2010/05/Document-Type-DB-Diagram-t2.jpg)
+[![Document Type DB Diagram t2](/assets/img/2010/05/Document-Type-DB-Diagram-t2.jpg)](/assets/img/2010/05/Document-Type-DB-Diagram-t2.jpg)
 
 **cmsTab Table**
 
-[![Document Type DB Diagram t3](/assets/images/2010/05/Document-Type-DB-Diagram-t3.jpg)](/assets/images/2010/05/Document-Type-DB-Diagram-t3.jpg)
+[![Document Type DB Diagram t3](/assets/img/2010/05/Document-Type-DB-Diagram-t3.jpg)](/assets/img/2010/05/Document-Type-DB-Diagram-t3.jpg)
 
 **cmsContentTypeAllowedContentType Table**
 
-[![Document Type DB Diagram t4](/assets/images/2010/05/Document-Type-DB-Diagram-t4.jpg)](/assets/images/2010/05/Document-Type-DB-Diagram-t4.jpg)
+[![Document Type DB Diagram t4](/assets/img/2010/05/Document-Type-DB-Diagram-t4.jpg)](/assets/img/2010/05/Document-Type-DB-Diagram-t4.jpg)
 
 **Add Template (ex."Master")**
 
-[![Template](/assets/images/2010/05/Template.jpg)](/assets/images/2010/05/Template.jpg)
+[![Template](/assets/img/2010/05/Template.jpg)](/assets/img/2010/05/Template.jpg)
 
 1-add 1 record "node" to **\[umbracoNode\]** Table "with objectNodeID ending with **F07D**"
 
@@ -81,25 +81,25 @@ First let's see the main object node ID that exist
 
 **ERD**
 
-[![Template DB Diagram](/assets/images/2010/05/Template-DB-Diagram.jpg)](/assets/images/2010/05/Template-DB-Diagram.jpg)
+[![Template DB Diagram](/assets/img/2010/05/Template-DB-Diagram.jpg)](/assets/img/2010/05/Template-DB-Diagram.jpg)
 
 **umbracoNode Table**
 
-[![TemplateDBDiagramt1](/assets/images/2010/05/Template20DB20Diagram20t1.jpg)](/assets/images/2010/05/Template20DB20Diagram20t1.jpg)
+[![TemplateDBDiagramt1](/assets/img/2010/05/Template20DB20Diagram20t1.jpg)](/assets/img/2010/05/Template20DB20Diagram20t1.jpg)
 
 **cmsTemplate Table**
 
-[![Template DB Diagram t2](/assets/images/2010/05/Template-DB-Diagram-t2.jpg)](/assets/images/2010/05/Template-DB-Diagram-t2.jpg)
+[![Template DB Diagram t2](/assets/img/2010/05/Template-DB-Diagram-t2.jpg)](/assets/img/2010/05/Template-DB-Diagram-t2.jpg)
 
 **cmsDocumentType Table**
 
-[![Template DB Diagram t3](/assets/images/2010/05/Template-DB-Diagram-t3.jpg)](/assets/images/2010/05/Template-DB-Diagram-t3.jpg)
+[![Template DB Diagram t3](/assets/img/2010/05/Template-DB-Diagram-t3.jpg)](/assets/img/2010/05/Template-DB-Diagram-t3.jpg)
 
  
 
 **Add Content (ex."Programming (of type course Categories)")**
 
-[![Content](/assets/images/2010/05/Content.jpg)](/assets/images/2010/05/Content.jpg)
+[![Content](/assets/img/2010/05/Content.jpg)](/assets/img/2010/05/Content.jpg)
 
 1-add 1 record "node" to **\[umbracoNode\]** Table "with objectNodeID ending with **A972**"
 
@@ -115,39 +115,39 @@ First let's see the main object node ID that exist
 
 **ERD**
 
-[![Content DB Diagram](/assets/images/2010/05/Content-DB-Diagram.jpg)](/assets/images/2010/05/Content-DB-Diagram.jpg)
+[![Content DB Diagram](/assets/img/2010/05/Content-DB-Diagram.jpg)](/assets/img/2010/05/Content-DB-Diagram.jpg)
 
 **umbracoNode Table**
 
-[![Content DB Diagram t1](/assets/images/2010/05/Content-DB-Diagram-t1.jpg)](/assets/images/2010/05/Content-DB-Diagram-t1.jpg)
+[![Content DB Diagram t1](/assets/img/2010/05/Content-DB-Diagram-t1.jpg)](/assets/img/2010/05/Content-DB-Diagram-t1.jpg)
 
 **cmsContent Table**
 
-[![Content DB Diagram t2](/assets/images/2010/05/Content-DB-Diagram-t2.jpg)](/assets/images/2010/05/Content-DB-Diagram-t2.jpg)
+[![Content DB Diagram t2](/assets/img/2010/05/Content-DB-Diagram-t2.jpg)](/assets/img/2010/05/Content-DB-Diagram-t2.jpg)
 
 **cmsDocument Table**
 
-[![ContentDBDiagramt3](/assets/images/2010/05/Content20DB20Diagram20t3.jpg)](/assets/images/2010/05/Content20DB20Diagram20t3.jpg)
+[![ContentDBDiagramt3](/assets/img/2010/05/Content20DB20Diagram20t3.jpg)](/assets/img/2010/05/Content20DB20Diagram20t3.jpg)
 
 **cmsContentVersionTable**
 
-[![ContentDBDiagramt4](/assets/images/2010/05/Content20DB20Diagram20t4.jpg)](/assets/images/2010/05/Content20DB20Diagram20t4.jpg)
+[![ContentDBDiagramt4](/assets/img/2010/05/Content20DB20Diagram20t4.jpg)](/assets/img/2010/05/Content20DB20Diagram20t4.jpg)
 
 **cmsContentXml Table**
 
-[![ContentDBDiagramt5](/assets/images/2010/05/Content20DB20Diagram20t5.jpg)](/assets/images/2010/05/Content20DB20Diagram20t5.jpg)
+[![ContentDBDiagramt5](/assets/img/2010/05/Content20DB20Diagram20t5.jpg)](/assets/img/2010/05/Content20DB20Diagram20t5.jpg)
 
 **cmsPropertyData Table**
 
-[![Content DB Diagram t6](/assets/images/2010/05/Content-DB-Diagram-t6.jpg)](/assets/images/2010/05/Content-DB-Diagram-t6.jpg)
+[![Content DB Diagram t6](/assets/img/2010/05/Content-DB-Diagram-t6.jpg)](/assets/img/2010/05/Content-DB-Diagram-t6.jpg)
 
 **cmsPropertyType Table**
 
-[![Document Type DB Diagram t5](/assets/images/2010/05/Document-Type-DB-Diagram-t5.jpg)](/assets/images/2010/05/Document-Type-DB-Diagram-t5.jpg)
+[![Document Type DB Diagram t5](/assets/img/2010/05/Document-Type-DB-Diagram-t5.jpg)](/assets/img/2010/05/Document-Type-DB-Diagram-t5.jpg)
 
 **Publish content**
 
-[![Publish Content](/assets/images/2010/05/Publish-Content.jpg)](/assets/images/2010/05/Publish-Content.jpg)
+[![Publish Content](/assets/img/2010/05/Publish-Content.jpg)](/assets/img/2010/05/Publish-Content.jpg)
 
 1-add 1 record to **\[cmsDocument\]** Table "That generate **GUID** of this version" and make newest column = True
 
@@ -162,7 +162,7 @@ First let's see the main object node ID that exist
   
 **ERD**
 
-[![Publish Content DB Diagram](/assets/images/2010/05/Publish-Content-DB-Diagram.jpg)](/assets/images/2010/05/Publish-Content-DB-Diagram.jpg)
+[![Publish Content DB Diagram](/assets/img/2010/05/Publish-Content-DB-Diagram.jpg)](/assets/img/2010/05/Publish-Content-DB-Diagram.jpg)
 
 **cmsDocument Table**
 
@@ -182,7 +182,7 @@ See the previous
 
 **Add Data Type**
 
-**[![Data Type](/assets/images/2010/05/Data-Type.jpg)](/assets/images/2010/05/Data-Type.jpg)**
+**[![Data Type](/assets/img/2010/05/Data-Type.jpg)](/assets/img/2010/05/Data-Type.jpg)**
 
 1-add 1 record "node" to **\[umbracoNode\]** Table "with objectNodeID ending with **BA3C**"
 
@@ -192,37 +192,37 @@ See the previous
 
 **ERD**
 
-**[![Data Type DB Diagram](/assets/images/2010/05/Data-Type-DB-Diagram.jpg)](/assets/images/2010/05/Data-Type-DB-Diagram.jpg)**
+**[![Data Type DB Diagram](/assets/img/2010/05/Data-Type-DB-Diagram.jpg)](/assets/img/2010/05/Data-Type-DB-Diagram.jpg)**
 
 **umbracoNode Table**
 
-[![Data Type DB Diagram t1](/assets/images/2010/05/Data-Type-DB-Diagram-t1.jpg)](/assets/images/2010/05/Data-Type-DB-Diagram-t1.jpg)
+[![Data Type DB Diagram t1](/assets/img/2010/05/Data-Type-DB-Diagram-t1.jpg)](/assets/img/2010/05/Data-Type-DB-Diagram-t1.jpg)
 
 **cmsDataType Table**
 
-[![Data Type DB Diagram t2](/assets/images/2010/05/Data-Type-DB-Diagram-t2.jpg)](/assets/images/2010/05/Data-Type-DB-Diagram-t2.jpg)
+[![Data Type DB Diagram t2](/assets/img/2010/05/Data-Type-DB-Diagram-t2.jpg)](/assets/img/2010/05/Data-Type-DB-Diagram-t2.jpg)
 
 **cmsDataTypePreValues Table**
 
-[![Data Type DB Diagram t3](/assets/images/2010/05/Data-Type-DB-Diagram-t3.jpg)](/assets/images/2010/05/Data-Type-DB-Diagram-t3.jpg)
+[![Data Type DB Diagram t3](/assets/img/2010/05/Data-Type-DB-Diagram-t3.jpg)](/assets/img/2010/05/Data-Type-DB-Diagram-t3.jpg)
 
 **Add Macro that use XSLT**
 
-**[![Macro](/assets/images/2010/05/Macro.jpg)](/assets/images/2010/05/Macro.jpg)**
+**[![Macro](/assets/img/2010/05/Macro.jpg)](/assets/img/2010/05/Macro.jpg)**
 
 1-add 1 record to **\[cmsMacro\]** Table "that associate this macro with the **XSLT** file name if it use **XSLT**"
 
 **ERD**
 
-[![Macro DB Diagram](/assets/images/2010/05/Macro-DB-Diagram.jpg)](/assets/images/2010/05/Macro-DB-Diagram.jpg)
+[![Macro DB Diagram](/assets/img/2010/05/Macro-DB-Diagram.jpg)](/assets/img/2010/05/Macro-DB-Diagram.jpg)
 
 **cmsMacro Table**
 
-[![Macro DB Diagram t](/assets/images/2010/05/Macro-DB-Diagram-t.jpg)](/assets/images/2010/05/Macro-DB-Diagram-t.jpg)
+[![Macro DB Diagram t](/assets/img/2010/05/Macro-DB-Diagram-t.jpg)](/assets/img/2010/05/Macro-DB-Diagram-t.jpg)
 
 **Add user**
 
-[![User](/assets/images/2010/05/User.jpg)](/assets/images/2010/05/User.jpg)
+[![User](/assets/img/2010/05/User.jpg)](/assets/img/2010/05/User.jpg)
 
 1-add record to **\[umbracoUser\]** Table
 
@@ -230,47 +230,47 @@ See the previous
 
 **ERD**
 
-[![User DB Diagram](/assets/images/2010/05/User-DB-Diagram.jpg)](/assets/images/2010/05/User-DB-Diagram.jpg)
+[![User DB Diagram](/assets/img/2010/05/User-DB-Diagram.jpg)](/assets/img/2010/05/User-DB-Diagram.jpg)
 
 **umbracoUser Table**
 
-[![User DB Diagram t1](/assets/images/2010/05/User-DB-Diagram-t1.jpg)](/assets/images/2010/05/User-DB-Diagram-t1.jpg)
+[![User DB Diagram t1](/assets/img/2010/05/User-DB-Diagram-t1.jpg)](/assets/img/2010/05/User-DB-Diagram-t1.jpg)
 
 **umbracoUser2app Table**
 
-[![User DB Diagram t2](/assets/images/2010/05/User-DB-Diagram-t2.jpg)](/assets/images/2010/05/User-DB-Diagram-t2.jpg)
+[![User DB Diagram t2](/assets/img/2010/05/User-DB-Diagram-t2.jpg)](/assets/img/2010/05/User-DB-Diagram-t2.jpg)
 
 **Add User Type like administrator, writer, and translator**
 
-[![User Type](/assets/images/2010/05/User-Type.jpg)](/assets/images/2010/05/User-Type.jpg)
+[![User Type](/assets/img/2010/05/User-Type.jpg)](/assets/img/2010/05/User-Type.jpg)
 
 1-add 1 record to **\[umbracoUserType\]** Table "With all permission needed” "one character for each permission" "**F:C54ZDMOSRPKAUHI**"
 
 **ERD**
 
-[![User Type DB Diagram](/assets/images/2010/05/User-Type-DB-Diagram.jpg)](/assets/images/2010/05/User-Type-DB-Diagram.jpg)
+[![User Type DB Diagram](/assets/img/2010/05/User-Type-DB-Diagram.jpg)](/assets/img/2010/05/User-Type-DB-Diagram.jpg)
 
 **umbracoUserType**
 
-[![User Type DB Diagram t](/assets/images/2010/05/User-Type-DB-Diagram-t.jpg)](/assets/images/2010/05/User-Type-DB-Diagram-t.jpg)
+[![User Type DB Diagram t](/assets/img/2010/05/User-Type-DB-Diagram-t.jpg)](/assets/img/2010/05/User-Type-DB-Diagram-t.jpg)
 
 **Add Specific permission for specific node**
 
-[![Spec premission to spec node](/assets/images/2010/05/Spec-premission-to-spec-node.jpg)](/assets/images/2010/05/Spec-premission-to-spec-node.jpg)
+[![Spec premission to spec node](/assets/img/2010/05/Spec-premission-to-spec-node.jpg)](/assets/img/2010/05/Spec-premission-to-spec-node.jpg)
 
 1-add n records to **\[umbracoUser2NodePermission\]** Table for each node for each permission "ex. Node: 1055 premission: 5 for each node, it will add one record for each character of the following "**F:C54ZDMOSRPKAUHI**" if needed
 
 **ERD**
 
-[![Spec premission to spec node DB Diagram](/assets/images/2010/05/Spec-premission-to-spec-node-DB-Diagram.jpg)](/assets/images/2010/05/Spec-premission-to-spec-node-DB-Diagram.jpg)
+[![Spec premission to spec node DB Diagram](/assets/img/2010/05/Spec-premission-to-spec-node-DB-Diagram.jpg)](/assets/img/2010/05/Spec-premission-to-spec-node-DB-Diagram.jpg)
 
 **umbracoUser2NodePermission**
 
-[![Spec premission to spec node DB Diagram t](/assets/images/2010/05/Spec-premission-to-spec-node-DB-Diagram-t.jpg)](/assets/images/2010/05/Spec-premission-to-spec-node-DB-Diagram-t.jpg)
+[![Spec premission to spec node DB Diagram t](/assets/img/2010/05/Spec-premission-to-spec-node-DB-Diagram-t.jpg)](/assets/img/2010/05/Spec-premission-to-spec-node-DB-Diagram-t.jpg)
 
 **Add Member Type**
 
-[![Member Type](/assets/images/2010/05/Member-Type.jpg)](/assets/images/2010/05/Member-Type.jpg)
+[![Member Type](/assets/img/2010/05/Member-Type.jpg)](/assets/img/2010/05/Member-Type.jpg)
 
 1-add 1 record "node" to **\[umbracoNode\]** Table "with objectNodeID ending with **CE43**"
 
@@ -278,19 +278,19 @@ See the previous
 
 **ERD**
 
-[![Member Type DB Diagram](/assets/images/2010/05/Member-Type-DB-Diagram.jpg)](/assets/images/2010/05/Member-Type-DB-Diagram.jpg)
+[![Member Type DB Diagram](/assets/img/2010/05/Member-Type-DB-Diagram.jpg)](/assets/img/2010/05/Member-Type-DB-Diagram.jpg)
 
 **umbracoNode Table**
 
-[![Member Type DB Diagram t](/assets/images/2010/05/Member-Type-DB-Diagram-t.jpg)](/assets/images/2010/05/Member-Type-DB-Diagram-t.jpg)
+[![Member Type DB Diagram t](/assets/img/2010/05/Member-Type-DB-Diagram-t.jpg)](/assets/img/2010/05/Member-Type-DB-Diagram-t.jpg)
 
 **cmsContentType Table**
 
-[![Member Type DB Diagram t2](/assets/images/2010/05/Member-Type-DB-Diagram-t2.jpg)](/assets/images/2010/05/Member-Type-DB-Diagram-t2.jpg)
+[![Member Type DB Diagram t2](/assets/img/2010/05/Member-Type-DB-Diagram-t2.jpg)](/assets/img/2010/05/Member-Type-DB-Diagram-t2.jpg)
 
 **Add Member**
 
-[![Member](/assets/images/2010/05/Member.jpg)](/assets/images/2010/05/Member.jpg)
+[![Member](/assets/img/2010/05/Member.jpg)](/assets/img/2010/05/Member.jpg)
 
 1-add 1 record "node" to **\[umbracoNode\]** Table "with objectNodeID ending with **7560**"
 
@@ -304,11 +304,11 @@ See the previous
 
 **ERD**
 
-[![Member DB Diagram](/assets/images/2010/05/Member-DB-Diagram.jpg)](/assets/images/2010/05/Member-DB-Diagram.jpg)
+[![Member DB Diagram](/assets/img/2010/05/Member-DB-Diagram.jpg)](/assets/img/2010/05/Member-DB-Diagram.jpg)
 
 **umbracoNode**
 
-[![Member DB Diagram t1](/assets/images/2010/05/Member-DB-Diagram-t1.jpg)](/assets/images/2010/05/Member-DB-Diagram-t1.jpg)
+[![Member DB Diagram t1](/assets/img/2010/05/Member-DB-Diagram-t1.jpg)](/assets/img/2010/05/Member-DB-Diagram-t1.jpg)
 
 **cmsContent**
 
@@ -324,14 +324,14 @@ See the previous
 
 **cmsMember2MemberGroup**
 
-[![Member DB Diagram t2](/assets/images/2010/05/Member-DB-Diagram-t2.jpg)](/assets/images/2010/05/Member-DB-Diagram-t2.jpg)
+[![Member DB Diagram t2](/assets/img/2010/05/Member-DB-Diagram-t2.jpg)](/assets/img/2010/05/Member-DB-Diagram-t2.jpg)
 
 **Add Group**
 
-[![Group](/assets/images/2010/05/Group.jpg)](/assets/images/2010/05/Group.jpg)
+[![Group](/assets/img/2010/05/Group.jpg)](/assets/img/2010/05/Group.jpg)
 
 1-add 1 record "node” to **\[umbracoNode\]** Table "with objectNodeID ending with **9728**"
 
 **umbracoNode Table**
 
-[![Group t1](/assets/images/2010/05/Group-t1.jpg)](/assets/images/2010/05/Group-t1.jpg)
+[![Group t1](/assets/img/2010/05/Group-t1.jpg)](/assets/img/2010/05/Group-t1.jpg)

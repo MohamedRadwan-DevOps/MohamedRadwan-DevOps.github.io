@@ -22,19 +22,19 @@ See the following video:
 Here are some snapshots of the Windows 8 Release Preview installation and touch
 feel:
 
-[![](/assets/images/2012/06/windows-8-start-installation.jpg "Windows 8 start installation")](/assets/images/2012/06/windows-8-start-installation.jpg)
+[![](/assets/img/2012/06/windows-8-start-installation.jpg "Windows 8 start installation")](/assets/img/2012/06/windows-8-start-installation.jpg)
 
-[![](/assets/images/2012/06/windows-8-release-preview-installation-screen.jpg "Windows 8 Release Preview installation screen")](/assets/images/2012/06/windows-8-release-preview-installation-screen.jpg)
+[![](/assets/img/2012/06/windows-8-release-preview-installation-screen.jpg "Windows 8 Release Preview installation screen")](/assets/img/2012/06/windows-8-release-preview-installation-screen.jpg)
 
-[![](/assets/images/2012/06/windows-8-color-schema-selection.jpg "Windows 8 color schema selection")](/assets/images/2012/06/windows-8-color-schema-selection.jpg)
+[![](/assets/img/2012/06/windows-8-color-schema-selection.jpg "Windows 8 color schema selection")](/assets/img/2012/06/windows-8-color-schema-selection.jpg)
 
-[![](/assets/images/2012/06/windows-8-metro-desktop.jpg "Windows 8 Metro Desktop")](/assets/images/2012/06/windows-8-metro-desktop.jpg)
+[![](/assets/img/2012/06/windows-8-metro-desktop.jpg "Windows 8 Metro Desktop")](/assets/img/2012/06/windows-8-metro-desktop.jpg)
 
 
-[![](/assets/images/2012/06/windows-8-desktop.jpg "Windows 8 desktop")](/assets/images/2012/06/windows-8-desktop.jpg)
+[![](/assets/img/2012/06/windows-8-desktop.jpg "Windows 8 desktop")](/assets/img/2012/06/windows-8-desktop.jpg)
 
-[![](/assets/images/2012/06/windows-8-search-apps.jpg "Windows 8 search apps")](/assets/images/2012/06/windows-8-search-apps.jpg)
+[![](/assets/img/2012/06/windows-8-search-apps.jpg "Windows 8 search apps")](/assets/img/2012/06/windows-8-search-apps.jpg)
 
-[![](/assets/images/2012/06/windows-8-lock-screen.jpg "Windows 8 lock screen")](/assets/images/2012/06/windows-8-lock-screen.jpg)
+[![](/assets/img/2012/06/windows-8-lock-screen.jpg "Windows 8 lock screen")](/assets/img/2012/06/windows-8-lock-screen.jpg)
 
-[![](/assets/images/2012/06/windows-8-metro-desktop-browsing.jpg "Windows 8 Metro Desktop browsing")](/assets/images/2012/06/windows-8-metro-desktop-browsing.jpg)
+[![](/assets/img/2012/06/windows-8-metro-desktop-browsing.jpg "Windows 8 Metro Desktop browsing")](/assets/img/2012/06/windows-8-metro-desktop-browsing.jpg)

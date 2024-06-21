@@ -8,7 +8,7 @@ date: 2016-06-30 15:05:00 +0100
 
 In the previous post [Setting your private VSTS Git Artifacts repository in DevTest Labs](https://mohamedradwan-devops.github.io/posts/setting-your-private-vsts-git-artifacts-repository-in-devtest-labs/), I described the step-by-step process for setting up a private **VSTS Git Artifacts Repository**. You can set your private **Git Artifacts Repository** also by using a [GitHub Repository](https://github.com/Azure/azure-devtestlab). Usage of **Artifact Repository** enables you to completely automate the distribution and consumption of shared libraries. Usually, the common process for the manual update of a library starts when one developer builds and tests the library. Then the same developer drops the library in shared storage. After that, all other developers work on the code that occupies the library space, and they are even manually deploying the library to their workstations.
 
-![1-The application Life Cycle GitHub DevTest Labs](/assets/images/2016/06/1-The-application-Life-Cycle-GitHub-DevTest-Labs.jpg "1-The application Life Cycle GitHub DevTest Labs")
+![1-The application Life Cycle GitHub DevTest Labs](/assets/img/2016/06/1-The-application-Life-Cycle-GitHub-DevTest-Labs.jpg "1-The application Life Cycle GitHub DevTest Labs")
 
 **Automated library management** can save you a tremendous amount of time as it enables upstream library changes and quick implementation of that change in downstream code. This post will describe a step-by-step tutorial for setting your private artifacts repository by using a **GitHub Repository** in just four simple steps.
 
@@ -22,7 +22,7 @@ Steps 1-2 are already described in the previous blog post [Setting your private 
 1. Click on the link [https://github.com/Azure/azure-devtestlab](https://github.com/Azure/azure-devtestlab) to access the **GitHub Repository**.
 2. On the right side of the site, you will see the **Clone URL** option. Click on the **Copy** button to copy the link.
 
-![3-Clone the URL from GitHub Repository](/assets/images/2016/06/3-Clone-the-URL-from-GitHub-Repository.jpg "3-Clone the URL from GitHub Repository")
+![3-Clone the URL from GitHub Repository](/assets/img/2016/06/3-Clone-the-URL-from-GitHub-Repository.jpg "3-Clone the URL from GitHub Repository")
 
 ### Step 4: Setting the Folder Path and Personal Access Token 
 
@@ -30,19 +30,19 @@ The **Folder Path** name is the name of the folder in your **Git Repository**. Y
 1. Click on the **Personalized Access Token Icon**.
 2. From the drop-down menu, choose **Settings**.
 
-![4-1 Setting the Folder Path and Personal Access Token](/assets/images/2016/06/4-1-Setting-the-Folder-Path-and-Personal-Access-Token.jpg "4-1 Setting the Folder Path and Personal Access Token")
+![4-1 Setting the Folder Path and Personal Access Token](/assets/img/2016/06/4-1-Setting-the-Folder-Path-and-Personal-Access-Token.jpg "4-1 Setting the Folder Path and Personal Access Token")
 
 3. In the new window, the **Personal settings list** will open on the left side. From the list, choose **Personal Access Tokens**.
 4. In the upper right corner, click on the **Generate new token icon**.
 5. In the new window, type the **Token description**.
 6. Click on the **Generate token icon**.
 
-![4-2 Generate new token GitHub DevTest Labs](/assets/images/2016/06/4-2-Generate-new-token-GitHub-DevTest-Labs.jpg "4-2 Generate new token GitHub DevTest Labs")
+![4-2 Generate new token GitHub DevTest Labs](/assets/img/2016/06/4-2-Generate-new-token-GitHub-DevTest-Labs.jpg "4-2 Generate new token GitHub DevTest Labs")
 
 7. In the new window, a **new Token** will be generated. Click on the **Copy** button to copy the **Token** to the **Personal Access Token** field in your **Lab**.
 8. **Paste** the generated **Token** into the **Personal Access Token** field in your **Lab**.
 
-![4-3 Copy Token into Personal Access Token field DevTest Lab](/assets/images/2016/06/4-3-Copy-Token-into-Personal-Access-Token-field-DevTest-Lab.jpg "4-3 Copy Token into Personal Access Token field DevTest Lab")
+![4-3 Copy Token into Personal Access Token field DevTest Lab](/assets/img/2016/06/4-3-Copy-Token-into-Personal-Access-Token-field-DevTest-Lab.jpg "4-3 Copy Token into Personal Access Token field DevTest Lab")
 
 ### Conclusion
 

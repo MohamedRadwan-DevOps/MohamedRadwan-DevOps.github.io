@@ -65,15 +65,15 @@ As you may already know, there are many clients for TFS (Team Foundation Server)
 
 **Old Team Explorer**
 
-![Old-Team-Explorer-Architecture](/assets/images/2012/11/old-team-explorer-architecture2-1.png)
+![Old-Team-Explorer-Architecture](/assets/img/2012/11/old-team-explorer-architecture2-1.png)
 
 **New Team Explorer**
 
-![Team-Explorer-2012-Architecture](/assets/images/2012/11/team-explorer-2012-architecture2-1.png)
+![Team-Explorer-2012-Architecture](/assets/img/2012/11/team-explorer-2012-architecture2-1.png)
 
 The old version of Team Explorer was based on Tree/Nodes architecture, which was very limited for new extensions. Whenever an extension or feature was needed, the only way to add it was to add a new node, making the tree more complex than expected. In the new version, the architecture is based on a web navigation style. Team Explorer is like a main container with multiple pages, each page is a container with multiple sections, and each section carries one window with many commands.
 
-![Team-Explorer-Architecture](/assets/images/2012/11/team-explorer-architecture.png)
+![Team-Explorer-Architecture](/assets/img/2012/11/team-explorer-architecture.png)
 
 There is a navigation bar to go home (main container) at any point in time, and there are back and forward buttons to move between pages and sections as you visit them. This architecture gives Team Explorer a richer extensible model, so we can extend it in the following ways:
 
@@ -88,25 +88,25 @@ There is a work item search that allows us to search inside work items without n
 
 **2. New and Merged Windows**
 
-![New Merged Window](/assets/images/2012/11/new-merged-window.png)
+![New Merged Window](/assets/img/2012/11/new-merged-window.png)
 
 New windows have been introduced in TFS 2012, and some windows have been merged into Team Explorer. For example, My Work is a new window introduced in TFS 2012, and the Pending Change Window is merged into Team Explorer.
 
 **3. On-Demand Data Retrieval (Paging)**
 
-![On-Demand Data Retrieval](/assets/images/2012/11/on-demand-data-retrieval2-1.jpg)
+![On-Demand Data Retrieval](/assets/img/2012/11/on-demand-data-retrieval2-1.jpg)
 
 In the old version of Team Explorer, when we opened a team project, we had to wait for all files to load and download (e.g., Reports, SharePoint documents). In this version of Team Explorer, nothing will be loaded until needed. It works like the paging concept when displaying many records. Once we request the next page, it connects and brings what we need.
 
 **4. Smart Commands and Context-Driven**
 
-![Smart Commands Context-Driven](/assets/images/2012/11/smart-commands-context-driven2-1.jpg)
+![Smart Commands Context-Driven](/assets/img/2012/11/smart-commands-context-driven2-1.jpg)
 
 There is a reduction in right-click commands by exposing them and making them intelligent. For example, the check-in policy violation section will not show up if there are no violations. If there are violations, it will appear. Many commands will not appear if there is no need for them.
 
 **5. Reducing Modality**
 
-![Reduce Modality](/assets/images/2012/11/reduce-modality2-1.jpg)
+![Reduce Modality](/assets/img/2012/11/reduce-modality2-1.jpg)
 
 One of the things we really dislike is modal dialog boxes that show up and prevent us from doing anything else. There have been many improvements to reduce modality as much as possible. For example, the check-in pending change will not be modal anymore, so we don’t need to wait for all our files to be checked in before starting to use Visual Studio. Now, we can use Visual Studio while the code is being checked in.
 
@@ -131,15 +131,15 @@ To enhance performance, Microsoft has worked hard to move long-running tasks to 
 
 **7. Rollback in the UI**
 
-![Rollback 2](/assets/images/2012/11/rollback-2-1.png)
+![Rollback 2](/assets/img/2012/11/rollback-2-1.png)
 
-![Rollback 3](/assets/images/2012/11/rollback-3.png)
+![Rollback 3](/assets/img/2012/11/rollback-3.png)
 
 It’s no longer part of the Power Tool as a third-party library; it is now built-in.
 
 **The project settings now also look different**
 
-![Team Project Settings](/assets/images/2012/11/team-project-settings.jpg)
+![Team Project Settings](/assets/img/2012/11/team-project-settings.jpg)
 
 **Summary:** Team Explorer is one of the major changes in TFS 2012, with many new features and enhancements that cannot be covered in one or two posts. As a summary, Team Explorer offers a different experience with many changes. This post just highlights the main and significant changes of the new experience introduced in Team Explorer.
 

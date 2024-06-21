@@ -15,13 +15,13 @@ Make the cash outside the project folder for better with source control so you d
 these files (cash) and you don't need them so you can have good and clear comparison But remember its better that if you delete your solution or project to delete the corresponding cash, since it will not
 deleted because it's not inside the project folder anymore
 
-![ResharperCash](/assets/images/2010/12/ResharperCash.jpg)
+![ResharperCash](/assets/img/2010/12/ResharperCash.jpg)
 
 - Shortcut and integration with Visual Studio
 
 I choose ReSharper 2.x / IDEA scheme inspired by the community it may more fit with Java but I choose it and become familiar with it
 
-![ResharperShortCutScheme](/assets/images/2010/12/ResharperShortCutScheme.png)
+![ResharperShortCutScheme](/assets/img/2010/12/ResharperShortCutScheme.png)
 
 you can download it from here [http://www.jetbrains.com/resharper/documentation/documentation.html](http://www.jetbrains.com/resharper/documentation/documentation.html "Shortcuts download")
 
@@ -30,24 +30,24 @@ you can download it from here [http://www.jetbrains.com/resharper/documentation/
 
 Actually I didn\'t prefer this I used to use it and when the auto insert parentheses come you can\'t see the method signature and this not good for me
 
-![ResharperAutoInsertPairParentheses](/assets/images/2010/12/ResharperAutoInsertPairParentheses.jpg)
+![ResharperAutoInsertPairParentheses](/assets/img/2010/12/ResharperAutoInsertPairParentheses.jpg)
 
-![VisualStudioCurrentLineColor](/assets/images/2010/12/VisualStudioCurrentLineColor.png)
+![VisualStudioCurrentLineColor](/assets/img/2010/12/VisualStudioCurrentLineColor.png)
 
 - IntelliSence
 
 I prefer visual studio IntelliSence
 
-![ResharperIntelliSence](/assets/images/2010/12/ResharperIntelliSence.png)
+![ResharperIntelliSence](/assets/img/2010/12/ResharperIntelliSence.png)
 
 - Complete code behavior
 
-![ResharperAutomaticallyInsertParentheses](/assets/images/2010/12/ResharperAutomaticallyInsertParentheses.jpg)
+![ResharperAutomaticallyInsertParentheses](/assets/img/2010/12/ResharperAutomaticallyInsertParentheses.jpg)
 
 - Line wrapping
 
-![ResharperLineWrapping](/assets/images/2010/12/ResharperLineWrapping.png)
+![ResharperLineWrapping](/assets/img/2010/12/ResharperLineWrapping.png)
 
 - Add using Namespaces
 
-![ResharperNameSpaceImports](/assets/images/2010/12/ResharperNameSpaceImports.png)
+![ResharperNameSpaceImports](/assets/img/2010/12/ResharperNameSpaceImports.png)

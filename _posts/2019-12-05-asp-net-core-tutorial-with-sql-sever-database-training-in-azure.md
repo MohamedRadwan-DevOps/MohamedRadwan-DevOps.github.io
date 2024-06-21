@@ -28,7 +28,7 @@ The first step is to create the first Resource Group. The [Resource Group](https
 
 So, the first Resource Group I will create will contain the main virtual machine that I will use in the demo. This will help you get a better understanding of how to configure and prepare your client machine to run the ASP.NET Core application.
 
-![ASP.NET-And-Entity-Framework-With-Azure](/assets/images/2019/12/ASP.NET-And-Entity-Framework-With-Azure.gif)
+![ASP.NET-And-Entity-Framework-With-Azure](/assets/img/2019/12/ASP.NET-And-Entity-Framework-With-Azure.gif)
 
 ## Install all the prerequisites {#_Toc26481761}
 

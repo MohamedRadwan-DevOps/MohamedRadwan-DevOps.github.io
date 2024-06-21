@@ -19,9 +19,9 @@ When we start thinking about **SDLC** (Software Development Life Cycle) and [**D
 
 It\'s a tool that can reversibly decompose a Microsoft Dynamics 365 compressed solution file into multiple XML files and other files so that these files can be easily managed by a source control system. When we export CRM solution from CRM, it\'s compressed into a few files but with large content for each file. The main reason for exporting the CRM solution is to import it to another CRM org or instance, so there is no need to have well-structured files. But when we talk about understanding the change and working as a team, we would like to keep that under source control. So, it\'s better if we structure those files well into many files which will be easy and manageable to see the changes by others in each file. Each file may represent an item so we can track changes. See the following images:
 
-![CRM SolutionPackager](/assets/images/2018/07/CRM-SolutionPackager-1024x478.png)
+![CRM SolutionPackager](/assets/img/2018/07/CRM-SolutionPackager-1024x478.png)
 
-![CRM SolutionPackager workflow](/assets/images/2018/07/CRM-SolutionPackager-workflow-1024x634.png)
+![CRM SolutionPackager workflow](/assets/img/2018/07/CRM-SolutionPackager-workflow-1024x634.png)
 
 <https://msdn.microsoft.com/en-gb/library/jj602987.aspx>
 <https://msdn.microsoft.com/en-gb/library/jj602974.aspx>
@@ -36,11 +36,11 @@ It\'s a tool that can reversibly decompose a Microsoft Dynamics 365 compressed s
 
 It\'s a tool that moves configuration data across Microsoft Dynamics 365 instances and organizations. Configuration data is different from end-user data (account, contacts, and so on). While this tool is used for moving configuration data, it also moves user data as well, so you can think of the data as mixed between configuration data and user data. It also uses the GUID of the data which is very important to keep GUIDs the same across multiple CRM instances. This is a very important point, if you have, for example, a workflow that references some data, behind the scenes, it uses the GUID of that data and if we have the same data in 2 different CRM instances they will not work as the GUID is not the same. See the following images:
 
-![CRM Configuration Migration](/assets/images/2018/07/CRM-Configuration-Migration-1024x562.png)
+![CRM Configuration Migration](/assets/img/2018/07/CRM-Configuration-Migration-1024x562.png)
 
-![CRM Configuration Migration workflow](/assets/images/2018/07/CRM-Configuration-Migration-workflow-1024x716.png)
+![CRM Configuration Migration workflow](/assets/img/2018/07/CRM-Configuration-Migration-workflow-1024x716.png)
 
-![CRM Configuration Migration process and files](/assets/images/2018/07/CRM-Configuration-Migration-process-and-files.png)
+![CRM Configuration Migration process and files](/assets/img/2018/07/CRM-Configuration-Migration-process-and-files.png)
 
 <https://technet.microsoft.com/library/dn647421.aspx>
 
@@ -62,9 +62,9 @@ It\'s a tool to deploy packages on Microsoft Dynamics 365. A package can consist
 
 See the following images:
 
-![CRM Package Deployer](/assets/images/2018/07/CRM-Package-Deployer-1024x529.png)
+![CRM Package Deployer](/assets/img/2018/07/CRM-Package-Deployer-1024x529.png)
 
-![CRM Package Deployer workflow](/assets/images/2018/07/CRM-Package-Deployer-workflow-1024x550.png)
+![CRM Package Deployer workflow](/assets/img/2018/07/CRM-Package-Deployer-workflow-1024x550.png)
 <https://msdn.microsoft.com/en-gb/library/dn688182.aspx>
 <https://technet.microsoft.com/en-us/library/dn647420.aspx>
 

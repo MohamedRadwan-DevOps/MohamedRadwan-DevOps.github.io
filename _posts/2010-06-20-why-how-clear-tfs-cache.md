@@ -14,7 +14,7 @@ to that one that have this project.
 
 So all you have to do just clear the cache example of the error that could occur the following error
 
-![CacheError](/assets/images/2010/05/CacheError.png)
+![CacheError](/assets/img/2010/05/CacheError.png)
 
 For example I clear my cache from the following path [**For Visual Studio
 cache:**]

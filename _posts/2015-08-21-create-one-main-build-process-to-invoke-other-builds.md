@@ -22,7 +22,7 @@ A third-party library isn't needed to do so, all I had to do is to edit the defa
 
 I copied the build process and removed most of the [activities](https://msdn.microsoft.com/en-us/library/gg265783(v=vs.110).aspx), [variables](https://www.visualstudio.com/en-us/docs/build/define/variables), and arguments and did some modifications; the following is an image of all the processes, and I will explain what happens in each section:
 
-[![1- Master TFS Build Process](/assets/images/2015/08/master-build-run-other-builds-all-the-process.jpg "1- Master TFS Build Process")](/assets/images/2015/08/master-build-run-other-builds-all-the-process.jpg)
+[![1- Master TFS Build Process](/assets/img/2015/08/master-build-run-other-builds-all-the-process.jpg "1- Master TFS Build Process")](/assets/img/2015/08/master-build-run-other-builds-all-the-process.jpg)
 
 You can see **[this video](https://www.youtube.com/watch?v=vev3Czaa1pA)**, if you would like to find more information about a walkthrough introducing the Release Management and Build Automation using TFS 2017/2015. Step by step about all process, starting from creating the project, check in the code in the source control, create a build definition and trigger the build, and also create a release pipeline. Learn how to configure properly the build steps, including Copy Files and Publish Build Artifacts. See how to create new release definition, add environments and link to build definition. Afterwards see how to add tasks to the release definition, like Windows Machine File Copy and configure it properly.
 
@@ -30,7 +30,7 @@ You can see **[this video](https://www.youtube.com/watch?v=vev3Czaa1pA)**, if yo
 
 Here is the [Build definition](https://www.visualstudio.com/en-us/docs/build/define/create) that uses the process; it only has 4 arguments, and we can see that the **build definition arguments** are a list of **strings** so we can point to many builds as needed. Also, we have the option to run builds in sequence if builds depend on each other, or disable in the case of no dependencies. 
 
-[![2- Master TFS Build Process: Build Definition](/assets/images/2015/08/master-build-run-other-builds-build-definition.png "2- Master TFS Build Process: Build Definition")](/assets/images/2015/08/master-build-run-other-builds-build-definition.png)
+[![2- Master TFS Build Process: Build Definition](/assets/img/2015/08/master-build-run-other-builds-build-definition.png "2- Master TFS Build Process: Build Definition")](/assets/img/2015/08/master-build-run-other-builds-build-definition.png)
 
 ### More Info {#info}
 
@@ -40,7 +40,7 @@ Read about basic guidelines that you need to consider when building a **product 
 
 In the following section, I just added a **loop** for each that iterates over the list of given builds and invokes each one. Note here that I check if we want to run the build in sequence, see the next step.
 
-[![3- Master TFS Build Process: Looped Build Invocation](/assets/images/2015/08/run-other-workflow-tfsbuild-for-each-build-definitions.png "3- Master TFS Build Process: Looped Build Invocation")](/assets/images/2015/08/run-other-workflow-tfsbuild-for-each-build-definitions.png)
+[![3- Master TFS Build Process: Looped Build Invocation](/assets/img/2015/08/run-other-workflow-tfsbuild-for-each-build-definitions.png "3- Master TFS Build Process: Looped Build Invocation")](/assets/img/2015/08/run-other-workflow-tfsbuild-for-each-build-definitions.png)
 
 ### You can see **[this video](https://www.youtube.com/watch?v=tfWCYXxeTmc)**
 
@@ -52,7 +52,7 @@ Afterwards I am going to commit EasyRepo UI Automation framework in Team Explore
 
 If we want to run the build in a sequence (the condition is true) to make each build depend on the previous build status, so that if one build fails then the main build will stop and fail. To do this, I wait until the build is finished and change the main build status (success or fail) and if it fails then the main build will stop and fail (**ThrowOnError**), if it succeeds, it goes to the next iteration in the loop (waits for the next build).
 
-[![4- Master TFS Build Process: Build Sequence](/assets/images/2015/08/run-build-in-sequence-wait-for-build-and-set-build-status.png "4- Master TFS Build Process: Build Sequence")](/assets/images/2015/08/run-build-in-sequence-wait-for-build-and-set-build-status.png)
+[![4- Master TFS Build Process: Build Sequence](/assets/img/2015/08/run-build-in-sequence-wait-for-build-and-set-build-status.png "4- Master TFS Build Process: Build Sequence")](/assets/img/2015/08/run-build-in-sequence-wait-for-build-and-set-build-status.png)
 
 >If you would like to start using [Visual Studio](https://www.visualstudio.com/) for developing, read the details about its installation, launching and creating a new project in my post [Get Started Developing with Visual Studio](https://mohamedradwan-devops.github.io/posts/get-started-developing-with-visual-studio-2015/). If you prefer to use Mac, see how it looks in [Visual Studio for Mac](https://mohamedradwan-devops.github.io/posts/visual-studio-for-mac/) post.
 {: .prompt-tip }
@@ -61,7 +61,7 @@ If we want to run the build in a sequence (the condition is true) to make each b
 
 If we don't want to run the build in sequence (condition is false), we just need to [trigger](https://www.visualstudio.com/en-us/docs/build/define/triggers) all builds with no dependencies; this means the main build always succeeds even if other child builds fail because it's not dependent on them. The main build may even finish while other builds are still running, so I made the main build wait for the last triggered build in the loop; but if the last build finishes before a previous one, the main build will finish before all of the builds are finished, so I changed (**ThrowOnError**) to be false so the main build will not fail if the last build fails.
  
-[![5- Master TFS Build Process: Build with No Dependencies](/assets/images/2015/08/wait-for-the-last-build-and-success-the-build-whenever.png "5- Master TFS Build Process: Build with No Dependencies")](/assets/images/2015/08/wait-for-the-last-build-and-success-the-build-whenever.png)
+[![5- Master TFS Build Process: Build with No Dependencies](/assets/img/2015/08/wait-for-the-last-build-and-success-the-build-whenever.png "5- Master TFS Build Process: Build with No Dependencies")](/assets/img/2015/08/wait-for-the-last-build-and-success-the-build-whenever.png)
 
 ### Download the Process Template {#Download}
 

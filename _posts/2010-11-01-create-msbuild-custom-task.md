@@ -49,12 +49,12 @@ namespace CustomTask
 
 - Add new Target called MyTarget and start using the task
 
-[![Use your custom task](/assets/images/2010/10/ProjectFile.png)](/assets/images/2010/10/ProjectFile.png)
+[![Use your custom task](/assets/img/2010/10/ProjectFile.png)](/assets/img/2010/10/ProjectFile.png)
 
 
 - Open Visual studio CMD and go the project file path and run MSBuild and that\'s it
 
-[![Run MSBuild for the project](/assets/images/2010/10/CMD.png)](/assets/images/2010/10/CMD.png)
+[![Run MSBuild for the project](/assets/img/2010/10/CMD.png)](/assets/img/2010/10/CMD.png)
 
 - Run MSBuild for the project\[/caption\] To download the project just click [here](http://cid-4bcaa16d27b46600.office.live.com/self.aspx/Blog%20New%20Docs%20only/UseTask.zip "CustomTask Project")
   

@@ -9,4 +9,4 @@ When I start install my first TFS 2010 I search how to assign "Log on as a Servi
 > This for Workgroup installation.
 {: .prompt-info }
 
-[![Log on as a Service](/assets/images/2010/05/log-on-as-a-service.jpg)](/assets/images/2010/05/log-on-as-a-service.jpg)
+[![Log on as a Service](/assets/img/2010/05/log-on-as-a-service.jpg)](/assets/img/2010/05/log-on-as-a-service.jpg)

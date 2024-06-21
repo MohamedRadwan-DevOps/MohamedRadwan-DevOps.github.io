@@ -8,22 +8,22 @@ GitHub is where developers come to learn and celebrate what's new in open source
 
 From your GitHub repository, after clicking on the Releases button, we can immediately see the new UI with all new releases. For each release, we can see the contributors' highlighted names and also all first-time contributors to the project will be recognized. All of the pull requests that are part of the release are automatically identified and a short summary is created for each of them. Also, we can see notes that were being automatically generated. This is the view with the new design Releases (shown on Image 1), which is pretty much different from the older one named Tags.
 
-![Image 1 - New view Releases](/assets/images/2021/10/Image-1-New-view-Releases-1024x488.png)
+![Image 1 - New view Releases](/assets/img/2021/10/Image-1-New-view-Releases-1024x488.png)
 Image 1 - New view Releases
 
 In this example, I have a repository in which a configuration is used, release.yml (shown on Image 2), in order to do a slightly more advanced form of release notes. In this configuration file, individual categories are created with titles and labels, in order to sort the content in these categories. There is also a special label star "*" which should match anything that didn't match other labels.
 
-![Image 2 - Configuration file release.yml](/assets/images/2021/10/Image-2-Configuration-file-release.yml_.png)
+![Image 2 - Configuration file release.yml](/assets/img/2021/10/Image-2-Configuration-file-release.yml_.png)
 Image 2 - Configuration file release.yml
 
 In order to draft a new release, I will go into the Releases view (shown on Image 3), choose one of the existing tags or create a new one (you can also search for your tag by typing).
 
-![Image 3 - Auto-generate release notes](/assets/images/2021/10/Image-3-Auto-generate-release-notes-1024x459.png)
+![Image 3 - Auto-generate release notes](/assets/img/2021/10/Image-3-Auto-generate-release-notes-1024x459.png)
 Image 3 - Auto-generate release notes
 
 Clicking on the +Auto-generate release notes button will automatically generate a preview of our release notes. By going in the Preview tab (shown on Image 4), we can see the Title for our release, all different changes divided into categories like Breaking Changes, Bug fixes, Other changes, defined by us in the *release.yml* configuration file.
 
-![Image 4 - Preview of the automatically generated release notes](/assets/images/2021/10/Image-4-Preview-of-the-automatically-generated-release-notes-1024x518.png)
+![Image 4 - Preview of the automatically generated release notes](/assets/img/2021/10/Image-4-Preview-of-the-automatically-generated-release-notes-1024x518.png)
 Image 4 - Preview of the automatically generated release notes
 
 And now only by clicking Publish release, simple as that, we got our release notes automatically generated and published. In addition, the Releases UI with its new look gives communities the chance to celebrate those who contributed to each release by displaying the profile pictures of all contributors. Anyone on GitHub.com can react to releases with emoji or click to sponsor a project they wish to support.

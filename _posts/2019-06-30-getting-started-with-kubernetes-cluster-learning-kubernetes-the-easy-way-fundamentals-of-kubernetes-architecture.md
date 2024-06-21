@@ -18,13 +18,13 @@ Kubernetes is rapidly turning into the new standard for sending and overseeing p
 
 ### Node
 
-![Kubernetes cluster Node components, Pod, volume, containerized app](/assets/images/2019/06/Node-1024x878.jpg)
+![Kubernetes cluster Node components, Pod, volume, containerized app](/assets/img/2019/06/Node-1024x878.jpg)
 
 A node is the littlest unit of registering equipment in Kubernetes. It is a portrayal of a solitary machine in your cluster. In most creation frameworks, a node will probably be either a physical machine in a data center or virtual machine facilitated on cloud supplier like Google Cloud Platform. Try not to give shows a chance to restrict you, in any case; in principle, you can make a node out of nearly anything. Thinking about a machine as a "node" enables us to embed a layer of deliberation. Presently, rather than stressing over the one of a kind attributes of any individual machine, we can rather just view each machine like a lot of CPU and RAM assets that can be used. Along these lines, any machine can substitute some other machine in a Kubernetes cluster. For more info about [Kubernetes cluster docs](https://kubernetes.io/docs/concepts/).
 
 ### The Cluster
 
-![Kubernetes Cluster includes Node, Master and node processes](/assets/images/2019/06/Cluster-1024x828.jpg)
+![Kubernetes Cluster includes Node, Master and node processes](/assets/img/2019/06/Cluster-1024x828.jpg)
 
 Working with individual nodes can be valuable, it's not the Kubernetes way. All in all, you should consider the cluster an entire, rather than agonizing over the condition of individual nodes. In Kubernetes, nodes pool together their assets to frame an all the more dominant machine. When you send programs onto the cluster, it astutely handles distributing work to the individual nodes for you. If any nodes are added or removed, the cluster will move around work as necessary. It shouldn't make any difference to the program, or the developer, which individual machines are actually running the code. If this sort of hivemind-like framework helps you to remember the Borg from Star Trek, you're not the only one; "Borg" is the name for the inward Google venture Kubernetes depended on.
 

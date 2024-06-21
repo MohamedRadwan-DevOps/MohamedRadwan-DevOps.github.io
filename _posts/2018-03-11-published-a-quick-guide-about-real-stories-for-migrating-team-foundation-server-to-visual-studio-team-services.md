@@ -13,7 +13,7 @@ See more about the two different process models supported by VSTS: Inherited and
 {: .prompt-tip }
 {% include embed/youtube.html id='7C6LG6k4wcU' %}
 
-![3-D Cover](/assets/images/2018/03/3-D-Cover.png)[Download the guide](https://gallery.technet.microsoft.com/Real-stories-for-migrating-11357e61)
+![3-D Cover](/assets/img/2018/03/3-D-Cover.png)[Download the guide](https://gallery.technet.microsoft.com/Real-stories-for-migrating-11357e61)
 
 >If the migration demands high fidelity for work items, the post [TFS 2017 Migration To VSTS with VSTS Sync Migrator](https://mohamedradwan-devops.github.io/posts/tfs-2017-migration-to-vsts-with-vsts-sync-migrator/) describes the migration without any limitations for migrating links and attachments.
 {: .prompt-info }

@@ -4,7 +4,7 @@ title: "Free your mind....!"
 date:   2012-10-09 08:34:18 +0100
 ---
 
-[![](/assets/images/2012/10/dont-think-who-you-are-know-you-are-mohamed-radwan-mvp-visual-studio.jpg "Dont-think-who-you-are-know-you-are-Mohamed-Radwan-MVP-Visual-Studio")](/assets/images/2012/10/dont-think-who-you-are-know-you-are-mohamed-radwan-mvp-visual-studio.jpg)
+[![](/assets/img/2012/10/dont-think-who-you-are-know-you-are-mohamed-radwan-mvp-visual-studio.jpg "Dont-think-who-you-are-know-you-are-Mohamed-Radwan-MVP-Visual-Studio")](/assets/img/2012/10/dont-think-who-you-are-know-you-are-mohamed-radwan-mvp-visual-studio.jpg)
 
 - Don't think who you are... Know you are.. Free your Mind!
 

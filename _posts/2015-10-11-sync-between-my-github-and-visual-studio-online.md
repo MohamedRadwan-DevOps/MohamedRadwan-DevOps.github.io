@@ -17,7 +17,7 @@ This post will describe how to sync a project between [GitHub](https://github.co
 2. You will see the list of all options, from which choose **Alternate authentication credentials**, which will allow access for other applications outside the browser. 
 3. Mark the checkbox to **Enable alternate authentication credentials**.
    
-![1-Alternate Authentication Credentials Visual Studio Online](/assets/images/2016/06/1-Alternate-Authentication-Credentials-Visual-Studio-Online.png "1-Alternate Authentication Credentials Visual Studio Online")
+![1-Alternate Authentication Credentials Visual Studio Online](/assets/img/2016/06/1-Alternate-Authentication-Credentials-Visual-Studio-Online.png "1-Alternate Authentication Credentials Visual Studio Online")
 
 > You can see the following video, if you would like to find more information about how to install Visual Studio 2017 and point to some tricky components. See which Workloads need to be installed and which Individual Components need to be selected additionally. See how to install another Edition of Visual Studio and just put a different nickname in order to distinguish installed editions.
 {: .prompt-info }
@@ -31,15 +31,15 @@ To see which remote servers you have configured, you can run the **\<git remote\
 
 1. Open the command line to that local repo and type: `\<git remote add github https://github.com/Codeflyers/EC-GitHub\>`
    
-![2-1 Adding remote repo github](/assets/images/2016/06/2-1-Adding-remote-repo-github.png "2-1 Adding remote repo github")
+![2-1 Adding remote repo github](/assets/img/2016/06/2-1-Adding-remote-repo-github.png "2-1 Adding remote repo github")
 
 2. **Select the local branch by double-click** (not from remotes) and make sure it's **bold**. 
    
-![2-2 Adding remote repo github and select origin branch on git](/assets/images/2016/06/2-2-Adding-remote-repo-github-and-select-origin-branch-on-git-278x300-1.jpg "2-2 Adding remote repo github and select origin branch on git")
+![2-2 Adding remote repo github and select origin branch on git](/assets/img/2016/06/2-2-Adding-remote-repo-github-and-select-origin-branch-on-git-278x300-1.jpg "2-2 Adding remote repo github and select origin branch on git")
 
 3. You can also use the **command line instead** of **Visual Studio**, just type **\<git checkout\>** and type the needed branch. If you look at **Visual Studio**, you will notice that it's also **bold**.
    
-![2-3 Adding remote repo git checkout branch](/assets/images/2016/06/2-3-Adding-remote-repo-git-checkout-branch-1.png "2-3 Adding remote repo git checkout branch")
+![2-3 Adding remote repo git checkout branch](/assets/img/2016/06/2-3-Adding-remote-repo-git-checkout-branch-1.png "2-3 Adding remote repo git checkout branch")
 
 [Video]{.ion-video}You can see **[this video](https://www.youtube.com/watch?v=4P7QW1C4bRo)**, if you would like to find more information about how to import Git Repository from one VSTS account/project to another VSTS account/project using the Import feature. See how to import on the existing repository or create a new one. Also, see how to create a personal access token in order to be able to import the repository.
 
@@ -51,11 +51,11 @@ Use the **\<git pull\>** command to automatically fetch and then merge that remo
 
 1. Type command **\<git pull github dev\>**. 
    
-![3-1 Pull from the needed branch github](/assets/images/2016/06/3-1-Pull-from-the-needed-branch-github-1.png "3-1 Pull from the needed branch github")
+![3-1 Pull from the needed branch github](/assets/img/2016/06/3-1-Pull-from-the-needed-branch-github-1.png "3-1 Pull from the needed branch github")
 
 2. Now when the project is at a point that you want to **share it**, you have to **push** it upstream. Type command: **\<git push origin dev\>**. 
    
-![3-2 git Push origin to the Visual Studio Online](/assets/images/2016/06/3-2-git-Push-origin-to-the-Visual-Studio-Online.png "3-2 git Push origin to the Visual Studio Online")
+![3-2 git Push origin to the Visual Studio Online](/assets/img/2016/06/3-2-git-Push-origin-to-the-Visual-Studio-Online.png "3-2 git Push origin to the Visual Studio Online")
 
 > If you would like to learn more about using the [Build Variables](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/build/variables?tabs=batch) in [VSTS](https://www.visualstudio.com/team-services/) and Release Management, - have a look at the following post: [VSTS Build variables and Echo](https://mohamedradwan-devops.github.io/posts/vsts-build-variables-and-echo/). The post describes how to see the output at any point in time while automating a process, through setting variables and displaying them during the build.
 {: .prompt-info }

@@ -36,7 +36,7 @@ After that, we will see how to uninstall or remove Azure Pipelines agent from th
 
 ## Azure Pipelines hosted agent vs self-hosted agent or private agent {#_Toc20854032}
 
-![Azure Pipelines Hosted Agent VS. Self-Hosted Agent (Private)](/assets/images/2019/10/Hosted-Agent-VS.-Self-Hosted-Agent-Private-1024x578.png)
+![Azure Pipelines Hosted Agent VS. Self-Hosted Agent (Private)](/assets/img/2019/10/Hosted-Agent-VS.-Self-Hosted-Agent-Private-1024x578.png)
 
 Azure Pipelines Hosted Agent VS. Self-Hosted Agent (Private)
 
@@ -51,7 +51,7 @@ On the other side, Azure Pipelines self-hosted agent is a private agent that cou
 
 ## Azure Pipelines configuration comparison
 
-![Azure Pipelines Configuration Comparison](/assets/images/2019/10/Azure-Pipelines-Configuration-Comparison-1024x572.png)
+![Azure Pipelines Configuration Comparison](/assets/img/2019/10/Azure-Pipelines-Configuration-Comparison-1024x572.png)
 
 If we look at the Azure Pipelines hosted agent, it's ready-made images. So, we have the operating system and the applications on each image. The current images are the following:
 
@@ -71,7 +71,7 @@ Of course, if this agent is a machine on the cloud, I may use a template with th
 
 ## Azure Pipelines characteristics comparison
 
-![Azure Pipelines Characteristics Comparison](/assets/images/2019/10/Azure-Pipelines-Characteristics-Comparison-1024x571.png)
+![Azure Pipelines Characteristics Comparison](/assets/img/2019/10/Azure-Pipelines-Characteristics-Comparison-1024x571.png)
 
 If we look at the Azure Pipelines hosted agent, I don't need to worry about patches and updates because the hosted agent is provided as a service. I consume them; I don't manage them. So, I don't need to worry about any updates or patches for this machine.
 
@@ -101,7 +101,7 @@ Let me give you an example. If you remember when we design the class and we want
 
 ## Azure Pipelines Demo workflow 
 
-![Azure Pipelines Demo work flow](/assets/images/2019/10/Azure-Pipelines-Demo-Workflow-1024x574.png)
+![Azure Pipelines Demo work flow](/assets/img/2019/10/Azure-Pipelines-Demo-Workflow-1024x574.png)
 
 ### Azure Pipelines Demo workflow
 

@@ -22,7 +22,7 @@ From the main lab panel, you can directly select a **virtual machine (VM)** that
 
 The first thing that can be set for the lab is **quotas**. In the quota settings, you can set a monthly budget, the maximum amount of VMs per user, and the maximum allowable VMs for the lab. For the budget, there is a **usage chart** that displays how much has already been spent, when it was spent, how much of the budget is remaining, and a projected out-of-budget date based on the usage history.
 
-![1-Virtual Machine Usage Chart in Azure DevTest Labs](/assets/images/2016/07/1-Virtual-Machine-Usage-Chart-in-Azure-DevTest-Labs.jpg "1-Virtual Machine Usage Chart in Azure DevTest Labs")
+![1-Virtual Machine Usage Chart in Azure DevTest Labs](/assets/img/2016/07/1-Virtual-Machine-Usage-Chart-in-Azure-DevTest-Labs.jpg "1-Virtual Machine Usage Chart in Azure DevTest Labs")
 
 >If you are in a situation where you need to integrate two backlogs, read the step-by-step post about [Two Backlog Integration](https://mohamedradwan-devops.github.io/2017/10/21/trello-vsts-integration/) in which I provide a detailed description of the integration between [**Trello**](https://trello.com/) and [**VSTS**](https://www.visualstudio.com/team-services/) using [Zapier](https://zapier.com/).
 {: .prompt-tip }
@@ -55,7 +55,7 @@ Artifacts are components and tools that you have associated with your lab. From 
 3. Browse or upload the **Script**. The script is the most critical field, as it needs to actually install the desired component. For specific install instructions, the parameters can be set accordingly. Once the script is written and the artifact is created, though, it can be reused by the teams for as many **VM** setups as needed.
 4. Choose the right **Parameters**, such as Name, Default Value, Type, and mark the checkbox if this parameter is required or not.
 
-![3-DevTest Labs New Artifact Form](/assets/images/2016/07/3-DevTest-Labs-New-Artifact-Form.jpg "3-DevTest Labs New Artifact Form")
+![3-DevTest Labs New Artifact Form](/assets/img/2016/07/3-DevTest-Labs-New-Artifact-Form.jpg "3-DevTest Labs New Artifact Form")
 
 If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration, and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
 {: .prompt-tip }
@@ -72,13 +72,13 @@ The **templates** are exactly as they sound - a formatted set of standardized fe
 2. You\'ll also have to select a **VM size** as the standard for that specific template.
 3. In **artifacts**, you can select the artifacts that you want associated with the template and the OS.
 
-![4-DevTest Labs New Template](/assets/images/2016/07/4-DevTest-Labs-New-Template.jpg "4-DevTest Labs New Template")
+![4-DevTest Labs New Template](/assets/img/2016/07/4-DevTest-Labs-New-Template.jpg "4-DevTest Labs New Template")
 
 ### Scheduled Shutdowns
 
 When you\'re ready to create the new **VM**, there is an option to opt out of a [scheduled shutdown](https://mohamedradwan-devops.github.io/posts/microsoft-azure-scheduled-vm-shutdown-with-azure-automation/) for the VM. This is something to consider when running multiple VMs and **test environments**, because some may need to be continuously running to handle information, while others may not. **Policies** can be set for both idle shutdowns and scheduled shutdowns. So if a VM is not being actively used for a given amount of time, it will shut down and save operating costs. The same can be set so that at a certain time, the VM will always shut down. If this is done, you\'ll need to set a restart time as well or manually restart it. It should be noted that you will lose memory state after a shutdown, so plan the Dev and Test team should plan accordingly. **VM statuses** can also be monitored through DevTest Lab, showing how many are active, idle, and shutdown at given times. This can be reviewed to see if **policies** or usages should be adjusted for operational efficiency, amongst other uses.
 
-![5-Virtual Machine Status Chart](/assets/images/2016/07/5-Virtual-Machine-Status-Chart.jpg)
+![5-Virtual Machine Status Chart](/assets/img/2016/07/5-Virtual-Machine-Status-Chart.jpg)
 
 >If you would like to know more about this new developer service available on the [Azure](https://azure.microsoft.com/en-gb/) platform, you can have a look at the following post; [More about Azure DevTest Labs](https://mohamedradwan-devops.github.io/posts/more-about-azure-devtest-labs/). If you prefer a more concise description of the same feature, have a look at [Quick overview of Azure DevTest Labs](https://mohamedradwan-devops.github.io/2016/06/29/quick-overview-of-azure-devtest-labs/).
 {: .prompt-tip }

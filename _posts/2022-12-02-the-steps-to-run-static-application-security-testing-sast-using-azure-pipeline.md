@@ -14,7 +14,7 @@ remediation.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide2-1024x576.jpg"
+src="/assets/img/2023/03/Slide2-1024x576.jpg"
 class="wp-image-10685" />
 </figure>
 
@@ -23,7 +23,7 @@ to read more about the project.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide6-1024x576.jpg"
+src="/assets/img/2023/03/Slide6-1024x576.jpg"
 class="wp-image-10686" />
 </figure>
 
@@ -35,7 +35,7 @@ agents.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide12-1024x576.jpg"
+src="/assets/img/2023/03/Slide12-1024x576.jpg"
 class="wp-image-10687" />
 </figure>
 
@@ -46,7 +46,7 @@ you should select the Repo/App you want to scan
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide14-1024x576.jpg"
+src="/assets/img/2023/03/Slide14-1024x576.jpg"
 class="wp-image-10688" />
 </figure>
 
@@ -62,13 +62,13 @@ vulnerability risk
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide20-1024x576.jpg"
+src="/assets/img/2023/03/Slide20-1024x576.jpg"
 class="wp-image-10689" />
 </figure>
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide21-1024x576.jpg"
+src="/assets/img/2023/03/Slide21-1024x576.jpg"
 class="wp-image-10690" />
 </figure>
 
@@ -76,7 +76,7 @@ Also, you can check License risks.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/Slide22-1024x576.jpg"
+src="/assets/img/2023/03/Slide22-1024x576.jpg"
 class="wp-image-10691" />
 </figure>
 

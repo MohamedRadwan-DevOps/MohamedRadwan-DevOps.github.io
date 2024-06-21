@@ -38,7 +38,7 @@ For more information about how to work with **Docker**, such as pulling a Docker
 
 In the 3rd video, we will see how to use Agile and Scrum using Azure Boards. This includes managing the backlog, sprint planning, capacity planning, Scrum board, Kanban board, how to build a rich dashboard to track progress, and many others.
 
-![Agile and Scrum Planning using Azure Boards](/assets/images/2019/05/3.jpg)
+![Agile and Scrum Planning using Azure Boards](/assets/img/2019/05/3.jpg)
 
 ---
 
@@ -46,21 +46,21 @@ In the 3rd video, we will see how to use Agile and Scrum using Azure Boards. Thi
 
 In the 4th video, we will see how to work with source control using Azure Repos. This includes Git and TFVC, how to create new repos, import from and to Azure Repos, branch and merge, branch policies, pull requests, and many others.
 
-![Managing Source Code with Git using Azure Repos](/assets/images/2019/05/4.jpg)
+![Managing Source Code with Git using Azure Repos](/assets/img/2019/05/4.jpg)
 ---
 
 ### 5- Build Automation and Continuous Integration Using Azure Pipelines (coming soon...)
 
 In the 5th video, we will see how to work with build automation using Azure Pipelines, configure continuous integration, restore third-party packages, run unit tests, and build tasks. We will see how to use the build visual designer as well as YAML and many other features.
 
-![Build Automation and Continuous Integration using Azure Pipelines](/assets/images/2019/05/5.jpg)
+![Build Automation and Continuous Integration using Azure Pipelines](/assets/img/2019/05/5.jpg)
 ---
 
 ### 6- Managing Artifacts Repositories (NuGet, npm, Maven) Using Azure Artifacts (coming soon...)
 
 In the 6th video, we will see how to manage our package repositories using Azure Artifacts, including storing and using packages.
 
-![Managing Artifacts Repositories NuGet, npm, Maven using Azure Artifacts](/assets/images/2019/05/6.jpg)
+![Managing Artifacts Repositories NuGet, npm, Maven using Azure Artifacts](/assets/img/2019/05/6.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ In the 6th video, we will see how to manage our package repositories using Azure
 
 In the 7th video, we will see how to work with release management using Azure Pipelines. This includes creating different stages or environments, pre- and post-deployment approval, managing configuration, release gates to automate deployment approval, and many others.
 
-![Release Management and Continuous Deployment using Azure Pipelines](/assets/images/2019/05/7.jpg)
+![Release Management and Continuous Deployment using Azure Pipelines](/assets/img/2019/05/7.jpg)
 
 ---
 
@@ -76,7 +76,7 @@ In the 7th video, we will see how to work with release management using Azure Pi
 
 In the 8th video, we will see how to test and verify applications using Azure Test Plans. This includes creating test plans, creating test cases, executing test cases, running exploratory testing, and many others.
 
-![Test Planning with Manual Testing and Exploratory Testing using Azure Test Plans](/assets/images/2019/05/8.jpg)
+![Test Planning with Manual Testing and Exploratory Testing using Azure Test Plans](/assets/img/2019/05/8.jpg)
 ---
 
 Enjoy the series and transform your software development process with Azure DevOps!

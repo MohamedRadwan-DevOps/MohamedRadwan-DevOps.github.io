@@ -6,11 +6,11 @@ date:   2012-04-30 12:46:19 +0100
 
 It's coming to Egypt a day earlier this May 14th and 15th - so mark your calendars for two days of non-stop developer interaction and a chance to win some great prizes! Designed especially with software developers in mind, the conference promises to be a unique opportunity to get closer to the technical audience and get up to speed on the latest Microsoft technologies.
 
-[![MSDeveloperConf](/assets/images/2012/04/MSDeveloperConf.jpg)](/assets/images/2012/04/MSDeveloperConf.jpg)
+[![MSDeveloperConf](/assets/img/2012/04/MSDeveloperConf.jpg)](/assets/img/2012/04/MSDeveloperConf.jpg)
 
 # Agenda
 
-[![Agenda](/assets/images/2012/04/Agenda.png)](/assets/images/2012/04/Agenda.png)
+[![Agenda](/assets/img/2012/04/Agenda.png)](/assets/img/2012/04/Agenda.png)
 
 What to do before you come? You have the option of coming prepared with your pre-built Windows 8 applications or you can develop your own during the two days. Make sure you bring your laptop and download the below so your software is up to date. 
 

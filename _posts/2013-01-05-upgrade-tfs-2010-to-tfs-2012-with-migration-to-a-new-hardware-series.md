@@ -22,7 +22,7 @@ Each part consists of one or many sections as needed.
 
 All the series were enhanced and featured as a Complete Guide for **Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware**.
 
-![Book 3d-all-2 copy](/assets/images/2013/11/book-3d-all-2-copy.jpg?w=660)
+![Book 3d-all-2 copy](/assets/img/2013/11/book-3d-all-2-copy.jpg)
 
 [Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware Guide on CodePlex](https://upgradetfs2010totfs2012.codeplex.com/)
 

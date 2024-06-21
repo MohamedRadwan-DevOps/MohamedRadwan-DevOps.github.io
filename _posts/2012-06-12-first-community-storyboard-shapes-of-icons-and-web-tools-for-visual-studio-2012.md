@@ -25,7 +25,7 @@ Client](http://msdn.microsoft.com/en-us/library/hh301769(v=vs.110).aspx "Stakeho
 
 **First library, Font Awesome Icons**
 
-[![](/assets/images/2012/09/m-radwan-font-awesome-icons-storyboard.jpg "M.Radwan-Font-Awesome-Icons-Storyboard")](http://visualstudiogallery.msdn.microsoft.com/3a761c76-0b62-4e7f-806e-31cc76251b68)
+[![](/assets/img/2012/09/m-radwan-font-awesome-icons-storyboard.jpg "M.Radwan-Font-Awesome-Icons-Storyboard")](http://visualstudiogallery.msdn.microsoft.com/3a761c76-0b62-4e7f-806e-31cc76251b68)
 
 I like [Font
 Awesome](http://fortawesome.github.com/Font-Awesome/ "Font Awesome")
@@ -37,7 +37,7 @@ here](http://visualstudiogallery.msdn.microsoft.com/3a761c76-0b62-4e7f-806e-31cc
 
 **Second library, Web Tool**
 
-[![](/assets/images/2012/09/m-radwan-web-tools-storyboard.png "M.Radwan-Web-Tools-Storyboard")](http://visualstudiogallery.msdn.microsoft.com/a28356fd-ee91-4341-b5d1-06b0d0625330)
+[![](/assets/img/2012/09/m-radwan-web-tools-storyboard.png "M.Radwan-Web-Tools-Storyboard")](http://visualstudiogallery.msdn.microsoft.com/a28356fd-ee91-4341-b5d1-06b0d0625330)
 
 I have some ideas in Web that I believe we will need a lot in web
 projects, like block loaders, notification bars, modal forms,

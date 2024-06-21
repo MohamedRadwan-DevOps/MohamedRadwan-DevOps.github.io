@@ -16,9 +16,9 @@ When I completed upgrading my environment to [TFS 11 Beta](https://mohamedradwan
 
 As shown in the following images:
 
-![3-7-2012 11-31-58 PM](/assets/images/2012/03/3-7-2012-11-31-58-PM.png)
+![3-7-2012 11-31-58 PM](/assets/img/2012/03/3-7-2012-11-31-58-PM.png)
 
-![3-8-2012 10-31-52 PM](/assets/images/2012/03/3-8-2012-10-31-52-PM-1024x373.png)
+![3-8-2012 10-31-52 PM](/assets/img/2012/03/3-8-2012-10-31-52-PM-1024x373.png)
 
 This issue occurs because this page uses new work items that did not exist in the old project on the old TFS. If we create a new project, it's OK because we will use the new process, but for the existing project, we must update them manually. So we have to do the following:
 
@@ -34,7 +34,7 @@ updateProject CollectionURL ProjectName TemplateName
 
 See the following image 
 
-[![3-8-2012 10-59-14 PM](/assets/images/2012/03/3-8-2012-10-59-14-PM-1024x562.png)](/assets/images/2012/03/3-8-2012-10-59-14-PM.png)
+[![3-8-2012 10-59-14 PM](/assets/img/2012/03/3-8-2012-10-59-14-PM-1024x562.png)](/assets/img/2012/03/3-8-2012-10-59-14-PM.png)
 
 And this will import the new work items to my old project, remember that
 if we do customizing on the process template we will not be able to

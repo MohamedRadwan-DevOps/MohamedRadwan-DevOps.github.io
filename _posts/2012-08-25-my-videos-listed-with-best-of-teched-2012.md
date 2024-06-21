@@ -9,7 +9,7 @@ My first post of the series about [What\'s new in Team Foundation Server 2012](h
 listed with **Best of TechEd 2012** in [**Radio TFS**](http://www.radiotfs.com/Show/44/BestofTechEd2012 "Radio TFS"),
 thanks for Radio TFS.
 
-[![](/assets/images/2012/08/radi-tfs.png "Radi-TFS"){](/assets/images/2012/08/radi-tfs.png)
+[![](/assets/img/2012/08/radi-tfs.png "Radi-TFS"){](/assets/img/2012/08/radi-tfs.png)
 
 [Best of TechEd 2012 on Radio TFS](http://www.radiotfs.com/Show/44/BestofTechEd2012 "Best of TechEd 2012 on Radio TFS")
 

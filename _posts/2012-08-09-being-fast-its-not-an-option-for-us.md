@@ -10,7 +10,7 @@ how they are considered as one unit and breaking one could break all of
 them. Today I will talk about the following Principle: \"[**Get the
 fastest hardware you have ever had**]
 
-[![](/assets/images/2012/08/fast-hardware.jpg?w=300 "Fast Hardware")](/assets/images/2012/08/fast-hardware.jpg)
+[![](/assets/img/2012/08/fast-hardware.jpg?w=300 "Fast Hardware")](/assets/img/2012/08/fast-hardware.jpg)
 
 I can spend all the day talk about this principle but I will be
 summarized as much as I can,  if you want to understand some of
@@ -62,7 +62,7 @@ ALM
 
 !!!](https://mohamedradwan-devops.github.io/posts/fast-hardware-gives-marvel-alm/)
 
-[![](/assets/images/2012/08/items-3.jpg "Items-3")](https://mohamedradwan-devops.github.io/2012/08/09/fast-hardware-gives-marvel-alm/)
+[![](/assets/img/2012/08/items-3.jpg "Items-3")](https://mohamedradwan-devops.github.io/2012/08/09/fast-hardware-gives-marvel-alm/)
 
-[![](/assets/images/2012/08/radwan-server-jpg.jpg "Radwan-Server-jpg")](https://mohamedradwan-devops.github.io/2012/08/09/fast-hardware-gives-marvel-alm/)
+[![](/assets/img/2012/08/radwan-server-jpg.jpg "Radwan-Server-jpg")](https://mohamedradwan-devops.github.io/2012/08/09/fast-hardware-gives-marvel-alm/)
 

@@ -18,13 +18,13 @@ which are then in later phases reviewed and prioritized in the process known als
 
 **Sequential development** basically uses the waterfall method, which courses through a set of phases. In waterfall model of development, the team will finish each phase, before continuing with the next one. It requires a lot of organization and planning upfront and it\'s appropriate for big projects. **Iterative model** of development uses a short 2-3 week long sprints to finish a small portion of a project and then moves to next portion and so on. This model is incremental, delivers quickly, responds to changes and aims to get user feedback for each iteration. This model is using **Agile methodology**. 
 
-![1-waterfall-vs-agile software dev test](/assets/images/2016/12/1-Waterfall-vs-Agile-1-1.jpg "1-waterfall-vs-agile software dev test")
+![1-waterfall-vs-agile software dev test](/assets/img/2016/12/1-Waterfall-vs-Agile-1-1.jpg "1-waterfall-vs-agile software dev test")
 
 ## Software Testing Process
 
 **Software Testing Process** differs by used methodology, testing level and between organizations, but it will generally remain the same either the team is using Waterfall method or working by [Agile](http://agilemanifesto.org/). The process can be slightly different between different organizations. [Software Testing](https://msdn.microsoft.com/en-us/library/cc188960.aspx) is the whole process and doesn\'t represent just one activity that needs to be implemented. Each step of the process requires certain activities that should be followed in order to get the best results. 
 
-![2-software-testing-process](/assets/images/2016/12/2-Software-Testing-Process.png "2-software-testing-process")
+![2-software-testing-process](/assets/img/2016/12/2-Software-Testing-Process.png "2-software-testing-process")
 
 The same testing process can be applied to all levels of testing, considering internal modifications to fit into the certain level.
 

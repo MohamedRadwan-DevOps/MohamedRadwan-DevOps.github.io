@@ -16,7 +16,7 @@ Be aware that this tutorial will not cover any infrastructure as code. There are
 
 In this tutorial, I will use a sample project on GitHub named Pars-Unlimited that is developed in ASP.NET Core.
 
-[![Pipelines-as-YAML](/assets/images/2020/01/Pipelines-as-YAML.gif)](https://mohamedradwan-devops.github.io/posts/multi-stage-ci-cd-pipelines-as-code-using-yaml-and-azure-pipelines-tutorial-configuring-ci-cd-pipelines-as-code-with-yaml/pipelines-as-yaml/)
+[![Pipelines-as-YAML](/assets/img/2020/01/Pipelines-as-YAML.gif)](https://mohamedradwan-devops.github.io/posts/multi-stage-ci-cd-pipelines-as-code-using-yaml-and-azure-pipelines-tutorial-configuring-ci-cd-pipelines-as-code-with-yaml/pipelines-as-yaml/)
 
 ## Creating the infrastructure for the application manually
 

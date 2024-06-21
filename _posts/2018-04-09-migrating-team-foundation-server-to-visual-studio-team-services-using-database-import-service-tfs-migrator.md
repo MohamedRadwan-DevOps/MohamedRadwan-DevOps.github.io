@@ -20,7 +20,7 @@ migration as a walkthrough (you can download it from the following
 migration timeline shown in the following image. We will go through all
 of them.
 
-![Six phases of the Migration process of TFS to VSTS](/assets/images/2018/03/Six-phases-of-the-Migration-process-of-TFS-to-VSTS.jpg "Six phases of the Migration process of TFS to VSTS")
+![Six phases of the Migration process of TFS to VSTS](/assets/img/2018/03/Six-phases-of-the-Migration-process-of-TFS-to-VSTS.jpg "Six phases of the Migration process of TFS to VSTS")
 
 ## 1.Get started
 
@@ -92,7 +92,7 @@ TfsMigrator validate /collection:http://TFSServer:8080/tfs/CollectionName/
 Now we should review validation warnings and errors. I got the
 following messages displayed in the image below:
 
-![Start TFS Migrator validate using command line](/assets/images/2018/03/Start-TFS-Migrator-validate-using-command-line.png "Start TFS Migrator validate using command line")
+![Start TFS Migrator validate using command line](/assets/img/2018/03/Start-TFS-Migrator-validate-using-command-line.png "Start TFS Migrator validate using command line")
 
 As we can see on the image, I have one error that I
 have existing table with size of 45GBs, which is above recommended size
@@ -197,19 +197,19 @@ the migration, as following:
 TfsMigrator import /importFile:"C:\myfile.json"
 ```
 
-![TfsMigrator import command](/assets/images/2018/03/TfsMigrator-import-command-1024x341.png "TfsMigrator import command")
+![TfsMigrator import command](/assets/img/2018/03/TfsMigrator-import-command-1024x341.png "TfsMigrator import command")
 
 Next, we are going to see the progress of the
 import, as shown in the image bellow: 
 
-![Progress of the import progress from TFS to VSTS](/assets/images/2018/03/Progress-of-the-import-progress-from-TFS-to-VSTS--1024x566.png "Progress of the import progress from TFS to VSTS")
+![Progress of the import progress from TFS to VSTS](/assets/img/2018/03/Progress-of-the-import-progress-from-TFS-to-VSTS--1024x566.png "Progress of the import progress from TFS to VSTS")
 
 Next on the screen we see a warning with
 the following message: *This dry run account will expire and be deleted
 shortly after 7:20 PM on 2/1/2018. To continue testing beyond this date
 you will need to repeat the dry run import.
 
-![TFS Migrator Dry run warning for expiring account](/assets/images/2018/03/TFS-Migrator-Dry-run-warning-for-expiring-account-1024x481-1024x310.png "TFS Migrator Dry run warning for expiring account")
+![TFS Migrator Dry run warning for expiring account](/assets/img/2018/03/TFS-Migrator-Dry-run-warning-for-expiring-account-1024x481-1024x310.png "TFS Migrator Dry run warning for expiring account")
 
 ### 6.2.Import - Production
 

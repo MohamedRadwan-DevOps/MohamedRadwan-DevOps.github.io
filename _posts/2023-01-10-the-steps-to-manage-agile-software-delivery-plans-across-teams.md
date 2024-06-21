@@ -13,7 +13,7 @@ which is: Manage Agile Software delivery plans across teams.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/3-select-template-1024x550.png"
+src="/assets/img/2023/03/3-select-template-1024x550.png"
 class="wp-image-10709" />
 </figure>
 
@@ -26,7 +26,7 @@ class="wp-image-10709" />
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/7-new-plan-1024x551.png"
+src="/assets/img/2023/03/7-new-plan-1024x551.png"
 class="wp-image-10710" />
 </figure>
 
@@ -39,7 +39,7 @@ levels), I have selected Backlog items.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/8-delivery-plan-configs-1024x553.png"
+src="/assets/img/2023/03/8-delivery-plan-configs-1024x553.png"
 class="wp-image-10711" />
 </figure>
 
@@ -56,7 +56,7 @@ have been added.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/12-markers-added-1024x549.png"
+src="/assets/img/2023/03/12-markers-added-1024x549.png"
 class="wp-image-10712" />
 </figure>
 
@@ -64,7 +64,7 @@ Markers appear on the plan as shown.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/13-marker-added-1024x550.png"
+src="/assets/img/2023/03/13-marker-added-1024x550.png"
 class="wp-image-10713" />
 </figure>
 
@@ -80,7 +80,7 @@ finish after a successor work item.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/16-four-depend-1024x551.png"
+src="/assets/img/2023/03/16-four-depend-1024x551.png"
 class="wp-image-10716" />
 </figure>
 
@@ -92,7 +92,7 @@ Dependency lines that have no issues show up as black lines.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/19-green-arrow-direction-1024x550.png"
+src="/assets/img/2023/03/19-green-arrow-direction-1024x550.png"
 class="wp-image-10717" />
 </figure>
 
@@ -102,7 +102,7 @@ before the predecessor work item is completed.
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/18-red-arrow-direction-1024x553.png"
+src="/assets/img/2023/03/18-red-arrow-direction-1024x553.png"
 class="wp-image-10718" />
 </figure>
 
@@ -113,7 +113,7 @@ changed from red to green).
 
 <figure class="wp-block-image size-large">
 <img
-src="/assets/images/2023/03/22-all-are-green-1024x551.png"
+src="/assets/img/2023/03/22-all-are-green-1024x551.png"
 class="wp-image-10719" />
 </figure>
 

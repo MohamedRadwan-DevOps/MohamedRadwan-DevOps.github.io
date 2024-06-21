@@ -16,7 +16,7 @@ Microsoft Visual Studio is a very powerful IDE, we all know that as it has many 
 
 **Visual Studio** for **Mac** provides you with a 100% native experience for **Mac**, combined with the productivity of **Mac OS**. 
 
-![Visual Studio For Mac Running](/assets/images/2017/07/VSForMakeRunning-1.png)
+![Visual Studio For Mac Running](/assets/img/2017/07/VSForMakeRunning-1.png)
 
 ## How it works
 
@@ -28,7 +28,7 @@ Visual Studio for Mac is shipped with **three different versions**.
 
 You can know more about features available for each version from [Visual Studio IDEs Comparison](https://www.visualstudio.com/vs/compare/). **Visual Studio for Mac** is composed of a set of extensions, each of these extensions provides a specific feature or a set of features.
 
-![Visual Studio for Mac Components](/assets/images/2017/07/VSForMacComponents.png)
+![Visual Studio for Mac Components](/assets/img/2017/07/VSForMacComponents.png)
 
 ## Team Collaboration and Visual Studio for Mac
 
@@ -49,7 +49,7 @@ Installing Visual Studio on Mac is easy & customization, all you need is just to
 6. Set back and relax, the installer will download the required components.
 7. Once finished, click \"Start\" and start exploring the power of Visual Studio with Mac Experience.
 
-![Visual Studio for Mac Installation In Progress](/assets/images/2017/07/VSForMakeInstallationProgress.png)
+![Visual Studio for Mac Installation In Progress](/assets/img/2017/07/VSForMakeInstallationProgress.png)
 
 ## Conclusion
 

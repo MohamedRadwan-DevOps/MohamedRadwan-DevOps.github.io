@@ -35,13 +35,13 @@ let\'s say it\'s console Application
 
 -   Right click on the project and choose unload project
     
-    ![How to unload project](/assets/images/2010/10/UnloadProject.jpg)
+    ![How to unload project](/assets/img/2010/10/UnloadProject.jpg)
 
 <!-- -->
 
 -   Right click on the project and click edit 
   
-    ![How to edit project file](/assets/images/2010/10/EditProject.jpg)
+    ![How to edit project file](/assets/img/2010/10/EditProject.jpg)
 
 Minimum all the sub elements so you can see the whole file Start add the
 following inside ItemGroup element
@@ -66,7 +66,7 @@ following inside ItemGroup element
     because some parameters are required and some are optional, so the
     final project file will be like the following 
     
-    ![Project file from inside](/assets/images/2010/10/csprojFile.jpg)
+    ![Project file from inside](/assets/img/2010/10/csprojFile.jpg)
 
 <!-- -->
 

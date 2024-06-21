@@ -15,7 +15,7 @@ more control over the build process.
 
 We have 3 options (Enabled, Paused, Disabled) as the following image:
 
-[![](/assets/images/2012/03/General-1024x543.png)](/assets/images/2012/03/General.png)
+[![](/assets/img/2012/03/General-1024x543.png)](/assets/img/2012/03/General.png)
 
 
 -   Drop Folder.
@@ -23,7 +23,7 @@ We have 3 options (Enabled, Paused, Disabled) as the following image:
 We have also 3 options (Don\'t copy, Copy to UNC, Copy to
 source control). 
 
-[![Queue Options](/assets/images/2012/03/Build-Defaults-1024x558.png)](/assets/images/2012/03/Build-Defaults.png)
+[![Queue Options](/assets/img/2012/03/Build-Defaults-1024x558.png)](/assets/img/2012/03/Build-Defaults.png)
 
 -   Don\'t copy.
 

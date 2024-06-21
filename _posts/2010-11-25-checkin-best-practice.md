@@ -19,7 +19,7 @@ You can download the project from here [[**download**]](http://cid-4bcaa16d27b46
 
 I will create a new configuration called DebugForCheck-in, see the following 
 
-[![Project File](/assets/images/2010/11/Project.png)](/assets/images/2010/11/Project.png)
+[![Project File](/assets/img/2010/11/Project.png)](/assets/img/2010/11/Project.png)
 
 You can also see the project configuration file as XML, see the following:
 

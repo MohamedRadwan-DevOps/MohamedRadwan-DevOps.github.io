@@ -24,7 +24,7 @@ didn\'t know why??
 And now its working with style copy an without style cop, Just click on
 the method name and the context action will appear and include the copy
 comments from base
-[![CopyCommentsFromImplementation](/assets/images/2011/10/CopyCommentsFromImplementation.png)](/assets/images/2011/10/CopyCommentsFromImplementation.png)
+[![CopyCommentsFromImplementation](/assets/img/2011/10/CopyCommentsFromImplementation.png)](/assets/img/2011/10/CopyCommentsFromImplementation.png)
 
-[![CopyCommentsFromImplementation2](/assets/images/2011/10/CopyCommentsFromImplementation2.png)](/assets/images/2011/10/CopyCommentsFromImplementation2.png)
+[![CopyCommentsFromImplementation2](/assets/img/2011/10/CopyCommentsFromImplementation2.png)](/assets/img/2011/10/CopyCommentsFromImplementation2.png)
 

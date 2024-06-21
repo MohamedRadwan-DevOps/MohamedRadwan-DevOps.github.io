@@ -8,8 +8,8 @@ We can reserve a Lab environment by marking it as '**In Use**' to discourage oth
 
 Select Mark 'In Use'
 
-![Mark In Use](/assets/images/2013/11/mark-in-use.jpg?w=660)
+![Mark In Use](/assets/img/2013/11/mark-in-use.jpg)
 
 View the Environments in the Environment list.
 
-![Mark In Use in the Environment list](/assets/images/2013/11/mark-in-use-in-the-environment-list.jpg?w=660)
+![Mark In Use in the Environment list](/assets/img/2013/11/mark-in-use-in-the-environment-list.jpg)

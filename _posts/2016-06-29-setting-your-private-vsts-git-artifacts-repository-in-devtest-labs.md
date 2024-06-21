@@ -17,7 +17,7 @@ In order to set the **VSTS Git repository**, you will first need to create a fol
 3. Click on your **Artifacts** folder.
 4. On the right side, you will see the details of your **Artifact** folder.
 
-![1-Setting VSO Git repository in DevTest Labs](/assets/images/2016/06/1-Setting-VSO-Git-repository-in-DevTest-Labs.jpg "1-Setting VSO Git repository in DevTest Labs")
+![1-Setting VSO Git repository in DevTest Labs](/assets/img/2016/06/1-Setting-VSO-Git-repository-in-DevTest-Labs.jpg "1-Setting VSO Git repository in DevTest Labs")
 
 ### Step 2: Setting the Name of Artifact Repository in the Lab 
 
@@ -27,7 +27,7 @@ First, you need to set some basic settings such as the name of your private **VS
 3. From the menu choose **Artifact Repository** to start setting the details of it.
 4. In the right window, type the Name of your private **VSTS Git Repository**.
 
-![2-Setting the Name of Artifact Repository in the DevTest Lab](/assets/images/2016/06/2-Setting-the-Name-of-Artifact-Repository-in-the-DevTest-Lab.jpg "2-Setting the Name of Artifact Repository in the DevTest Lab")
+![2-Setting the Name of Artifact Repository in the DevTest Lab](/assets/img/2016/06/2-Setting-the-Name-of-Artifact-Repository-in-the-DevTest-Lab.jpg "2-Setting the Name of Artifact Repository in the DevTest Lab")
 
 ### Step 3: Setting the Git Clone URI of Artifact Repository in the Lab 
 
@@ -38,25 +38,25 @@ In this step, you will have to set the **Git Clone URI** for your **Artifact Rep
 4. A new pop-up window will appear with a notification for allowing access. Click on the **Allow Access** button.
 5. Navigate back to the **Lab** and **paste** the link for the **Git Clone URI**.
 
-![3-Setting the Git Clone URI of Artifact Repository in the DevTest Lab](/assets/images/2016/06/3-Setting-the-Git-Clone-URI-of-Artifact-Repository-in-the-DevTest-Lab.jpg "3-Setting the Git Clone URI of Artifact Repository in the DevTest Lab")
+![3-Setting the Git Clone URI of Artifact Repository in the DevTest Lab](/assets/img/2016/06/3-Setting-the-Git-Clone-URI-of-Artifact-Repository-in-the-DevTest-Lab.jpg "3-Setting the Git Clone URI of Artifact Repository in the DevTest Lab")
 
 ### Step 4: Setting the Folder Path and Personal Access Token in the Lab
 
 The **Folder Path** is the name of the folder that is described in the first step of this tutorial. It is listed under your private **Git Repository**, and you will have to type the exact name of it.
 1. In the **Folder Path** field, enter the name of your Artifact folder, exactly as it is shown in Step 1-3. Before the name, type the symbol `/`. In this case, I'm going to type `/<Artifacts>`.
 
-![4-1 Setting the Folder Path in DevTest Lab](/assets/images/2016/06/4-1-Setting-the-Folder-Path-in-DevTest-Lab.jpg "4-1 Setting the Folder Path in DevTest Lab")
+![4-1 Setting the Folder Path in DevTest Lab](/assets/img/2016/06/4-1-Setting-the-Folder-Path-in-DevTest-Lab.jpg "4-1 Setting the Folder Path in DevTest Lab")
 
 2. In order to set the **Personal Access Token**, navigate back to the **VSTS Git Repository**.
 3. Click on **Generate Git Credentials**.
 4. The window will generate a new password. Click on the **Copy** button on the right side.
 
-![4-2 Setting the Personal Access Token in DevTest Lab](/assets/images/2016/06/4-2-Setting-the-Personal-Access-Token-in-DevTest-Lab.jpg "4-2 Setting the Personal Access Token in DevTest Lab")
+![4-2 Setting the Personal Access Token in DevTest Lab](/assets/img/2016/06/4-2-Setting-the-Personal-Access-Token-in-DevTest-Lab.jpg "4-2 Setting the Personal Access Token in DevTest Lab")
 
 5. Navigate back to the **Lab**.
 6. Paste the generated password in the **Personal Access Token** field.
 
-![4-3 Final Setting of the Personal Access Token in DevTest Lab](/assets/images/2016/06/4-3-Final-Setting-of-the-Personal-Access-Token-in-DevTest-Lab.jpg "4-3 Final Setting of the Personal Access Token in DevTest Lab")
+![4-3 Final Setting of the Personal Access Token in DevTest Lab](/assets/img/2016/06/4-3-Final-Setting-of-the-Personal-Access-Token-in-DevTest-Lab.jpg "4-3 Final Setting of the Personal Access Token in DevTest Lab")
 
 ### Conclusion
 

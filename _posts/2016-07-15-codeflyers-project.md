@@ -26,21 +26,21 @@ The **Codeflyers** project is a community project for building **applications** 
 
 As a starting point of the project, an **e-commerce website** has been developed as a base platform to apply training and lessons, and can be found at [https://github.com/codeflyers](https://github.com/codeflyers). To work on developing the site, there are documented **Product Backlog Items**, **Features**, and **Epics** to review and implement to make the project operational. *Note that the e-commerce site is simply a place to implement the training and create a functional application, not to actively sell products*. The current web design is primitive and just to produce the initial idea but I am working on a new and modern design, I finished the main idea but it still under enhancement and not finalize yet. The following is the home page for the new design.
 
-![Codeflyers E-Commerce Site](/assets/images/2016/07/Codeflyers-Feature-Image.jpg "Codeflyers E-Commerce Site")
+![Codeflyers E-Commerce Site](/assets/img/2016/07/Codeflyers-Feature-Image.jpg "Codeflyers E-Commerce Site")
 
 Here also some 
 
-![Codeflyers-products4](/assets/images/2016/07/Codeflyers-products4.jpg "Codeflyers-products4")
+![Codeflyers-products4](/assets/img/2016/07/Codeflyers-products4.jpg "Codeflyers-products4")
 
 Here is the old and the current design on GitHub 
 
-![Codeflyers-old](/assets/images/2016/07/Codeflyers-old.jpg "Codeflyers-old")
+![Codeflyers-old](/assets/img/2016/07/Codeflyers-old.jpg "Codeflyers-old")
 
 ### Product Backlog Items and Organizational Hierarchy
 
 With larger projects, it is often more manageable to approach development in a piece-by-piece approach. Product Backlog Items (**PBIs**) on the backlog are tasks to complete on the e-commerce platform/website. Such as implementing search filters or updating an offer for a product. PBIs are comprised of smaller individual **tasks.** Such as developing a section of code that contributes towards achieving the overall output of a given PBI. Above PBIs in the organizational hierarchy is Features; **Features** are a collection of PBIs that contribute towards a facet of the project. At the top of the hierarchy is **Epics**, which are a collection of Features.
 
-![Codeflyers PBI Backlog](/assets/images/2016/07/Codeflyers-Backlog-1.png "Codeflyers PBI Backlog")
+![Codeflyers PBI Backlog](/assets/img/2016/07/Codeflyers-Backlog-1.png "Codeflyers PBI Backlog")
 
 
 >If you are in a situation when you need to integrate two backlogs, read the step-by-step post about [Two Backlog Integration](https://mohamedradwan-devops.github.io/posts/trello-vsts-integration/) in which I am providing a detailed description of the integration between [**Trello**](https://trello.com/) and [**VSTS**](https://www.visualstudio.com/team-services/) using [Zapier](https://zapier.com/).

@@ -21,33 +21,33 @@ In order to perform these tasks, you will need the following:
 
 You can also see some snapshots from the video:
 
-![Login to TFS 2010](/assets/images/2012/04/1-1024x635.png)
+![Login to TFS 2010](/assets/img/2012/04/1-1024x635.png)
 
-![De-attach collection](/assets/images/2012/04/2-1024x669.png)
+![De-attach collection](/assets/img/2012/04/2-1024x669.png)
 
-![De-attach complete](/assets/images/2012/04/3-1024x638.png)
+![De-attach complete](/assets/img/2012/04/3-1024x638.png)
 
-![Take DB offline](/assets/images/2012/04/4-1024x691.png)
+![Take DB offline](/assets/img/2012/04/4-1024x691.png)
 
-![Login to TFS 11 Beta](/assets/images/2012/04/5-1024x670.png)
+![Login to TFS 11 Beta](/assets/img/2012/04/5-1024x670.png)
 
-![Attach Collection](/assets/images/2012/04/6-1024x679.png)
+![Attach Collection](/assets/img/2012/04/6-1024x679.png)
 
-![Attach Collection](/assets/images/2012/04/7-1024x654.png)
+![Attach Collection](/assets/img/2012/04/7-1024x654.png)
 
-![Second Collection Online](/assets/images/2012/04/8-1024x652.png)
+![Second Collection Online](/assets/img/2012/04/8-1024x652.png)
 
-![Connect To Second Collection](/assets/images/2012/04/9-1024x653.png)
+![Connect To Second Collection](/assets/img/2012/04/9-1024x653.png)
 
-![Error Because of the Old Process](/assets/images/2012/04/10-1024x659.png)
+![Error Because of the Old Process](/assets/img/2012/04/10-1024x659.png)
 
-![Fix the Old Error](/assets/images/2012/04/11-1024x674.png)
+![Fix the Old Error](/assets/img/2012/04/11-1024x674.png)
 
-![Team Web Access](/assets/images/2012/04/12-1024x657.png)
+![Team Web Access](/assets/img/2012/04/12-1024x657.png)
 
-![Create App Pool](/assets/images/2012/04/13-1024x698.png)
+![Create App Pool](/assets/img/2012/04/13-1024x698.png)
 
-![Tailspin Web Working](/assets/images/2012/04/14-1024x688.png)
+![Tailspin Web Working](/assets/img/2012/04/14-1024x688.png)
 
 To download Visual Studio and TFS 11 Beta, click on the following link:
 

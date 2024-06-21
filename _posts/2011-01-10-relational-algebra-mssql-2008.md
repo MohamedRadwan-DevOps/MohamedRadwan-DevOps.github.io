@@ -13,25 +13,25 @@ and Calculus by Ramez Elmasri and Shamkant B. Navathe of Fundamentals of Databas
 
 I study this book in the Pre-Master and of course it's a great book, when I prepare for my exam I search for the Database as MDF file or MS SQL script file but I didn't found it so I decide to post an article that has the database and answer all question of Chapter 6 using SQL statements So you can download the scripts that create the database and insert the exactly data exist in Chapter 6 in the database, just click on the following link
 
-[![Download](/assets/images/2011/01/download.jpg)](/assets/images/2017/08/Elmasri.zip)
+[![Download](/assets/img/2011/01/download.jpg)](/assets/img/2017/08/Elmasri.zip)
 
 So let's start by introduce the schema
 
-![Schema](/assets/images/2011/01/Schema.png)
+![Schema](/assets/img/2011/01/Schema.png)
 
 And now let's see the tables with the data that will be used throughout the chapter
 
-![Employee](/assets/images/2011/01/Employee.png)
+![Employee](/assets/img/2011/01/Employee.png)
 
-![Department](/assets/images/2011/01/Department.png)
+![Department](/assets/img/2011/01/Department.png)
 
-![Dept_Locations](/assets/images/2011/01/Dept_Locations.png)
+![Dept_Locations](/assets/img/2011/01/Dept_Locations.png)
 
-![Works_on](/assets/images/2011/01/Works_on.png)
+![Works_on](/assets/img/2011/01/Works_on.png)
 
-![Instructor](/assets/images/2011/01/Instructor.png)
+![Instructor](/assets/img/2011/01/Instructor.png)
 
-![Student](/assets/images/2011/01/Student.png)
+![Student](/assets/img/2011/01/Student.png)
 
 The used Keywords
 

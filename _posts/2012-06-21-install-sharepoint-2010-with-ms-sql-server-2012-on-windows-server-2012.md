@@ -67,12 +67,12 @@ So [Windows Identity Foundation](http://msdn.microsoft.com/en-us/security/aa5703
 a Windows Server 2012 Role, so we just enable this Role on Windows 2012
 Server
 
-[![](/assets/images/2012/06/0.png "0")](/assets/images/2012/06/0.png)
+[![](/assets/img/2012/06/0.png "0")](/assets/img/2012/06/0.png)
 
 Also the Reporting Service SharePoint add-in become a component in MS
 SQL Server 2012
 
-[![](/assets/images/2012/07/00-1.png "00")](/assets/images/2012/07/00-1.png)
+[![](/assets/img/2012/07/00-1.png "00")](/assets/img/2012/07/00-1.png)
 
 [Note: Only SharePoint 2010 SP1 supported for MS SQL Server 2012 and
 even if the installation success without SP1 the configuration will
@@ -110,34 +110,34 @@ Here is the video of the installation
 
 
 
-[![](/assets/images/2012/06/sql1.jpg "sql1")](/assets/images/2012/06/sql1.jpg)
+[![](/assets/img/2012/06/sql1.jpg "sql1")](/assets/img/2012/06/sql1.jpg)
 
 
-[![](/assets/images/2012/06/sql2.png "sql2")](/assets/images/2012/06/sql2.png)
+[![](/assets/img/2012/06/sql2.png "sql2")](/assets/img/2012/06/sql2.png)
 
 
-[![](/assets/images/2012/06/sql3.png "sql3")](/assets/images/2012/06/sql3.png)
-
-
-
-[![](/assets/images/2012/06/sql4.png "sql4")](/assets/images/2012/06/sql4.png)
-
-
-[![](/assets/images/2012/06/sql5.png "sql5")](/assets/images/2012/06/sql5.png)
+[![](/assets/img/2012/06/sql3.png "sql3")](/assets/img/2012/06/sql3.png)
 
 
 
-[![](/assets/images/2012/06/sql7.png "sql7")](/assets/images/2012/06/sql7.png)
+[![](/assets/img/2012/06/sql4.png "sql4")](/assets/img/2012/06/sql4.png)
 
 
-[![](/assets/images/2012/06/sql8.png "sql8")](/assets/images/2012/06/sql8.png)
+[![](/assets/img/2012/06/sql5.png "sql5")](/assets/img/2012/06/sql5.png)
 
 
 
-[![](/assets/images/2012/06/sql9.png "sql9")](/assets/images/2012/06/sql9.png)
+[![](/assets/img/2012/06/sql7.png "sql7")](/assets/img/2012/06/sql7.png)
 
 
-[![](/assets/images/2012/06/sql10.png "sql10")](/assets/images/2012/06/sql10.png)
+[![](/assets/img/2012/06/sql8.png "sql8")](/assets/img/2012/06/sql8.png)
+
+
+
+[![](/assets/img/2012/06/sql9.png "sql9")](/assets/img/2012/06/sql9.png)
+
+
+[![](/assets/img/2012/06/sql10.png "sql10")](/assets/img/2012/06/sql10.png)
 
 
 
@@ -154,106 +154,41 @@ it\'s features and so the feature, we will choose it\'s components
 
 
 [![Add Roles and Features Windows
-2012](/assets/images/2012/06/1.jpg "Add Roles and Features Windows 2012")](/assets/images/2012/06/1.jpg)
+2012](/assets/img/2012/06/1.jpg "Add Roles and Features Windows 2012")](/assets/img/2012/06/1.jpg)
 
  
 
 
-[![Installation Type Role and Feature widows Server 2012](/assets/images/2012/06/2.jpg "Installation Type Role and Feature widows Server 2012 ")](/assets/images/2012/06/2.jpg)
+[![Installation Type Role and Feature widows Server 2012](/assets/img/2012/06/2.jpg "Installation Type Role and Feature widows Server 2012 ")](/assets/img/2012/06/2.jpg)
 
 
 
 
 
 
-[![Server Selection Windows Server 2012](/assets/images/2012/06/3.jpg "Server Selection Windows Server 2012")](/assets/images/2012/06/3.jpg)
+[![Server Selection Windows Server 2012](/assets/img/2012/06/3.jpg "Server Selection Windows Server 2012")](/assets/img/2012/06/3.jpg)
 
 
 
 
-[![Server Roles Windows Server 2012](/assets/images/2012/06/4.jpg "Server Roles Windows Server 2012")](/assets/images/2012/06/4.jpg)
+[![Server Roles Windows Server 2012](/assets/img/2012/06/4.jpg "Server Roles Windows Server 2012")](/assets/img/2012/06/4.jpg)
 
 
-[![](/assets/images/2012/06/5.jpg "Add Role and Feature Wizard Management Tool Windows Server 2012")](/assets/images/2012/06/5.jpg)
+[![](/assets/img/2012/06/5.jpg "Add Role and Feature Wizard Management Tool Windows Server 2012")](/assets/img/2012/06/5.jpg)
 
 
 
 
-[![Server Roles Application Server Windows Server 2012](/assets/images/2012/06/6.jpg "Server Roles Application Server Windows Server 2012")](/assets/images/2012/06/6.jpg)
+[![Server Roles Application Server Windows Server 2012](/assets/img/2012/06/6.jpg "Server Roles Application Server Windows Server 2012")](/assets/img/2012/06/6.jpg)
 
 
-[![Feature Windows Identify Foundation 3.5](/assets/images/2012/06/7.jpg "Feature Windows Identify Foundation 3.5")](/assets/images/2012/06/7.jpg)
+[![Feature Windows Identify Foundation 3.5](/assets/img/2012/06/7.jpg "Feature Windows Identify Foundation 3.5")](/assets/img/2012/06/7.jpg)
 
 
-[![Web Server Role- Role Services Health and Diagnostics](/assets/images/2012/06/8.jpg "Web Server Role- Role Services Health and Diagnostics")](/assets/images/2012/06/8.jpg)
+[![Web Server Role- Role Services Health and Diagnostics](/assets/img/2012/06/8.jpg "Web Server Role- Role Services Health and Diagnostics")](/assets/img/2012/06/8.jpg)
 
 
-[![Web Server Role- Role Services Security](/assets/images/2012/06/9.jpg "Web Server Role- Role Services Security ")](/assets/images/2012/06/9.jpg)
-
-
-
-
-
- 
-
-
-
-
-
- 
-
-
-
-
-
- 
-
-
-
-
-
-[![Web Server Role- Role Services Application Development](/assets/images/2012/06/10.jpg "Web Server Role- Role Services Application Development")](/assets/images/2012/06/10.jpg)
-
-
-
-[![Add Roles and Features Wizard Application Development](/assets/images/2012/06/11.jpg "Add Roles and Features Wizard Application Development")](/assets/images/2012/06/11.jpg)
-
-
-[![Add Roles and Features Wizard ASP](/assets/images/2012/06/12.jpg "Add Roles and Features Wizard ASP")](/assets/images/2012/06/12.jpg)
-
-
-
-[![Add Roles and Features Wizards ISAPI Extensions](/assets/images/2012/06/13.jpg "Add Roles and Features Wizards ISAPI Extensions")](/assets/images/2012/06/13.jpg)
-
-[![Web Server Role- Role Services ASP.NET 3.5](/assets/images/2012/06/14.jpg "Web Server Role- Role Services ASP.NET 3.5")](/assets/images/2012/06/14.jpg)
-
-
-
-
-
-[![Add Roles and Features- ISAPI Filters](/assets/images/2012/06/15.jpg "Add Roles and Features- ISAPI Filters")](/assets/images/2012/06/15.jpg)
-
-
-[![](/assets/images/2012/06/16.jpg "Web Server Role- Role Services- CGI and Management Tools")](/assets/images/2012/06/16.jpg)
-
-
-[![Web Server Role- Role Services Management Console](/assets/images/2012/06/17.jpg "Web Server Role- Role Services Management Console")](/assets/images/2012/06/17.jpg)
-
-
-
-
-[![Add Roles and Features -II6 WMI Compatibility](/assets/images/2012/06/18.jpg "Add Roles and Features -II6 WMI Compatibility ")](/assets/images/2012/06/18.jpg)
-
-
-
-
-
- 
-
-
-
-
-[![Web Server Role- Role Service Scripting Tools](/assets/images/2012/06/19.jpg "Web Server Role- Role Service Scripting Tools")](/assets/images/2012/06/19.jpg)
+[![Web Server Role- Role Services Security](/assets/img/2012/06/9.jpg "Web Server Role- Role Services Security ")](/assets/img/2012/06/9.jpg)
 
 
 
@@ -277,15 +212,48 @@ it\'s features and so the feature, we will choose it\'s components
 
 
 
-[![Application Server-Role Services Distributed Transactions](/assets/images/2012/06/20.jpg "Application Server-Role Services Distributed Transactions")](/assets/images/2012/06/20.jpg)
+[![Web Server Role- Role Services Application Development](/assets/img/2012/06/10.jpg "Web Server Role- Role Services Application Development")](/assets/img/2012/06/10.jpg)
+
+
+
+[![Add Roles and Features Wizard Application Development](/assets/img/2012/06/11.jpg "Add Roles and Features Wizard Application Development")](/assets/img/2012/06/11.jpg)
+
+
+[![Add Roles and Features Wizard ASP](/assets/img/2012/06/12.jpg "Add Roles and Features Wizard ASP")](/assets/img/2012/06/12.jpg)
+
+
+
+[![Add Roles and Features Wizards ISAPI Extensions](/assets/img/2012/06/13.jpg "Add Roles and Features Wizards ISAPI Extensions")](/assets/img/2012/06/13.jpg)
+
+[![Web Server Role- Role Services ASP.NET 3.5](/assets/img/2012/06/14.jpg "Web Server Role- Role Services ASP.NET 3.5")](/assets/img/2012/06/14.jpg)
 
 
 
 
-[![Add Roles and Features ASP.NET 4.5](/assets/images/2012/06/21.jpg "Add Roles and Features ASP.NET 4.5")](/assets/images/2012/06/21.jpg)
+
+[![Add Roles and Features- ISAPI Filters](/assets/img/2012/06/15.jpg "Add Roles and Features- ISAPI Filters")](/assets/img/2012/06/15.jpg)
 
 
-[![Application Server-Role Services TCP Activation](/assets/images/2012/06/22.jpg "Application Server-Role Services TCP Activation")](/assets/images/2012/06/22.jpg)
+[![](/assets/img/2012/06/16.jpg "Web Server Role- Role Services- CGI and Management Tools")](/assets/img/2012/06/16.jpg)
+
+
+[![Web Server Role- Role Services Management Console](/assets/img/2012/06/17.jpg "Web Server Role- Role Services Management Console")](/assets/img/2012/06/17.jpg)
+
+
+
+
+[![Add Roles and Features -II6 WMI Compatibility](/assets/img/2012/06/18.jpg "Add Roles and Features -II6 WMI Compatibility ")](/assets/img/2012/06/18.jpg)
+
+
+
+
+
+ 
+
+
+
+
+[![Web Server Role- Role Service Scripting Tools](/assets/img/2012/06/19.jpg "Web Server Role- Role Service Scripting Tools")](/assets/img/2012/06/19.jpg)
 
 
 
@@ -309,7 +277,15 @@ it\'s features and so the feature, we will choose it\'s components
 
 
 
-[![Application Server-Role Services Windows Process Activation](/assets/images/2012/06/23.jpg "Application Server-Role Services Windows Process Activation")](/assets/images/2012/06/23.jpg)
+[![Application Server-Role Services Distributed Transactions](/assets/img/2012/06/20.jpg "Application Server-Role Services Distributed Transactions")](/assets/img/2012/06/20.jpg)
+
+
+
+
+[![Add Roles and Features ASP.NET 4.5](/assets/img/2012/06/21.jpg "Add Roles and Features ASP.NET 4.5")](/assets/img/2012/06/21.jpg)
+
+
+[![Application Server-Role Services TCP Activation](/assets/img/2012/06/22.jpg "Application Server-Role Services TCP Activation")](/assets/img/2012/06/22.jpg)
 
 
 
@@ -327,7 +303,31 @@ it\'s features and so the feature, we will choose it\'s components
 
 
 
-[![Install Windows Server 2012 Roles and Features](/assets/images/2012/06/install-windows-server-2012-roles-and-features.png "Install Windows Server 2012 Roles and Features")](/assets/images/2012/06/install-windows-server-2012-roles-and-features.png)
+ 
+
+
+
+
+
+[![Application Server-Role Services Windows Process Activation](/assets/img/2012/06/23.jpg "Application Server-Role Services Windows Process Activation")](/assets/img/2012/06/23.jpg)
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+[![Install Windows Server 2012 Roles and Features](/assets/img/2012/06/install-windows-server-2012-roles-and-features.png "Install Windows Server 2012 Roles and Features")](/assets/img/2012/06/install-windows-server-2012-roles-and-features.png)
 
 
 
@@ -345,48 +345,48 @@ compile the source and put it in System32 Folder
 -   Run SharePoint 2010 prerequiest  and install them from SharePoint
     2010 Server SP1 (Only SharePoint 2010 SP1 support MS SQL Server2012)
 
-[![Install SharePoint 2010 Prerequisites](/assets/images/2012/06/24.jpg "Install SharePoint 2010 Prerequisites")](/assets/images/2012/06/24.jpg)
+[![Install SharePoint 2010 Prerequisites](/assets/img/2012/06/24.jpg "Install SharePoint 2010 Prerequisites")](/assets/img/2012/06/24.jpg)
 
 
 
-[![Microsoft SharePoint 2010 Product Preparation Tool](/assets/images/2012/06/25.jpg "Microsoft SharePoint 2010 Product Preparation Tool")](/assets/images/2012/06/25.jpg)
+[![Microsoft SharePoint 2010 Product Preparation Tool](/assets/img/2012/06/25.jpg "Microsoft SharePoint 2010 Product Preparation Tool")](/assets/img/2012/06/25.jpg)
 
 
 
-[![Configure Application Server Role - Web Server (IIS) Role](/assets/images/2012/06/26.jpg "Configure Application Server Role - Web Server (IIS) Role")](/assets/images/2012/06/26.jpg)
+[![Configure Application Server Role - Web Server (IIS) Role](/assets/img/2012/06/26.jpg "Configure Application Server Role - Web Server (IIS) Role")](/assets/img/2012/06/26.jpg)
 
 
 
-[![SharePoint 2010 Product Preparation Tool Installation Complete](/assets/images/2012/06/27.jpg "SharePoint 2010 Product Preparation Tool Installation Complete")](/assets/images/2012/06/27.jpg)
+[![SharePoint 2010 Product Preparation Tool Installation Complete](/assets/img/2012/06/27.jpg "SharePoint 2010 Product Preparation Tool Installation Complete")](/assets/img/2012/06/27.jpg)
 
 
 -   Install SharePoint 2010 Server SP1
 
 
-[![Install SharePoint 2010 SP1](/assets/images/2012/06/29.jpg "Install SharePoint 2010 SP1")](/assets/images/2012/06/29.jpg)
+[![Install SharePoint 2010 SP1](/assets/img/2012/06/29.jpg "Install SharePoint 2010 SP1")](/assets/img/2012/06/29.jpg)
 
 
-[![SharePoint 2010 Accept the terms](/assets/images/2012/06/30.jpg "SharePoint 2010 Accept the terms ")](/assets/images/2012/06/30.jpg)
+[![SharePoint 2010 Accept the terms](/assets/img/2012/06/30.jpg "SharePoint 2010 Accept the terms ")](/assets/img/2012/06/30.jpg)
 
 
-[![Install SharePoint Complete Server Farm](/assets/images/2012/06/31.jpg "Install SharePoint Complete Server Farm ")](/assets/images/2012/06/31.jpg)
+[![Install SharePoint Complete Server Farm](/assets/img/2012/06/31.jpg "Install SharePoint Complete Server Farm ")](/assets/img/2012/06/31.jpg)
 
 
 -   Set the default app pool to v 2.0 instead of 4.0 because this what
     SharePoint 2010 needs
 
 
-[![Open the default app pool](/assets/images/2012/06/42.jpg "Open the default app pool ")](/assets/images/2012/06/42.jpg)
+[![Open the default app pool](/assets/img/2012/06/42.jpg "Open the default app pool ")](/assets/img/2012/06/42.jpg)
 
 
 
-[![Change app pool to .NET Framework version 2.0](/assets/images/2012/06/43.jpg "Change app pool to .NET Framework version 2.0")](/assets/images/2012/06/43.jpg)
+[![Change app pool to .NET Framework version 2.0](/assets/img/2012/06/43.jpg "Change app pool to .NET Framework version 2.0")](/assets/img/2012/06/43.jpg)
 
 
 
 If we didn\'t set this the configuration will fail as the following
 
-[![SharePoint Products Configuration Wizard Configuration Failed](/assets/images/2012/06/37.jpg "SharePoint Products Configuration Wizard Configuration Failed")](/assets/images/2012/06/37.jpg)
+[![SharePoint Products Configuration Wizard Configuration Failed](/assets/img/2012/06/37.jpg "SharePoint Products Configuration Wizard Configuration Failed")](/assets/img/2012/06/37.jpg)
 
 
 If this happen we will need to the change the app pool for crated
@@ -394,43 +394,43 @@ pools related to SharePoint, after SharePoint configuration failed
 
 
 
-[![Change the Application Pool Runtime](/assets/images/2012/06/38.jpg "Change the Application Pool Runtime")](/assets/images/2012/06/38.jpg)
+[![Change the Application Pool Runtime](/assets/img/2012/06/38.jpg "Change the Application Pool Runtime")](/assets/img/2012/06/38.jpg)
 
 
-[![Change the Application Pool Runtime](/assets/images/2012/06/39.jpg "Change the Application Pool Runtime")](/assets/images/2012/06/39.jpg)
+[![Change the Application Pool Runtime](/assets/img/2012/06/39.jpg "Change the Application Pool Runtime")](/assets/img/2012/06/39.jpg)
 
 
 
 Start SharePoint CA
 
-![Set Application Pool Default to v 2.0 instead of v4.0](/assets/images/2012/06/40.jpg "Set Application Pool Default to v 2.0 instead of v 4.0")
+![Set Application Pool Default to v 2.0 instead of v4.0](/assets/img/2012/06/40.jpg "Set Application Pool Default to v 2.0 instead of v 4.0")
 
 
 
 
 -   Configure SharePoint 2010
 
-[![Create New Server Farm](/assets/images/2012/06/32.jpg "Create New Server Farm")](/assets/images/2012/06/32.jpg)
+[![Create New Server Farm](/assets/img/2012/06/32.jpg "Create New Server Farm")](/assets/img/2012/06/32.jpg)
 
 
 
-[![Create a new Server Farm](/assets/images/2012/06/32.jpg "Create a new Server Farm")](/assets/images/2012/06/32.jpg)
+[![Create a new Server Farm](/assets/img/2012/06/32.jpg "Create a new Server Farm")](/assets/img/2012/06/32.jpg)
 
 
-[![Specify Configuration Database settings](/assets/images/2012/06/33.jpg "Specify Configuration Database settings")](/assets/images/2012/06/33.jpg)
-
-
-
-
-[![Configure SharePoint Center Administration Web Application set port number](/assets/images/2012/06/34.jpg "Configure SharePoint Center Administration Web Application set port number")](/assets/images/2012/06/34.jpg)
+[![Specify Configuration Database settings](/assets/img/2012/06/33.jpg "Specify Configuration Database settings")](/assets/img/2012/06/33.jpg)
 
 
 
 
+[![Configure SharePoint Center Administration Web Application set port number](/assets/img/2012/06/34.jpg "Configure SharePoint Center Administration Web Application set port number")](/assets/img/2012/06/34.jpg)
 
 
 
-[![Completing the SharePoint Products Configuration Wizard](/assets/images/2012/06/35.jpg "Completing the SharePoint Products Configuration Wizard ")](/assets/images/2012/06/35.jpg)
+
+
+
+
+[![Completing the SharePoint Products Configuration Wizard](/assets/img/2012/06/35.jpg "Completing the SharePoint Products Configuration Wizard ")](/assets/img/2012/06/35.jpg)
 
  
 
@@ -438,7 +438,7 @@ Start SharePoint CA
 
 
 
-[![Configure SharePoint Products](/assets/images/2012/06/36.jpg "Configure SharePoint Products ")](/assets/images/2012/06/36.jpg)
+[![Configure SharePoint Products](/assets/img/2012/06/36.jpg "Configure SharePoint Products ")](/assets/img/2012/06/36.jpg)
 
 
 
@@ -447,12 +447,12 @@ Start SharePoint CA
 
 
 
-[![SharePoint Product Configuration Wizard Configuration Successful](/assets/images/2012/06/44.jpg "SharePoint Product Configuration Wizard Configuration Successful ")](/assets/images/2012/06/44.jpg)
+[![SharePoint Product Configuration Wizard Configuration Successful](/assets/img/2012/06/44.jpg "SharePoint Product Configuration Wizard Configuration Successful ")](/assets/img/2012/06/44.jpg)
 
 
 
 
 -   provision the installation and configuration, just open CA
 
-[![Open SharePoint Center Administration](/assets/images/2012/06/41.jpg "Open SharePoint Center Administration ")](/assets/images/2012/06/41.jpg)
+[![Open SharePoint Center Administration](/assets/img/2012/06/41.jpg "Open SharePoint Center Administration ")](/assets/img/2012/06/41.jpg)
 

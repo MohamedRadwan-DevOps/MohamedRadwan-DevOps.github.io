@@ -6,7 +6,7 @@ date:   2021-03-08 11:46:07 +0100
 
 ## Event Hub
 
-![Azure Event Hub](/assets/images/2021/03/Event-Hub.png)
+![Azure Event Hub](/assets/img/2021/03/Event-Hub.png)
 
 ### Characteristics
 
@@ -52,7 +52,7 @@ date:   2021-03-08 11:46:07 +0100
 
 ## Databricks
 
-![Azure Databricks](/assets/images/2021/03/Azure-Databricks2.png)
+![Azure Databricks](/assets/img/2021/03/Azure-Databricks2.png)
 
 ### Components
 
@@ -92,7 +92,7 @@ When you create an [Azure Databricks](https://azure.microsoft.com/en-gb/services
 
 ## Azure Data Factory
 
-![Azure Data Factory](/assets/images/2021/03/Azure-Data-Factory2.png)
+![Azure Data Factory](/assets/img/2021/03/Azure-Data-Factory2.png)
 
 Azure Data Factory is a cloud-based data integration service that allows creating workflows in the cloud for orchestrating and automating data movement and data transformation or ETL (Extracting, Transformation, and Loading). ADF does not store data. It just creates and designs workflows to orchestrate the movement of data between supported data stores and processing of data using compute.
 

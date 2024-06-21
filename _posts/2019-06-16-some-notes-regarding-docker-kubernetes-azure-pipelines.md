@@ -28,7 +28,7 @@ title: "Some notes regarding Docker, Kubernetes Azure Pipelines"
 date: 2019-06-16 13:48:23 +0100
 ---
 
-![Install Docker Compose on Linux](/assets/images/2019/06/Install-Docker-Compose-on-Linux-1024x589.png)
+![Install Docker Compose on Linux](/assets/img/2019/06/Install-Docker-Compose-on-Linux-1024x589.png)
 
 More info about **docker compose**: <https://docs.docker.com/compose/overview/>
 
@@ -93,7 +93,7 @@ Use this task in a build or release pipeline to run shell commands or a script o
 Use this task in a build or release pipeline to run a shell script using bash.
 <https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/utility/shell-script?view=azure-devops>
 
-![Azure Pipelines Shell Script task to echo AGENT_BUILDDIRECTORY](/assets/images/2019/06/Azure-Pipelines-Shell-Script-task-to-echo-AGENT_BUILDDIRECTORY-1024x790.png)
+![Azure Pipelines Shell Script task to echo AGENT_BUILDDIRECTORY](/assets/img/2019/06/Azure-Pipelines-Shell-Script-task-to-echo-AGENT_BUILDDIRECTORY-1024x790.png)
 
 Links: Bash and PowerShell reference
 <https://web1.cs.wright.edu/~pmateti/Courses/233/Labs/Scripting/bashVsPowerShellTable.html>

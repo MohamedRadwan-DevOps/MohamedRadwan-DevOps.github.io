@@ -8,7 +8,7 @@ date: 2012-09-27 08:37:07 +0100
 
 [Some pictures from the event](https://mohamedradwan-devops.github.io/events/ "Bizspark event pictures")
 
-[![bizspark_startup](/assets/images/2012/09/bizspark_startup.jpg)](/assets/images/2012/09/bizspark_startup.jpg)
+[![bizspark_startup](/assets/img/2012/09/bizspark_startup.jpg)](/assets/img/2012/09/bizspark_startup.jpg)
 
 I'm speaking at **Microsoft Startup/Bizspark event**, I will talk about **Visual Studio 2012** and **Team Foundation Server 2012**, this talk includes how to leverage the Visual Studio tools to help Startups achieve maximum value and continuous delivery for their projects.
 

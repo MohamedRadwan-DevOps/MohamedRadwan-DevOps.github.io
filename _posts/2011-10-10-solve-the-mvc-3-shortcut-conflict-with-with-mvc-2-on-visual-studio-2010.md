@@ -23,5 +23,5 @@ able to work, if you remove it by mistake you can install this tool
 again from VS2010 DVD, the tool name is VS2010ToolsMVC2.msi and can be
 fond  under WCUASPNETMVC
 
-[![](/assets/images/2011/10/Remove-MVC-2-1024x569.png)](/assets/images/2011/10/Remove-MVC-2.png)
+[![](/assets/img/2011/10/Remove-MVC-2-1024x569.png)](/assets/img/2011/10/Remove-MVC-2.png)
 

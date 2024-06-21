@@ -28,13 +28,13 @@ This will enable you to create a new database, put as many containers as you wan
 
 Let's see an example. Now I am going to create a new database with Cosmos DB in just one line (Image 1). I will start with `this.database` equal to `this.cosmosClient`, which is the entry point to interact with a Cosmos DB service. Off this cosmos client, we see that there is a new databases property off which we can access every method relevant to databases. In this case, I'll use the `CreateDatabaseIfNotExistsAsync` method, giving the `databaseId`. I'll put `await` in front of it, and now I've created a new database in just one line with Cosmos DB.
 
-![Image 1 - Create a new database in just one line with Cosmos DB](/assets/images/2019/01/Image-1-Create-a-new-database-in-just-one-line-with-Cosmos-DB-1024x578.png)
+![Image 1 - Create a new database in just one line with Cosmos DB](/assets/img/2019/01/Image-1-Create-a-new-database-in-just-one-line-with-Cosmos-DB-1024x578.png)
 
 _Image 1 - Create a new database in just one line with Cosmos DB_
 
 With the new SDK, the object model is updated and the API surface is updated to be more modular. Now as a result, we have a database object, a containers object, and items, each with their own relevant methods. After we run the code, the resources in Cosmos DB (database, container, and item) will be actually created. If we check in the portal, navigate to Data Explorer, which is the one-stop shop for viewing all the data and the Cosmos DB containers. After refreshing, we can see that our "to do" database and "to do" container have both been created. If we open the "Documents" we can see that it is the same item which we created via console app (Image 2).
 
-![Image 2 - Data explorer](/assets/images/2019/01/Image-2-Data-explorer-1024x578.png)
+![Image 2 - Data explorer](/assets/img/2019/01/Image-2-Data-explorer-1024x578.png)
 _Image 2 - Data explorer_
 
 >You can see **[this video](https://www.youtube.com/watch?v=vev3Czaa1pA)**
@@ -42,7 +42,7 @@ If you would like to find more information about a walkthrough introducing the R
 
 Learn how to configure the build steps properly, including Copy Files and Publish Build Artifacts. See how to create a new release definition, add environments, and link to the build definition. Afterwards, see how to add tasks to the release definition, like Windows Machine File Copy, and configure them properly. If we take a closer look at our "to do" container, if we go to "Scale & Settings", we can see more information about Scale and Conflict resolution (Image 3).
 
-![Image 3 - Scale & Settings](/assets/images/2019/01/Image-3-Scale-Settings-1024x578.png)
+![Image 3 - Scale & Settings](/assets/img/2019/01/Image-3-Scale-Settings-1024x578.png)
 _Image 3 - Scale & Settings_
 
 Next, we will see a dev-test experience with an ASP.NET web application running against [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/). Actually, it is running against our local emulator. The emulator runs on Windows machines and allows you to emulate the Cosmos DB service locally. So you can do operations like creating databases and containers, running unit tests, etc., without incurring any cost on the Cosmos DB service. Now I will run my already created unit tests, which will create a new container, create a new database, add some items to it, and test a query, running against a local version of the emulator.
@@ -51,12 +51,12 @@ Next, we will see a dev-test experience with an ASP.NET web application running 
 
 Now also you can do the same thing in a CI/CD pipeline. I already have a pipeline setup, which builds my web app, runs some tests, and deploys it to Azure App Service. I just need to add my Cosmos DB emulator build task (Image 4), which I can get free from the Azure DevOps marketplace. There I should just specify that I want to use the endpoint emitted by the emulator container earlier in this pipeline.
 
-![Image 4 - Run Azure Cosmos DB Emulator container](/assets/images/2019/01/Image-4-Run-Azure-Cosmos-DB-Emulator-container-1024x578.png)
+![Image 4 - Run Azure Cosmos DB Emulator container](/assets/img/2019/01/Image-4-Run-Azure-Cosmos-DB-Emulator-container-1024x578.png)
 _Image 4 - Run Azure Cosmos DB Emulator container_
 
 After that, I can queue my build. In Image 5, you can see the log details.
 
-![Image 5 - Detailed logs of the Azure Cosmos Emulator DB container](/assets/images/2019/01/Image-5-Detailed-logs-of-the-Azure-Cosmos-Emulator-DB-container-1024x578.png)
+![Image 5 - Detailed logs of the Azure Cosmos Emulator DB container](/assets/img/2019/01/Image-5-Detailed-logs-of-the-Azure-Cosmos-Emulator-DB-container-1024x578.png)
 _Image 5 - Detailed logs of the Azure Cosmos Emulator DB container_
 
 This build task makes it a lot easier to use Cosmos DB in CI/CD, meaning you no longer need to deal with manually setting up a container and manually setting the emulator and getting it to run.

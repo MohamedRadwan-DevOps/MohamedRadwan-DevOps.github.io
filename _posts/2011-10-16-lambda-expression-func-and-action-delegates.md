@@ -20,7 +20,7 @@ the first one that didn\'t take any parameters and return one result and
 ending with the final one that take 15 parameters and return one result
 too
 
-[![](/assets/images/2011/10/Func-delegates.png)](/assets/images/2011/10/Func-delegates.png)
+[![](/assets/img/2011/10/Func-delegates.png)](/assets/img/2011/10/Func-delegates.png)
 
 Remember that always the last parameter is the return parameter Why
 these delegates exist? because .NET Framework use them in LINQ and
@@ -31,7 +31,7 @@ can use them instead of creating new delegates with the same signature
 
 The same as Func but it doesn\'t return value (void)
 
-[![](/assets/images/2011/10/Action-delegates.jpg)](/assets/images/2011/10/Action-delegates.jpg)
+[![](/assets/img/2011/10/Action-delegates.jpg)](/assets/img/2011/10/Action-delegates.jpg)
 
 -  **Lambda Expression**
 
@@ -72,7 +72,7 @@ how to write anonymous method with the same signature? it\'s very
 simple, we just write the method and remove the first part until the
 parameter and write delegate instead of the first part as the following:
 
-[![](/assets/images/2011/10/Anonymous-Method.png)](/assets/images/2011/10/Anonymous-Method.png)
+[![](/assets/img/2011/10/Anonymous-Method.png)](/assets/img/2011/10/Anonymous-Method.png)
 
 So it will become as the following: 
 

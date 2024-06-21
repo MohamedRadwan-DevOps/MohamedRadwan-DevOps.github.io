@@ -20,7 +20,7 @@ date:   2016-09-18 22:43:29 +0100
 
 **Virtual Machine Scale Sets** are a way to deploy and manage a set of identical **Virtual Machines**. So with **Azure infrastructure service**, if you want fifty **virtual machines**, you normally have to think about networking, storage, extensions, underlying infrastructure and how you configure these **virtual machines** - **virtual machine scale sets** give you a way to create many **virtual machines** and then just configure the properties and manage them as a set. **Scale sets** also integrate with **Azure Autoscale** - this means you can dynamically grow and shrink the pool of **virtual machines**. **Scale sets** also integrate with **Azure Load Balancer**. Another way to look at **scale sets** is an **Azure Compute resource** as part of **Azure Resource Manager**. **Scale sets** are scalable computer layers for hyperscale apps - what that means is if you have a large-scale application with multiple components that use Microsoft services and have different areas that you can configure, you can use **scale sets** to be a generalized computer layer. In a similar way, **scale sets** can be used as an infrastructure for **Platform as a Service (PaaS)**.
 
-![1 what-are-virtual-machine-scale-sets](/assets/images/2016/09/What-are-Virtual-Machine-Scale-Sets-1.jpg "1 what-are-virtual-machine-scale-sets")
+![1 what-are-virtual-machine-scale-sets](/assets/img/2016/09/What-are-Virtual-Machine-Scale-Sets-1.jpg "1 what-are-virtual-machine-scale-sets")
 
 >If, after adding a new user to [Dynamics 365](https://dynamics.microsoft.com/en-gb/), you get the following error: *You do not have permissions to see this view. Contact a system administrator crm*, have a look at this post - [**this post**](https://mohamedradwan-devops.github.io/posts/fix-you-do-not-have-permissions-to-see-this-view-contact-a-system-administrator-crm/).
 {: .prompt-tip }
@@ -32,11 +32,11 @@ date:   2016-09-18 22:43:29 +0100
 
 1. Go to **[Azure Quickstart templates GitHub](https://github.com/azure/azure-quickstart-templates)** and select any template. This is a great place to find examples of how to use **Virtual Machine Scale Sets**.
 
-![2-1 Azure-quickstart-templates-GitHub](/assets/images/2016/09/Azure-Quickstart-Templates-Github.jpg "2-1 Azure-quickstart-templates-GitHub")
+![2-1 Azure-quickstart-templates-GitHub](/assets/img/2016/09/Azure-Quickstart-Templates-Github.jpg "2-1 Azure-quickstart-templates-GitHub")
 
 2. Click on **Deploy to Azure**. This will take you to **Azure Portal**.
 
-![2-2 Deployment-of-VM-scale-set](/assets/images/2016/09/Deployment-of-VM-Scale-Set.jpg "2-2 Deployment-of-VM-scale-set")
+![2-2 Deployment-of-VM-scale-set](/assets/img/2016/09/Deployment-of-VM-Scale-Set.jpg "2-2 Deployment-of-VM-scale-set")
 
 3. You will see **Custom Deployment Section**. Click on **Edit Parameters**.
 4. Fill out the **parameters** as per your needs.
@@ -45,15 +45,15 @@ date:   2016-09-18 22:43:29 +0100
 7. Type the **name for your Resource group**.
 8. Click on **Create**.
 
-![2-3-scale-set-custom-deployment](/assets/images/2016/09/2-3-Scale-Set-Custom-Deployment.jpg "2-3-scale-set-custom-deployment")
+![2-3-scale-set-custom-deployment](/assets/img/2016/09/2-3-Scale-Set-Custom-Deployment.jpg "2-3-scale-set-custom-deployment")
 
 9. This is the template deployment so within that three separate **VMs** are going to be made as a set.
 
-![2-4-scale-set-deployment-in-progress](/assets/images/2016/09/2-4-Scale-Set-Deployment-in-Progress.jpg "2-4-scale-set-deployment-in-progress")
+![2-4-scale-set-deployment-in-progress](/assets/img/2016/09/2-4-Scale-Set-Deployment-in-Progress.jpg "2-4-scale-set-deployment-in-progress")
 
 10. After deployment, you can see that our **resource group** is listed on the **Azure Portal**.
 
-![2-5-Resource-Group Microsoft Azure](/assets/images/2016/09/2-5-Resource-Group.jpg "2-5-Resource-Group Microsoft Azure")
+![2-5-Resource-Group Microsoft Azure](/assets/img/2016/09/2-5-Resource-Group.jpg "2-5-Resource-Group Microsoft Azure")
 
 >If you would like to learn more about different tools and ways for Team Foundation Server to Visual Studio Team Services migration, have a look at the [quick guide about real stories for migrating Team Foundation Server to Visual Studio Team Services](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/). The guide describes some of the real migration scenarios and explains how to use different tools for several cases.
 {: .prompt-tip }

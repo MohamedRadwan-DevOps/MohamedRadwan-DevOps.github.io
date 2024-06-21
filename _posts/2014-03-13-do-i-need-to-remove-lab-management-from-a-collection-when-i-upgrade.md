@@ -21,5 +21,5 @@ manually using Team Foundation Server Administrator Console. Exception
 Details: TF30040: The database is not correctly configured. Contact your
 Team Foundation Server administrator.
 
-![Delete the Lab Management resources](/assets/images/2014/03/delete-the-lab-management-resources.jpg?w=660)
+![Delete the Lab Management resources](/assets/img/2014/03/delete-the-lab-management-resources.jpg)
 

@@ -10,11 +10,11 @@ methods](https://mohamedradwan-devops.github.io/posts/creates-test-cases-from-te
 today I will explorer TCM.EXE and show some of it\'s features
 `tcm suites /collection:http://WIN-GS9GMUJITS8:8080/tfs/defaultcollection /Teamproject:"Tailspin Toys" /list`
 
-[![TCM](/assets/images/2012/03/4.png)](/assets/images/2012/03/4.png)
+[![TCM](/assets/img/2012/03/4.png)](/assets/img/2012/03/4.png)
 
-[![TCM Config](/assets/images/2012/03/1.png)](/assets/images/2012/03/1.png)
+[![TCM Config](/assets/img/2012/03/1.png)](/assets/img/2012/03/1.png)
 
-[![TCM Plans](/assets/images/2012/03/2.png)](/assets/images/2012/03/2.png)
+[![TCM Plans](/assets/img/2012/03/2.png)](/assets/img/2012/03/2.png)
 
-[![TCM Suites](/assets/images/2012/03/3.png)](/assets/images/2012/03/3.png)
+[![TCM Suites](/assets/img/2012/03/3.png)](/assets/img/2012/03/3.png)
 

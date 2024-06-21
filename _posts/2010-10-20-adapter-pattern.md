@@ -33,7 +33,7 @@ We will create our adapter for our domain that adapts the interface to match our
 - Change the names of methods as called and as implemented.
 - Use an existing class, and its interface does not match the one you need.
 
-[![image001](/assets/images/2010/05/image001.jpg)](/assets/images/2010/05/image001.jpg)
+[![image001](/assets/img/2010/05/image001.jpg)](/assets/img/2010/05/image001.jpg)
 
 ## Classes
 

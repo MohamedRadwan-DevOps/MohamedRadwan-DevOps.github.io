@@ -4,7 +4,7 @@ title: "Microsoft elITe MEA!"
 date:   2012-05-10 03:15:24 +0100
 ---
 
-[![5-10-2012 4-28-23 AM](/assets/images/2017/08/5-10-2012-4-28-23-AM.jpg)](/assets/images/2017/08/5-10-2012-4-28-23-AM.jpg)
+[![5-10-2012 4-28-23 AM](/assets/img/2017/08/5-10-2012-4-28-23-AM.jpg)](/assets/img/2017/08/5-10-2012-4-28-23-AM.jpg)
 I have been presented with the Microsoft el**IT**e MEA! (**Middle East
 and Africa**), really it\'s very interesting to meet all el**IT**e MEA
 (**Middle East and Africa**) members in a wonderful meeting, which has
@@ -20,10 +20,10 @@ as always! special thanks for [Hosam Kamel](http://weblogs.asp.net/hosamkamel/) 
 guys in MEA. Microsoft el**IT**e MEA (**Middle East and
 Africa**) Welcome Kit images 
 
-[![5-10-2012 4-33-32 AM](/assets/images/2017/08/5-10-2012-4-33-32-AM.jpg)](/assets/images/2017/08/5-10-2012-4-33-32-AM.jpg)
+[![5-10-2012 4-33-32 AM](/assets/img/2017/08/5-10-2012-4-33-32-AM.jpg)](/assets/img/2017/08/5-10-2012-4-33-32-AM.jpg)
 
-[![5-10-2012 4-35-25 AM](/assets/images/2017/08/5-10-2012-4-35-25-AM-652x1024.jpg)](/assets/images/2017/08/5-10-2012-4-35-25-AM.jpg)
+[![5-10-2012 4-35-25 AM](/assets/img/2017/08/5-10-2012-4-35-25-AM-652x1024.jpg)](/assets/img/2017/08/5-10-2012-4-35-25-AM.jpg)
 
-[![5-10-2012 4-31-42 AM](/assets/images/2017/08/5-10-2012-4-31-42-AM-1024x627.jpg)](/assets/images/2017/08/5-10-2012-4-31-42-AM.jpg)
+[![5-10-2012 4-31-42 AM](/assets/img/2017/08/5-10-2012-4-31-42-AM-1024x627.jpg)](/assets/img/2017/08/5-10-2012-4-31-42-AM.jpg)
 
 

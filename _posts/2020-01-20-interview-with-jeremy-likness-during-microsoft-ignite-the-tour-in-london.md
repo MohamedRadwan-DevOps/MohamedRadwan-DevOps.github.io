@@ -19,7 +19,7 @@ Our community interview is all about Standing on the shoulders of giants! This i
 
 So, our giant in this episode is Jeremy Likness who has more than 25 years of experience. He is working as Cloud Advocate at Microsoft. Jeremy authored many books. Few examples of Jeremy's books:  
 
-![Jeremy-books](/assets/images/2020/01/Jeremy-books-1024x240.jpg)
+![Jeremy-books](/assets/img/2020/01/Jeremy-books-1024x240.jpg)
 
 It was really an amazing interview. and here it is:
 

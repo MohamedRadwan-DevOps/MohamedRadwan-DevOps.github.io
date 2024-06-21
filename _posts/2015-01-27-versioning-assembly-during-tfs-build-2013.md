@@ -16,7 +16,7 @@ First, it’s better to understand the Assembly version. Assembly versions consi
 
 **Revision**: This is the number from source control for that build number. See the following image:
 
-![VS Version](/assets/images/2015/01/vs-version.png?w=660)
+![VS Version](/assets/img/2015/01/vs-version.png)
 
 **We can see in the previous image that the Version is different from the File Version? So why does this happen?** To answer this question we need to know that you don’t have to do that, but as the Version is the version that .NET uses when linking assemblies, you might want to keep the Version without the build number and the revision as you may want to change something, it might be only changing in the build parameters and you don’t want to rebuild all dependent assemblies.
 
@@ -26,7 +26,7 @@ First, it’s better to understand the Assembly version. Assembly versions consi
 - Add an existing item for all your projects as a linked item to point to that file
 - Remove the AssemblyVersion and AssemblyFileVersion attributes from all the project AssemblyInfo.cs files.
 
-![Add exiting item as link](/assets/images/2015/01/add-exiting-item-as-link.png?w=660)
+![Add exiting item as link](/assets/img/2015/01/add-exiting-item-as-link.png)
 
 **Versioning Assembly during TFS Build** The idea here is to change the number in the AssemblyInfo.cs during the build and before the compiling happens. In my case, I use a PowerShell script and I customize my process as follows:
 
@@ -67,16 +67,16 @@ try {
 ```
 
 I opened the process template and within **"Try Compile and Test"** I added an **If** sequence activity  
-![In Try and Compile I add if sequence](/assets/images/2015/01/in-try-and-compile-i-add-if-squence.png)
+![In Try and Compile I add if sequence](/assets/img/2015/01/in-try-and-compile-i-add-if-squence.png)
 
 The main activity inside the "If" activity will be **InvokeProcess** as follows:  
-![VersionAssembly InvokeProcess](/assets/images/2015/01/versionassembly-invokeprocess.png?w=660)
+![VersionAssembly InvokeProcess](/assets/img/2015/01/versionassembly-invokeprocess.png)
 
 I sent arguments to the PowerShell script as follows:  
-![Argument for PowerShell](/assets/images/2015/01/argument-for-powershell.png?w=660)
+![Argument for PowerShell](/assets/img/2015/01/argument-for-powershell.png)
 
 To set parameters in the build definition, see the following image:  
-![Dev_Build_Version](/assets/images/2015/01/dev_build_version1.png?w=660)
+![Dev_Build_Version](/assets/img/2015/01/dev_build_version1.png)
 
 Remember if you want to not change the Version number, remove B.R and Add 0.0 instead ex (2.5.0.0)
 

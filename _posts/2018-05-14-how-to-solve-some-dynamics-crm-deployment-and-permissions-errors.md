@@ -27,14 +27,14 @@ Make sure that CRM service accounts and user accounts have the right permission 
 - Total Control to the SQLAccess Group
 - Perfect Control on the PrivUser Group
 
-![Active Directory CRM Reporting Group and permissions](/assets/images/2018/05/Active-Directory-CRM-Reporting-Group-and-permissions-1024x727.png)
+![Active Directory CRM Reporting Group and permissions](/assets/img/2018/05/Active-Directory-CRM-Reporting-Group-and-permissions-1024x727.png)
 
 >For more information about how to work with **Docker** like, pull docker image, run docker image and work with container, see **[Docker for beginners](https://mohamedradwan-devops.github.io/posts/docker-for-beginners-step-by-step-tutorial/)**
 {: .prompt-info }
 {% include embed/youtube.html id='3RJv6yVfaRE' %}
 
 
-![Active Directory CRM Reporting Group and permissions added to SQL](/assets/images/2018/05/Active-Directory-CRM-Reporting-Group-and-permissions-added-to-SQL.png)
+![Active Directory CRM Reporting Group and permissions added to SQL](/assets/img/2018/05/Active-Directory-CRM-Reporting-Group-and-permissions-added-to-SQL.png)
 
 **For local admin:** Adding your needed accounts (user and service) to local admin if possible will solve many issues for SSRS permission otherwise add them to SSRS.
 

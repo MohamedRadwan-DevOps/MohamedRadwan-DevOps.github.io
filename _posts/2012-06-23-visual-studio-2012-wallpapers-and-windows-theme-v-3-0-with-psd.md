@@ -17,24 +17,24 @@ To download the following preview theme [click here](https://skydrive.live.com/r
 The following theme has more than 40 wallpapers but the following are just
 some of them. [For some old wallpapers, click here](http://blogs.msdn.com/b/mbakirov/archive/2010/06/02/10018698.aspx?ocid=soc-n-eg-elite--MRadwan).
 
-[![Wallpaper-17-W](/assets/images/2012/06/Wallpaper-17-W-1-1024x576.png)](/assets/images/2012/06/Wallpaper-17-W-1.png)
+[![Wallpaper-17-W](/assets/img/2012/06/Wallpaper-17-W-1-1024x576.png)](/assets/img/2012/06/Wallpaper-17-W-1.png)
 
-[![Wallpaper-9-B](/assets/images/2012/06/Wallpaper-9-B-1024x576.png)](/assets/images/2012/06/Wallpaper-9-B.png)
+[![Wallpaper-9-B](/assets/img/2012/06/Wallpaper-9-B-1024x576.png)](/assets/img/2012/06/Wallpaper-9-B.png)
 
-[![Wallpaper-12-B](/assets/images/2012/06/Wallpaper-12-B-1024x576.png)](/assets/images/2012/06/Wallpaper-12-B.png)
+[![Wallpaper-12-B](/assets/img/2012/06/Wallpaper-12-B-1024x576.png)](/assets/img/2012/06/Wallpaper-12-B.png)
 
-[![Wallpaper 1](/assets/images/2012/06/Wallpaper-1-1024x576.png)](/assets/images/2012/06/Wallpaper-1.png)
+[![Wallpaper 1](/assets/img/2012/06/Wallpaper-1-1024x576.png)](/assets/img/2012/06/Wallpaper-1.png)
 
 [Download the theme](https://skydrive.live.com/redir?resid=4BCAA16D27B46600!2309 "Visual Studio 2012 Theme")
 [Download the PSD](https://skydrive.live.com/redir?resid=4BCAA16D27B46600!2276 "The PSD of the Visual Studio 2012 Theme")
 
-[![Wallpaper 4](/assets/images/2012/06/Wallpaper-4-1024x576.png)](/assets/images/2012/06/Wallpaper-4.png)
+[![Wallpaper 4](/assets/img/2012/06/Wallpaper-4-1024x576.png)](/assets/img/2012/06/Wallpaper-4.png)
 
-[![Wallpaper 6](/assets/images/2012/06/Wallpaper-6-1024x576.png)](/assets/images/2012/06/Wallpaper-6.png)
+[![Wallpaper 6](/assets/img/2012/06/Wallpaper-6-1024x576.png)](/assets/img/2012/06/Wallpaper-6.png)
 
-[![Wallpaper 7](/assets/images/2012/06/Wallpaper-7-1024x576.png)](/assets/images/2012/06/Wallpaper-7.png)
+[![Wallpaper 7](/assets/img/2012/06/Wallpaper-7-1024x576.png)](/assets/img/2012/06/Wallpaper-7.png)
 
-[![Wallpaper 8](/assets/images/2012/06/Wallpaper-8-1024x576.png)](/assets/images/2012/06/Wallpaper-8.png)
+[![Wallpaper 8](/assets/img/2012/06/Wallpaper-8-1024x576.png)](/assets/img/2012/06/Wallpaper-8.png)
 
 
 Here are also some wallpapers without any extra logos. To download the PSD

@@ -20,7 +20,7 @@ We will talk about an overview of the secure DevOps kit, which is an internal to
 
 ## Traditional development to agile and DevOps 
 
-![Traditional-development-to-agile-and-DevOps](/assets/images/2019/11/Traditional-development-to-agile-and-DevOps-1024x544.png)
+![Traditional-development-to-agile-and-DevOps](/assets/img/2019/11/Traditional-development-to-agile-and-DevOps-1024x544.png)
 *Traditional-development-to-agile-and-DevOps*
 
 We moved from traditional development to agile and DevOps, which means increasing the frequency of deployment in production. However, this business agility should not come at the expense of security. The question here is: Can the current security model and practices keep up? The answer is no, because the current security practices are not flexible enough to keep up with the changes. 
@@ -38,7 +38,7 @@ One of the very important paradigm shifts in our software industry is the concep
 
 ## DevOps is better for security
 
-![DevOps-is-better-for-security](/assets/images/2019/11/DevOps-is-better-for-security-1024x547.png)
+![DevOps-is-better-for-security](/assets/img/2019/11/DevOps-is-better-for-security-1024x547.png)
 *DevOps-is-better-for-security*
 
 Talking about DevOps, we are not in the position to defend that DevOps is not bad for security. We go even further and see that DevOps is better for security. By moving fast, we become more secure because we are not standing in a vulnerable position for a long time. It's very simple: compliance relies on automation, which means that we are going to automate compliance by automating the pipeline and certifying the pipeline instead of certifying each release. This means switching the conversation with the security team to approve the pipeline, with the ability to monitor and audit all the processes at any point in time. Security needs to shift from the end to be evaluated at every step of the process. Securing the application is a continuous process.

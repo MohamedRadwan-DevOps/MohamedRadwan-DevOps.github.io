@@ -8,44 +8,44 @@ I work in a project and I try to automate everything so I just need to automate 
 
 1.  Create DB project
     
-    ![Edit DB properties](/assets/images/2010/10/DBProperties.jpg)
+    ![Edit DB properties](/assets/img/2010/10/DBProperties.jpg)
 
 <!-- -->
 
 2.  Edit the properties of the DB project in the deployment tab so it
     will deploy script and create the DB 
     
-    ![Edit deploy tab](/assets/images/2010/10/DeployDBOption.png)
+    ![Edit deploy tab](/assets/img/2010/10/DeployDBOption.png)
 
 3.  Check-out any process template from the process template folder
     
-    ![Check-out process](/assets/images/2010/10/Check-inProcess.png)
+    ![Check-out process](/assets/img/2010/10/Check-inProcess.png)
 
 4.  Copy the file an rename it to the name you want
    
 5.  Add the file to the source control and check-in it after rename it
     
-    ![Add the process to the source control](/assets/images/2010/10/AddProcess.png)
+    ![Add the process to the source control](/assets/img/2010/10/AddProcess.png)
 
 6.  open the new file
    
 7.  Delete all steps, arguments and variables 
    
-   ![Delete any items](/assets/images/2010/10/DesingProcess.png)
+   ![Delete any items](/assets/img/2010/10/DesingProcess.png)
 
 8.  Add sequence task and a MS Build task inside the sequence from the
     tool box 
     
-    ![Add Sequence and MS build tasks](/assets/images/2010/10/MSBuildProperties.png)
+    ![Add Sequence and MS build tasks](/assets/img/2010/10/MSBuildProperties.png)
     
 
 9.  Start adding the following argument as the following image 
     
-    ![Arguments](/assets/images/2010/10/MSBuildProperties2.jpg)
+    ![Arguments](/assets/img/2010/10/MSBuildProperties2.jpg)
     
-    ![Arguments 2](/assets/images/2010/10/MakeArgumentWithTargets.png)
+    ![Arguments 2](/assets/img/2010/10/MakeArgumentWithTargets.png)
 
-    ![Set Configuration](/assets/images/2010/10/PassArgument.png)
+    ![Set Configuration](/assets/img/2010/10/PassArgument.png)
 
 10.  Save the file
     
@@ -56,11 +56,11 @@ I work in a project and I try to automate everything so I just need to automate 
 
 13. Start create new build definition from the new process file and give this build definition the need parameter and one of them is the path of the DB project on the Team build server
     
-    ![New build definition](/assets/images/2010/10/New-Build-Defination.png)
+    ![New build definition](/assets/img/2010/10/New-Build-Defination.png)
     
-    ![Build use the create process](/assets/images/2010/10/AddyourTemplate.png)
+    ![Build use the create process](/assets/img/2010/10/AddyourTemplate.png)
     
-    ![Put the build parameters](/assets/images/2010/10/BuildDefinationWithVariable.png)
+    ![Put the build parameters](/assets/img/2010/10/BuildDefinationWithVariable.png)
 
 14. Queue and build using the created build definition
 

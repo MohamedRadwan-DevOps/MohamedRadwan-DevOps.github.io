@@ -38,7 +38,7 @@ A new Window introduced in [Team Foundation Server 2012](http://msdn.microsoft.c
 
 **My work is like a Facebook feature.**
 
-![MyWork-Facebook](/assets/images/2012/11/mywork-facebook.jpg "MyWork-Facebook")
+![MyWork-Facebook](/assets/img/2012/11/mywork-facebook.jpg "MyWork-Facebook")
 
 For me, I think of this feature like the Facebook notification. It will enhance the interactivity between you and your team. Let\'s see the Facebook analogy: if any of your close friends adds a post or photo, this will appear in your notification. No need to check the wall every minute for new posts from your close friends. This is My Work, keeping you connected with what\'s going on without needing to check all the time. There is no need to query the work items to know if there are new tasks assigned to you, if your code review is completed, if you have new bugs, and many other options.
 
@@ -46,7 +46,7 @@ My Work depends on the login activity to determine what data to bring, retrievin
 
 **My Work Sections**
 
-![MyWork](/assets/images/2012/11/mywork-1.png "MyWork")
+![MyWork](/assets/img/2012/11/mywork-1.png "MyWork")
 
 As we can see, My Work is divided into four sections:
 
@@ -59,43 +59,43 @@ There will be separate posts for the **Suppressed Work** and **Code Review** sec
 
 **Available Work Items (section)**
 
-![Available-WorkItems](/assets/images/2012/11/available-workitems-1.png "Available-WorkItems")
+![Available-WorkItems](/assets/img/2012/11/available-workitems-1.png "Available-WorkItems")
 
 This is a Team Explorer section that retrieves data based on your identity and a work item query. You can open this query to get more information about the criteria that retrieve the data. You can also create new work items from the new menu.
 
 **In Progress Work (section)**
 
-![In-Progress-Work](/assets/images/2012/11/in-progress-work-1.png "In-Progress-Work")
+![In-Progress-Work](/assets/img/2012/11/in-progress-work-1.png "In-Progress-Work")
 
 This is a Team Explorer section that shows what you are currently working on. It could contain tasks, code pending changes, and it\'s very intelligent to show only what you can do at this moment. For example, if there are pending changes, it will show a check-in command; if not, it will not show it. If there are any project edits, it will show the suppress button.
 
 **Drag and drop work items from available to in progress**
 
-![Drag-and-Drop](/assets/images/2012/11/drag-and-drop2-1.png "Drag-and-Drop")
+![Drag-and-Drop](/assets/img/2012/11/drag-and-drop2-1.png "Drag-and-Drop")
 
 To start work on a task, you just select it and click start, or simply drag and drop it to the **In Progress Work** section. Remember, if you have **10 tasks** to do, you can only work on one task at any point in time. The idea here is to put one task inside the **In Progress Work** section that you will work on right now. It should have only one task at a time, making it very intelligent to associate the task when you try to check in your code. If you are not finished, the task should be associated; if you are finished, it should be closed.
 
 **In Progress Work with and without pending change**
 
-![MyWork-with-without-pending-change](/assets/images/2012/11/mywork-with-withoutpending-change-1.png "MyWork-with-without-pending-change")
+![MyWork-with-without-pending-change](/assets/img/2012/11/mywork-with-withoutpending-change-1.png "MyWork-with-without-pending-change")
 
 **In Progress Work after clicking on check-in command**
 
-![MyWork-with-without-pending-change-check-in](/assets/images/2012/11/mywork-with-withoutpending-change-check-in-1.png "MyWork-with-without-pending-change-check-in")
+![MyWork-with-without-pending-change-check-in](/assets/img/2012/11/mywork-with-withoutpending-change-check-in-1.png "MyWork-with-without-pending-change-check-in")
 
 When we move the work item from the **Available Work Items** section into the **In Progress Work** section, this will change the state of the work item to in progress, and this can be shown on the **Team Web Access**. This applies when we click finish or check-in. However, the reverse is not true. If you change the work item on **Team Web Access** from **To Do** to **In Progress**, this will not reflect on My Work or **In Progress Work**.
 
 **Change the work item to In Progress inside My Work reflects on Team Web Access**
 
-![Move-to-InProgress](/assets/images/2012/11/move-to-inprogress-1.png "Move-to-InProgress")
+![Move-to-InProgress](/assets/img/2012/11/move-to-inprogress-1.png "Move-to-InProgress")
 
 **Change the work item to finish inside My Work reflects on Team Web Access**
 
-![Finish-Task](/assets/images/2012/11/finish-task-1.png "Finish-Task")
+![Finish-Task](/assets/img/2012/11/finish-task-1.png "Finish-Task")
 
 **Change the work item to In Progress inside Team Web Access doesn\'t reflect on My Work**
 
-![Move-task-onboard-don't-on-My-Work](/assets/images/2012/11/move-task-onboard-donton-my-work-1.png "Move-task-onboard-don't-on-My-Work")
+![Move-task-onboard-don't-on-My-Work](/assets/img/2012/11/move-task-onboard-donton-my-work-1.png "Move-task-onboard-don't-on-My-Work")
 
 **Links:**
 

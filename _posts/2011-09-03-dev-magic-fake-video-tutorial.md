@@ -14,9 +14,9 @@ the step by step guide ([Dev Magic Fake step by step tutorial](https://mohamedra
 
 ### DevMagicFake on CodePlex
 
-![](/assets/images/2011/09/CodePlex.png)
+![](/assets/img/2011/09/CodePlex.png)
 
 ### DevMagicFake on NuGet
 
-![nugetlogo](/assets/images/2011/09/nugetlogo.png)
+![nugetlogo](/assets/img/2011/09/nugetlogo.png)
 

@@ -15,7 +15,7 @@ Despite assigning a System Administrator Role to it, a lot of information was st
 
 The image below demonstrates the process of assigning roles in **Dynamics 365**:
 
-![Managing User Roles in Dynamics 365](/assets/images/2018/03/Managing-User-Roles-in-Dynamics-365-1024x619.png)
+![Managing User Roles in Dynamics 365](/assets/img/2018/03/Managing-User-Roles-in-Dynamics-365-1024x619.png)
 
 [Tip]{.ion-tip} If you would like to learn more about Microsoft Dynamics development, including the overview of the Microsoft Dynamics CRM itself, installing Microsoft Dynamics 2016 on Azure VM and how to upgrade to Dynamics 365, how to develop Dynamics CRM plugin, how to debug Microsoft Dynamics CRM project, create and run unit tests using FakeXRMEasy and Microsoft Fakes, JavaScript and front-end unit tests as well code quality using JSHint, also how to create and run UI and how to integrate all the practices as part of the CI/CD (Continuous Integration and Continuous Delivery), have a look at [**this post**](https://mohamedradwan-devops.github.io/posts/devops-for-microsoft-dynamics/)
 
@@ -24,7 +24,7 @@ After some research, I realized that to solve the problem everything I needed to
 - Read-Write
 - License: professional
 
-![Dynamics 365 - Administrating Client Access](/assets/images/2018/03/Dynamics-365-Administrating-Client-Access-1024x755.png)
+![Dynamics 365 - Administrating Client Access](/assets/img/2018/03/Dynamics-365-Administrating-Client-Access-1024x755.png)
 
 I hope this helps!
 

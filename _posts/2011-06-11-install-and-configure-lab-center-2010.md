@@ -10,11 +10,11 @@ Prepare your environment as follows:
 
 - Lab Management with TFS architecture
 
-![Lab-Management-Architecture](/assets/images/2011/06/Lab-Management-Architecture-1024x361.jpg)
+![Lab-Management-Architecture](/assets/img/2011/06/Lab-Management-Architecture-1024x361.jpg)
 
 - Install TFS, Build Server, and Test Controller
 
-![TFS-Without-LabManagement](/assets/images/2011/06/TFS-Without-LabManagement.jpg)
+![TFS-Without-LabManagement](/assets/img/2011/06/TFS-Without-LabManagement.jpg)
 
 - Install Hyper-V on a physical machine
 - Install SCVMM on the Hyper-V machine or any other machine
@@ -22,7 +22,7 @@ Prepare your environment as follows:
 - Install Admin console on the TFS machine
 - Configure Lab Management on the TFS machine from the TFS Administration console
 
-![TFS-With-LabManagement](/assets/images/2011/06/TFS-With-LabManagement.jpg)
+![TFS-With-LabManagement](/assets/img/2011/06/TFS-With-LabManagement.jpg)
 
 - Create virtual machines on the Hyper-V and prepare them as you need (one Windows 2008 R2, one Windows 7, one Windows Vista, etc.)
 - Join all created virtual machines to the domain
@@ -48,5 +48,5 @@ Prepare your environment as follows:
 - Build Agent configured automatically by the Lab Management on the virtual machine: when connecting to the machine using Lab center, click configure button.
 - When I configure Test Agent with the **TFSLAB** account, I have an error: "Test agent is not configured to run interactively under this account. Run the Test Agent Configuration Tool to change the interactive user account." This error could happen for many reasons. My reason was that I wrote the domain when configuring the Test Agent like (mydomain.com\TFSLAB) but it should be (Mydomain\TFSLAB). Another reason could be if you configure the Test Agent using a local account. For more info see the following link [Troubleshooting errors in lab management](http://blogs.msdn.com/b/lab_management/archive/2009/10/26/troubleshooting.aspx?ocid=soc-n-eg-elite--MRadwan " Troubleshooting errors in lab management")
 
-![TestAgent](/assets/images/2011/06/TestAgent.png)
-![TestAgent2](/assets/images/2011/06/TestAgent2.png)
+![TestAgent](/assets/img/2011/06/TestAgent.png)
+![TestAgent2](/assets/img/2011/06/TestAgent2.png)

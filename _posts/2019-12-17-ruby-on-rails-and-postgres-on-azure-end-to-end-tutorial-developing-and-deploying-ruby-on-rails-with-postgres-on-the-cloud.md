@@ -15,7 +15,7 @@ The first step is to create the first Resource Group. The [Resource Group](https
 
 So, in the first Resource Group, I will create 2 VMs, the main virtual machines that I will use in the demo. This will help you get a better understanding of how to configure and prepare your client machine to run Ruby on Rails and Postgres DB application.
 
-![Ruby on Rails and Postgres on Azure End-To-End Tutorial](/assets/images/2019/12/Ruby-on-Rails-and-Postgres-on-Azure-End-To-End-Tutorial.gif)
+![Ruby on Rails and Postgres on Azure End-To-End Tutorial](/assets/img/2019/12/Ruby-on-Rails-and-Postgres-on-Azure-End-To-End-Tutorial.gif)
 
 ## Install all the prerequisite
 

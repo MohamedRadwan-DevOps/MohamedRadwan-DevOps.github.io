@@ -17,7 +17,7 @@ The post [Upgrade to TFS 2018 Has Been Done in Production](https://mohamedradwan
 
 Traditional **Development** and **Operations** teams worked in a way that the **Development team** created a solution for production. When it was finished, they handed it over to the **Operations team**. The **Operations team** then started preparing to implement the project in the production environment and manually changed the configuration files and other data to comply for deployment. This caused a lot of duplication and issues which were very hard to resolve due to different files and environments.
 
-![1-traditional-development-and-operations](/assets/images/2016/09/Traditional-Development-and-Operations.jpg "1-traditional-development-and-operations")
+![1-traditional-development-and-operations](/assets/img/2016/09/Traditional-Development-and-Operations.jpg "1-traditional-development-and-operations")
 
 [**DevOps**](https://www.microsoft.com/en/server-cloud/solutions/development-operations.aspx) is a software development method that stresses communication, collaboration, and integration between software developers and information technology (IT) professionals. It enables the rapid evolution of products and services, lowers risk, enhances quality across portfolios, and reduces costs.
 
@@ -54,7 +54,7 @@ There is a gap between **Developers** and the **Operations** team. With the impl
 - The pipeline of Dev - Test - Prod is closely monitored for each deployment with immediate feedback.
 - Better collaboration and communication.
 
-![2-what-is-devops](/assets/images/2016/09/What-is-DevOps-1.jpg "2-what-is-devops")
+![2-what-is-devops](/assets/img/2016/09/What-is-DevOps-1.jpg "2-what-is-devops")
 
 
 >For cases demanding high fidelity migration for work-items, the post [TFS 2017 Migration To VSTS with VSTS Sync Migrator](https://mohamedradwan-devops.github.io/2017/09/15/tfs-2017-migration-to-vsts-with-vsts-sync-migrator/) describes the migration without any limitations for migrating links, attachments, or work items.

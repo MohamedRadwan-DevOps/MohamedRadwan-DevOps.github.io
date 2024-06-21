@@ -20,7 +20,7 @@ In this post, I will address **5 different types of meetings to be held during t
 
 Ensuring specific time-boxing for sprint meetings will secure higher efficiency for the whole team and, of course, the project itself. With this cyclical process, the team will be able to achieve better communication **openly** and **honestly**. With a **sprint length of one week**, the time boxing for all meetings is estimated to be **min 6h and max 11h**. Prior to holding the first meeting, the backlog should be well refined and prioritized. This is a very important aspect, as the people who are actually going to work on the completion of backlog items should estimate how much effort it will take them to complete a particular work item. As the [**backlog refinement**](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/) is another important topic, I will cover it separately in another future post.
 
-![Scrum Meetings](/assets/images/2017/11/Scrum-Meetings.png)
+![Scrum Meetings](/assets/img/2017/11/Scrum-Meetings.png)
 
 [More Info]{.ion-info} If you want to know more about maintaining the backlog properly, visit the following post: [Key Tips For Maintaining Good Product Backlog in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/). The post describes a way to efficiently organize the [backlog](https://docs.microsoft.com/en-us/vsts/work/backlogs/create-your-backlog) items, allowing you to understand the requirements better and providing you with a higher level of detail on what is actually expected from the work or delivery perspective.
 
@@ -30,7 +30,7 @@ This is the **first Sprint meeting** and should be held at the very beginning of
 
 Usually, in a [**Sprint meeting plan**](https://mohamedradwan-devops.github.io/posts/requirements-epic-feature-user-story-task-size-and-estimation-in-agile-and-scrum/), all team members are present, including the **Product Owner** and the **Scrum Master**. In this meeting, the team will take the top items from the backlog and estimate or forecast how much they will deliver in the sprint. Based on that, they will have the team's velocity. Once the team has run a couple of sprints, they will understand the velocity of each past sprint. This is also an opportunity to strive towards improving the **velocity** in future sprints. This means the team will understand how many points they managed to deliver in past sprints and will try to improve that number in future sprints.
 
-![Velocity Eight Iterations](/assets/images/2017/11/commerce-team-velocity-eight-iterations.png)
+![Velocity Eight Iterations](/assets/img/2017/11/commerce-team-velocity-eight-iterations.png)
 
 >The post [User stories in Agile world](https://mohamedradwan-devops.github.io/posts/user-stories-in-agile-world/) focuses on an important unit of Agile software development process, which is the [User Story](https://docs.microsoft.com/en-us/vsts/work/work-items/guidance/agile-process-workflow). The post also describes some basic rules and recommendations you have to follow before adding the descriptions of **PBI**.
 {: .prompt-tip }

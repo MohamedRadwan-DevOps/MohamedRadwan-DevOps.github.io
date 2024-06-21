@@ -4,7 +4,7 @@ title: "It's Time to say Thank You Too!!!"
 date:   2012-08-27 13:54:57 +0100
 ---
 
-[![](/assets/images/2012/09/thank-you.jpg "Thank-you")](/assets/images/2012/09/thank-you.jpg)
+[![](/assets/img/2012/09/thank-you.jpg "Thank-you")](/assets/img/2012/09/thank-you.jpg)
 
 The biggest prize and the best thing to give to any contributor is just
 simply say, **Thank you** or in another hand use his work and mention

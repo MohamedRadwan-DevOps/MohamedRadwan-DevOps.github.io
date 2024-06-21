@@ -38,7 +38,7 @@ problems so we can have a new copy of an existing Dynamics CRM machine
 and make it works fine.  **The following image is describing the
 process steps:** 
 
-![Automatically Creating Staging Environment for Dynamics workflow](/assets/images/2018/04/Automatically-Creating-Staging-Environment-for-Dynamics-workflow-1024x503.png)
+![Automatically Creating Staging Environment for Dynamics workflow](/assets/img/2018/04/Automatically-Creating-Staging-Environment-for-Dynamics-workflow-1024x503.png)
 
 The following video describes the current post in
 action, in case anyone prefers videos, also the video and the post could
@@ -207,7 +207,7 @@ $image = New-AzureRmImage -ImageName $imageName -ResourceGroupName $rgName -Imag
 **We can also create image from Azure Portal for new VMs by click capture, see the following image:** 
 
 
-![Create Image from VM on Azure then create VM from that image](/assets/images/2018/04/Create-Image-from-VM-on-Azure-then-create-VM-from-that-image-1024x522.jpg)
+![Create Image from VM on Azure then create VM from that image](/assets/img/2018/04/Create-Image-from-VM-on-Azure-then-create-VM-from-that-image-1024x522.jpg)
 
 Remember, we must generalize
 the VM or the VHD \"**sysprep**\" before creating an image no matter
@@ -217,11 +217,11 @@ not work properly.
 **We can also create snapshot from VM disk and then create a new VM from that snapshot, see the following image:**
 
 
-![Create snapshot from Azure Disk then create Managed Disk then create VM from Managed disk](/assets/images/2018/04/Create-snapshot-from-Azure-Disk-then-create-Managed-Disk-then-create-VM-from-Managed-disk-1024x447.jpg)
+![Create snapshot from Azure Disk then create Managed Disk then create VM from Managed disk](/assets/img/2018/04/Create-snapshot-from-Azure-Disk-then-create-Managed-Disk-then-create-VM-from-Managed-disk-1024x447.jpg)
 
 **The following image shows the icon of each type in Azure Portal:** 
 
-![Azure icons for Snapshot - Disk - Image](/assets/images/2018/04/Azure-icons-for-Snapshot-Disk-Image.png)
+![Azure icons for Snapshot - Disk - Image](/assets/img/2018/04/Azure-icons-for-Snapshot-Disk-Image.png)
 
 ## 5.Create VM from Image
 

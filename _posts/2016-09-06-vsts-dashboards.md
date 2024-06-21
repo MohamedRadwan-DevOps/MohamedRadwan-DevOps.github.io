@@ -21,7 +21,7 @@ date:   2016-09-06 18:12:39 +0100
 
 On the previous homepage, you could only have one **dashboard**, you could only have a small section for **new widgets** and you couldn\'t customize anything else on that page. You couldn\'t remove any of the widgets and you couldn\'t lay it out the way your team wanted. The image below shows the old team overview page inside [**VSTS**](https://mohamedradwan-devops.github.io/posts/license-types-for-visual-studio/). The image is showing some of the features that you couldn\'t customize in order that dashboard would fit your project\'s needs. You could not remove the top blocks if you do not want them there. If your team didn\'t use or burn down the capacity, there was no way to remove them. 
 
-![1-VSTS Dashboards - Previous Version](/assets/images/2016/09/Dashboards-Previous-Version.jpg "1-VSTS Dashboards - Previous Version")
+![1-VSTS Dashboards - Previous Version](/assets/img/2016/09/Dashboards-Previous-Version.jpg "1-VSTS Dashboards - Previous Version")
 
 >If you would like to learn more about Hockey App as it\'s part of Microsoft\'s Mobile DevOps stack helping developers manage the app lifecycle and automate integration, testing, delivery, and monitoring. Mobile Center is a new base for all of your mobile application needs. It is a set of DevOps tools including continuous integration, automated UI testing, distribution, crashes and analytics. You can use any number of these features independently, but the more you combine, the more powerful Mobile Center becomes. - have a look at [**this post**](https://mohamedradwan-devops.github.io/posts/the-next-generation-of-hockey-app-visual-studio-mobile-center-now-visual-studio-app-center/).
 {: .prompt-info }
@@ -39,7 +39,7 @@ Features of **new dashboard** allow users to customize so much more in order to 
 
 Three of them are shown here. One of them is a markdown widget and it really lets you be creative in a way what you want to show your team: text, images or links. The other one is the **sprint overview widget** that allows you to see stories that are in progress and which ones haven\'t started yet. The last widget you will see in green is the query tile (the query tile can turn red or green depending on the threshold of bugs). And it triggers green because there are no blocked tasks on this board. 
 
-![2-VSTS Dashboards - New Version](/assets/images/2016/09/Dashboards-New-Version.jpg)
+![2-VSTS Dashboards - New Version](/assets/img/2016/09/Dashboards-New-Version.jpg)
 
 >If you would like to learn more about how to change the credential of IIS Application Pool using PowerShell, we will also use PowerShell to restart the Application Pool - have a look at [**this post**](https://mohamedradwan-devops.github.io/posts/working-with-iis-powershell/).
 {: .prompt-info }

@@ -16,7 +16,7 @@ When **Virtual Machine** is created **DevTest Labs Artifacts** allow you to defi
 3. **Click** on **Base Image** from the list.
 4. Another new column will open on the right side of the portal. Choose a **Windows Base Image**.
 
-![1-Creating VMs with artifacts in DevTest Labs](/assets/images/2016/06/1-Creating-VMs-with-artifacts-in-DevTest-Labs.jpg "1-Creating VMs with artifacts in DevTest Labs")
+![1-Creating VMs with artifacts in DevTest Labs](/assets/img/2016/06/1-Creating-VMs-with-artifacts-in-DevTest-Labs.jpg "1-Creating VMs with artifacts in DevTest Labs")
 
 ### Step 2: Choosing Artifact from the list
 
@@ -25,25 +25,25 @@ When **Virtual Machine** is created **DevTest Labs Artifacts** allow you to defi
 3. A new column on the right side will appear, which will show the list of all new **Artifacts** which you can apply to the new **Virtual Machine** that you are going to create. In this list, you will see the names, description, and repository of each **Artifact** that works in this case for **Windows**. Also, for this case choose the **Fiddler4 Artifact** by clicking on it.
 4. After you click on the chosen **Artifact** on the right side a new column will appear with a description telling with which package manager this **Artifact** will be installed. In the lower right corner click on the **Add** button to add it.
 
-![2-Choosing Artifact from the list in DevTest Labs](/assets/images/2016/06/2-Choosing-Artifact-from-the-list-in-DevTest-Labs.jpg "2-Choosing Artifact from the list in DevTest Labs")
+![2-Choosing Artifact from the list in DevTest Labs](/assets/img/2016/06/2-Choosing-Artifact-from-the-list-in-DevTest-Labs.jpg "2-Choosing Artifact from the list in DevTest Labs")
 
 ### Step 3: Choosing another Artifact from the list 
 
 1. Choose another **Artifact** to download a job from **Visual Studio Online**.
 2. This **Artifact** will take four parameters: **VSO Project URL**, **Build Definition Name**, **Personal Access Token** (which you can create in **VSO** by going to the security tab in your profile page) and **Path to Script**. Once you've inserted all required data, click on the **Add** button in the lower right corner.
 
-[![3-Choosing another Artifact from the list in DevTest Labs](/assets/images/2016/06/3-Choosing-another-Artifact-from-the-list-in-DevTest-Labs.jpg "3-Choosing another Artifact from the list in DevTest Labs")
+[![3-Choosing another Artifact from the list in DevTest Labs](/assets/img/2016/06/3-Choosing-another-Artifact-from-the-list-in-DevTest-Labs.jpg "3-Choosing another Artifact from the list in DevTest Labs")
 
 ### Step 4: Finish Artifacts settings and create a Virtual Machine 
 
 1. In the **Add Artifacts blade**, now we see that two **Artifacts** were selected. Click on them to check which two **Artifacts** were just added.
 2. In the **Selected Artifacts blade**, you will see the added **Artifacts**. From here you can drag and drop them to change the order or even delete them. Click **Ok** button in the lower right corner to finish the **Artifact settings**. In the **Add Artifact blade** click on the **Ok** button and in the **Lab VM blade** click on **Create button** to create a **Virtual Machine**.
 
-![4-1 Finish Artifacts settings in DevTest Labs](/assets/images/2016/06/4-1-Finish-Artifacts-settings-in-DevTest-Labs.jpg "4-1 Finish Artifacts settings in DevTest Labs")
+![4-1 Finish Artifacts settings in DevTest Labs](/assets/img/2016/06/4-1-Finish-Artifacts-settings-in-DevTest-Labs.jpg "4-1 Finish Artifacts settings in DevTest Labs")
 
 3. When the **Virtual Machine** is created, you will get both **Artifacts** installed on it as well.
 
-![4-2 Creating a Virtual Machine in DevTest Labs](/assets/images/2016/06/4-2-Creating-a-Virtual-Machine-in-DevTest-Labs.jpg "4-2 Creating a Virtual Machine in DevTest Labs")
+![4-2 Creating a Virtual Machine in DevTest Labs](/assets/img/2016/06/4-2-Creating-a-Virtual-Machine-in-DevTest-Labs.jpg "4-2 Creating a Virtual Machine in DevTest Labs")
 
 ### Conclusion {#Con}
 

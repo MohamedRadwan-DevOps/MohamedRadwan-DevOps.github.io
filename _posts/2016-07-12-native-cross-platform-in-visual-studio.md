@@ -8,7 +8,7 @@ date:   2016-07-12 15:42:51 +0100
 
 In **[Visual Studio 2015](https://www.visualstudio.com/)** you can build same apps for different devices, such as **Android**, **iOS**, and **Windows**. In design process you will have the access to many design tools in **Visual Studio** that will allow you to add many connected services, like **[Azure Mobile Services](https://azure.microsoft.com/en-us/documentation/learning-paths/appservice-mobileapps/)**, **Application Insights** and **Office 365**. What is really good is that you don\'t have to use specific coding language, you can use your preferred coding language, such as **C#** and the **.**NET Framework, **HTML** and **JavaScript**, or **C++**. You can even share code, images, strings and even the user interface in some cases. 
 
-![0-Native Cross-Platform in Visual Studio](/assets/images/2016/07/0-Native-Cross-Platform-in-Visual-Studio.jpg "0-Native Cross-Platform in Visual Studio")
+![0-Native Cross-Platform in Visual Studio](/assets/img/2016/07/0-Native-Cross-Platform-in-Visual-Studio.jpg "0-Native Cross-Platform in Visual Studio")
 
 >If you would like to start using [Visual Studio](https://www.visualstudio.com/) for developing, read the details about its installation, launching and creating a new project in my post [Get Started Developing with Visual Studio](https://mohamedradwan-devops.github.io/posts/get-started-developing-with-visual-studio-2015/). If you prefer to use Mac, see how it looks in [Visual Studio for Mac](https://mohamedradwan-devops.github.io/posts/visual-studio-for-mac/) post.
 {: .prompt-tip }
@@ -22,7 +22,7 @@ In **[Visual Studio 2015](https://www.visualstudio.com/)** you can build same ap
 
 If you don\'t have **[Visual Studio 2015](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)** installed yet, you will have to download and install it first. In setup process choose **HTML/JavaScript** (**Apache Cordova**) feature. Apache Cordova is a framework which is including a plug-in model. That enables the sharing of files for other types of web applications, without having to redesign or modify them. After you created your first project and you want to run your app, you can choose between different emulators to do that or you can even run it in a browser or on a device which is connected directly to your computer. The most used emulators are **Apache Ripple emulator** or **Visual Studio Emulator** and they are used for **Android** or **Windows Phone**. 
 
-![1-HTML and JavaScript Apache Cordova Visual Studio](/assets/images/2016/07/1-HTML-and-JavaScript-Apache-Cordova-Visual-Studio.jpg)
+![1-HTML and JavaScript Apache Cordova Visual Studio](/assets/img/2016/07/1-HTML-and-JavaScript-Apache-Cordova-Visual-Studio.jpg)
 
 >You can see this video, if you would like to find more information about how to upload VSTS extension to VSTS Marketplace with the publisher ID. Share it and install it afterwards as VSTS extension. From the appropriate publisher ID upload the previously packaged extension into VSIX. See how to share the uploaded extension. (which is still private) with VSTS account and how to see with which accounts the extension is already shared with.
 {: .prompt-info }
@@ -36,13 +36,13 @@ If you don\'t have **[Visual Studio 2015](https://www.visualstudio.com/en-us/dow
 
 First you will need to have installed **Visual Studio 2015**. In installation process you will have to choose Custom installation and select **Cross Platform Mobile Development > C#/.NET** or you can simply use the **[Xamarin Installer](https://www.xamarin.com/download)**. If you already have **Visual Studio 2015** installed, in Programs and Features select the same Custom option for **Xamarin** as above. When you\'ll create new project and when you will want to see how it works, you can use the Android **emulator for Android apps**, for Windows you can run apps natively or also you can use **Windows Phone emulator**. For **iOS** project you will start **Mac emulator** and you will have to connect to a networked **Mac**. 
 
-![2-Xamarin Native Cross-Platform in Visual Studio](/assets/images/2016/07/2-Xamarin-Native-Cross-Platform-in-Visual-Studio.jpg)
+![2-Xamarin Native Cross-Platform in Visual Studio](/assets/img/2016/07/2-Xamarin-Native-Cross-Platform-in-Visual-Studio.jpg)
 
 ### Working with Visual C++
 
 Again you will have to have first installed **Visual Studio 2015** and also in this case you will have to install the **Visual C++ for Cross Platform Mobile Development tools**. This option is available for now **only for Android or Windows app**, it\'s not yet available for **iOS apps**. You will have the chance to choose between many templates, some of them are native and can be used for both solutions (Android and Windows) and some of them targets on **Windows**. When your project is ready and you want to see how it looks, you can use **Visual Studio Emulator** for **Android** or **Windows**. 
 
-![3-Working with Visual C++ Visual Studio](/assets/images/2016/07/3-Working-with-Visual-C-Visual-Studio.jpg)
+![3-Working with Visual C++ Visual Studio](/assets/img/2016/07/3-Working-with-Visual-C-Visual-Studio.jpg)
 
 >You can see this video, if you would like to find more information about how to create a Publisher Id for the Continuous Delivery purposes. See how to create a Publisher ID in order to be able to publish an extension to VSTS marketplace. Learn the differences between Private and Public Publisher Id. Any Publisher Id when first is created is Private. And afterwards if we want to make it Public we need to send a request to Microsoft to verify our identity (as Individual or a Company).
 {: .prompt-info }

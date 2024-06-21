@@ -18,15 +18,15 @@ to use it, he will need to download the latest reversion of
 the project from CodePlex and just make a local build on his
 machine.]{style="color: #ff0000;"} So if we write the following code
 
-[![](/assets/images/2011/11/FluentCode.png)](/assets/images/2011/11/FluentCode.png)
+[![](/assets/img/2011/11/FluentCode.png)](/assets/img/2011/11/FluentCode.png)
 
 So this will generate data as the following:
 
-[![FluentAPIResult](/assets/images/2011/11/FluentAPIResult.png)](/assets/images/2011/11/FluentAPIResult.png)
+[![FluentAPIResult](/assets/img/2011/11/FluentAPIResult.png)](/assets/img/2011/11/FluentAPIResult.png)
 
 The rules can be set using the following methods:
 
-[![FluentAPI](/assets/images/2011/11/FluentAPI.png)](/assets/images/2011/11/FluentAPI.png)
+[![FluentAPI](/assets/img/2011/11/FluentAPI.png)](/assets/img/2011/11/FluentAPI.png)
 
 Now there are 3 methods for putting rules for your data generation
 

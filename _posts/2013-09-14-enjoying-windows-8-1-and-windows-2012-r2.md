@@ -8,5 +8,5 @@ Windows 8.1 and Windows Server 2012 R2 was available for download on
 MSDN on 9 Sep 2013. Now Window start has shutdown for all people that
 missed that
 
-![Win8.1](/assets/images/2013/09/win8-1.jpg?w=660)
+![Win8.1](/assets/img/2013/09/win8-1.jpg)
 

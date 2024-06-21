@@ -6,9 +6,9 @@ date: 2013-06-18 15:20:06 +0100
 
 I'm speaking at Microsoft about DevOps with Team Foundation Server 2012. If the registration is full, you can join online. Waiting for you :-)
 
-![microsoft](/assets/images/2012/09/microsoft.gif "microsoft") 
+![microsoft](/assets/img/2012/09/microsoft.gif "microsoft") 
 
-![hero_emailer_01](/assets/images/2012/09/hero_emailer_01.jpg)
+![hero_emailer_01](/assets/img/2012/09/hero_emailer_01.jpg)
 
 Microsoft has made major changes in how IT professionals in operations can interface with developers using System Center and TFS. In this session, we will look at the tooling available with TFS 2012. This will include IntelliTrace in Production, System Center using CodeUI for smoke tests, automated logging of issues in TFS from System Center.
 
@@ -28,4 +28,4 @@ Conference ID: **66127341**
 
 [Forgot your dial-in PIN? First online meeting?](http://r.office.microsoft.com/r/rlidOC10?clid=1033&p1=4&p2=1041&pc=oc&ver=4&subver=0&bld=7185&bldver=0)
 
-[![register+now](/assets/images/2012/09/registernow.png "register+now")](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-EG&EventID=1032556089&IO=T25fvQb4gKRt81YMUk3QsQ%3d%3d "Register")
+[![register+now](/assets/img/2012/09/registernow.png "register+now")](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-EG&EventID=1032556089&IO=T25fvQb4gKRt81YMUk3QsQ%3d%3d "Register")

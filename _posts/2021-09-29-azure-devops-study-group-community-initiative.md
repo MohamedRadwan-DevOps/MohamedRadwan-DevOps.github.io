@@ -6,13 +6,13 @@ date:   2021-09-29 13:03:23 +0100
 
 I am delighted to announce our community initiative **Azure & DevOps Study Group** which will provide teaching and sharing Cloud and DevOps experience knowledge for free with the community.
 
-[![Azure & DevOps Study Group](/assets/images/2021/09/Azure-DevOps-Study-Group-1-1024x578.png)](https://mohamedradwan-devops.github.io/2021/09/29/azure-devops-study-group-community-initiative/azure-devops-study-group-1/)
+[![Azure & DevOps Study Group](/assets/img/2021/09/Azure-DevOps-Study-Group-1-1024x578.png)](https://mohamedradwan-devops.github.io/2021/09/29/azure-devops-study-group-community-initiative/azure-devops-study-group-1/)
 
 **Azure & DevOps Study Group** has more than 18 cloud experts contributors who will teach and share their cloud expertise with the community. We have several contributors and top technical leaders from the EU like UK, Spain, France, Switzerland, Slovakia. Also, from Middle East like Egypt, UAE, Qatar as well as India.
 
-[![Azure DevOps Study Group Contributors](/assets/images/2021/09/Azure-DevOps-Study-Group-Contributors-1-1024x575.png)](https://mohamedradwan-devops.github.io/2021/09/29/azure-devops-study-group-community-initiative/azure-devops-study-group-contributors-1/)
+[![Azure DevOps Study Group Contributors](/assets/img/2021/09/Azure-DevOps-Study-Group-Contributors-1-1024x575.png)](https://mohamedradwan-devops.github.io/2021/09/29/azure-devops-study-group-community-initiative/azure-devops-study-group-contributors-1/)
 
-[![Azure DevOps Study Group Contributors](/assets/images/2021/09/Azure-DevOps-Study-Group-Contributors-2-1024x573.png)](https://mohamedradwan-devops.github.io/2021/09/29/azure-devops-study-group-community-initiative/azure-devops-study-group-contributors-2/)
+[![Azure DevOps Study Group Contributors](/assets/img/2021/09/Azure-DevOps-Study-Group-Contributors-2-1024x573.png)](https://mohamedradwan-devops.github.io/2021/09/29/azure-devops-study-group-community-initiative/azure-devops-study-group-contributors-2/)
 
 The Study Group will provide a complete roadmap and study lessons to the cloud for all people that they would like to start their journey to the cloud and DevOps. **Azure & DevOps Study Group** is an open-source initiative that believes in open-source education. It aims to help and educate people all over the world to learn Cloud and DevOps for free and from professional experts. It will teach and help people to implement the best practices through different activities targeting a variety of tools, technologies, and platforms.
 
@@ -22,6 +22,6 @@ All sessions will be live on YouTube as well as host in Microsoft Teams. So, peo
 
 **Azure & DevOps Study Group** has more than 1100 members from more than 40 countries. Join us to learn and build a more professional IT network.
 
-[![Azure & DevOps Study Group members](/assets/images/2021/09/Azure-DevOps-Study-Group-members-1024x569.png)](https://mohamedradwan-devops.github.io/2021/09/29/azure-devops-study-group-community-initiative/azure-devops-study-group-members/)
+[![Azure & DevOps Study Group members](/assets/img/2021/09/Azure-DevOps-Study-Group-members-1024x569.png)](https://mohamedradwan-devops.github.io/2021/09/29/azure-devops-study-group-community-initiative/azure-devops-study-group-members/)
 
 Read more about the code of conduct here: [https://github.com/MohamedRadwan-DevOps/Azure-DevOps-Study-Group/blob/main/code-of-conduct.md](https://github.com/MohamedRadwan-DevOps/Azure-DevOps-Study-Group/blob/main/code-of-conduct.md)If you have any questions? Reach out to me or ask questions on GitHub.

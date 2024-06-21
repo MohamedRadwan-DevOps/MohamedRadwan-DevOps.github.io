@@ -41,7 +41,7 @@ thefollowinglink:
 
 To make thesesnippets effective we will need to add 2 task tokens to the task list in Visual Studio as the following:
 
-[![](/assets/images/2011/11/TaskListTokens.png)](/assets/images/2011/11/TaskListTokens.png)
+[![](/assets/img/2011/11/TaskListTokens.png)](/assets/img/2011/11/TaskListTokens.png)
 
 Now we can go to any faking or workaround code, and we are sure that
 all ourdebtsarerecordedin amannerthat we can veryeasilyand

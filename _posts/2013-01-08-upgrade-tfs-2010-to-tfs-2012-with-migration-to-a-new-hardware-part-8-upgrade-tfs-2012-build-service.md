@@ -22,7 +22,7 @@ Each part consists of one or many sections as needed.
 
 All the series were enhanced and featured as a Complete Guide for **Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware**.
 
-![Book 3d-all-2 copy](/assets/images/2013/11/book-3d-all-2-copy.jpg?w=660)
+![Book 3d-all-2 copy](/assets/img/2013/11/book-3d-all-2-copy.jpg)
 
 [https://upgradetfs2010totfs2012.codeplex.com/](https://upgradetfs2010totfs2012.codeplex.com/ "Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware")
 [![](https://mg2otq.sn2.livefilestore.com/y1mmcQSYrLWQ757Pb1cWnVdzrBuwKP3r3jPo9VnNct09pHE2cGb25cQr7MQNHyLZrBBfu2vzrT5z46XyIVYeKm9V_svUZwzlwAzOyU2_lcx_X_0Qs1Inh2pag/CodePlex.png?psid=1 "Test Uitities on CodePlex"){width="332" height="88"}](https://upgradetfs2010totfs2012.codeplex.com/ " Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware Guide")
@@ -47,7 +47,7 @@ The following is the video that explains this blog post:
 4. Select it and click "Uninstall."
 5. Follow the prompts to complete the uninstallation.
 
-![75-uninstall-build-service](/assets/images/2013/01/75-uninstall-build-service.jpg?w=660)
+![75-uninstall-build-service](/assets/img/2013/01/75-uninstall-build-service.jpg)
 
 **Install TFS 2012 Build Service**
 
@@ -57,7 +57,7 @@ The following is the video that explains this blog post:
 4. Select "Team Foundation Build Service" from the list of components to install.
 5. Complete the installation.
 
-![76-install-build-service](/assets/images/2013/01/76-install-build-service.jpg?w=660)
+![76-install-build-service](/assets/img/2013/01/76-install-build-service.jpg)
 
 **Configure TFS 2012 Build Service**
 
@@ -67,11 +67,11 @@ The following is the video that explains this blog post:
 4. Follow the prompts to configure the Build Service, specifying the TFS server and project collection it should use.
 5. Complete the configuration and verify that the Build Service is running correctly.
 
-![77-configure-build-service](/assets/images/2013/01/77-configure-build-service.jpg?w=660)
+![77-configure-build-service](/assets/img/2013/01/77-configure-build-service.jpg)
 
 Review the success of the installation and configuration.
 
-![78-review-success](/assets/images/2013/01/78-review-success.jpg?w=660)
+![78-review-success](/assets/img/2013/01/78-review-success.jpg)
 
 By following these steps, you can successfully upgrade your TFS 2010 Build Service to TFS 2012 and ensure that your build environment is running the latest version.
 

@@ -6,7 +6,7 @@ date: 2015-08-07 13:23:16 +0100
 
 One of our TFS assignments needed to extend the current build and deployment process which includes [Creating and Deploying Web package](https://mohamedradwan-devops.github.io/posts/creating-and-deploying-web-package-during-tfs-build-2013/), [Deploying Database](https://mohamedradwan-devops.github.io/posts/deploying-ssdt-during-local-and-server-build/), [Versioning Assembly](https://mohamedradwan-devops.github.io/posts/versioning-assembly-during-tfs-build-2013/), running post-integration tests after deployment, etc., to include rollback which will perform backup and restore. We agreed on performing the backup during the deployment and the restore will be a separate build definition. For the backup during the deployment, I added the following section that backs up the DB and the Web App.
 
-![Backup DB and Web Sequence](/assets/images/2015/08/backup-db-and-web-squence1.png)
+![Backup DB and Web Sequence](/assets/img/2015/08/backup-db-and-web-squence1.png)
 
 >You can see [this video](https://www.youtube.com/watch?v=_cdH1XiBNrA) if you would like to find more information about how to restore the old database to the new SQL server by running the command line and TFS Restore tool.
 {: .prompt-tip }
@@ -20,14 +20,14 @@ One of our TFS assignments needed to extend the current build and deployment pro
 
 The build definition for that part will be as the following: 
 
-[![Backup DB and Web Squence-parameters](/assets/images/2015/08/backup-db-and-web-squence-parameters.png)](/assets/images/2015/08/backup-db-and-web-squence-parameters.png)
+[![Backup DB and Web Squence-parameters](/assets/img/2015/08/backup-db-and-web-squence-parameters.png)](/assets/img/2015/08/backup-db-and-web-squence-parameters.png)
 
 >If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
 {: .prompt-tip }
 
 For the rollback and restore, I added the following section that restores the backup for both DB and Web. For the DB, I had to get exclusive access so I can restore the DB even if there are active connections from other clients.
 
-![Restore DB and Web Sequence](/assets/images/2015/08/restore-db-and-web-squence1.png)
+![Restore DB and Web Sequence](/assets/img/2015/08/restore-db-and-web-squence1.png)
 
 ```powershell
 "cmd.exe /k Sqlcmd -Q \"\"use master alter database " + DBNameForBackup + " set single_user with rollback immediate RESTORE DATABASE " + DBNameForBackup + " FROM DISK='" + DBNameForBackup + "_Bakup.bak' WITH REPLACE alter database " + DBNameForBackup + " set multi_user\"\" -S " + DBServerOrIP
@@ -42,7 +42,7 @@ For the rollback and restore, I added the following section that restores the ba
 
 - The build definition for that part will be as the following:
 
-[![Restore DB and Web Squence-parameters](/assets/images/2015/08/restore-db-and-web-squence-parameters.png)](/assets/images/2015/08/restore-db-and-web-squence-parameters.png)
+[![Restore DB and Web Squence-parameters](/assets/img/2015/08/restore-db-and-web-squence-parameters.png)](/assets/img/2015/08/restore-db-and-web-squence-parameters.png)
 
 ## Some good commands that I end up with:
 

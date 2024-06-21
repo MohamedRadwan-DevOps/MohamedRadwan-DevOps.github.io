@@ -12,7 +12,7 @@ When I started upgrading [TFS 2010](https://mohamedradwan-devops.github.io/categ
 
 As shown in the following image:
 
-[![TFS 11 Beta error in upgrade](/assets/images/2012/03/TFS-11-Beta-error-in-upgrade-1024x507.png)](/assets/images/2012/03/TFS-11-Beta-error-in-upgrade.png)
+[![TFS 11 Beta error in upgrade](/assets/img/2012/03/TFS-11-Beta-error-in-upgrade-1024x507.png)](/assets/img/2012/03/TFS-11-Beta-error-in-upgrade.png)
 
 When I checked the log, I found the following error line in the log file:
 

@@ -30,7 +30,7 @@ I'll demonstrate another tool, which is **TFS Integration Platform**. Using TFS 
 
 TFS doesn't only provide work items or test cases. TFS is simply everything needed to manage work. The following diagram provides some general explanation for that:
 
-![TFS_Artifacts_And_Association](/assets/images/2017/09/TFS_Artifacts_And_Association-1024x547.png)
+![TFS_Artifacts_And_Association](/assets/img/2017/09/TFS_Artifacts_And_Association-1024x547.png)
 
 It's clearly shown that relations in TFS make the logic for work, therefore **it's very important to maintain the relations between work items**, not only the work items themselves.
 
@@ -41,7 +41,7 @@ Before getting started, we will need to install **Microsoft SQL Server 2012**. A
 1. Make sure you've selected **SQL Server 2012**.
 2. Click on **Connect**.
 
-![Connecting_To_SQL_SERVER_2012](/assets/images/2017/09/Connecting_To_SQL_SERVER_2012-3-1024x552.png)
+![Connecting_To_SQL_SERVER_2012](/assets/img/2017/09/Connecting_To_SQL_SERVER_2012-3-1024x552.png)
 
 - Download & Install **Visual Studio 2010** (Required to provide Object Model for the tool) and **Visual Studio 2012** (Required to provide TFS Connectivity for the tool).
 
@@ -62,20 +62,20 @@ Before getting started, we will need to install **Microsoft SQL Server 2012**. A
 3. Choose Migration Options, you can Migrate Source Control, Work Items or Both. I choose Work Items Only.
 4. Click **Open**
 
-![TFS_Intergration_Platform_Create_New](/assets/images/2017/09/TFS_Intergration_Platform_Create_New-2-1024x499.png)
+![TFS_Intergration_Platform_Create_New](/assets/img/2017/09/TFS_Intergration_Platform_Create_New-2-1024x499.png)
 
 5. As a workflow type, from the drop-down menu select **One Way Migration**
 6. Click on **Configure**
 7. In the drop-down menu, select **TFS 11 Migration WIT Provider**
 
-![TFS_Integration_Platform](/assets/images/2017/09/TFS_Integration_Platform-4-1024x546.png)
+![TFS_Integration_Platform](/assets/img/2017/09/TFS_Integration_Platform-4-1024x546.png)
 
 8. Select the right TFS Server to **connect to the original TFS**.
 9. Under Team Project Collection, select the **Team Project Collection** which you want to use for this migration.
 10. Under Team Projects, **navigate to the Team Project** that you will use and click on it.
 11. Click on **Connect** to connect to TFS.
 
-![TFS_Integration_Platform_Connect_To_TFS](/assets/images/2017/09/TFS_Integration_Platform_Connect_To_TFS-7-1024x546.png)
+![TFS_Integration_Platform_Connect_To_TFS](/assets/img/2017/09/TFS_Integration_Platform_Connect_To_TFS-7-1024x546.png)
 
 12. Click on **Configure** to configure the targeted Source and select **TFS 11 Migration WIT Provider** again.
 13. Under the menu **Select the Team Foundation Server** to select the targeted **VSTS** to connect to it.
@@ -83,20 +83,20 @@ Before getting started, we will need to install **Microsoft SQL Server 2012**. A
 15. Under Team Projects, **navigate to the Team Project** that you will use and click on it.
 16. Click on **Connect** to connect to VSTS.
 
-![TFS_Integration_Connect_To_VSTS](/assets/images/2017/09/TFS_Integration_Connect_To_VSTS-6-1024x549.png)
+![TFS_Integration_Connect_To_VSTS](/assets/img/2017/09/TFS_Integration_Connect_To_VSTS-6-1024x549.png)
 
 17. Click **Save to Database**
 18. Click **Start Migration**
 
-![TFS_Integration_Start](/assets/images/2017/09/TFS_Integration_Start-7-1024x546.png)
+![TFS_Integration_Start](/assets/img/2017/09/TFS_Integration_Start-7-1024x546.png)
 
 19. Sit back and relax, **Migration can take a few hours** if you have thousands of work items. When the migration is finished, you'll see the notification in the window of the TFS Integration tool.
 
-![TFS_Integration_Platform_Completed](/assets/images/2017/09/TFS_Integration_Platform_Completed-4-1024x548.png)
+![TFS_Integration_Platform_Completed](/assets/img/2017/09/TFS_Integration_Platform_Completed-4-1024x548.png)
 
 20. Additional Note, here is how your SQL Server 2012 Database looks like for Migration
 
-![Final_Tables_Look](/assets/images/2017/09/Final_Tables_Look-1-1024x549.png)
+![Final_Tables_Look](/assets/img/2017/09/Final_Tables_Look-1-1024x549.png)
 
 >The post [Upgrade to TFS 2018 Has Been Done in Production](https://mohamedradwan-devops.github.io/posts/upgrade-to-tfs-2018-has-been-done-in-production/) describes a full upgrade and migration from TFS2015 to TFS2018 and describes the improvements over the old TFS 2015.
 {: .prompt-tip }

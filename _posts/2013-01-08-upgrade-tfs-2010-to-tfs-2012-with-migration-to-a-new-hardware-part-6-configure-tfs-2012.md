@@ -21,7 +21,7 @@ Each part consists of one or many sections as needed.
 ---
 
 All the series was enhanced and featured as a Complete Guide for **Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware**.
-![Book 3d-all-2 copy](/assets/images/2013/11/book-3d-all-2-copy.jpg?w=660)
+![Book 3d-all-2 copy](/assets/img/2013/11/book-3d-all-2-copy.jpg)
 
 [https://upgradetfs2010totfs2012.codeplex.com/](https://upgradetfs2010totfs2012.codeplex.com/ "Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware")
 
@@ -45,26 +45,26 @@ The following is the video that explains this blog post:
 
 Open the TFS 2012 Administration Console and click on the "Application Tier" tab. Click on "Configure Installed Features."
 
-![65-open-tfs-admin-console](/assets/images/2013/01/65-open-tfs-admin-console.jpg?w=660)
+![65-open-tfs-admin-console](/assets/img/2013/01/65-open-tfs-admin-console.jpg)
 
 **Configure Application Tier**
 
 In the "Application Tier" section, click on "Configure Application Tier" and follow the wizard to set up the Application Tier.
 
-![66-configure-app-tier](/assets/images/2013/01/66-configure-app-tier.jpg?w=660)
+![66-configure-app-tier](/assets/img/2013/01/66-configure-app-tier.jpg)
 
 **Configure Reporting**
 
 In the "Reporting" section, click on "Configure Reporting for TFS" and follow the wizard to configure the reporting services.
 
-![67-configure-reporting](/assets/images/2013/01/67-configure-reporting.jpg?w=660)
+![67-configure-reporting](/assets/img/2013/01/67-configure-reporting.jpg)
 
 **Configure SharePoint Extensions**
 
 In the "SharePoint Extensions" section, click on "Configure Extensions for SharePoint Products" and follow the wizard to configure the SharePoint extensions.
 
-![68-configure-sharepoint](/assets/images/2013/01/68-configure-sharepoint.jpg?w=660)
+![68-configure-sharepoint](/assets/img/2013/01/68-configure-sharepoint.jpg)
 
 Review the success of the configurations.
 
-![69-config-success](/assets/images/2013/01/69-config-success.jpg?w=660)
+![69-config-success](/assets/img/2013/01/69-config-success.jpg)

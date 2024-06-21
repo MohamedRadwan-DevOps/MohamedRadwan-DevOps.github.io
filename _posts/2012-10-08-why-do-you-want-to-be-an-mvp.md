@@ -4,7 +4,7 @@ title: "Why do you want to be an MVP???"
 date: 2012-10-08 18:47:28 +0100
 ---
 
-[![](/assets/images/2012/10/mvp-world-2.jpg "MVP world-2")](/assets/images/2012/10/mvp-world-2.jpg)
+[![](/assets/img/2012/10/mvp-world-2.jpg "MVP world-2")](/assets/img/2012/10/mvp-world-2.jpg)
 
 The most asked questions in the Microsoft technology communities about Microsoft MVP is how do I become a Microsoft MVP? **[Tarun Arora](http://geekswithblogs.net/TarunArora/archive/2012/08/25/are-you-cashing-in-on-the-mvp-complimentary-subscriptions.aspx "Tarun Arora, Become MVP")** has a great post about how to become an MVP and also some benefits of becoming an MVP, which include some free subscriptions and programs for different and beautiful brands. But I want to answer another question which is **why do you want to be an MVP?**
 

@@ -50,19 +50,19 @@ There is a new version of SQL Express called **SQL Express LocalDB**. [Microsoft
 
 Connect to SQL Express LocalDB using SQL Server Management Studio 2008 R2.
 
-![Connect to SQL Express LocalDB](/assets/images/2012/08/connect-to-sql-express-localdb.jpg)
+![Connect to SQL Express LocalDB](/assets/img/2012/08/connect-to-sql-express-localdb.jpg)
 
 Examine how SQL Express LocalDB runs as a process with the same credentials that open the application (SQL Management Studio in our case).
 
-![SQL Express LocalDB runs as a process](/assets/images/2012/08/sql-express-localdb-run-as-a-process.jpg)
+![SQL Express LocalDB runs as a process](/assets/img/2012/08/sql-express-localdb-run-as-a-process.jpg)
 
 Connect to SQL Express LocalDB using Visual Studio SQL Server Object Explorer.
 
-![Connect to SQL Express LocalDB using SQL Server Object Explorer](/assets/images/2012/08/connect-to-sql-express-localdb-using-sql-server-object-explorer.jpg)
+![Connect to SQL Express LocalDB using SQL Server Object Explorer](/assets/img/2012/08/connect-to-sql-express-localdb-using-sql-server-object-explorer.jpg)
 
 Examine how SQL Express LocalDB runs as a process with the same credentials that open Visual Studio.
 
-![SQL Express LocalDB runs as a process with SQL Server Explorer](/assets/images/2012/08/sql-express-localdb-run-as-a-process-with-sql-server-explorer.jpg)
+![SQL Express LocalDB runs as a process with SQL Server Explorer](/assets/img/2012/08/sql-express-localdb-run-as-a-process-with-sql-server-explorer.jpg)
 
 ### SSDT (SQL Server Developer Tool)
 
@@ -79,7 +79,7 @@ For more info, see the [SQL Server Data Tools Team Blog](http://blogs.msdn.com/b
 
 Now there is a very powerful designer for Tables and Stored procedures. It looks similar to the HTML designer in Visual Studio that splits the page into two sections, one for the designer and the second for the code, and they are synchronized with each other.
 
-![SSDT designer and editor](/assets/images/2012/08/ssdt-designer-and-editor.jpg)
+![SSDT designer and editor](/assets/img/2012/08/ssdt-designer-and-editor.jpg)
 
 #### Debugging SQL Project using SQL Express LocalDB
 
@@ -87,19 +87,19 @@ We can run any Stored procedure without connecting to a real Database. This is u
 
 First, we will create a new SQL Server Database Project.
 
-![SQL Database Project](/assets/images/2012/08/sql-database-project.jpg)
+![SQL Database Project](/assets/img/2012/08/sql-database-project.jpg)
 
 Configure the debug option to use SQL Express LocalDB (configured by default).
 
-![SSDT and SQL Server Project Debug](/assets/images/2012/08/ssdt-and-sql-server-project-debug.jpg)
+![SSDT and SQL Server Project Debug](/assets/img/2012/08/ssdt-and-sql-server-project-debug.jpg)
 
 Examine the database files that will be attached to the process of SQL Express LocalDB so we can execute our T-SQL commands without needing to maintain a SQL Server instance.
 
-![SQL Server Project Database file](/assets/images/2012/08/sql-server-project-database-file.jpg)
+![SQL Server Project Database file](/assets/img/2012/08/sql-server-project-database-file.jpg)
 
 Examine the SQL Database Project after we execute some Stored Procedures by adding a database connection.
 
-![Open the Database file of the SQL Server Database Project](/assets/images/2012/08/open-the-database-file-of-the-sql-server-database-project.jpg)
+![Open the Database file of the SQL Server Database Project](/assets/img/2012/08/open-the-database-file-of-the-sql-server-database-project.jpg)
 
 #### Publishing Database locally and on Build Server
 
@@ -107,29 +107,29 @@ The **Publish** feature is the same as the **Deploy** feature in the **Visual St
 
 Right-click on **Database 1** > **Publish** > **Edit**, this will enable you to enter the **Target Connection String**.
 
-![Publish SQL Server Database Project](/assets/images/2012/08/publish-sql-server-database-project.jpg)
+![Publish SQL Server Database Project](/assets/img/2012/08/publish-sql-server-database-project.jpg)
 
 You may click **Advanced** to configure the advanced options of the deployment.
 
-![Advanced settings in the Publish Database](/assets/images/2012/08/advanced-settings-in-the-publish-database.jpg)
+![Advanced settings in the Publish Database](/assets/img/2012/08/advanced-settings-in-the-publish-database.jpg)
 
 After we set our connection string and advanced options, click on **Publish** and examine how the database is published to your database server.
 
-![Publish Database and examine that it exists](/assets/images/2012/08/publish-database-and-examine-that-its-exist.jpg)
+![Publish Database and examine that it exists](/assets/img/2012/08/publish-database-and-examine-that-its-exist.jpg)
 
 We can have multiple publishing profiles so we can publish our Database Project differently on different machines.
 
-![Multi Publishing Profile](/assets/images/2012/08/multi-publishing-profile1.png)
+![Multi Publishing Profile](/assets/img/2012/08/multi-publishing-profile1.png)
 
 After creating the build definition, we will put the needed publish profile in the MS Build Argument. This is the profile that will be used while the build machine builds the project.
 
 `"/t:Build /t:Publish /p:SQLPublishProfilePath=profilename.xml"`
 
-![Build definition to use Publish profile](/assets/images/2012/08/build-definition-to-use-publish-profile.jpg)
+![Build definition to use Publish profile](/assets/img/2012/08/build-definition-to-use-publish-profile.jpg)
 
 After we queue a build using our build definition that specifies the needed publish profile, the database will be published using the specified publish profile.
 
-![Build Success and Publish the Database to the SQL Server](/assets/images/2012/08/build-success-and-publish-the-database-to-the-sql-server.jpg)
+![Build Success and Publish the Database to the SQL Server](/assets/img/2012/08/build-success-and-publish-the-database-to-the-sql-server.jpg)
 
 #### SQLCMD variables
 
@@ -139,11 +139,11 @@ I just add a variable (**x**) so I can give it a value during the publish or dur
 
 I can also give the variable (**x**) a default value.
 
-![SQLCMD Variables](/assets/images/2012/08/sqlcmd-variables.jpg)
+![SQLCMD Variables](/assets/img/2012/08/sqlcmd-variables.jpg)
 
 When I click publish on the SQL Database Project, the publish requests me to provide a value for this variable (**x**).
 
-![SQLCMD Variables with Publish window of the SQL Server Database Project](/assets/images/2012/08/sqlcmd-variables-with-publish-window-of-the-sql-server-database-project.jpg)
+![SQLCMD Variables with Publish window of the SQL Server Database Project](/assets/img/2012/08/sqlcmd-variables-with-publish-window-of-the-sql-server-database-project.jpg)
 
 Links: 
 - [Intro about SQL Server Development Tools](http://msdn.microsoft.com/en-us/magazine/hh394146.aspx)

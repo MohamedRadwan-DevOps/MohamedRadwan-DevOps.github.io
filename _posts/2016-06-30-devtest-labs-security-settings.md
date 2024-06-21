@@ -15,7 +15,7 @@ A user can be either an internal user with an **[Azure Active Directory subscrip
 2. From the list of users, choose **Users** to add a new user.
 3. Click on the **Add** button.
 
-![1-1 Add new User in DevTest Labs](/assets/images/2016/06/1-1-Add-new-User-in-DevTest-Labs.jpg "1-1 Add new User in DevTest Labs"){.alignnone .wp-image-6309 width="763" height="404"}
+![1-1 Add new User in DevTest Labs](/assets/img/2016/06/1-1-Add-new-User-in-DevTest-Labs.jpg "1-1 Add new User in DevTest Labs"){.alignnone .wp-image-6309 width="763" height="404"}
 
 4. In the **Add Access** blade, click on **Select a role**.
 5. In the **Select a role** blade, click on **DevTest Lab User**.
@@ -23,7 +23,7 @@ A user can be either an internal user with an **[Azure Active Directory subscrip
 7. Type the **email address** of the **User**, which can also be an external user as long as they have a valid [Microsoft Account](https://www.microsoft.com/en-us/account).
 8. If this user has a valid **Microsoft Account**, the system will validate it and it will be colored blue. Click on the blue user and confirm the entry by clicking on the **Select** button.
 
-![1-2 Add new User and Select a role in DevTest Labs](/assets/images/2016/06/1-2-Add-new-User-and-Select-a-role-in-DevTest-Labs.jpg "1-2 Add new User and Select a role in DevTest Labs")
+![1-2 Add new User and Select a role in DevTest Labs](/assets/img/2016/06/1-2-Add-new-User-and-Select-a-role-in-DevTest-Labs.jpg "1-2 Add new User and Select a role in DevTest Labs")
 
 ### Step 2: Add Owner in DevTest Labs 
 
@@ -34,7 +34,7 @@ A user can be either an internal user with an **[Azure Active Directory subscrip
 4. Click on **Users** to add a new user.
 5. Click on the **Add** button.
 
-![2-1 Add Owner in DevTest Labs](/assets/images/2016/06/2-1-Add-Owner-in-DevTest-Labs.jpg "2-1 Add Owner in DevTest Labs")
+![2-1 Add Owner in DevTest Labs](/assets/img/2016/06/2-1-Add-Owner-in-DevTest-Labs.jpg "2-1 Add Owner in DevTest Labs")
 
 6. In the **Add access** blade, click on **Select a Role**.
 7. In the **Select a role** blade, click on **Owner**.
@@ -42,7 +42,7 @@ A user can be either an internal user with an **[Azure Active Directory subscrip
 9. Type the **e-mail address** of the **Owner**.
 10. If this user has a valid **Microsoft Account**, the system will validate it and it will be colored blue. Click on the blue user and confirm the entry by clicking on the **Select** button.
 
-![2-2 Add Owner and select a role in DevTest Labs](/assets/images/2016/06/2-2-Add-Owner-and-select-a-role-in-DevTest-Labs.jpg "2-2 Add Owner and select a role in DevTest Labs")
+![2-2 Add Owner and select a role in DevTest Labs](/assets/img/2016/06/2-2-Add-Owner-and-select-a-role-in-DevTest-Labs.jpg "2-2 Add Owner and select a role in DevTest Labs")
 
 ### Conclusion
 

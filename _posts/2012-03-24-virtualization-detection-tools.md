@@ -16,10 +16,10 @@ here the link for 2 tools to detect this feature
 
 -   Microsoftr Hardware-Assisted Virtualization Detection Tool
 
-[![Microsoft Hardware Detection Tool](/assets/images/2012/03/Microsoft-Hardware-Assisted-Virtualization-Detection-Tool.png)](/assets/images/2012/03/Microsoft-Hardware-Assisted-Virtualization-Detection-Tool.png)
+[![Microsoft Hardware Detection Tool](/assets/img/2012/03/Microsoft-Hardware-Assisted-Virtualization-Detection-Tool.png)](/assets/img/2012/03/Microsoft-Hardware-Assisted-Virtualization-Detection-Tool.png)
 
 
 -   Intelr Processor Identification Utility
 
-[![Intel Processor Identification Utility](/assets/images/2012/03/Intel-Processor-Identification-Utility.jpg)](/assets/images/2012/03/Intel-Processor-Identification-Utility.jpg)
+[![Intel Processor Identification Utility](/assets/img/2012/03/Intel-Processor-Identification-Utility.jpg)](/assets/img/2012/03/Intel-Processor-Identification-Utility.jpg)
 

@@ -29,19 +29,19 @@ click here ([Install Windows 8 Release
 Preview](https://mohamedradwan-devops.github.io/2012/06/04/install-windows-8-release-preview-and-have-a-look-on-touch-screen/ "Install Windows 8 Release Preview"))
 Here also some snapshots of the installation and the examination.
 
-[![](/assets/images/2012/06/install-team-foundation-express-20121.jpg "Install Team Foundation Express 2012")](/assets/images/2012/06/install-team-foundation-express-20121.jpg)
+[![](/assets/img/2012/06/install-team-foundation-express-20121.jpg "Install Team Foundation Express 2012")](/assets/img/2012/06/install-team-foundation-express-20121.jpg)
 
-[![](/assets/images/2012/06/team-foundation-build-service-configuration-for-project-collection.jpg "Team Foundation Build Service Configuration for project collection")](/assets/images/2012/06/team-foundation-build-service-configuration-for-project-collection.jpg)
+[![](/assets/img/2012/06/team-foundation-build-service-configuration-for-project-collection.jpg "Team Foundation Build Service Configuration for project collection")](/assets/img/2012/06/team-foundation-build-service-configuration-for-project-collection.jpg)
 
-[![](/assets/images/2012/06/team-foundation-build-service-configuration-for-build-agents.jpg "Team Foundation Build Service Configuration for build agents")](/assets/images/2012/06/team-foundation-build-service-configuration-for-build-agents.jpg)
+[![](/assets/img/2012/06/team-foundation-build-service-configuration-for-build-agents.jpg "Team Foundation Build Service Configuration for build agents")](/assets/img/2012/06/team-foundation-build-service-configuration-for-build-agents.jpg)
 
-[![](/assets/images/2012/06/team-foundation-server-express-administration-conosole-for-team-project-collections.jpg "Team Foundation Server Express Administration Conosole for Team Project Collections")](/assets/images/2012/06/team-foundation-server-express-administration-conosole-for-team-project-collections.jpg)
+[![](/assets/img/2012/06/team-foundation-server-express-administration-conosole-for-team-project-collections.jpg "Team Foundation Server Express Administration Conosole for Team Project Collections")](/assets/img/2012/06/team-foundation-server-express-administration-conosole-for-team-project-collections.jpg)
 
-[![](/assets/images/2012/06/team-foundation-server-express-administration-conosole-for-build-configuration.jpg "Team Foundation Server Express Administration Conosole for Build Configuration")](/assets/images/2012/06/team-foundation-server-express-administration-conosole-for-build-configuration.jpg)
+[![](/assets/img/2012/06/team-foundation-server-express-administration-conosole-for-build-configuration.jpg "Team Foundation Server Express Administration Conosole for Build Configuration")](/assets/img/2012/06/team-foundation-server-express-administration-conosole-for-build-configuration.jpg)
 
-[![](/assets/images/2012/06/install-team-explorer-2012-on-window-8-release-preview-2.jpg "Install Team Explorer 2012 on Window 8 Release Preview 2")](/assets/images/2012/06/install-team-explorer-2012-on-window-8-release-preview-2.jpg)
+[![](/assets/img/2012/06/install-team-explorer-2012-on-window-8-release-preview-2.jpg "Install Team Explorer 2012 on Window 8 Release Preview 2")](/assets/img/2012/06/install-team-explorer-2012-on-window-8-release-preview-2.jpg)
 
-[![](/assets/images/2012/06/team-explorer-2012.jpg "Team Explorer 2012")](/assets/images/2012/06/team-explorer-2012.jpg)
+[![](/assets/img/2012/06/team-explorer-2012.jpg "Team Explorer 2012")](/assets/img/2012/06/team-explorer-2012.jpg)
 
-[![](/assets/images/2012/06/tfs-team-web-access-for-tfs-2012-express.jpg "TFS Team Web Access for TFS 2012 Express")](/assets/images/2012/06/tfs-team-web-access-for-tfs-2012-express.jpg)
+[![](/assets/img/2012/06/tfs-team-web-access-for-tfs-2012-express.jpg "TFS Team Web Access for TFS 2012 Express")](/assets/img/2012/06/tfs-team-web-access-for-tfs-2012-express.jpg)
 

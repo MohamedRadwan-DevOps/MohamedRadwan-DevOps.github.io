@@ -6,7 +6,7 @@ date: 2013-11-17 00:55:46 +0100
 
 I am pleased to announce that my guide **Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware** just published on CodePlex. 
 
-[![Book 3d-all-2 copy](/assets/images/2013/11/book-3d-all-2-copy.jpg?w=660)](https://upgradetfs2010totfs2012.codeplex.com/)
+[![Book 3d-all-2 copy](/assets/img/2013/11/book-3d-all-2-copy.jpg)](https://upgradetfs2010totfs2012.codeplex.com/)
 
 [https://upgradetfs2010totfs2012.codeplex.com/](https://upgradetfs2010totfs2012.codeplex.com/ "Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware")
 

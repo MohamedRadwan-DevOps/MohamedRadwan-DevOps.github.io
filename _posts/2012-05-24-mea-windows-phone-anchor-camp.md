@@ -4,7 +4,7 @@ title: "MEA Windows Phone Anchor Camp"
 date:   2012-05-24 14:39:32 +0100
 ---
 
-[![](/assets/images/2017/08/MEA-Windows-Phone-Anchor-Camp.png)](/assets/images/2017/08/MEA-Windows-Phone-Anchor-Camp.png)
+[![](/assets/img/2017/08/MEA-Windows-Phone-Anchor-Camp.png)](/assets/img/2017/08/MEA-Windows-Phone-Anchor-Camp.png)
 
 Are you ready for MEA [Windows
 Phone](http://www.microsoft.com/windowsphone/en-us/default.aspx "Windows Phone")
@@ -25,7 +25,7 @@ and select the day that best fits your needs - or join us for both.
 There will be also sessions for start-up companies and clinic
 hours. Important Event Details:
 
-![](/assets/images/2017/08/Windows-Phone.png)
+![](/assets/img/2017/08/Windows-Phone.png)
 
 - Event participants will present their applications and the most
   voted three application developers will win Nokia Lumia Windows

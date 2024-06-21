@@ -20,7 +20,7 @@ date: 2016-07-14 18:34:35 +0100
 
 In this first step I'm going to choose the project which has many work items. 1. In **TFS Team Project Manager** click on **Work item configuration**. 2. In row below click on **Work item types**. 3. In next row click on **view / export / delete / edit options**. 4. From the list choose **Team Project**. 5. Click on **Edit** button. 6. From the work item types, I know that the process template is **[CMMI](https://www.visualstudio.com/en-us/docs/work/guidance/cmmi-process)**.
 
-![1-Defining process template TFS Project Manager](/assets/images/2016/07/1-Defining-process-template-TFS-Project-Manager.jpg "1-Defining process template TFS Project Manager")
+![1-Defining process template TFS Project Manager](/assets/img/2016/07/1-Defining-process-template-TFS-Project-Manager.jpg "1-Defining process template TFS Project Manager")
 
 >For the cases demanding high fidelity migration for work-items, the post [TFS 2017 Migration To VSTS with VSTS Sync Migrator](https://mohamedradwan-devops.github.io/posts/tfs-2017-migration-to-vsts-with-vsts-sync-migrator/) describes the migration without any limitations for migrating links, attachments or work items.
 {: .prompt-info }
@@ -34,7 +34,7 @@ In this first step I'm going to choose the project which has many work items. 1.
 
 You will need to download the same process template in **[Visual Studio](https://www.visualstudio.com/)**, but with using new version for **[TFS2015](https://www.microsoft.com/en-us/download/details.aspx?id=48260)**. 1. Open **Visual Studio** and in **Settings tab**, click on **Process Template Manager**. 2. In new window click on process template **CMMI**. 3. Click on **Download** button to start with download process.
 
-![2-Download process template in Visual Studio](/assets/images/2016/07/2-Download-process-template-in-Visual-Studio-1.jpg "2-Download process template in Visual Studio")
+![2-Download process template in Visual Studio](/assets/img/2016/07/2-Download-process-template-in-Visual-Studio-1.jpg "2-Download process template in Visual Studio")
 
 >If your migration process only requires migrating the work items, with no need to migrate links & relations between them, you can consider using the TFS Integration Platform, which is less complicated than the VSTS Sync Migrator. For more information about this tool, visit [TFS 2017 Migration To VSTS with TFS Integration Platform](https://mohamedradwan-devops.github.io/posts/tfs-2017-migration-to-vsts-with-tfs-integration-platform/).
 {: .prompt-info }
@@ -48,15 +48,15 @@ You will need to download the same process template in **[Visual Studio](https:/
 
 In case of any error, I would highly recommend to export all work item types definitions so you can roll back in case of any problems. 1. Navigate back to **TFS Team Project Manager** and click on **Work item configuration**. 2. In row below click on **Work item types**. 3. In next row click on **view / export / delete / edit options**. 4. Click on **Get Work Item Types**. 5. In the column on the left side mark checkbox for right **Team Project**. 6. Click on **Export** to export the selection.
 
-![3-1 Export all work item types definitions TFS](/assets/images/2016/07/3-1-Export-all-work-item-types-definitions-TFS.jpg "3-1 Export all work item types definitions TFS")
+![3-1 Export all work item types definitions TFS](/assets/img/2016/07/3-1-Export-all-work-item-types-definitions-TFS.jpg "3-1 Export all work item types definitions TFS")
 
 7. In order to add the new types of definitions downloaded from the new version of the process template, click on **Import** button. 8. On the right side click on **Add** button. 9. In new window all types of definitions will be listed, click on **selected type**. 10. Click on **Open** button to open it.
 
-![3-2 Import TypeDefinitions TFS Project Manager](/assets/images/2016/07/3-2-Import-TypeDefinitions-TFS-Project-Manager.jpg "3-2 Import TypeDefinitions TFS Project Manager")
+![3-2 Import TypeDefinitions TFS Project Manager](/assets/img/2016/07/3-2-Import-TypeDefinitions-TFS-Project-Manager.jpg "3-2 Import TypeDefinitions TFS Project Manager")
 
 11. **Select the target project** and make sure you select simulate only then click import and make sure there is no error. 12. Click in check box for **Simulate only** to remove simulate. 13. Click **import** button to implement real import. 14. Make sure that there is **no error**.
 
-![3-3 Simulate and import TFS](/assets/images/2016/07/3-3-Simulate-and-import-TFS.jpg "3-3 Simulate and import TFS")
+![3-3 Simulate and import TFS](/assets/img/2016/07/3-3-Simulate-and-import-TFS.jpg "3-3 Simulate and import TFS")
 
 >If you would like to learn more about different tools and ways for Team Foundation Server to Visual Studio Team Services migration, - have a look at the [quick guide about real stories for migrating Team Foundation Server to Visual Studio Team Services](https://mohamedradwan-devops.github.io/2posts/published-a-quick-guide-about-real-stories-for-migrating-team-foundation-server-to-visual-studio-team-services/). The guide describes some of the real migration scenarios and explains how to use different tools for several cases.
 
@@ -68,10 +68,10 @@ In case of any error, I would highly recommend to export all work item types def
 
 Now you will have to configure all new features and in order to do that, you'll need to open **[Team Web Access](https://msdn.microsoft.com/en-us/library/ee523998.aspx)** for the project. 1. Open **Team Web Access** for the project and click on **Configure feature**. 2. Click on **Verify** button to confirm the configuration. 3. In new window click on **Configure** button to confirm the start of project configuration. 4. In new window for **Configuration features**, click on **Close** button.
 
-![4-1 Configure new features in VSTS](/assets/images/2016/07/4-1-Configure-new-features-in-VSTS-1.jpg "4-1 Configure new features in VSTS")
+![4-1 Configure new features in VSTS](/assets/img/2016/07/4-1-Configure-new-features-in-VSTS-1.jpg "4-1 Configure new features in VSTS")
 5. **Refresh** the page and make sure that everything is okay.
 
-![4-2 Configured new features VSTS](/assets/images/2016/07/4-2-Configured-new-features-VSTS-2.jpg "4-2 Configured new features VSTS")
+![4-2 Configured new features VSTS](/assets/img/2016/07/4-2-Configured-new-features-VSTS-2.jpg "4-2 Configured new features VSTS")
 
 ## Conclusion
 

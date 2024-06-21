@@ -43,14 +43,14 @@ Boer ](http://social.msdn.microsoft.com/profile/gregg%20boer%20-%20tfs%20product
 **My MVP Award Kit!**
 
 
-   [![](/assets/images/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-1.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-1")](/assets/images/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-1.jpg)    
+   [![](/assets/img/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-1.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-1")](/assets/img/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-1.jpg)    
    
-   [![](/assets/images/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-3.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-3")](/assets/images/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-3.jpg)    
+   [![](/assets/img/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-3.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-3")](/assets/img/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-3.jpg)    
    
-   [![](/assets/images/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-5.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-5")](/assets/images/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-5.jpg)
+   [![](/assets/img/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-5.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-5")](/assets/img/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-5.jpg)
 
 
-   [![](/assets/images/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-2.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-2")](/assets/images/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-2.jpg)      
+   [![](/assets/img/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-2.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-2")](/assets/img/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-2.jpg)      
    
-   ![](/assets/images/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-41.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-4-")                                                                                                                      
+   ![](/assets/img/2012/10/mohamed-radwan-visual-studio-alm-mvp-award-kit-certificate-41.jpg "Mohamed-Radwan-Visual-Studio-ALM-MVP-Award-Kit-Certificate-4-")                                                                                                                      
 

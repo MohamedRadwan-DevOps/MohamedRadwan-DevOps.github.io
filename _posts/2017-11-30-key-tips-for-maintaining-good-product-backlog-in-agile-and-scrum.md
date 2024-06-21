@@ -14,7 +14,7 @@ As the timing to deliver work items approaches, we should be more certain that t
 
 In the image below, you will see that at the end of the **Backlog**, there are work items which will probably be divided in later [**grooming sessions**](https://mohamedradwan-devops.github.io/posts/types-of-meetings-in-scrum-and-agile/) into smaller work items. During our development, we’ll be adding new work items or removing existing ones if they become obsolete. The more we approach the work items with higher priority, the more detailed and refined they will be.
 
-![Backlog_Refinement](/assets/images/2017/11/itemContent.png)
+![Backlog_Refinement](/assets/img/2017/11/itemContent.png)
 
 This means that the work items with higher priority will capture requirements in more detail, with more meaningful titles, more detailed descriptions, and well-defined **acceptance criteria**. The more we go down in the backlog, the less defined and detailed the items will be. We can use different techniques like [MoSCoW prioritization](https://www.scrumdesk.com/start/manual-for-scrumdesk-start/start-moscow-prioritization-product-backlog/).
 
@@ -35,7 +35,7 @@ Every team will choose the right fit for them in order to keep the **Backlog** i
 - Use an **appropriate level of detail**, meaning that all the user stories which will be developed soon need to be well understood by all team members so that they can be completed in the coming sprint.
 - **Regular Maintenance of the Backlog**
 
-![Backlog_Cycle](/assets/images/2017/11/itemContent-1.png)
+![Backlog_Cycle](/assets/img/2017/11/itemContent-1.png)
 
 ## Conclusion
 

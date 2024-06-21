@@ -8,9 +8,9 @@ date: 2013-09-14 19:11:46 +0100
 
 I\'m speaking at Microsoft about what\'s new in Project Management for Team Foundation Server 2013. If the registration is full, [you can watch it online](http://www.youtube.com/watch?v=Np5PcbBk1P4 "Watch online"), it will be live streamed on [YouTube](http://www.youtube.com/watch?v=Np5PcbBk1P4 "Watch online"). I will update the post with the online link and info as soon as it becomes available.
 
-![microsoft](/assets/images/2012/09/microsoft.gif "microsoft")
+![microsoft](/assets/img/2012/09/microsoft.gif "microsoft")
 
-![Hero_Emailer_01](/assets/images/2012/09/hero_emailer_01.jpg)
+![Hero_Emailer_01](/assets/img/2012/09/hero_emailer_01.jpg)
 
 ### Agile Planning and Portfolio Management with Team Foundation Server 2013
 
@@ -22,10 +22,10 @@ In this session, you will learn about the agile planning and portfolio managemen
 **Speaker:** Mohamed Radwan  
 **Venue:** Microsoft building - Smart Village
 
-![register+now](/assets/images/2012/09/registernow.png "register now")
+![register+now](/assets/img/2012/09/registernow.png "register now")
 
 **OR**  
 
 [Watch live on YouTube](http://www.youtube.com/watch?v=Np5PcbBk1P4 "Join Meeting")
 
-[![images](/assets/images/2013/09/images1-1.jpg)](http://www.youtube.com/watch?v=Np5PcbBk1P4 "Watch online")
+[![images](/assets/img/2013/09/images1-1.jpg)](http://www.youtube.com/watch?v=Np5PcbBk1P4 "Watch online")

@@ -28,11 +28,11 @@ All PBIs are made on two levels:
 
 All BWF PBIs are added to the source control in plain text format, so we can quickly trace any changes to it. Below is a sample for Vendor's login Initial PBI.
 
-![Initial PBI](/assets/images/2017/07/Initial-PBI.png)
+![Initial PBI](/assets/img/2017/07/Initial-PBI.png)
 
 ### Another sample for Vendor's login Detailed PBI.
 
-![Detailed PBI](/assets/images/2017/07/Detailed-PBI.png)
+![Detailed PBI](/assets/img/2017/07/Detailed-PBI.png)
 
 >Read about basic guidelines that you need to consider when building a **product backlog** in the following post: [Requirements (Epic, Feature, User Story), Task Size and Estimation in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/requirements-epic-feature-user-story-task-size-and-estimation-in-agile-and-scrum/). Also, read about maintaining and refining the product backlog in [Key tips for Maintaining good product backlog in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/).
 {: .prompt-info }
@@ -71,11 +71,11 @@ Use case scenarios are divided into Initial and Detailed use case scenarios.
 
 Below is a sample for Display Products List Initial Use Case Scenario.
 
-![Initial Use Case Scenario](/assets/images/2017/07/Initial-Use-Case-Scenario.png)
+![Initial Use Case Scenario](/assets/img/2017/07/Initial-Use-Case-Scenario.png)
 
 ### Another sample for Display Products List Detailed Use Case Scenario.
 
-![Detailed Use Case Scenario](/assets/images/2017/07/Detailed-Use-Case-Scenario.png)
+![Detailed Use Case Scenario](/assets/img/2017/07/Detailed-Use-Case-Scenario.png)
 
 # Basic Mockups
 
@@ -91,7 +91,7 @@ Based on Test Cases, Basic Mockups, and PBIs, the final PSDs are made for the Pr
 
 **Level of Details** PSD Designs are made while keeping attention to details. We can logically view the Basic Mockups as initial designs, while the PSDs are the detailed designs. Below is a sample for the Final PSD Design for the homepage, and it is identical to the screenshot for the homepage at the very beginning of this readme file.
 
-![Final PSD Design for the homepage](/assets/images/2017/07/Final-PSD-Design-for-the-homepage.png)
+![Final PSD Design for the homepage](/assets/img/2017/07/Final-PSD-Design-for-the-homepage.png)
 
 # Website Components (HTML, CSS, and JavaScript)
 

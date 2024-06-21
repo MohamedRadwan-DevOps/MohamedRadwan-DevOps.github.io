@@ -12,7 +12,7 @@ configuration has little change than before Here the methods
 -   Configure( )
 -   RestToDefaultConfiguration( )
 
-[![FluentAPI2]( /assets/images/2011/11/FluentAPI2.png)]( /assets/images/2011/11/FluentAPI2.png)
+[![FluentAPI2]( /assets/img/2011/11/FluentAPI2.png)]( /assets/img/2011/11/FluentAPI2.png)
 
 For any farther information please don\'t hesitate to contact me. 
 

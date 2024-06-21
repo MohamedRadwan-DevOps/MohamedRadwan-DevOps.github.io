@@ -20,7 +20,7 @@ needed by the customer.
 describes a full upgrade and migration from TFS2015 to TFS2018 and
 describes the improvements over the old TFS 2015.
 
-[![TFS2015 Update1 Upgrade error](/assets/images/2016/02/tfs2015-update1-upgrade-error.jpg)](/assets/images/2016/02/tfs2015-update1-upgrade-error.jpg)
+[![TFS2015 Update1 Upgrade error](/assets/img/2016/02/tfs2015-update1-upgrade-error.jpg)](/assets/img/2016/02/tfs2015-update1-upgrade-error.jpg)
 
 
 #### Upgrading from an older version of TFS to TFS 2015 Update 1

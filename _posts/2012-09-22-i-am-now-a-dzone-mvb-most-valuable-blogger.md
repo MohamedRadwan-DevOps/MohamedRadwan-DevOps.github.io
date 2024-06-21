@@ -4,7 +4,7 @@ title: "I am now a DZone MVB (Most Valuable Blogger)!"
 date:   2012-09-22 12:07:09 +0100
 ---
 
-[![](/assets/images/2012/09/big-mvbbutton.png "big-mvbbutton")](http://www.dzone.com/users/mradwantfs "DZone MVB") 
+[![](/assets/img/2012/09/big-mvbbutton.png "big-mvbbutton")](http://www.dzone.com/users/mradwantfs "DZone MVB") 
 A couple of weeks ago I just sign the **DZone** agreement as a
 **DZone** **MVB** (**Most Valuable Blogger**). If you shouldn\'t already
 know, \"DZone is a technology publishing company that produces valuable

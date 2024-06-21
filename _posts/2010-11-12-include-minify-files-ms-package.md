@@ -9,15 +9,15 @@ will know that I am working on an MVC project and I am using TFS2010 and I autom
 didn\'t deploy this files I read a wonderful article to [sayed.hashimi](http://sedodream.com/2010/03/10/WebDeploymentToolIncludingOtherFiles.aspx "Sayed"), you always impressed me Sayed!! But it needs a little tweaking to work with minify fiels and I found a question on [StackOverFlow](http://stackoverflow.com/questions/4144472/how-can-we-include-the-files-created-by-ajaxmin-in-the-msdeploy-package-created-b "Stack question") which is \"How can we include the files created by ajaxmin in the msdeploy package created by MSBuild \" so I decide to post an article describe my tweaking to solve this issue. 
 
 First you can download the whole project which successfully include the minify file in the MS
-Deploy package from here [[**Download**]](/assets/images/2017/08/MvcApplication1.zip "MinifyFilesWithMSDeploy")
+Deploy package from here [[**Download**]](/assets/img/2017/08/MvcApplication1.zip "MinifyFilesWithMSDeploy")
 
 First you need to create include for each folder in your application that has minify files and this will has source and destination folder so you make sure you didn\'t copy the minify file in every script folder in your application as the following 
 
-[![SolSolution file that show the scripts in your project](/assets/images/2010/11/12-11-2010.jpg)](/assets/images/2010/11/12-11-2010.jpg)
+[![SolSolution file that show the scripts in your project](/assets/img/2010/11/12-11-2010.jpg)](/assets/img/2010/11/12-11-2010.jpg)
 
 You need to follow the image or just download the project as mention before
 
-[![MVCProject file.csproj](/assets/images/2010/11/TheProjectFiles.png)](/assets/images/2010/11/TheProjectFiles.png)
+[![MVCProject file.csproj](/assets/img/2010/11/TheProjectFiles.png)](/assets/img/2010/11/TheProjectFiles.png)
 
 You can also see the text version here
 

@@ -19,13 +19,13 @@ Our community interview is all about Standing on the shoulders of giants! This i
 
 So, our giant in this episode is Mark Allan, an Azure Cloud Expert and a [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002937) Mark has more than 35 years of experience and has impressive experience with cloud computing, containers, serverless, and other trending technologies. A few insights from Mark's sessions/talks:
 
-![Mark Allan](/assets/images/2020/01/Mark-Allan-1.jpg)
+![Mark Allan](/assets/img/2020/01/Mark-Allan-1.jpg)
 
-![Mark Allan](/assets/images/2020/01/Mark-Allan-3-2.png)
+![Mark Allan](/assets/img/2020/01/Mark-Allan-3-2.png)
 
-![Mark Allan](/assets/images/2020/01/Mark-Allan-2.png)
+![Mark Allan](/assets/img/2020/01/Mark-Allan-2.png)
 
-![Mark Allan](/assets/images/2020/01/Mark-Allan-4-2.png)
+![Mark Allan](/assets/img/2020/01/Mark-Allan-4-2.png)
 
 It was a great interview full of passion, knowledge, experience, and enthusiasm.
 

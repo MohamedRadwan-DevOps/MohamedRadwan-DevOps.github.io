@@ -19,13 +19,13 @@ Our community interview is all about Standing on the shoulders of giants! This i
 
 So, our giant in this episode is April Edwards, who is working as a Senior Software Engineer / Cloud Advocate at Microsoft. April is a very specialized Engineer in Azure and DevOps and she has delivered many amazing sessions and talks all over the globe. A few insights from April's sessions:
 
-![April Edwards](/assets/images/2020/01/April-1.jpg)
+![April Edwards](/assets/img/2020/01/April-1.jpg)
 
-![April Edwards](/assets/images/2020/01/April-5.jpg)
+![April Edwards](/assets/img/2020/01/April-5.jpg)
 
-![April Edwards](/assets/images/2020/01/April-4.jpg)
+![April Edwards](/assets/img/2020/01/April-4.jpg)
 
-![April Edwards](/assets/images/2020/01/April-3.jpg)
+![April Edwards](/assets/img/2020/01/April-3.jpg)
 
 It was a very energetic and amazing interview. I got inspired and I am sure you will get inspired too! Here is the interview:
 

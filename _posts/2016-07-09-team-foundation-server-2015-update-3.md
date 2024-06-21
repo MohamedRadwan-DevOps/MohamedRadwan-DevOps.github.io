@@ -8,7 +8,7 @@ date: 2016-07-09 11:27:03 +0100
 
 From the end of June, the **Team Foundation Server 2015 Update 3** is available. **Team Foundation Server** provides a whole set of collaboration tools that can work with **Visual Studio**, **Eclipse**, **Xcode**, or your own IDE or code editor. It works with any **[Git](https://git-scm.com/)** client. It includes code repositories, continuous integration, bug and task tracking, and agile planning tools. **TFS** supports many languages such as **Java**, **Python**, **HTML5**, **JavaScript**, **C#**, and many more.
 
-![1-Team Foundation Server 2015](/assets/images/2016/07/1-Team-Foundation-Server-2015.jpg "1-Team Foundation Server 2015")
+![1-Team Foundation Server 2015](/assets/img/2016/07/1-Team-Foundation-Server-2015.jpg "1-Team Foundation Server 2015")
 
 >If you would like to know more about Azure deployments, have a look at the post [How to deploy to Azure using Team Services Release Management](https://mohamedradwan-devops.github.io/posts/how-to-deploy-to-azure-using-team-services-release-management/). The post describes how Azure deployments are made easy by using Visual Studio Team Services (VSTS) Release Management. You will see a step-by-step tutorial on how to configure and deploy to Azure in Release Management. Moreover, how to configure an end-to-end pipeline for deploying applications on Azure.
 
@@ -23,7 +23,7 @@ From the end of June, the **Team Foundation Server 2015 Update 3** is available.
 
 **Testing - New features:** New testing features allow the setup of test machines or premises using **SCVMM**, **VMWare**, or in the **Cloud**.
 
-![2-Team Foundation Server 2015 Update 3](/assets/images/2016/07/2-Team-Foundation-Server-2015-Update-3.jpg "2-Team Foundation Server 2015 Update 3")
+![2-Team Foundation Server 2015 Update 3](/assets/img/2016/07/2-Team-Foundation-Server-2015-Update-3.jpg "2-Team Foundation Server 2015 Update 3")
 
 >The post [Upgrade to TFS 2018 Has Been Done in Production](https://mohamedradwan-devops.github.io/2018/01/16/upgrade-to-tfs-2018-has-been-done-in-production/) describes a full upgrade and migration from TFS2015 to TFS2018 and details the improvements over the old TFS 2015.
 {: .prompt-tip }

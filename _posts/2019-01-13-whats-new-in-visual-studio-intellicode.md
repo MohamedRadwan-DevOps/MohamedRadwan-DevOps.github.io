@@ -14,7 +14,7 @@ Custom models will provide suggestions based on your code. The current model onl
 
 How to get these custom models? In order to open the IntelliCode window, click on the View menu, then choose Other Windows, and click on IntelliCode. At the IntelliCode page, you will see the solution name and status of your model. To start the process, click on the "Train on my code" button, displayed in Image 1.
 
-![Image 1 - Train on my code](/assets/images/2019/01/Image-1-Train-on-my-code-1024x578.png)
+![Image 1 - Train on my code](/assets/img/2019/01/Image-1-Train-on-my-code-1024x578.png)
 _Image 1 - Train on my code_
 
 >You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan-devops.github.io/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of the [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing "the big picture," while still maintaining a high level of detail.
@@ -27,7 +27,7 @@ _Image 1 - Train on my code_
 
 After the model is quickly trained, you will see a new page all about your active trained model, displayed in Image 2.
 
-![Image 2 - Active model](/assets/images/2019/01/Image-2-Active-model-1024x578.png)
+![Image 2 - Active model](/assets/img/2019/01/Image-2-Active-model-1024x578.png)
 _Image 2 - Active model_
 
 On this page, the time and date it was trained are displayed, as well as its status, which shows that it is ready to be used. In addition, you have the ability to share it, as well as delete it if you do not want to use it anymore. If your code changes drastically from when you first created the model, you can retrain it. Also, the model details are displayed, with details about how many classes the model covers, and also recommendations.
@@ -47,20 +47,20 @@ On this page, the time and date it was trained are displayed, as well as its sta
 
 In [Visual Studio Code](https://code.visualstudio.com/) we can see there are two files opened, a Java file (Image 3) and a Python file (Image 4), which only has a message in it to start.
 
-![Image 3 - Java file](/assets/images/2019/01/Image-3-Java-file-1024x578.png)
+![Image 3 - Java file](/assets/img/2019/01/Image-3-Java-file-1024x578.png)
 _Image 3 - Java file_
 
-![Image 4 - Python file](/assets/images/2019/01/Image-4-Python-file-1024x578.png)
+![Image 4 - Python file](/assets/img/2019/01/Image-4-Python-file-1024x578.png)
 _Image 4 - Python file_
 
 We are going to see that the AI-assisted [IntelliSense](https://docs.microsoft.com/en-us/visualstudio/ide/using-intellisense?view=vs-2017) is going to work seamlessly as I move between the Java file and the Python file. In the Java file, we have a simple message string. If you type "msg.", you will get AI-assisted IntelliSense suggestions (Image 5).
 
-![Image 5 - AI-assisted suggestions - Java](/assets/images/2019/01/Image-5-AI-assisted-suggestions-java-1024x578.png)
+![Image 5 - AI-assisted suggestions - Java](/assets/img/2019/01/Image-5-AI-assisted-suggestions-java-1024x578.png)
 _Image 5 - AI-assisted suggestions - Java_
 
 If you move over to the Python file, just by clicking on the file (no extra setup), and activate AI-assisted IntelliSense. You will notice that Python IntelliSense works seamlessly without messing with the language server (Image 6).
 
-![Image 6 - AI-assisted suggestions - Python](/assets/images/2019/01/Image-6-AI-assisted-suggestions-python-1024x578.png)
+![Image 6 - AI-assisted suggestions - Python](/assets/img/2019/01/Image-6-AI-assisted-suggestions-python-1024x578.png)
 _Image 6 - AI-assisted suggestions - Python_
 
 ## Conclusion

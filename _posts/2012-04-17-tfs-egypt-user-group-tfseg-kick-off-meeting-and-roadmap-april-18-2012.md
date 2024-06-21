@@ -17,7 +17,7 @@ stakeholder, a business analysis or product owner, a developer or a
 tester this User Group is for you. We will discuss the roadmap and our
 technologies, our mission and aims. Waiting for you :-)
 
-[![TFSEG](/assets/images/2012/04/TFSEG-1024x546.jpg)](/assets/images/2012/04/TFSEG.jpg)
+[![TFSEG](/assets/img/2012/04/TFSEG-1024x546.jpg)](/assets/img/2012/04/TFSEG.jpg)
 
 For more information see our calendar here
 <https://sites.google.com/site/tfsegyptusergroup/calendar/kickoffmeetingandroadmapapril182012>

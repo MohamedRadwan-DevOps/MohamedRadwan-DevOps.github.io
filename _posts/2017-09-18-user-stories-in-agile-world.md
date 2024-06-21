@@ -28,7 +28,7 @@ Rather than having such titles, I would personally prefer to use User Story titl
 
 Another example of the Agile backlog is shown in the image below. This backlog was built for e-commerce purposes, and you can understand from the image below that each PBI is a separate story, which means that it can be implemented without any dependencies on other PBI's.
 
-![Backlog_PBIs Kanban board VSTS](/assets/images/2017/09/Backlog_PBIs-1.png)
+![Backlog_PBIs Kanban board VSTS](/assets/img/2017/09/Backlog_PBIs-1.png)
 
 [More Info]{.ion-info} If you want to know more about maintaining the backlog properly, you can visit the following post: [Key Tips For Maintaining Good Product Backlog in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/). The post describes a way to efficiently organize the [backlog](https://docs.microsoft.com/en-us/vsts/work/backlogs/create-your-backlog) items, allowing you to understand the requirements better and providing you with a higher level of detail of what is actually expected from the work or delivery perspective.
 
@@ -36,7 +36,7 @@ Another example of the Agile backlog is shown in the image below. This backlog w
 
 There are three very important questions we should consider covering when writing user stories:
 
-![Format_User Story-how to write a user story](/assets/images/2017/09/Format_User-Story-1.png)
+![Format_User Story-how to write a user story](/assets/img/2017/09/Format_User-Story-1.png)
 
 **1. Who?** We need to ask ourselves for whom we are building this product or service. Who will be the actors using this product or the service? **2. What?** What is it that we are actually building or what are the user’s needs for this product or service? **3. Why?** This question covers the goal of the feature that we are building. We need to ask ourselves why the user needs this feature and why we are building it. The user story needs to cover all three layers or questions so that the team understands for whom, what, and why they are building the features. In this way, the **team can focus on providing a business solution to solve users' problems**, rather than just writing the code. Although there is no official template that Agile uses or enforces, there is a common and widely used template to write a good user story, that uses the following form:
 
@@ -60,13 +60,13 @@ A better example of the same user story:
 
 In the example below, you’ll see the User Story in the PBI, which is part of an existing Product backlog. In the image, you’ll see the User Story in the Description field, and below the Description field, you’ll see the Acceptance Criteria field. Acceptance Criteria are another important part of User Story, but I will not cover them in this post. For now, just consider them as additional guidelines for User Story implementation.
 
-![Work-item form for user story VSTS](/assets/images/2017/09/Implement-Trello-Integration-with-VSTS.png)
+![Work-item form for user story VSTS](/assets/img/2017/09/Implement-Trello-Integration-with-VSTS.png)
 
 ## Important concepts
 
 A very important concept, which everyone writing user stories should consider, was developed by **Bill Wake** in 2003 and is known under the acronym **INVEST**. All well-formatted user stories respect the [**INVEST concept**](https://en.wikipedia.org/wiki/INVEST_(mnemonic)). **I - Independent** (Can the PBI stand alone, without any dependencies on another PBI?) **N - Negotiable** (Can it be changed and adapted without breaking any explicit instructions?) **V - Valuable** (Does it have value for the end user?) **E - Estimable** (Can the team estimate the size of it?) **S - Small** (Is it small enough to be designed, coded, and tested within the sprint?) **T - Testable** (Is testing possible from acceptance criteria and DoD?)
 
-![Invest_Concept_Agile](/assets/images/2017/09/Invest_Concept_Agile-1.png)
+![Invest_Concept_Agile](/assets/img/2017/09/Invest_Concept_Agile-1.png)
 
 >Read about basic guidelines that you need to consider when building a **product backlog** in the following post, [Requirements (Epic, Feature, User Story), Task Size and Estimation in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/requirements-epic-feature-user-story-task-size-and-estimation-in-agile-and-scrum/), and also about its maintaining and refinement of the product backlog in [Key tips for Maintaining good product backlog in Agile and Scrum](https://mohamedradwan-devops.github.io/posts/key-tips-for-maintaining-good-product-backlog-in-agile-and-scrum/).
 {: .prompt-tip }

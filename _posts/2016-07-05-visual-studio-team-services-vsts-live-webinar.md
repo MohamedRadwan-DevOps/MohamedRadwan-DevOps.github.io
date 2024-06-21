@@ -7,7 +7,7 @@ date:   2016-07-05 12:36:45 +0100
 I will present a Webinar about Visual Studio Team Services (VSTS) on
 15th of July 2016 
 
-[![VSTS webinar](/assets/images/2016/07/VSTS-webinar-1-1024x787.png)](http://goo.gl/forms/Ro5xLAhlJCSZN1jF2)
+[![VSTS webinar](/assets/img/2016/07/VSTS-webinar-1-1024x787.png)](http://goo.gl/forms/Ro5xLAhlJCSZN1jF2)
 
 Here is the details:
 **Title:** New update features and improvement in VSTS **Abstract:**

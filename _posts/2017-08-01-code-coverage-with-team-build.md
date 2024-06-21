@@ -47,15 +47,15 @@ So let\'s start
     so you will select this configuration from the build definition
     parameters window, when you create or edit build definition
 
-[![Test Configuration in the solution](/assets/images/2017/08/Test-configuration-files.jpg)](/assets/images/2017/08/Test-configuration-files.jpg)
+[![Test Configuration in the solution](/assets/img/2017/08/Test-configuration-files.jpg)](/assets/img/2017/08/Test-configuration-files.jpg)
 
 - Open the test configuration you want let\'s say its TraceAndTestImpact.testsettings, just double click on it and select code coverage and select the dll you want but remember don\'t select the web, you will configure it manually, and here is the tricky sometimes it\'s OK and sometimes it give me the previous error in the Microsoft connect, any way don\'t select it, save the file and close it.
 
-[![Select code coverage](/assets/images/2017/08/Set-code-coverage.png)](/assets/images/2017/08/Set-code-coverage.png)
+[![Select code coverage](/assets/img/2017/08/Set-code-coverage.png)](/assets/img/2017/08/Set-code-coverage.png)
 
 - Open the file again but this time with open with as XML and start adding new line to point to the Web dll as the class library but remember you have to set the absolute path because it\'s different on the source folder in the build machine,so you just need to go there and find where the path to the dll on the server machine and there.
 
-[![Test Configuration in XMl](/assets/images/2017/08/Test-configuration-with-XML-viewer.png)](/assets/images/2017/08/Test-configuration-with-XML-viewer.png)
+[![Test Configuration in XMl](/assets/img/2017/08/Test-configuration-with-XML-viewer.png)](/assets/img/2017/08/Test-configuration-with-XML-viewer.png)
 
 
 - Build your application on the build machine,  now you should see the code coverage for the class libraries and the MVC or the Web Application.

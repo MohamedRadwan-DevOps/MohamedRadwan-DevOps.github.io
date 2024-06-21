@@ -54,5 +54,5 @@ try {
 
 **Execute the PowerShell script during the build and before compiling the code** 
 
-[![SSDT change connection string](/assets/images/2015/06/ssdt-change-connection-string.png)](/assets/images/2015/06/ssdt-change-connection-string.png)
+[![SSDT change connection string](/assets/img/2015/06/ssdt-change-connection-string.png)](/assets/img/2015/06/ssdt-change-connection-string.png)
 

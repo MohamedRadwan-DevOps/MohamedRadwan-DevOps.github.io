@@ -8,14 +8,14 @@ This is a very simple post. We know that custom assemblies or third-party librar
 
 Navigate to the Builds page and click on **Actions** -> **Manage Build Controller**.
 
-![BuildNUnit2](/assets/images/2013/01/buildnunit2-1.png)
+![BuildNUnit2](/assets/img/2013/01/buildnunit2-1.png)
 
 Select the **Host Build Controller (Virtual)** as we can see in the image, and click on **Properties**.
 
-![BuildNUnit3](/assets/images/2013/01/buildnunit3.png)
+![BuildNUnit3](/assets/img/2013/01/buildnunit3.png)
 
 Point to your custom assemblies in " **Version control path to custom assemblies**".
 
-![BuildNUnit4](/assets/images/2013/01/buildnunit4.png)
+![BuildNUnit4](/assets/img/2013/01/buildnunit4.png)
 
 For more info, see the MSDN link here: [Use the hosted build controller](http://tfs.visualstudio.com/en-us/learn/build/hosted-build-controller-in-vs/ "Use the hosted build controller").

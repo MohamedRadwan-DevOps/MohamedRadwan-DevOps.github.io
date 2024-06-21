@@ -14,11 +14,11 @@ visualizer of the Expression tree?
 
 -   Second open add-watch window for the expression
 
-[![ExpressionTree](/assets/images/2011/10/ExpressionTree-1024x530.png)](/assets/images/2011/10/ExpressionTree.png)
+[![ExpressionTree](/assets/img/2011/10/ExpressionTree-1024x530.png)](/assets/img/2011/10/ExpressionTree.png)
 
 -   Third click on the a magnifying glass that appears, that\'s it
 
-[![ExpressionTree2](/assets/images/2011/10/ExpressionTree2.jpg)](/assets/images/2011/10/ExpressionTree2.jpg)
+[![ExpressionTree2](/assets/img/2011/10/ExpressionTree2.jpg)](/assets/img/2011/10/ExpressionTree2.jpg)
 
 -   Variable names are displayed with a \"\$\" symbol at the beginning.
 -   Assigned an automatically generated names for parameters, such as

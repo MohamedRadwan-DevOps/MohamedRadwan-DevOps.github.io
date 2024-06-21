@@ -4,7 +4,7 @@ title: "Why I don't like Saturday and Sunday!"
 date:   2012-07-18 01:39:56 +0100
 ---
 
-[![Blog status](/assets/images2012/07/Wordpress-status.jpg)](/assets/images2012/07/Wordpress-status.jpg)
+[![Blog status](/assets/img2012/07/Wordpress-status.jpg)](/assets/img2012/07/Wordpress-status.jpg)
 When you start looking to my [blog](https://mohamedradwan-devops.github.io "Mohamed Radwan")
 status on [Wordpress](http://wordpress.com "Wordpress website"),
 you will realize the truth which is why I don\'t like Saturday and

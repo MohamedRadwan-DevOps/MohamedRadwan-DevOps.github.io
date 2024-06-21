@@ -15,13 +15,13 @@ The following is a step-by-step video for the post:
 
 Open the Visual Studio Command Prompt as Administrator, and type ***tf msdn***. This will display the help.
 
-![Open-VS-Command-Line](/assets/images/2013/02/open-vs-command-line-1.jpg)
+![Open-VS-Command-Line](/assets/img/2013/02/open-vs-command-line-1.jpg)
 
-![TF-msdn](/assets/images/2013/02/tf-msdn.jpg)
+![TF-msdn](/assets/img/2013/02/tf-msdn.jpg)
 
 Type ***tf help checkin*** to display the help for the checkin option.
 
-![Display-help-about-option](/assets/images/2013/02/display-help-about-option.jpg)
+![Display-help-about-option](/assets/img/2013/02/display-help-about-option.jpg)
 
 We will go to the project settings and add 2 notes: Reviewer and Time. After that, we will get back to the command line and type:
 
@@ -29,14 +29,14 @@ We will go to the project settings and add 2 notes: Reviewer and Time. After tha
 tf checkin /comment:"Hello this is my comment" /notes:"Reviewer=M.Radwan;Time=5:00"
 ```
 
-![TF-Checkin-with-comment-notes](/assets/images/2013/02/tf-checkin-with-comment-notes-1.jpg)
+![TF-Checkin-with-comment-notes](/assets/img/2013/02/tf-checkin-with-comment-notes-1.jpg)
 
 This will display the checkin dialog-box with the typed comments and
 notes.
 
-[TF-Comment](/assets/images/2013/02/tf-comment-1.jpg)
+[TF-Comment](/assets/img/2013/02/tf-comment-1.jpg)
 
-![TF-Notes](/assets/images/2013/02/tf-notes.jpg)
+![TF-Notes](/assets/img/2013/02/tf-notes.jpg)
 
 
 Now we will output the different between 2 changeset in a file, type
@@ -45,7 +45,7 @@ Now we will output the different between 2 changeset in a file, type
 tf diff FabrikamFiber.CallCenterfabrikamfiber.webcontrollers /version: c7\~c26 \>c:Radwan.txt
 ```
 
-![TF-output-diff-in-file](/assets/images/2013/02/tf-output-diff-in-file.jpg)
+![TF-output-diff-in-file](/assets/img/2013/02/tf-output-diff-in-file.jpg)
 
 Open the file using
 
@@ -54,9 +54,9 @@ Open the file using
 and select the **Diff Files** schema (Into ALM withTFS)
 
 
-![TF-Open-diff-with-notepad2](/assets/images/2013/02/tf-open-diff-with-notepad2.jpg)
+![TF-Open-diff-with-notepad2](/assets/img/2013/02/tf-open-diff-with-notepad2.jpg)
 
-![TF-diff](/assets/images/2013/02/tf-diff-1.jpg)
+![TF-diff](/assets/img/2013/02/tf-diff-1.jpg)
 
 To view a file a specific version type 
 
@@ -65,6 +65,6 @@ tfview FabrikamFiber.CallCenterfabrikamfiber.webcontrollersCustomerControllers.c
 /version:c26 
 ```
 
-![TF-view](/assets/images/2013/02/tf-view.jpg)
+![TF-view](/assets/img/2013/02/tf-view.jpg)
 
 

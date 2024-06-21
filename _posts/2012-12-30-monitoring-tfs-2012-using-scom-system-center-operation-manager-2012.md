@@ -4,7 +4,7 @@ title: "Monitoring TFS 2012 using SCOM (System Center Operation Manager 2012)"
 date: 2012-12-30 09:14:36 +0100
 ---
 
-Besides using SCOM (System Center Operation Manager) in ALM to eliminate the boundaries between development and operations in the DevOps approach, we can also use it to monitor the TFS Server itself. [TFS 2012 (Team Foundation Server 2012) Monitoring Management Pack available](http://www.microsoft.com/en-us/download/details.aspx?id=35773 "TFS 2012 (Team Foundation Server 2012) Monitoring Management Pack "){target="_blank"} now, it will help us monitor Microsoft Team Foundation Server 2012. It monitors different TFS components like application tier server instances, team project collections, build servers, and proxy servers. 
+Besides using SCOM (System Center Operation Manager) in ALM to eliminate the boundaries between development and operations in the DevOps approach, we can also use it to monitor the TFS Server itself. [TFS 2012 (Team Foundation Server 2012) Monitoring Management Pack available](http://www.microsoft.com/en-us/download/details.aspx?id=35773 "TFS 2012 (Team Foundation Server 2012) Monitoring Management Pack ") now, it will help us monitor Microsoft Team Foundation Server 2012. It monitors different TFS components like application tier server instances, team project collections, build servers, and proxy servers. 
 
 The list of objects that can be monitored:
 
@@ -26,11 +26,11 @@ The list of objects that can be monitored:
 
 Health Explorer is used to show the Health Model, as we can see it showing the state of the object and various monitors of that item arranged in a tree view.
 
-![Health Explorer for SCOM TFS Management Pack](/assets/images/2012/12/health-explorer-for-scom-tfs-management-pack-1.png)
+![Health Explorer for SCOM TFS Management Pack](/assets/img/2012/12/health-explorer-for-scom-tfs-management-pack-1.png)
 Health Explorer can also show unhealthy states ([red]{style="color:#ff0000;"}). We can know the possible causes and resolutions from the list in the "Knowledge" article on the right.
 
-![Health Explorer has error for SCOM TFS Management Pack](/assets/images/2012/12/health-explorer-has-error-for-scom-tfs-management-pack.jpg)
+![Health Explorer has error for SCOM TFS Management Pack](/assets/img/2012/12/health-explorer-has-error-for-scom-tfs-management-pack.jpg)
 
 Some existing alerts
 
-![Alerts](/assets/images/2012/12/alerts-1.jpg)
+![Alerts](/assets/img/2012/12/alerts-1.jpg)

@@ -4,9 +4,9 @@ title: "Marvel ALM Announce a Free Visit for all BizSpark Members!"
 date: 2012-10-16 10:32:58 +0100
 ---
 
-[![](/assets/images/2012/10/marvelalm-announce-free-visit-bizspark-2.jpg "MarvelALM-announce-free-visit-Bizspark-2")](/assets/images/2012/10/marvelalm-announce-free-visit-bizspark-2.jpg)
+[![](/assets/img/2012/10/marvelalm-announce-free-visit-bizspark-2.jpg "MarvelALM-announce-free-visit-Bizspark-2")](/assets/img/2012/10/marvelalm-announce-free-visit-bizspark-2.jpg)
 
-[![](/assets/images/2012/10/marvelalm-announce-free-visit-bizspark-1.jpg "MarvelALM-announce-free-visit-Bizspark-1")](/assets/images/2012/10/marvelalm-announce-free-visit-bizspark-1.jpg)
+[![](/assets/img/2012/10/marvelalm-announce-free-visit-bizspark-1.jpg "MarvelALM-announce-free-visit-Bizspark-1")](/assets/img/2012/10/marvelalm-announce-free-visit-bizspark-1.jpg)
 
 I am really always proud of [Marvel ALM](http://marvelalm.com/ "Marvel ALM") in how it is part of the community and how we really care about raising the ALM and the best practices of software development in our country, region, and globe. For this reason, Marvel ALM is pleased to announce that we already announced in the first [**BizSpark Event in Egypt**](https://mohamedradwan-devops.github.io/posts/speaking-at-microsoft-startupbizspark-event-on-sunday-sep-30-2012/ "BizSpark Event in Egypt") a free visit for all [**BizSpark**](http://www.microsoft.com/bizspark/ "Microsoft BizSpark") members that **they are really wanting to implement the ALM** in their company.
 

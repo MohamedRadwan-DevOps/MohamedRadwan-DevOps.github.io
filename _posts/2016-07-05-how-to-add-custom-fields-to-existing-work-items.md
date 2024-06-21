@@ -23,13 +23,13 @@ This feature enables you to extend the work items from any of your processes, su
 2. On the selected process, click on the **dots** to open the drop-down menu.
 3. Click on the **Create inherited process** option.
 
-![1-1 Creating an inherited process VSTS](/assets/images/2016/07/1-1-Creating-an-inherited-process-VSTS.jpg "1-1 Creating an inherited process VSTS")
+![1-1 Creating an inherited process VSTS](/assets/img/2016/07/1-1-Creating-an-inherited-process-VSTS.jpg "1-1 Creating an inherited process VSTS")
 
 4. In the **Process name field**, type the **Name** of your process.
 5. In the **Process description field**, type the **Description of your process**.
 6. Click on the **Create Process** button.
 
-![1-2 Creating an inherited process from Scrum VSTS](/assets/images/2016/07/1-2-Creating-an-inherited-process-from-Scrum-VSTS.jpg "1-2 Creating an inherited process from Scrum VSTS")
+![1-2 Creating an inherited process from Scrum VSTS](/assets/img/2016/07/1-2-Creating-an-inherited-process-from-Scrum-VSTS.jpg "1-2 Creating an inherited process from Scrum VSTS")
 
 >For more information about how to work with **Docker** like pulling docker images, running docker images, and working with containers, see [**Docker for beginners**](https://mohamedradwan-devops.github.io/posts/docker-for-beginners-step-by-step-tutorial/).
 {: .prompt-tip }
@@ -41,7 +41,7 @@ You can set process security settings for creating, editing, and deleting the pr
 2. From the **Drop-down Menu**, choose the option **Manage processes security** to set individual ACLs for which users and groups can edit and delete the process.
 3. In the new window, click on the **User** and on the right side of the window you will have the options for **Modification of Permissions**.
 
-![2-Setting process security VSTS](/assets/images/2016/07/2-Setting-process-security-VSTS.jpg "2-Setting process security VSTS")
+![2-Setting process security VSTS](/assets/img/2016/07/2-Setting-process-security-VSTS.jpg "2-Setting process security VSTS")
 
 ### Step 3: Adding New Field 
 
@@ -51,7 +51,7 @@ You can set process security settings for creating, editing, and deleting the pr
 4. In the new window, define the **New Fields parameters**. In this example, I will add a field for **\<Deadline Date\>** of a task.
 5. Click on the **Add Field** button.
 
-![3-Adding New Fields VSTS](/assets/images/2016/07/3-Adding-New-Fields-VSTS.jpg "3-Adding New Fields VSTS")
+![3-Adding New Fields VSTS](/assets/img/2016/07/3-Adding-New-Fields-VSTS.jpg "3-Adding New Fields VSTS")
 
 >For more information about how to work with **Git** with animation. All commands will be represented in graphical animation. E.g. git branch, git merge, git rebase, git cherry-pick, and many others, see [**Mastering Git with animation**](https://mohamedradwan-devops.github.io/posts/mastering-git-from-beginner-to-advanced-step-by-step-with-graphical-animation-commands/).
 
@@ -61,7 +61,7 @@ In this step, I'm going to show you how we will add the field that was created i
 1. Navigate back to your **Board** and open a task. In the upper right corner, click on the **dots** to open the drop-down menu.
 2. From the drop-down menu, choose the option **Customize**.
 
-[![4-1 Adding custom fields to existing work item in VSTS](/assets/images/2016/07/4-1-Adding-custom-fields-to-existing-work-item-in-VSTS.jpg "4-1 Adding custom fields to existing work item in VSTS"){.alignnone .wp-image-6354 width="763" height="339"}](https://mohamedradwan-devops.github.io/2016/07/05/how-to-add-custom-fields-to-existing-work-items/4-1-adding-custom-fields-to-existing-work-item-in-vsts/){rel="attachment wp-att-6354"}
+[![4-1 Adding custom fields to existing work item in VSTS](/assets/img/2016/07/4-1-Adding-custom-fields-to-existing-work-item-in-VSTS.jpg "4-1 Adding custom fields to existing work item in VSTS"){.alignnone .wp-image-6354 width="763" height="339"}](https://mohamedradwan-devops.github.io/2016/07/05/how-to-add-custom-fields-to-existing-work-items/4-1-adding-custom-fields-to-existing-work-item-in-vsts/){rel="attachment wp-att-6354"}
 
 3. In the new window in the upper left corner, choose the process that was created in previous steps **\<My Scrum\>**.
 4. Navigate to **Task** and click on it.
@@ -69,12 +69,12 @@ In this step, I'm going to show you how we will add the field that was created i
 6. In the right window, scroll down to the previously created **Field**, which has in this case the name **\<Deadline Date\>**. Click on the dots to open the drop-down menu.
 7. From the drop-down menu, click on **Edit** to define the parameters of the new field.
 
-[![4-2 Editing custom fields to existing work item in VSTS](/assets/images/2016/07/4-2-Editing-custom-fields-to-existing-work-item-in-VSTS.jpg "4-2 Editing custom fields to existing work item in VSTS"){.alignnone .wp-image-6355 width="763" height="359"}](https://mohamedradwan-devops.github.io/2016/07/05/how-to-add-custom-fields-to-existing-work-items/4-2-editing-custom-fields-to-existing-work-item-in-vsts/){rel="attachment wp-att-6355"}
+[![4-2 Editing custom fields to existing work item in VSTS](/assets/img/2016/07/4-2-Editing-custom-fields-to-existing-work-item-in-VSTS.jpg "4-2 Editing custom fields to existing work item in VSTS"){.alignnone .wp-image-6355 width="763" height="359"}](https://mohamedradwan-devops.github.io/2016/07/05/how-to-add-custom-fields-to-existing-work-items/4-2-editing-custom-fields-to-existing-work-item-in-vsts/){rel="attachment wp-att-6355"}
 
 8. In the new window, you will have the chance to define **Definition**, **Options**, and **Layout**. The most important is **Layout**, so click on that field.
 9. On the right side, you will have the chance to define the exact layout of the new field. You can correct the **Label Name** and choose the **Layout** of the new **Field** in the task.
 
-![4-3 Editing custom field layout in VSTS](/assets/images/2016/07/4-3-Editing-custom-field-layout-in-VSTS.jpg "4-3 Editing custom field layout in VSTS")
+![4-3 Editing custom field layout in VSTS](/assets/img/2016/07/4-3-Editing-custom-field-layout-in-VSTS.jpg "4-3 Editing custom field layout in VSTS")
 
 >If you would like to learn more about how to change the credential of the IIS Application Pool using PowerShell, we will also use PowerShell to restart the Application Pool - have a look at [**this post**](https://mohamedradwan-devops.github.io/posts/working-with-iis-powershell/).
 

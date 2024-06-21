@@ -13,7 +13,7 @@ You can find more information about DevOps
 
 in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan-devops.github.io/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan-devops.github.io/posts/published-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing \"the big picture\", while still maintaining the high level of detail.
 
-![0-DevOpsFrame-Automated software testing](/assets/images/2017/01/0-DevOpsFrame-Automated-software-testing.jpg "0-DevOpsFrame-Automated software testing")
+![0-DevOpsFrame-Automated software testing](/assets/img/2017/01/0-DevOpsFrame-Automated-software-testing.jpg "0-DevOpsFrame-Automated software testing")
 
 - The purpose of running **Automated tests** it to run tests **[agile](https://mohamedradwan-devops.github.io/posts/im-just-professional-agile/)** and frequently. In particular, when testing in an **agile environment**, it\'s not only required to adopt quickly to software changes, it\'s necessary. There are many benefits for running Automated tests, such as:
 
@@ -35,7 +35,7 @@ in the following post: [DevOps: The Three Stage Conversation - People, Process, 
 
 As already explained in post [**Introduction to software testing**](https://mohamedradwan-devops.github.io/posts/introduction-to-software-testing/) the **Automated test** will run by a computer, but they will be created by the tester, which can create the test in the way that it will run every time when code or part of it will be changed. There are several particular **types of software tests**, which can be Automated. 
 
-![1-Automated testing types](/assets/images/2017/01/Automated-testing-types.jpg "1-Automated testing types")
+![1-Automated testing types](/assets/img/2017/01/Automated-testing-types.jpg "1-Automated testing types")
 
 >If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/2017/12/29/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
 {: .prompt-tip }
@@ -74,7 +74,7 @@ The word \"**Unit**\" is already pointing that this type of software testing is 
 
 The first step is to review and to define the needs and the requirements of the application and to confirm if the application is suited for Automated testing. Once when the Automated testing for application confirms the proper tool should be selected for test execution. Here is important also to classify the appropriate framework, which is basically a set of automation guidelines.  After that, the scope of automation can be set. The scope of automation will define which features are important, technical usefulness, types of data in different scenarios and the complexity of each test case. It\'s important also to determine the automation strategy, which will define the design of framework, tools for automation and schedule for execution. After all key factors are well defined the crucial step is to develop appropriate automation framework. If you are using [Visual Studio tools](https://www.visualstudio.com/vs/testing-tools/), you will find many projects templated and frameworks already build it and they are supporting various platforms. The last step of the process is to develop a **Test script** in order to define a set of instruction to be performed during the test execution. 
 
-![2-Planning and executing Automated Tests](/assets/images/2017/01/2-Planning-and-executing-Automated-Tests-1.jpg "2-Planning and executing Automated Tests")
+![2-Planning and executing Automated Tests](/assets/img/2017/01/2-Planning-and-executing-Automated-Tests-1.jpg "2-Planning and executing Automated Tests")
 
 ## Conclusion
 

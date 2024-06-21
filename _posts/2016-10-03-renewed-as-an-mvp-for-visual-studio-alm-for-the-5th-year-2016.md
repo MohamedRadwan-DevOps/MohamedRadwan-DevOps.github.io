@@ -18,5 +18,5 @@ each stage. My promise to myself and to the community, is to only get
 better at my work so that I will be able to share more such awards here.
 Thank you!
 
-![mvp_logo_750x300](/assets/images/2016/10/MVP_logo_750x300.png)
+![mvp_logo_750x300](/assets/img/2016/10/MVP_logo_750x300.png)
 

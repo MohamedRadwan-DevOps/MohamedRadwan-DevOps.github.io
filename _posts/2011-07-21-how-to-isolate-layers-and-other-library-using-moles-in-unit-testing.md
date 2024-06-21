@@ -8,14 +8,14 @@ Moles is one of the mocking frameworks for isolating dependencies and other laye
 
 I created a solution from multiple projects so we can investigate Moles. The solution structure is as follows:
 
-![Solution Structure](/assets/images/2011/07/7-21-2011-5-13-39-PM.png)
+![Solution Structure](/assets/img/2011/07/7-21-2011-5-13-39-PM.png)
 
-![Project Structure](/assets/images/2011/07/7-21-2011-5-13-58-PM.png)
+![Project Structure](/assets/img/2011/07/7-21-2011-5-13-58-PM.png)
 
 You will add a reference in the Test project to the DB project. Right-click on the DB reference and choose Add Mole Assembly.
-![Add Mole Assembly](/assets/images/2011/07/7-21-2011-5-16-27-PM.png)
+![Add Mole Assembly](/assets/img/2011/07/7-21-2011-5-16-27-PM.png)
 
-![Mole Assembly](/assets/images/2011/07/7-21-2011-6-05-42-PM.png)
+![Mole Assembly](/assets/img/2011/07/7-21-2011-6-05-42-PM.png)
 
 Start using it as follows:
 

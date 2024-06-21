@@ -51,15 +51,15 @@ The free version of OpsHub required the process template of the project matching
 - **Importing work-items that don’t exist (Issue) from Agile v.5.0**
 
   Downloaded Agile v.5.0 process template from TFS
-  ![image001](/assets/images/2015/05/image001.jpg?w=660)
+  ![image001](/assets/img/2015/05/image001.jpg)
 
-  ![image002](/assets/images/2015/05/image002.jpg)
+  ![image002](/assets/img/2015/05/image002.jpg)
 
   Open TFS Team Project Manager, select the project and navigate to Work item configuration/work items types/import. Click add and select Issue work-item from Agile v5.0 work-items and click on import.
-  ![image003](/assets/images/2015/05/image003.jpg?w=660)
+  ![image003](/assets/img/2015/05/image003.jpg)
 
   I could also import it using WitAdmin command line
-  ![image004](/assets/images/2015/05/image004.jpg)
+  ![image004](/assets/img/2015/05/image004.jpg)
 
 - **Copy existing work-items that do not belong to Agile into another work-item types of Agile v.5.0**
   - **(Change request → Issue)**
@@ -71,7 +71,7 @@ The free version of OpsHub required the process template of the project matching
   4. Change the Work Item Type into the desired type
   5. Click publish to publish new work-items
 
-  ![image005](/assets/images/2015/05/image005.jpg?w=660)
+  ![image005](/assets/img/2015/05/image005.jpg)
 
 - **Change Categories by removing the usage of non-Agile work-items**
 
@@ -80,7 +80,7 @@ The free version of OpsHub required the process template of the project matching
   3. Change the default work-item for the Requirement category from Requirement to User Story.
   4. Click Import work-items category.
 
-  ![image006](/assets/images/2015/05/image006.jpg?w=660)
+  ![image006](/assets/img/2015/05/image006.jpg)
 
 - **Destroy non-Agile work-items types (Change request - Requirement)**
 
@@ -91,7 +91,7 @@ The free version of OpsHub required the process template of the project matching
   witadmin.exe destroywitd /collection:http://kbndvtfs01:8080/tfs/TempVSO2 /p:ServicesVSO /n:"Change Request"
 ```
 
-![image007](/assets/images/2015/05/image007.jpg?w=660)
+![image007](/assets/img/2015/05/image007.jpg)
 
 - **Change some of the system fields name to match the new work-items types of the Agile v.5.0**
 
@@ -105,7 +105,7 @@ witadmin changefield /collection:http://kbndvtfs01:8080/tfs/TempVSO2 /n:"System.
 witadmin changefield /collection:http://kbndvtfs01:8080/tfs/TempVSO2 /n:"System.IterationId" /name:"Iteration ID"
 ```
 
-![image008](/assets/images/2015/05/image008.jpg?w=660)
+![image008](/assets/img/2015/05/image008.jpg)
 
 -   **Import all Agile v.5.0 work-items (User Story, Bug, Test Case,
     Issue, Shared Steps)**
@@ -114,7 +114,7 @@ witadmin changefield /collection:http://kbndvtfs01:8080/tfs/TempVSO2 /n:"System.
     Work item configuration/work items types/import
 2.  Click add and select all Agile v5.0 work-items and click on import
 
-![image009](/assets/images/2015/05/image009.jpg?w=660)
+![image009](/assets/img/2015/05/image009.jpg)
 
 -   **Verify that current project matching 100% of the Agile v.5.0**
 
@@ -130,48 +130,48 @@ Make sure that the account that you logged-in and will be used for the
 migration added in Project Collection Service Accounts
 group.
 
-![image011](/assets/images/2015/05/image011.png?w=660)
+![image011](/assets/img/2015/05/image011.png)
 
 Make sure that you++have a project with the same name and with the
 process template that match the desired process
 template
 
-![image012](/assets/images/2015/05/image012.jpg?w=660)
+![image012](/assets/img/2015/05/image012.jpg)
 
 Run OpsHub and select New Migration
 
-![image013](/assets/images/2015/05/image013.jpg?w=660)
+![image013](/assets/img/2015/05/image013.jpg)
 
 Select the source collection (local) and the destination account (VSO)
 
-![image014](/assets/images/2015/05/image014.jpg?w=660)
+![image014](/assets/img/2015/05/image014.jpg)
 
 Choose I want to migrate work-item and click on Next
 
-![image015](/assets/images/2015/05/image015.jpg?w=660)
+![image015](/assets/img/2015/05/image015.jpg)
 
 Select the destination project on VSO (Visual Studio Online) and click
 Next
 
-![image016](/assets/images/2015/05/image016.jpg?w=660)
+![image016](/assets/img/2015/05/image016.jpg)
 
 Map the local users to the online users and click Next
 
-![image017](/assets/images/2015/05/image017.jpg?w=660)
+![image017](/assets/img/2015/05/image017.jpg)
 
-![image018](/assets/images/2015/05/image018.jpg?w=660)
+![image018](/assets/img/2015/05/image018.jpg)
 
 Make sure that the verification running successfully
 
-![image019](/assets/images/2015/05/image019.jpg?w=660)
+![image019](/assets/img/2015/05/image019.jpg)
 
 Start the migration
 
-![image020](/assets/images/2015/05/image020.jpg?w=660)
+![image020](/assets/img/2015/05/image020.jpg)
 
 Review that the migration ran successfully
 
-![image021](/assets/images/2015/05/image021.jpg?w=660)
+![image021](/assets/img/2015/05/image021.jpg)
 
 ### [3.Solution Notes:]
 
@@ -203,77 +203,77 @@ conflicts for undefined fields
 
 After launching the tool, click on Create New
 
-![image022](/assets/images/2015/05/image022.jpg?w=660)
+![image022](/assets/img/2015/05/image022.jpg)
 
 Select workItemTracking.xml
 
-![image023](/assets/images/2015/05/image023.jpg)
+![image023](/assets/img/2015/05/image023.jpg)
 
 In the left side select the source (on-prem), in the right side select
 VSO (Visual Studio Online), make sure that workflow type is
 One-way-migration, click on Edit XML
 
-![image024](/assets/images/2015/05/image024.jpg?w=660)
+![image024](/assets/img/2015/05/image024.jpg)
 
 Put the mapping file
 
-![image025](/assets/images/2015/05/image025.jpg?w=660)
+![image025](/assets/img/2015/05/image025.jpg)
 
 Review how the mapping file translated by TFS Integration Tool, click on each work-item
 mapping to see the details of the mapping fields, click save to
 DB
 
-![image026](/assets/images/2015/05/image026.jpg?w=660)
+![image026](/assets/img/2015/05/image026.jpg)
 
 Click on Start
 
-![image027](/assets/images/2015/05/image027.jpg)
+![image027](/assets/img/2015/05/image027.jpg)
 
 The first conflict raised because a field in a work-item from the source
 not exist in the destination work-item, we can choose the first option
 which include typing the field that we want to map source field and
 click resolve.
 
-![image028](/assets/images/2015/05/image028.jpg?w=660)
+![image028](/assets/img/2015/05/image028.jpg)
 
 I chose second option to ignore that filed
 
-![image029](/assets/images/2015/05/image029.jpg?w=660)
+![image029](/assets/img/2015/05/image029.jpg)
 
 Make sure that the conflict resolved (green icon) and click start
 
-![image030](/assets/images/2015/05/image030.jpg?w=660)
+![image030](/assets/img/2015/05/image030.jpg)
 
 The second conflict raised because the second field that not exist, I
 will solve this conflict with another way, click on View Rules
 
-![image031](/assets/images/2015/05/image031.jpg?w=660)
+![image031](/assets/img/2015/05/image031.jpg)
 
 Double click on the rule to view the rule details, review the
 information, take care of the scope that identify where to apply the
 rule
 
-![image032](/assets/images/2015/05/image032.jpg?w=660)
+![image032](/assets/img/2015/05/image032.jpg)
 
 To solve the conflict, right click on the rule and select copy rule.
 
-![image033](/assets/images/2015/05/image033.jpg?w=660)
+![image033](/assets/img/2015/05/image033.jpg)
 
 In the InvalidFieldRefreneceName I will put the name of the missing
 field, I also put it as the description but this is not important, I
 will leave the scope with no change as I only need that scope.
 
-![image034](/assets/images/2015/05/image034.jpg?w=660)
+![image034](/assets/img/2015/05/image034.jpg)
 
 Click preview, this will display all work-items under that scope, select
 the work-item and click resolve
 
-![image035](/assets/images/2015/05/image035.jpg?w=660)
+![image035](/assets/img/2015/05/image035.jpg)
 
 Review that second rule created successfully after resolve the conflict,
 click start to continue the migration process
 
-![image036](/assets/images/2015/05/image036.jpg?w=660)
+![image036](/assets/img/2015/05/image036.jpg)
 
 ### [3.Solution Notes:]
 
@@ -296,41 +296,41 @@ Just run the free version of OpsHub to migrate the source code
 Make sure that the account that you logged-in and will be used for the
 migration added in Project Collection Service Accounts group.
 
-![image011](/assets/images/2015/05/image011.png?w=660)
+![image011](/assets/img/2015/05/image011.png)
 
 Make sure that you have a project with the same name, it\'s not
 important to match the process template unless you plan to migrate
 work-items using the free version of OpsHub too
 
-![image012](/assets/images/2015/05/image012.jpg?w=660)
+![image012](/assets/img/2015/05/image012.jpg)
 
 Run OpsHub and select New Migration
 
-![image013](/assets/images/2015/05/image013.jpg?w=660)
+![image013](/assets/img/2015/05/image013.jpg)
 
 Select the source collection (local) and the destination account (VSO)
 
-![image014](/assets/images/2015/05/image014.jpg?w=660)
+![image014](/assets/img/2015/05/image014.jpg)
 
 Choose I want to migrate version control data and click on Next
 
-![image037](/assets/images/2015/05/image037.jpg?w=660)
+![image037](/assets/img/2015/05/image037.jpg)
 
 Select the destination project on VSO (Visual Studio Online) and click
 Next
 
-![image016](/assets/images/2015/05/image016.jpg?w=660)
+![image016](/assets/img/2015/05/image016.jpg)
 
 Map the local users to the online users and click Next
 
-![image017](/assets/images/2015/05/image017.jpg?w=660)
+![image017](/assets/img/2015/05/image017.jpg)
 
-![image018](/assets/images/2015/05/image018.jpg?w=660)
+![image018](/assets/img/2015/05/image018.jpg)
 
 Make sure that the verification running successfully Start the migration
 Review that the migration ran successfully
 
-![image038](/assets/images/2015/05/image038.png?w=660)
+![image038](/assets/img/2015/05/image038.png)
 
 ### [3.Solution Notes:]
 
@@ -352,38 +352,38 @@ Just run the TFS Integration platform and migrate the code
 Make sure that the account that you logged-in and will be used for the
 migration added in Project Collection Service Accounts group.
 
-![image011](/assets/images/2015/05/image011.png?w=660)
+![image011](/assets/img/2015/05/image011.png)
 
 -   **Run TFS Integration Platform**
 
 After launching the tool, click on Create New
 
-![image022](/assets/images/2015/05/image022.jpg?w=660)
+![image022](/assets/img/2015/05/image022.jpg)
 
 Select VersionControl.xml
 
-![image039](/assets/images/2015/05/image039.jpg)
+![image039](/assets/img/2015/05/image039.jpg)
 
 In the left side select the source (on-prem), in the right side select
 VSO (Visual Studio Online), make sure that workflow type is
 One-way-migration
 
-![image040](/assets/images/2015/05/image040.jpg?w=660)
+![image040](/assets/img/2015/05/image040.jpg)
 Because when we create a new project on VSO it create the folder
 \"BuildProcessTemplate\", this makes a conflict during the migration as
 it exists on both sides(Source and Destination) the manual resolve
 couldn\'t solve this conflict.
 
-![image041](/assets/images/2015/05/image041.jpg?w=660)
+![image041](/assets/img/2015/05/image041.jpg)
 
 We could destroy those folders on any++side to solve the conflict but I
 thought it\'s better to just map all other folders except that one
 
-![image042](/assets/images/2015/05/image042.jpg?w=660)
+![image042](/assets/img/2015/05/image042.jpg)
 
 Start the migration
 
-![image043](/assets/images/2015/05/image043.jpg?w=660)
+![image043](/assets/img/2015/05/image043.jpg)
 
 If your source code use branches you may encounter the following
 conflict \"VC path not mapped conflict type\" and because we want the
@@ -392,11 +392,11 @@ skipping for \'Merge\' and by changing to \'Add\' for Remove\" and click
 resolve. Remember that we could change the resolving scope by create a
 rule instead of resolving by applying the automatic rule
 
-![image044](/assets/images/2015/05/image044.jpg?w=660)
+![image044](/assets/img/2015/05/image044.jpg)
 
 Continue the migration by clicking on Start
 
-![image045](/assets/images/2015/05/image045.jpg?w=660)
+![image045](/assets/img/2015/05/image045.jpg)
 
 
 ## [6.Overall Notes:]

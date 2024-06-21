@@ -22,7 +22,7 @@ Each part consists of one or many sections as needed.
 
 All the series was enhanced and featured as a Complete Guide for **Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware**.
 
-![Book 3d-all-2 copy](/assets/images/2013/11/book-3d-all-2-copy.jpg?w=660)
+![Book 3d-all-2 copy](/assets/img/2013/11/book-3d-all-2-copy.jpg)
 
 [https://upgradetfs2010totfs2012.codeplex.com/](https://upgradetfs2010totfs2012.codeplex.com/ "Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware")
 [![](https://mg2otq.sn2.livefilestore.com/y1mmcQSYrLWQ757Pb1cWnVdzrBuwKP3r3jPo9VnNct09pHE2cGb25cQr7MQNHyLZrBBfu2vzrT5z46XyIVYeKm9V_svUZwzlwAzOyU2_lcx_X_0Qs1Inh2pag/CodePlex.png?psid=1 "Test Uitities on CodePlex"){width="332" height="88"}](https://upgradetfs2010totfs2012.codeplex.com/ " Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware Guide")
@@ -44,26 +44,26 @@ The following is the video that explains this blog post:
 
 Open the TFS 2012 Administration Console and check the status of the Application Tier, Reporting, and SharePoint Extensions to ensure they are running correctly.
 
-![70-verify-tfs-success](/assets/images/2013/01/70-verify-tfs-success.jpg?w=660)
+![70-verify-tfs-success](/assets/img/2013/01/70-verify-tfs-success.jpg)
 
 **Verify SharePoint Integration**
 
 Open the SharePoint Central Administration, navigate to the TFS integration settings, and verify that the TFS extensions are correctly configured and running.
 
-![71-verify-sharepoint](/assets/images/2013/01/71-verify-sharepoint.jpg?w=660)
+![71-verify-sharepoint](/assets/img/2013/01/71-verify-sharepoint.jpg)
 
 **Verify Reporting Integration**
 
 Open SQL Server Reporting Services, navigate to the TFS reports, and ensure that the reports are accessible and running correctly.
 
-![72-verify-reporting](/assets/images/2013/01/72-verify-reporting.jpg?w=660)
+![72-verify-reporting](/assets/img/2013/01/72-verify-reporting.jpg)
 
 **Configure Additional Settings**
 
 Configure any additional settings as needed, such as adjusting user permissions, setting up additional integrations, or configuring backups.
 
-![73-configure-additional-settings](/assets/images/2013/01/73-configure-additional-settings.jpg?w=660)
+![73-configure-additional-settings](/assets/img/2013/01/73-configure-additional-settings.jpg)
 
 Review the success of all configurations.
 
-![74-config-success](/assets/images/2013/01/74-config-success.jpg?w=660)
+![74-config-success](/assets/img/2013/01/74-config-success.jpg)

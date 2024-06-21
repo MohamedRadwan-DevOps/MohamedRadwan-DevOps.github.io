@@ -4,7 +4,7 @@ title: "Vote for Team Foundation Server 2012 1000+ Labs"
 date: 2012-09-22 03:33:51 +0100
 ---
 
-[![Hands-On-Visual-Studio](/assets/images/2012/09/hands-on-visual-studio.jpg)](/assets/images/2012/09/hands-on-visual-studio.jpg)
+[![Hands-On-Visual-Studio](/assets/img/2012/09/hands-on-visual-studio.jpg)](/assets/img/2012/09/hands-on-visual-studio.jpg)
 
 [**Ayman El-Hattab**](http://www.aymanelhattab.com/) suggested a great idea on the Visual Studio Customer voice. [The suggestion is "Taking HandsOnVisualStudio.com to the next level"](http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/3182610-taking-handsonvisualstudio-com-to-the-next-level "Taking HandsOnVisualStudio.com to the next level"):
 

@@ -25,7 +25,7 @@ Architecture diagram is a graphical representation of System components and how 
 
 For anyone, working with [Visual Studio](https://msdn.microsoft.com/en-us/library/dd490886.aspx), the Architectural tool was unfortunately removed from [Visual Studio 2017](https://docs.microsoft.com/en-us/visualstudio/modeling/what-s-new-for-design-in-visual-studio), but it can be still accessible with **Visual Studio 2015** and even still readable with **Visual Studio 2017**. ++So, if you are still using Visual Studio 2015, the tool allows you to create Architecture diagram models also in **Visual Studio** as a part of application or system\'s structure. So, I could say that **Architecture diagram** is some kind of a high-perspective plan or a map clarifying and communicating the ideas about the system structure and furthermore, explaining which user requirements must be supported by the system. Below is the **Architecture diagram** we have used in **DevOpsThoughts**.
 
-![Architecture diagram](/assets/images/2017/07/Architecture-diagram.png)
+![Architecture diagram](/assets/img/2017/07/Architecture-diagram.png)
 
 
 >If you would like to know more about the best practices for [DevOps](https://www.visualstudio.com/team-services/devops/), Continuous Integration and Continuous Delivery, you can have a look at the following post: [Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/2017/12/29/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).
@@ -36,7 +36,7 @@ For anyone, working with [Visual Studio](https://msdn.microsoft.com/en-us/librar
 
 **Use Case Diagram** is [UML Diagram](https://msdn.microsoft.com/en-us/library/dd409432.aspx) used to represent different interactions with the system. Usually, they are also referred to as behavior diagrams, as they are explaining the set of use cases. Which will be performed together with external system or actor. Basically, they are capturing the dynamic or operating behavior of the system. In **DevOpsThoughts** we have used the **Use Case Diagram** also as an input for making **PBI\'s** and **User Stories** Below is the Use Case Diagram we have in DevOpsThoughts.
 
-![Use Case Diagram](/assets/images/2017/07/Use-Case-Diagram.png)
+![Use Case Diagram](/assets/img/2017/07/Use-Case-Diagram.png)
 
 >You can see this video, if you would like to find more information about the new tools and enhancements for Continuous Delivery (CD) and DevOps with Visual Studio 2017. See how to download and initiate the Continuous Delivery Tools for Visual Studio extension. Create a new team project on VSTS or connect to an existing project. Clone a project to a local Git repository, create a simple web application. And finally how to configure the CD extension, allowing you to create a Build definition. Run that Build, trigger a Release and complete app deployment to the cloud. The process of making changes to the CD and DevOps pipeline is also demonstrated. As well as managing Build failures with the help of the described extension.
 {: .prompt-tip }
@@ -47,7 +47,7 @@ For anyone, working with [Visual Studio](https://msdn.microsoft.com/en-us/librar
 
 **[Project Layers](https://msdn.microsoft.com/en-us/library/ee658109.aspx)** are usually used to present or develop the software design from the high-level perspective, in order to demonstrate how the software is structured into technical components. Furthermore, they show also how the functional components of the system are linked to the technical components and how the data is being treated. Below a screenshot from **Microsoft Visual Studio\'s Solution Explorer** for the different layers used in DevOpsThoughts.
 
-![Project Layers](/assets/images/2017/07/Project-Layers.png)
+![Project Layers](/assets/img/2017/07/Project-Layers.png)
 
 
 >If you are interested in developing a [Visual Studio Team Service extension](https://docs.microsoft.com/en-us/vsts/extend/overview), and you would like to know and to follow the best practices for DevOps, Continuous Integration and Continuous Delivery, - have a look at the following post, [Develop VSTS Extension and Configure CI (Continuous Integration) and CD (Continuous Delivery Pipeline)](https://mohamedradwan-devops.github.io/posts/develop-vsts-extension-and-configure-ci-continuous-integration-and-cd-continuous-delivery-pipeline/).

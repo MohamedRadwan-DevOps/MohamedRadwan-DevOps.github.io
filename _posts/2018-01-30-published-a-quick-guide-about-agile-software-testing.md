@@ -14,7 +14,7 @@ This guide presents the basic idea behind Agile methodology and its connection t
 
 [Download the guide](https://gallery.technet.microsoft.com/AGILE-SOFTWARE-TESTING-ecc828ec)
 
-[![](/assets/images/2018/01/Agile-Software-Testing-Guide.png)](https://gallery.technet.microsoft.com/AGILE-SOFTWARE-TESTING-ecc828ec)
+[![](/assets/img/2018/01/Agile-Software-Testing-Guide.png)](https://gallery.technet.microsoft.com/AGILE-SOFTWARE-TESTING-ecc828ec)
 
 >In order to ensure [**Continuous Integration**](https://www.visualstudio.com/team-services/continuous-integration/), we need to use a proper **deploying strategy**. Read more about deploying with Feature Branches and Feature Toggle in the following post: [Deploy from Branches with and without Feature Toggle](https://mohamedradwan-devops.github.io/posts/promoting-your-application-deployment-to-different-environments-from-branches-with-and-without-feature-toggle/).
 {: .prompt-info }

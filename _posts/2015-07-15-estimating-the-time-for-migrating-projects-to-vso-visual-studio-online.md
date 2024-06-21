@@ -10,7 +10,7 @@ I wrote in a previous post about [how to migrate projects to VSO with different 
 {: .prompt-info }
 
 Here is the size for some projects and the actual time needed for migrating each one:
-![TFSCount Report](/assets/images/2015/07/tfscount-report.png)
+![TFSCount Report](/assets/img/2015/07/tfscount-report.png)
 
 You can see the following video if you would like to find more information about my personal experience of migrating Team Foundation Server to Visual Studio Team Services using Database Import Service or TFS Migrator tool provided by Visual Studio Team. Going through all six phases of the migration, following the migration guide provided by Microsoft as a walkthrough. You will see how to get started with the migration process and which prerequisites should be completed. The most important prerequisite is that you must have Azure Active Directory to use the TFS Migrator tool. See more about the two different process models supported by VSTS, Inherited and Hosted XML. See which decisions you should make and how to validate them, for example, which customizations you should keep and which to remove. To prepare the first collection dacpac, first, you should prepare the Azure Storage Container, create the dacpac file, and upload it. To prepare the second collection Azure VM, you should install SQL Server, back up the DB from the collection, and upload it to the Azure storage container. See first how to import (dry-run) and how to change the configuration afterward to import (production).
 

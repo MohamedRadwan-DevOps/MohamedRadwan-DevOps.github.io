@@ -15,10 +15,10 @@ There was no endpoint listening at http://tfs2010:9191/Build/v3.0/Services/Contr
 This error could occur for many reason of of the way that you could resolved and work with me, go to the TFS Administration console and choose the build and you click start you can also review the event viewer to see the what
 cause the error to occur
 
-![TFS Admin Console](/assets/images/2010/10/TFSAdmin.png)
+![TFS Admin Console](/assets/img/2010/10/TFSAdmin.png)
 
 So it become green and working 
 
-![Build working](/assets/images/2010/10/TFSadmin2.png)
+![Build working](/assets/img/2010/10/TFSadmin2.png)
 
 That\'s it  

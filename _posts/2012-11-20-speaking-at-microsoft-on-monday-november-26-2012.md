@@ -4,9 +4,9 @@ title: "Speaking at Microsoft on Monday, November 26, 2012"
 date: 2012-11-20 11:02:24 +0100
 ---
 
-![Microsoft](/assets/images/2016/05/89ccca785ecd458f-microsoft.jpg)
+![Microsoft](/assets/img/2016/05/89ccca785ecd458f-microsoft.jpg)
 
-![Speaking at Microsoft](/assets/images/2012/11/112012_1104_speakingatm3.jpg)
+![Speaking at Microsoft](/assets/img/2012/11/112012_1104_speakingatm3.jpg)
 
 Join our latest Hero sessions.
 

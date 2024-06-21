@@ -12,7 +12,7 @@ installation and the new features. There is knowing issue about that
 update so it took from me sometimes to install and record my video,
 remember it\'s not a **Go live support.
 
-![Not-golive](/assets/images/2014/02/not-golive.jpg?w=660)
+![Not-golive](/assets/img/2014/02/not-golive.jpg)
 
 
 **Here is the video** 

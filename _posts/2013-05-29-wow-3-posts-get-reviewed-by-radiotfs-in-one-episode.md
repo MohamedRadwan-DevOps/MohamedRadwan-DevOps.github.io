@@ -10,7 +10,7 @@ So, what does this mean? It means a lot to me. The people who inspired me and co
 
 Thanks to [Martin Woodward](http://www.woodwardweb.com/about.html "Martin Woodward"), [Mickey Gousset](http://channel9.msdn.com/events/speakers/Mickey-Gousset "Mickey Gousset"), [Paul Hacker](http://phacker.wordpress.com/ "Paul Hacker"), and [Greg Duncan](http://coolthingoftheday.blogspot.com/ "Greg Duncan"). You have always helped and inspired me a lot, guys!
 
-[![RadioTFS](/assets/images/2013/05/radiotfs-1.png?w=660){.alignnone .size-large .wp-image-4027 width="660" height="612"}](https://mohamedradwan-devops.github.io/2013/05/29/wow-3-posts-get-reviewed-by-radiotfs-in-one-episode/radiotfs/#main)
+[![RadioTFS](/assets/img/2013/05/radiotfs-1.png){.alignnone .size-large .wp-image-4027 width="660" height="612"}](https://mohamedradwan-devops.github.io/2013/05/29/wow-3-posts-get-reviewed-by-radiotfs-in-one-episode/radiotfs/#main)
 
 {% include embed/youtube.html id='lZwoC4VWLWY' %}
 

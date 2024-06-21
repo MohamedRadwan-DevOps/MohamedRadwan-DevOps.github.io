@@ -12,19 +12,19 @@ In a single statement, [Azure DevOps](https://azure.microsoft.com/en-gb/services
 
 We are seeing an Azure board where you can track any unit of work in your software project (Image 1). What is really cool is that now we can link Azure boards up with our [GitHub](https://github.com/) repos. If you want to set up that linkage, first you need to open the Project settings located in the lower-left corner on Azure board.
 
-![Image 1 - Azure board](/assets/images/2019/01/Image-1-Azure-board.png)
+![Image 1 - Azure board](/assets/img/2019/01/Image-1-Azure-board.png)
 _Image 1 - Azure board_
 
 ### From the Project Settings, navigate to Integrations, click on the New GitHub Integration button (Image 2).
 
 Next, you should choose which GitHub repo you want to integrate with.
 
-![Image 2 - New GitHub integration](/assets/images/2019/01/Image-2-New-GitHub-integration.png)
+![Image 2 - New GitHub integration](/assets/img/2019/01/Image-2-New-GitHub-integration.png)
 _Image 2 - New GitHub integration_
 
 In this case, we are going to use a Personal access token to connect to my GitHub repo. After we are successfully authorized, all available repos will be listed, and we should choose the one we want to connect to (Image 3). After choosing one, just click on the Save button.
 
-![Image 3 - Choose repo to connect to](/assets/images/2019/01/Image-3-Choose-repo-to-connect-to.png)
+![Image 3 - Choose repo to connect to](/assets/img/2019/01/Image-3-Choose-repo-to-connect-to.png)
 _Image 3 - Choose repo to connect to_
 
 ### Tip: If you would like to learn more about using different environments during the realization of a software system
@@ -33,12 +33,12 @@ Have a look at the post [Azure DevTest Labs Updates](https://mohamedradwan-devop
 
 Now I will make a change in GitHub and save it, and after that create a new branch for the commit and start a pull request. Add a commit changes comment (mentioning the bug which we are working on) and click on the Propose file change button. Now if we go back to our Azure board, open the bug that we mentioned in our commit changes comment, in the Development section, we can already see the link to GitHub. If we click on the link, we can see on GitHub our fix, what branch it is in, as well as what my changes are (Image 4).
 
-![Image 4 - Changes in GitHub](/assets/images/2019/01/Image-4-Changes-in-GitHub.png)
+![Image 4 - Changes in GitHub](/assets/img/2019/01/Image-4-Changes-in-GitHub.png)
 _Image 4 - Changes in GitHub_
 
 Now we go back to GitHub and create a pull request so my teammates can review my code changes. If we open our bug which we are working on from our Azure board, in the Development details section we can see our Pull request (Image 5).
 
-![Image 5 - Pull request in Development details](/assets/images/2019/01/Image-5-Pull-request-in-Development-details.png)
+![Image 5 - Pull request in Development details](/assets/img/2019/01/Image-5-Pull-request-in-Development-details.png)
 _Image 5 - Pull request in Development details_
 
 Now let us merge the pull request in GitHub into the master, confirm the merge, and our pull request is finished. Now the magic happens; because we resolved the bug in GitHub, it automatically resolved on our Azure work item board as well.

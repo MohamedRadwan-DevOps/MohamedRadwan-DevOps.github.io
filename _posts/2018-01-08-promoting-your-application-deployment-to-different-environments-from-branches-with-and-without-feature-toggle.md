@@ -41,7 +41,7 @@ having a good understanding of this post, we'll be using in both scenarios
 the same environments: **Development**, **QA**, and **Production**. Let's
 see first the differences between each environment:
 
-![Dev_Environments](/assets/images/2017/12/Dev_Enviroments-1.png)
+![Dev_Environments](/assets/img/2017/12/Dev_Enviroments-1.png)
 
 **Development environment** is where we'll be actually using the
 whole set of processes and tools in order to create a product.
@@ -68,7 +68,7 @@ with already completed code that has been completed and tested.
 If we consider the environments as presented above, the workflow of
 deployment with **Feature Branches** would look like this:
 
-![Feature_Branches](/assets/images/2017/12/Feature_Branches-2.png)
+![Feature_Branches](/assets/img/2017/12/Feature_Branches-2.png)
 
 To understand this workflow diagram, I will explain each step:
 
@@ -128,7 +128,7 @@ drawbacks coming from **Feature Branches**.
 
 What does it basically mean? Let's see the image below:
 
-![Feature_Toggle](/assets/images/2017/12/Feature_Toggle-1.png)
+![Feature_Toggle](/assets/img/2017/12/Feature_Toggle-1.png)
 
 As you can see, it means that we will do all the work in one single
 **Branch**. Where we'll use mechanisms that will enable turning on or
@@ -191,7 +191,7 @@ mechanisms just the way they are in order to turn off the
 independency in fixing the **Feature** without impacting other
 **Features**, without having to roll back the whole version.
 
-![Feature_Toggle_on_off](/assets/images/2017/12/Feature_Toggle_on_off.png)
+![Feature_Toggle_on_off](/assets/img/2017/12/Feature_Toggle_on_off.png)
 
 With **Feature Toggles**, we also have the possibility to target
 just a specific group of people or specific areas. For example, we can

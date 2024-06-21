@@ -10,17 +10,17 @@ For cases like this, there is a great tool within Azure which is called Locks, w
 
 In order to check our locks (if there are any), we should go in our Azure Portal, open our Resource group, and navigate to the locks.
 
-![Image 1 - Example Lock on resource](/assets/images/2021/09/Image-1-Example-Lock-on-resource.png)
+![Image 1 - Example Lock on resource](/assets/img/2021/09/Image-1-Example-Lock-on-resource.png)
 
 Here we can see all existing locks for the current resource group. Also, here we can delete or edit the locks. 
 
 The new thing in [NubesGen](https://www.nubesgen.com/) is adding support for the Bicep tool. With this, a lock module is generated for any resource group, creating a resource which is a lock to which we assign people to have the right to remove the lock itself.
 
-![Image 2 - doNotDelete lock and roleAssignment](/assets/images/2021/09/Image-2-doNotDelete-lock-and-roleAssignment.png)
+![Image 2 - doNotDelete lock and roleAssignment](/assets/img/2021/09/Image-2-doNotDelete-lock-and-roleAssignment.png)
 
 So we are doing two things here automatically. We are creating this "do not delete" lock, and we are assigning a role to some principle ID. So basically, to some user or to some service principle, we pass some parameters to do this. And we already leveraging here a cool feature of Bicep, which is conditions, which means that with spacing IF, meaning if this condition is met, then Bicep will actually deploy this lock. But if not, this code will not get deployed by Bicep or by Azure CLI.
 
-![Image 3 - Condition for deploying the lock](/assets/images/2021/09/Image-3-Condition-for-deploying-the-lock.png)
+![Image 3 - Condition for deploying the lock](/assets/img/2021/09/Image-3-Condition-for-deploying-the-lock.png)
 
 So here is a cool thing to actually deploy locks only on the production environment. But obviously, we can reuse the feature to do a lot of different conditions in our infrastructure code. This gives us a lot of flexibility to say yes, we can lock down production. Maybe there are resource groups or other things that are very particular that we can't delete. And we all have worked on customer projects where we have almost a hub or an area that cannot be deleted because we can't repeat that code. 
 

@@ -15,7 +15,7 @@ az aks browse --resource-group AKSRG --name aksmohamedradwan
 
 I faced the following error:
 
-![configmaps is forbidden User system serviceaccount kube-system kubernetes-dashboard cannot list configmaps in the namespace default](/assets/images/2019/06/configmaps-is-forbidden-User-system-serviceaccount-kube-system-kubernetes-dashboard-cannot-list-configmaps-in-the-namespace-default-1024x581.png "configmaps is forbidden User system")
+![configmaps is forbidden User system serviceaccount kube-system kubernetes-dashboard cannot list configmaps in the namespace default](/assets/img/2019/06/configmaps-is-forbidden-User-system-serviceaccount-kube-system-kubernetes-dashboard-cannot-list-configmaps-in-the-namespace-default-1024x581.png "configmaps is forbidden User system")
 
 >For more information about how to work with Kubernetes
 cluster and deploy it to **Azure Kubernetes Service (AKS)** and work
@@ -67,7 +67,7 @@ az aks install-cli
 
 If you have the following error: Error message: 
 
-![Unable to connect to the server dial tcp 1 8080 connectex No connection could be made because the target machine kubentes](/assets/images/2019/06/Unable-to-connect-to-the-server-dial-tcp-1-8080-connectex-No-connection-could-be-made-because-the-target-machine-kubentes.png "Unable to connect to the server dial tcp")
+![Unable to connect to the server dial tcp 1 8080 connectex No connection could be made because the target machine kubentes](/assets/img/2019/06/Unable-to-connect-to-the-server-dial-tcp-1-8080-connectex-No-connection-could-be-made-because-the-target-machine-kubentes.png "Unable to connect to the server dial tcp")
 
 You just need to
 connect to AKS by run get credential using the Resource Group and Azure
@@ -86,5 +86,5 @@ beginners](https://mohamedradwan-devops.github.io/posts/docker-for-beginners-ste
 Now the dashboard can be
 opened 
 
-![Access the Kubernetes web dashboard in Azure Kubernetes Service (AKS)](/assets/images/2019/06/Access-the-Kubernetes-web-dashboard-in-Azure-Kubernetes-Service-AKS-1024x509.png "Access the Kubernetes web dashboard in Azure Kubernetes Service (AKS)")
+![Access the Kubernetes web dashboard in Azure Kubernetes Service (AKS)](/assets/img/2019/06/Access-the-Kubernetes-web-dashboard-in-Azure-Kubernetes-Service-AKS-1024x509.png "Access the Kubernetes web dashboard in Azure Kubernetes Service (AKS)")
 

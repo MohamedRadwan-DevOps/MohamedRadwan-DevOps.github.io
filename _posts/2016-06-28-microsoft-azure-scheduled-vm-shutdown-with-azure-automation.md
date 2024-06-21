@@ -17,7 +17,7 @@ Running of **Virtual Machines** depends on computing hours or in other words it 
 3. Under **default directory**, click on **USERS**.
 4. From the command bar at the bottom of the Portal screen, click on **ADD USER**.
 
-![1-1 Create a new user to run the PowerShell Script with Microsoft Azure](/assets/images/2016/06/1-1-Create-a-new-user-to-run-the-PowerShell-Script-with-Microsoft-Azure-1024x569.jpg)
+![1-1 Create a new user to run the PowerShell Script with Microsoft Azure](/assets/img/2016/06/1-1-Create-a-new-user-to-run-the-PowerShell-Script-with-Microsoft-Azure-1024x569.jpg)
 
 >You can see [this video](https://www.youtube.com/watch?v=rgf0IgktMQU&t=2s), if you would like to find more information about the step-by-step installation and configuring process of the TFS 2017 Update 1. See which deployment type to select, deployment scenario (Basic and Advanced). How to set up the Application Tier Web Services, Search configuration settings, Reporting Services settings. Also, do not forget to install and configure the Oracle component. See the overview of Team Foundation Server Administrator Console and how to create a new Team project.
 

@@ -24,7 +24,7 @@ Now we want to star a repo with the given owner and repo, but first, we should a
 
 After pressing Tab in order to finish the comment, there should be an option to use a synchronous function in order to be able to pass this in, shown in Image 1.
 
-![Image 1 - starRepo](/assets/images/2021/12/Image-1-starRepo-1024x591.png)
+![Image 1 - starRepo](/assets/img/2021/12/Image-1-starRepo-1024x591.png)
 Image 1 - starRepo
 
 After this, we can star the repo simply by typing:
@@ -45,14 +45,14 @@ By hitting a Tab we can actually hover over the suggested comment and we can go 
 
 After this, we want to leverage the twitter client to start our repo. In order to do this, we are going to hit control + Enter, which is going to open up a couple of synthesized suggestions for how to get this done, shown on Image 2.
 
-![Image 2 - Suggestions](/assets/images/2021/12/Image-2-Suggestions-1024x557.png)
+![Image 2 - Suggestions](/assets/img/2021/12/Image-2-Suggestions-1024x557.png)
 Image 2 - Suggestions
 
 We are going to use the solution shown on the image above since it has a phrase variable, we can also limit the count to 5 and we can also run the tweets. Before we run this, we are going to update several more things. The endpoint .search will be updated with tweets.search. And also what gets returned from tweets in the response is going to be updated into tweets.statuses.
 
 Something to keep in mind, this code is generated and it is not always the utmost updated in the code. The model of copilot itself is getting trained every day, so the more people use it, the copilot will learn more suggestions and will be updated. Similar to octokit, also here we will need to pass a token. Shown on the Image 3 below, there are all tokens that we will need to interact with the twitter API.
 
-![Image 3 - Tokens](/assets/images/2021/12/Image-3-Tokens-300x121.png)
+![Image 3 - Tokens](/assets/img/2021/12/Image-3-Tokens-300x121.png)
 Image 3 - Tokens
 
 The last thing that we should do, before running this, is to update the search phrase into `#GitHubCopilot`.

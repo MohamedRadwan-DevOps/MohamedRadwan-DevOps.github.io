@@ -26,24 +26,24 @@ You can find the Cumulative update [here](http://support.microsoft.com/kb/254479
 
 Let's see the upgrade process step by step:
 
-![3-6-2012 3-07-18 PM](/assets/images/2012/03/3-6-2012-3-07-18-PM.png)
+![3-6-2012 3-07-18 PM](/assets/img/2012/03/3-6-2012-3-07-18-PM.png)
 
-![3-6-2012 3-32-33 PM](/assets/images/2012/03/3-6-2012-3-32-33-PM.png)
+![3-6-2012 3-32-33 PM](/assets/img/2012/03/3-6-2012-3-32-33-PM.png)
 
-![3-6-2012 3-33-28 PM](/assets/images/2012/03/3-6-2012-3-33-28-PM.png)
+![3-6-2012 3-33-28 PM](/assets/img/2012/03/3-6-2012-3-33-28-PM.png)
 
-![3-6-2012 3-34-07 PM](/assets/images/2012/03/3-6-2012-3-34-07-PM.png)
+![3-6-2012 3-34-07 PM](/assets/img/2012/03/3-6-2012-3-34-07-PM.png)
 
-![3-6-2012 5-02-43 PM](/assets/images/2012/03/3-6-2012-5-02-43-PM.png)
+![3-6-2012 5-02-43 PM](/assets/img/2012/03/3-6-2012-5-02-43-PM.png)
 
-![3-6-2012 5-03-16 PM](/assets/images/2012/03/3-6-2012-5-03-16-PM.png)
+![3-6-2012 5-03-16 PM](/assets/img/2012/03/3-6-2012-5-03-16-PM.png)
 
-![3-6-2012 5-04-32 PM](/assets/images/2012/03/3-6-2012-5-04-32-PM.png)
+![3-6-2012 5-04-32 PM](/assets/img/2012/03/3-6-2012-5-04-32-PM.png)
 
-![3-6-2012 5-05-17 PM](/assets/images/2012/03/3-6-2012-5-05-17-PM.png)
+![3-6-2012 5-05-17 PM](/assets/img/2012/03/3-6-2012-5-05-17-PM.png)
 
-![3-6-2012 5-07-08 PM](/assets/images/2012/03/3-6-2012-5-07-08-PM.png)
+![3-6-2012 5-07-08 PM](/assets/img/2012/03/3-6-2012-5-07-08-PM.png)
 
-![3-7-2012 6-40-31 PM](/assets/images/2012/03/3-7-2012-6-40-31-PM.png)
+![3-7-2012 6-40-31 PM](/assets/img/2012/03/3-7-2012-6-40-31-PM.png)
 
 [And now OceanSoft upgraded to TFS 11 Core component](https://mohamedradwan-devops.github.io/posts/now-oceansoft-upgraded-to-tfs-11-beta-with-go-live-support/ "OceanSoft upgrade to TFS 11 Beta")

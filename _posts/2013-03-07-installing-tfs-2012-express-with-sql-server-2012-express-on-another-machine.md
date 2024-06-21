@@ -9,17 +9,17 @@ Four months ago, [Buck Hodges](http://blogs.msdn.com/b/buckh/archive/2012/11/29/
 
 Today, I am going to explain how to use this great tool to help me install TFS 2012 Express on a machine and use SQL Server 2012 Express that is already installed on another machine. In my scenario, I have 2 machines: PC1 (TFS 2012) and PC2 (SQL Server Express).
 
-![Architecture](/assets/images/2013/03/architecture-1.jpg)
+![Architecture](/assets/img/2013/03/architecture-1.jpg)
 
 After installing TFS 2012 Express on PC1 and SQL Server 2012 Express on PC2, I will not configure TFS and perform the following steps:
 
 1. Log in to PC2 with an Admin account and make sure that the SQL Server option "Allow remote connections to this server" is enabled.
    
-   ![Allow remote connections to this server is enabled](/assets/images/2013/03/allow-remote-connections-to-this-server-is-enabled-1.png)
+   ![Allow remote connections to this server is enabled](/assets/img/2013/03/allow-remote-connections-to-this-server-is-enabled-1.png)
 
 2. Open SQL Server Configuration Manager and make sure that TCP/IP Protocols is enabled for SQL Express.
    
-   ![TCP-IP Protocols Enabled for SQL Express](/assets/images/2013/03/tcp-ip-protocols-enabled-for-sql-express-1.png)
+   ![TCP-IP Protocols Enabled for SQL Express](/assets/img/2013/03/tcp-ip-protocols-enabled-for-sql-express-1.png)
 
 3. Log in to PC1 with an Admin account that has permission on the SQL machine so it can install the DB there. It's better if you use a Domain Controller account.
 
@@ -42,6 +42,6 @@ tfsconfig unattend /configure /type:basic /inputs:SqlInstance=PC2\TFSSQLExpress
 
 Make sure that configuration succeed.
 
-![Configuration Succeed](/assets/images/2013/03/configuration-succeed.png?w=660)
+![Configuration Succeed](/assets/img/2013/03/configuration-succeed.png)
 
 

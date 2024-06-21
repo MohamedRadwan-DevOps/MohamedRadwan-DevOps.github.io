@@ -21,12 +21,12 @@ Tools such as [TfsPreUpgrade](https://www.visualstudio.com/docs/setup-admin/upgr
 ### TFS2013.4 to TFS2015.1 
 
 The following is example for upgrading to TFS 2015 with Update 1 from [TFS 2013 with Update 4](https://support.microsoft.com/en-us/kb/2994375); the collection size was 360GB and the log file was 40GB. It took just under 11 hours to complete.
-[![TFS2015 update1](/assets/images/2016/02/tfs2015-update1.png)](/assets/images/2016/02/tfs2015-update1.png)
+[![TFS2015 update1](/assets/img/2016/02/tfs2015-update1.png)](/assets/img/2016/02/tfs2015-update1.png)
 
 ### TFS2012.4 to TFS2015.1
 
 The following is example for upgrading to TFS 2015 with Update 1 from [TFS 2012 with Update 4](https://support.microsoft.com/en-us/kb/2872520); the collection size was 40GB and the log file was 5GB. It took just over 14 minutes to complete.
-[![TFS2012 to TFS2015](/assets/images/2016/02/tfs2012-to-tfs2015.jpg)](/assets/images/2016/02/tfs2012-to-tfs2015.jpg)
+[![TFS2012 to TFS2015](/assets/img/2016/02/tfs2012-to-tfs2015.jpg)](/assets/img/2016/02/tfs2012-to-tfs2015.jpg)
 
 >You can see [this video](https://www.youtube.com/watch?v=7C6LG6k4wcU&t=4s), if you would like to find more information about my personal experience of the migration Team Foundation Server to Visual Studio Team Services using Database Import Service or TFS Migrator tool provided by Visual Studio Team. Going through all six phases of the migration, following the migration guide provided by Microsoft as a walkthrough. You will see how to get started with the migration process and which prerequisites should be completed.
 

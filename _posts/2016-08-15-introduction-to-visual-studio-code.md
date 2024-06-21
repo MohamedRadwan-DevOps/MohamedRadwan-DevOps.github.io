@@ -9,7 +9,7 @@ date:   2016-08-15 22:07:09 +0100
 
 [**Visual Studio Code**](https://code.visualstudio.com/) is Microsoft\'s tool for source code editing and it is designed for **Windows**, **Linux** and **OS X**. It\'s a tool used as a support for embedded [**Git control**](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control), debugging, syntax highlighting, snippets, intelligent code completion and code refactoring. It is an agile, cross platform, and multi-language editor, which you can download directly from **[Visual Studio website](https://code.visualstudio.com/)**. 
 
-![0-Visual Studio Code](/assets/images/2016/08/0-Visual-Studio-Code.jpg "0-Visual Studio Code")
+![0-Visual Studio Code](/assets/img/2016/08/0-Visual-Studio-Code.jpg "0-Visual Studio Code")
 
 >You can find more information about **DevOps** in the following post: [DevOps: The Three Stage Conversation - People, Process, Products](https://mohamedradwan-devops.github.io/posts/devops-the-three-stage-conversation-people-process-products/) which describes the basic principles of **DevOps**. This post will be especially helpful to those for whom DevOps is still a new concept. If you prefer a deeper view on this topic, have a look at the following guide: [quick guide about Basic Principles of DevOps](https://mohamedradwan-devops.github.io/postspublished-a-quick-guide-about-basic-principles-of-devops/), which presents an overview of [DevOps](https://www.visualstudio.com/vs/devops/) process and practices, describing "the big picture," while still maintaining a high level of detail.
 {: .prompt-tip }
@@ -28,7 +28,7 @@ The main user interface of **Visual Studio Code** is divided into five sections:
 4. Editor
 5. Status Bar
 
-![1-user interface of Visual Studio Code](/assets/images/2016/08/1.jpg "1-user interface of Visual Studio Code")
+![1-user interface of Visual Studio Code](/assets/img/2016/08/1.jpg "1-user interface of Visual Studio Code")
 
 >The post [User stories in Agile world](https://mohamedradwan-devops.github.io/posts/user-stories-in-agile-world/) focuses on an important unit of Agile software development process 
 {: .prompt-tip }

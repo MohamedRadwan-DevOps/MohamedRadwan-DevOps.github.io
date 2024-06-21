@@ -14,7 +14,7 @@ So GitHub Issues decided to become a lot more powerful and to get users out of u
 
 Now there is a new Projects Beta in the Projects tab. It is so easy to create a project on an organizational level, simply by clicking on the green button New Project, shown in Image 1.
 
-![Image 1 - Projects Beta - New Project](/assets/images/2021/11/Image-1-Projects-Beta-New-Project.png)
+![Image 1 - Projects Beta - New Project](/assets/img/2021/11/Image-1-Projects-Beta-New-Project.png)
 Image 1 - Projects Beta - New Project
 
 In the new Project Beta, there are now custom fields. You can create a new custom field any time by clicking on the +New Field button. Below the label of the new custom field, there is a drop-down with all custom field types: Text, Number, Date, Single select, and Iteration. Type Number is usually used for estimation, type Date can be used for some due date, etc.
@@ -31,12 +31,12 @@ A new feature that the users can expect in the near future, which is already in 
 
 Now you can make any field reportable. Track the progress of your current iteration cycle, milestone, or visualize bottlenecks and issues blocking the team with the new project insights.
 
-![Image 2 - GitHub Issues - Insights](/assets/images/2021/11/Image-2-GitHub-Issues-Insights.png)
+![Image 2 - GitHub Issues - Insights](/assets/img/2021/11/Image-2-GitHub-Issues-Insights.png)
 Image 2 - GitHub Issues - Insights
 
 Another new feature will be the ability to see a project as a timeline. You will be able to layout things in a roadmap through time in a time span overall.
 
-![Image 3 - GitHub Issues - Timeline](/assets/images/2021/11/Image-3-GitHub-Issues-Timeline.png)
+![Image 3 - GitHub Issues - Timeline](/assets/img/2021/11/Image-3-GitHub-Issues-Timeline.png)
 Image 3 - GitHub Issues - Timeline
 
 Using GitHub Issues, you can create issues, break them into tasks, track relationships, add custom fields, and have conversations. Visualize large projects as spreadsheets or boards, and automate everything with code. Tackle complex issues with task lists and track their status with new progress indicators. Convert tasks into their own issues and navigate your work hierarchy. It is great that now you can save views for sprints, backlogs, teams, or releases. The rank, group, sort, and filter issues to suit the occasion. Choose between tables, boards, and timelines (coming soon). Track metadata like iterations, priority, story points, dates, notes, and links. Add custom fields to project tables and edit from the issue sidebar. Remember that Issues can be viewed, created, and managed in your browser, your favorite terminal, or on your phone or iPad.

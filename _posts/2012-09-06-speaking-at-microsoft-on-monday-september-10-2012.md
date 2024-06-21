@@ -7,9 +7,9 @@ date: 2012-09-06 19:42:34 +0100
 Updated on October, 16th, 2012 [Some pictures from the event](https://mohamedradwan-devops.github.io/events/ "Bizspark event pictures")  
 I'm speaking at Microsoft about what's new in Visual Studio 2012 and Team Foundation Server 2012. If the registration is full, you can join online. Waiting for you :-)
 
-![microsoft](/assets/images/2012/09/microsoft.gif)
+![microsoft](/assets/img/2012/09/microsoft.gif)
 
-**![Hero_Emailer_01](/assets/images/2012/09/hero_emailer_01.jpg)**  
+**![Hero_Emailer_01](/assets/img/2012/09/hero_emailer_01.jpg)**  
 Microsoft Visual Studio 2012 is a powerful application development environment that ensures quality code throughout the entire Application Lifecycle Management (ALM), which is a proven set of tools and processes that helps organizations manage the entire lifespan of application development, reduce cycle times, and eliminate waste. ALM integrates different teams, platforms, and activities, enabling a continuous flow of business value. In this session, we will introduce the major new features and improvements in Visual Studio 2012. Expect to see the new enhanced User Interface, Agile Planning Tools, Requirements Gathering Tool, Stakeholder Feedback Tool, Updates to the Developer and Tester Experience, Version Control Improvements, and DevOps Integration.
 
 Please [join us](http://click.email.microsoftemail.com/?qs=79b2545169976eab3700e770a3e4fadbd139b5a7e56d26a57f5c8f6685a8b258006f3d7fc2864ccd) at the "Development using Microsoft Visual Studio 2012" session:
@@ -32,4 +32,4 @@ Conference ID: 95592439
 [Forgot your dial-in PIN?](http://click.email.microsoftemail.com/?qs=79b2545169976eab3a89cfa023ab68baf9956f01a6fdb9127ab7764510184da1a066e467350f8935)  
 [First online meeting?](http://click.email.microsoftemail.com/?qs=79b2545169976eab9002f08976f11de6e9b6337f183ebca08fd0f516a1696d3ce63857d676f39476)  
 
-![register+now](/assets/images/2012/09/registernow.png "register+now")
+![register+now](/assets/img/2012/09/registernow.png "register+now")

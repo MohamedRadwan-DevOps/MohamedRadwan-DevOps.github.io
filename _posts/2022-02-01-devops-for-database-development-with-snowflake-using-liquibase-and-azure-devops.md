@@ -20,7 +20,7 @@ practices and considerations that you must take into account.
 
 ## Updating Database using the Database Configuration Management approach
 
-![Update Database with CICD](/assets/images/2022/01/Update-Database-with-CICD-1024x544.png)
+![Update Database with CICD](/assets/img/2022/01/Update-Database-with-CICD-1024x544.png)
 
 When working with database development, there are some important considerations to take into
 account.
@@ -38,7 +38,7 @@ account.
 
 ## Database Configuration Management High Level Workflow
 
-![](/assets/images/2022/01/Database-Configuration-Management-High-Level-Workflow-1024x567.png)
+![](/assets/img/2022/01/Database-Configuration-Management-High-Level-Workflow-1024x567.png)
 
 Before any new changes are pushed to version control on the remote repository, every developer
 should always get the latest changes. This is essential to ensure the
@@ -58,7 +58,7 @@ following the process above.
 
 ## Database Configuration Management Detailed Level Workflow
 
-![Database Configuration Management Detailed Level Workflow](/assets/images/2022/01/Database-Configuration-Management-Detailed-Level-Workflow.png)
+![Database Configuration Management Detailed Level Workflow](/assets/img/2022/01/Database-Configuration-Management-Detailed-Level-Workflow.png)
 
 Developers making changes to the database should follow the detailed level configuration
 management workflow as follows:
@@ -144,7 +144,7 @@ will be the target (local) database and which one will be the source
 The following example (figure 4) shows the result of a schema comparison
 using DCM (Liquibase) and there are 6 missing tables. 
 
-![ Database Schema Compare Using DCM](/assets/images/2022/01/Database-Schema-Compare-Using-DCM-1024x631.png)
+![ Database Schema Compare Using DCM](/assets/img/2022/01/Database-Schema-Compare-Using-DCM-1024x631.png)
 
 ## Database Schema Compare Using Version Control
 
@@ -210,7 +210,7 @@ Liquibase location(C:/Program Files/Liquibase). Type \`liquibase\' from
 the git bash or from the command line in order to check if the Liquibase
 is installed correctly (all commands that can be used should be listed).
 
-![check that Liquibase is installed](/assets/images/2022/01/check-that-Liquibase-is-installed-1024x632.png)
+![check that Liquibase is installed](/assets/img/2022/01/check-that-Liquibase-is-installed-1024x632.png)
 
 
 ## Configure Liquibase and run some commands
@@ -232,7 +232,7 @@ status** command. By running this command, it will be displayed what is
 inside the changelog which is not yet committed or applied to the local
 database. 
 
-![The structure of changelog file](/assets/images/2022/01/The-structure-of-changelog-file-1024x583.png)
+![The structure of changelog file](/assets/img/2022/01/The-structure-of-changelog-file-1024x583.png)
 
 
 the **verbose **command, the details of the changeset will be displayed
@@ -294,7 +294,7 @@ Terraform configured also with CI/CD pipeline. The other side is the
 Schema Level Objects to be managed with proper DCM or Database
 Configuration Management tool 
 
-![The separation of Account level and Schema level objects](/assets/images/2022/01/The-separation-of-Account-level-and-Schema-level-objects-1024x578.png)
+![The separation of Account level and Schema level objects](/assets/img/2022/01/The-separation-of-Account-level-and-Schema-level-objects-1024x578.png)
 
 ## Updating Snowflake using Liquibase command line
 
@@ -311,7 +311,7 @@ the developer one, so we should navigate to dev1 repos and run git bash
 as dev1. Next in git bash navigate to dev1 repository and clone the
 remote repo into our local git repository, which now is an empty repo.
 
-![Clone the remote repo on Azure DevOps](/assets/images/2022/01/Clone-the-remote-repo-on-Azure-DevOps-1024x379.png)
+![Clone the remote repo on Azure DevOps](/assets/img/2022/01/Clone-the-remote-repo-on-Azure-DevOps-1024x379.png)
 
 Next, we should add the liquibase property file there. In the property, the file is listed the
 target/local database and also the integration/source database. Also is
@@ -339,7 +339,7 @@ repository, but still not in the remote repository which we created
 earlier. Since liquibase property file should not be part of the source
 control, a gitignore should be created in order to ignore this file.
 
-![Gitignore file to ignore Liquibase properties file](/assets/images/2022/01/Gitignore-file-to-ignore-Liquibase-properties-file-1024x409.png)
+![Gitignore file to ignore Liquibase properties file](/assets/img/2022/01/Gitignore-file-to-ignore-Liquibase-properties-file-1024x409.png)
 
 
 ## Automate Snowflake deployment using Azure Pipeline
@@ -349,13 +349,13 @@ that we should just push all the branches to the remote repository. In
 Azure DevOps, I configured an Azure pipeline to automate the deployment.
 When clicking on edit on the pipeline we can see the Update Snowflake.
 
-![Configure Azure Pipeline to deploy snowflake](/assets/images/2022/01/Configure-Azure-Pipeline-to-deploy-snowflake-1024x458.png)
+![Configure Azure Pipeline to deploy snowflake](/assets/img/2022/01/Configure-Azure-Pipeline-to-deploy-snowflake-1024x458.png)
 
 I will run the pipeline in order to get all the changes in the version control and
 apply the changes in the Snowflake integration database. After running
 the pipeline, all the schema and tables will be present in the
 integration database. 
 
-![Azure Pipeline run and update Snowflake](/assets/images/2022/01/Azure-Pipeline-run-and-update-Snowflake-1024x782.png)
+![Azure Pipeline run and update Snowflake](/assets/img/2022/01/Azure-Pipeline-run-and-update-Snowflake-1024x782.png)
 Remember, the integration database always must be updated from CI/CD and version control and never to be updated directly.
 

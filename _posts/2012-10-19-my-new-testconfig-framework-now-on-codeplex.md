@@ -4,7 +4,7 @@ title: "My new TestConfig Framework now on CodePlex!"
 date: 2012-10-19 21:52:19 +0100
 ---
 
-[![](/assets/images/2012/10/logo.jpg "Logo")](http://testingconfutilities.codeplex.com/)
+[![](/assets/img/2012/10/logo.jpg "Logo")](http://testingconfutilities.codeplex.com/)
 
 I am pleased to announce that my new Testing and Configuration Framework (**TestingConf Utilities**) is now published on CodePlex. You can find it here: [http://testingconfutilities.codeplex.com/](http://testingconfutilities.codeplex.com/ "TestingConf Utilities")
 
