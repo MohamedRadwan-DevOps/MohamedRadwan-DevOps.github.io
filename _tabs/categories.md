@@ -1,5 +1,5 @@
 ---
-layout: categories
-icon: fas fa-stream
+layout: page
+icon: fas fa-video
 order: 2
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Interview with Pierre Roman during Microsoft Ignite The Tour in London"
 date:   2020-01-25 09:45:39 +0100
+pin: true
 ---
 
 Interview with [Pierre Roman](https://developer.microsoft.com/en-us/advocates/pierre-roman), a Senior Cloud Advocate at [Microsoft](https://www.microsoft.com/) during [Microsoft Ignite The Tour in London](https://www.microsoft.com/en-gb/ignite-the-tour/london)

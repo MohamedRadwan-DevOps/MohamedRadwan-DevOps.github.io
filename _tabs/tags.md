@@ -1,5 +1,5 @@
 ---
-layout: tags
-icon: fas fa-tags
+# the default layout is 'page'
+icon: fas fa-info-circle
 order: 3
 ---

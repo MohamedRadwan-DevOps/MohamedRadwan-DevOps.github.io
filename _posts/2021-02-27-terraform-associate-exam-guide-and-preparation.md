@@ -2,6 +2,7 @@
 layout: post
 title: "Terraform Associate Exam Guide and Preparation"
 date:   2021-02-27 20:16:53 +0100
+pin: true
 ---
 
 ## Agenda

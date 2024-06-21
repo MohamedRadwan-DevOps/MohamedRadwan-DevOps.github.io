@@ -1,26 +1,28 @@
-# Bundler cache
-.bundle
-vendor
+# https://github.com/cotes2020/jekyll-theme-chirpy/issues/802
+# https://github.com/cotes2020/jekyll-theme-chirpy/issues/789
 Gemfile.lock
 
-# Jekyll cache
-.jekyll-cache
-.jekyll-metadata
-_site
+ReadNik.md 
 
-# RubyGems
+draft
+
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.husky
+!.commitlintrc.json
+!.versionrc.json
+!.stylelintrc.json
+
+# bundler cache
+_site
+vendor
+
+# rubygem
 *.gem
 
-# NPM dependencies
+# npm dependencies
 node_modules
 package-lock.json
-
-# IDE configurations
-.idea
-.vscode
-!.vscode/settings.json
-!.vscode/extensions.json
-
-# Misc
-_sass/dist
-assets/js/dist

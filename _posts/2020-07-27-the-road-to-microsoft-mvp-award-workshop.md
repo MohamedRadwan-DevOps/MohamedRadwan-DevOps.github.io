@@ -2,6 +2,7 @@
 layout: post
 title: "The Road to Microsoft MVP Award workshop"
 date: 2020-07-27 18:58:20 +0100
+pin: true
 ---
 
 - [Introduction](#_Toc500069570)

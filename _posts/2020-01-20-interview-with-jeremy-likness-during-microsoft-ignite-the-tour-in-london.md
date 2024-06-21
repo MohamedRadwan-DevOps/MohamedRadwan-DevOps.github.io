@@ -2,6 +2,7 @@
 layout: post
 title: "Interview with Jeremy Likness during Microsoft Ignite The Tour in London"
 date:   2020-01-20 22:27:10 +0100
+pin: true
 ---
 
 Interview with [Jeremy Likness](https://developer.microsoft.com/en-us/advocates/jeremy-likness) a Senior Cloud Advocate at [Microsoft](https://www.microsoft.com/en-gb) during [Microsoft Ignite The Tour in London](https://www.microsoft.com/en-gb/ignite-the-tour/london).

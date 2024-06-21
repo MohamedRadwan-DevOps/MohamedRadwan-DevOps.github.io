@@ -2,6 +2,7 @@
 layout: post
 title: "Azure Kubernetes Service (AKS) Deep Dive Free Course"
 date: 2020-09-02 21:21:06 +0100
+pin: true
 ---
 
 - [Introduction](#_Toc49940611)

@@ -2,6 +2,7 @@
 layout: post
 title: "How to Prepare For Exam AZ-400 Microsoft Azure DevOps Solutions With Final Exam Revision"
 date: 2019-05-21 11:44:45 +0100
+pin: true
 ---
 
 # AZ-400 Microsoft Azure DevOps Solutions Study Guide and Preparation

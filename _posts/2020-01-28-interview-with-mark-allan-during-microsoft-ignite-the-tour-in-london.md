@@ -2,6 +2,7 @@
 layout: post
 title: "Interview with Mark Allan during Microsoft Ignite The Tour in London"
 date:   2020-01-28 00:24:46 +0100
+pin: true
 ---
 
 Interview with [Mark Allan](https://twitter.com/markxa), an Azure Cloud Expert and a [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002937)during [Microsoft Ignite The Tour in London](https://www.microsoft.com/en-gb/ignite-the-tour/london)
