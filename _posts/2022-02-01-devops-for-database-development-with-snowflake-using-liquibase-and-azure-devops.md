@@ -2,6 +2,7 @@
 layout: post
 title: "DevOps for Database Development with Snowflake using Liquibase and Azure DevOps"
 date:   2022-02-01 09:07:23 +0100
+pin: true
 ---
 
 ## Abstract and Introduction
