@@ -4,7 +4,7 @@ title: "Announcing Cloud DevOps Visions Community"
 date:   2020-06-16 23:02:03 +0100
 ---
 
-![Cloud DevOps Visions Logo](https://raw.githubusercontent.com/CloudDevOpsVisions/Docs/master/assets/Logo/CloudDevOps-Visions_Horizontal_Concrete.png) {#cloud-devops-visions-logo align="center"}
+![Cloud DevOps Visions Logo](https://raw.githubusercontent.com/CloudDevOpsVisions/Docs/master/assets/Logo/CloudDevOps-Visions_Horizontal_Concrete.png)
 
 # Cloud DevOps Visions
 
