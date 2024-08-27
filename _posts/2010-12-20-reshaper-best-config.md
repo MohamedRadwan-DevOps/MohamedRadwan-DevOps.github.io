@@ -4,43 +4,43 @@ title:  "Best Configuration of ReSharper for me"
 date:   2010-12-20 07:40:05 +0100
 ---
 
-This configuration what I need to do with ReSharper after clean installation, it may fit with anyone else like me who has the same considerations with ReSharper. 
+This configuration is what I need to do with ReSharper after a clean installation, it may fit with anyone else like me who has the same considerations with ReSharper. 
 
-> I will add and modify this post as my current needed so expect adding or removing configuration as needed in the future.
+> I will add and modify this post as my current needs so expect adding or removing configuration as needed in the future.
 {: .prompt-info }
 
-- Cash
+- Cache
 
-Make the cash outside the project folder for better with source control so you don't need to make source control ignored this folder especially sometimes when we compare files local vs. server (TFS) it will compare
-these files (cash) and you don't need them so you can have good and clear comparison But remember its better that if you delete your solution or project to delete the corresponding cash, since it will not
+Make the cache outside the project folder for better with source control so you don't need to make source control ignore this folder especially sometimes when we compare files local vs. server (TFS) it will compare
+these files (cache) and you don't need them so you can have a good and clear comparison But remember it is better that if you delete your solution or project to delete the corresponding cache since it will not
 deleted because it's not inside the project folder anymore
 
-![ResharperCash](/assets/img/2010/12/ResharperCash.jpg)
+![ResharperCache](/assets/img/2010/12/ResharperCash.jpg)
 
 - Shortcut and integration with Visual Studio
 
-I choose ReSharper 2.x / IDEA scheme inspired by the community it may more fit with Java but I choose it and become familiar with it
+I chose ReSharper 2.x / IDEA scheme inspired by the community it may fit more with Java but I choose it and became familiar with it
 
 ![ResharperShortCutScheme](/assets/img/2010/12/ResharperShortCutScheme.png)
 
 you can download it from here [http://www.jetbrains.com/resharper/documentation/documentation.html](http://www.jetbrains.com/resharper/documentation/documentation.html "Shortcuts download")
 
 -   Auto insert parentheses and quotes
--   Highlight current line
+-   Highlight the current line
 
-Actually I didn\'t prefer this I used to use it and when the auto insert parentheses come you can\'t see the method signature and this not good for me
+Actually I didn\'t prefer this I used to use it and when the auto insert parentheses come you can\'t see the method signature and this is not good for me
 
 ![ResharperAutoInsertPairParentheses](/assets/img/2010/12/ResharperAutoInsertPairParentheses.jpg)
 
 ![VisualStudioCurrentLineColor](/assets/img/2010/12/VisualStudioCurrentLineColor.png)
 
-- IntelliSence
+- IntelliSense
 
-I prefer visual studio IntelliSence
+I prefer Visual studio IntelliSense
 
 ![ResharperIntelliSence](/assets/img/2010/12/ResharperIntelliSence.png)
 
-- Complete code behavior
+- Complete code behaviour
 
 ![ResharperAutomaticallyInsertParentheses](/assets/img/2010/12/ResharperAutomaticallyInsertParentheses.jpg)
 
