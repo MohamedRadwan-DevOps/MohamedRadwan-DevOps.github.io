@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Deploying a LAMP Stack for Q2A or WordPress on Azure: A Step-by-Step Guide"
+date:   2024-08-30 20:16:53 +0100
+pin: true
+---
+
 
 ### Deploying a LAMP Stack for Q2A or WordPress on Azure: A Step-by-Step Guide
 
