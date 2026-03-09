@@ -1,5 +1,5 @@
 ---
-date: "2025-01-05 08:00:00 +0000"
+date: "2026-01-05 08:00:00 +0000"
 layout: post
 pin: true
 title: "Engineering KPIs as Code in Azure DevOps: Why We Built It"

@@ -1,5 +1,5 @@
 ---
-date: "2025-01-19 08:00:00 +0000"
+date: "2026-01-19 08:00:00 +0000"
 layout: post
 pin: true
 title: "Azure DevOps Data Mental Model: Domain to Time to Interface

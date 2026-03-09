@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Constraints as Architecture: Least Privilege, No Extensions, Still Automated"
-date: 2025-01-12 08:00:00 +0000
-pin: false
+date: 2026-01-12 08:00:00 +0000
+pin: true
 ---
 
 ## Constraints as Architecture: Least Privilege, No Extensions, Still Automated
