@@ -34,10 +34,10 @@ implementing how it runs.
 
 Every KPI should have:
 
--   A clearly defined data domain\
--   A deterministic formula\
--   Explicit parameters\
--   Governed threshold logic\
+-   A clearly defined data domain
+-   A deterministic formula
+-   Explicit parameters
+-   Governed threshold logic
 -   Defined output format
 
 For example, Commitment Ratio can be defined precisely as:
@@ -76,8 +76,8 @@ example:
 
 This separation allows:
 
--   Configuration files to define KPI behavior.\
--   Scripts to implement reusable logic.\
+-   Configuration files to define KPI behavior.
+-   Scripts to implement reusable logic.
 -   Pipeline definitions to orchestrate execution.
 
 When a new KPI is introduced, you add a configuration file and, if
@@ -92,16 +92,16 @@ definition from execution orchestration.
 
 The definition layer contains:
 
--   Formula logic\
--   Threshold configuration\
--   Domain-specific filters\
+-   Formula logic
+-   Threshold configuration
+-   Domain-specific filters
 -   Iteration windows
 
 The execution layer contains:
 
--   Pipeline triggers\
--   Scheduling configuration\
--   Service account identity\
+-   Pipeline triggers
+-   Scheduling configuration
+-   Service account identity
 -   Dashboard publishing logic
 
 For example, if stakeholders decide that Amber should start at 75
@@ -132,9 +132,9 @@ KPIs by reading structured parameters.
 
 For example:
 
--   Changing SprintWindow from 4 to 6 adjusts historical scope.\
+-   Changing SprintWindow from 4 to 6 adjusts historical scope.
 -   Changing WorkItemType supports Product Backlog Item instead of User
-    Story.\
+    Story.
 -   Changing thresholds modifies RAG evaluation without altering formula
     code.
 
@@ -144,21 +144,21 @@ Configuration becomes governance.
 
 Every KPI should follow the same execution lifecycle.
 
-1.  Load KPI configuration.\
-2.  Retrieve metadata via REST.\
-3.  Retrieve historical or operational data.\
-4.  Apply formula.\
-5.  Evaluate thresholds.\
-6.  Generate structured output.\
-7.  Publish to dashboard.\
+1.  Load KPI configuration.
+2.  Retrieve metadata via REST.
+3.  Retrieve historical or operational data.
+4.  Apply formula.
+5.  Evaluate thresholds.
+6.  Generate structured output.
+7.  Publish to dashboard.
 8.  Log execution metadata.
 
 This pattern must remain constant across all KPIs.
 
 For example:
 
-Commitment Ratio uses iteration boundaries and WorkItemSnapshot.\
-Defects Leakage uses work item filters across phases.\
+Commitment Ratio uses iteration boundaries and WorkItemSnapshot.
+Defects Leakage uses work item filters across phases.
 Deployment Frequency uses PipelineRuns grouped by date range.
 
 The formula changes. The execution pattern does not.
@@ -172,16 +172,16 @@ code, it is built in.
 
 Because logic is version-controlled:
 
--   Every formula change is a commit.\
--   Every threshold adjustment has a timestamp.\
--   Every KPI addition can require pull request approval.\
+-   Every formula change is a commit.
+-   Every threshold adjustment has a timestamp.
+-   Every KPI addition can require pull request approval.
 -   Every execution is logged by Azure Pipelines.
 
 This creates full traceability across the lifecycle:
 
--   Which commit defined the formula?\
--   Which configuration version was used?\
--   Which pipeline run generated the dashboard?\
+-   Which commit defined the formula?
+-   Which configuration version was used?
+-   Which pipeline run generated the dashboard?
 -   Which service account executed it?
 
 When stakeholders question numbers, the response is not recalculation.
@@ -196,9 +196,9 @@ recalculation.
 
 Because the system stores:
 
--   Formula logic\
--   Configuration parameters\
--   Execution logs\
+-   Formula logic
+-   Configuration parameters
+-   Execution logs
 -   Snapshot-based data access
 
 You can reproduce historical KPI results consistently.
@@ -215,15 +215,15 @@ A KPI framework must anticipate growth.
 
 Initially, you may implement:
 
--   Commitment Ratio\
--   Defects Leakage\
+-   Commitment Ratio
+-   Defects Leakage
 -   Rejection Rate
 
 Later, stakeholders may request:
 
--   Escaped Defect Ratio\
--   Average Lead Time\
--   Deployment Stability Index\
+-   Escaped Defect Ratio
+-   Average Lead Time
+-   Deployment Stability Index
 -   Test Automation Coverage Ratio
 
 If each KPI requires architectural redesign, the framework has failed.
@@ -236,11 +236,11 @@ structural change.
 
 Software engineering principles apply directly to KPI design:
 
--   Version control for logic.\
--   Code review for formula changes.\
--   Separation of concerns.\
--   Parameterization.\
--   Deterministic execution.\
+-   Version control for logic.
+-   Code review for formula changes.
+-   Separation of concerns.
+-   Parameterization.
+-   Deterministic execution.
 -   Logging and observability.
 
 Metrics should not be treated as presentation artifacts. They should be
