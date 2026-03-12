@@ -16,7 +16,7 @@ timezone:
 
 title: Mohamed Radwan # the main title
 
-tagline: <div>Mohamed is a Microsoft DevOps MVP and Principal DevOps Consultant in the UK specializing in DevOps Practices, Technologies, Agile and Azure Platform.</div> # it will display as the sub-title
+tagline: <div>Mohamed is a Microsoft MVP (DevOps) and Head of DevOps Advisory & Principal Engineering Manager based in the UK, with 24+ years of experience,leading DevOps transformation across multinational organisations.</div> # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blog from Mohamed Radwan.
