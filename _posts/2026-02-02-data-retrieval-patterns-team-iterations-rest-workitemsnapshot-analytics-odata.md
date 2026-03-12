@@ -28,7 +28,7 @@ Planned must represent the count of work items present in the iteration at the s
 
 To determine sprint start and end dates programmatically, we use the Work REST API:
 
-```http
+```bash
 GET https://dev.azure.com/{organization}/{project}/{team}/_apis/work/teamsettings/iterations?timeframe=past&includeIterationDates=true
 ```
 
@@ -54,7 +54,7 @@ Without snapshot data, historical KPIs drift. A story moved after sprint complet
 
 Below is a simplified example of querying WorkItemSnapshot to count planned stories at sprint start:
 
-```http
+```bash
 GET https://analytics.dev.azure.com/{organization}/{project}/_odata/v2.0/WorkItemSnapshot?
 $apply=filter(
     DateValue eq 2026-01-01T00:00:00Z and
@@ -65,7 +65,7 @@ $apply=filter(
 
 To count completed stories at sprint end:
 
-```http
+```bash
 GET https://analytics.dev.azure.com/{organization}/{project}/_odata/v2.0/WorkItemSnapshot?
 $apply=filter(
     DateValue eq 2026-01-14T00:00:00Z and
