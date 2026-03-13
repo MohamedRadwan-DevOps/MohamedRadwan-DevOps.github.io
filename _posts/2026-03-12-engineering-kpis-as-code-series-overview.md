@@ -91,14 +91,14 @@ Read Part 10:
 Once multiple KPIs are introduced, consistency becomes the priority. This post explains how the framework scales to support an expanding KPI portfolio by separating KPI definitions from the shared execution engine. It demonstrates how additional KPIs such as Defects Leakage, Rejection Rate, and Detection Rate can be introduced without duplicating core logic, while still preserving governance and traceability.
 
 Read Part 11:  
-[Scaling the Framework: Adding Defects Leakage, Rejection Rate, and Detection Rate]({% post_url 2026-03-16-scaling-the-framework-adding-defects-leakage-rejection-rate-detection-rate %})
+<!-- [Scaling the Framework: Adding Defects Leakage, Rejection Rate, and Detection Rate]({% post_url 2026-03-16-scaling-the-framework-adding-defects-leakage-rejection-rate-detection-rate %}) -->
 
 ## Part 12: Governance and Ownership
 
 The final layer is organizational. This post formalizes KPI ownership, catalog management, lifecycle review cadence, threshold change governance, and prevention of metric inflation. It explains how the system transitions from “automation that works” to “infrastructure the organization can trust,” where definitions remain stable, changes are reviewable, and accountability is explicit.
 
 Read Part 12:  
-[Governance and Ownership: Managing a KPI Catalog at Enterprise Scale]({% post_url 2026-03-23-governance-and-ownership-managing-kpi-catalog-enterprise-scale %})
+<!-- [Governance and Ownership: Managing a KPI Catalog at Enterprise Scale]({% post_url 2026-03-23-governance-and-ownership-managing-kpi-catalog-enterprise-scale %}) -->
 
 ## The Complete Framework
 
