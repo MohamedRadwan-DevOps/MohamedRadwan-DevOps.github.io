@@ -9,22 +9,23 @@ pin: true
 
 ## Post Series Content
 
-[Part 01: Engineering KPIs as Code in Azure DevOps]({% post_url 2026-01-05-engineering-kpis-as-code-in-azure-devops-why-we-built-it %})  
-[Part 02: Constraints as Architecture]({% post_url 2026-01-12-constraints-as-architecture-least-privilege-no-extensions-still-automated %})  
-[Part 03: The Azure DevOps Data Mental Model]({% post_url 2026-01-19-azure-devops-data-mental-model-domain-time-interface %})  
-[Part 04: Designing KPI as Code]({% post_url 2026-01-26-designing-kpi-as-code-versioned-logic-reusable-patterns-traceability %})  
-[Part 05: Data Retrieval Patterns]({% post_url 2026-02-02-data-retrieval-patterns-team-iterations-rest-workitemsnapshot-analytics-odata %})  
-[Part 06: Status Evaluation as Code]({% post_url 2026-02-09-status-evaluation-as-code-formulas-parameters-rag-threshold-governance %})  
-[Part 07: Publishing Results Natively]({% post_url 2026-02-16-publishing-results-natively-azure-devops-dashboards-markdown-widgets-rest-automation %})  
-[Part 08: Commitment Ratio Case Study]({% post_url 2026-02-23-case-study-commitment-ratio-from-data-query-to-dashboard-widget-fully-automated %})  
-[Part 09: Visualization and Chart Rendering]({% post_url 2026-03-02-charts-in-markdown-widgets-generating-pngs-pipelines-hosting-repos %})  
-[Part 10: Hardening for Enterprise in the KPI Framework]({% post_url 2026-03-09-hardening-for-enterprise-configuration-resolution-token-safety-idempotency-error-handling %})  
-[Part 11: Scaling the KPI As Code Framework]()  
-[Part 12: From Script to Platform KPI Object Model]()  
-[Part 13: Governance and Ownership KPIs Framework]()
+[Part 00: Series Overview](#part-00-series-overview)  
+[Part 01: Engineering KPIs as Code in Azure DevOps](#part-01-engineering-kpis-as-code-in-azure-devops)  
+[Part 02: Constraints as Architecture](#part-02-constraints-as-architecture)  
+[Part 03: The Azure DevOps Data Mental Model](#part-03-the-azure-devops-data-mental-model)  
+[Part 04: Designing KPI as Code](#part-04-designing-kpi-as-code)  
+[Part 05: Data Retrieval Patterns](#part-05-data-retrieval-patterns)  
+[Part 06: Status Evaluation as Code](#part-06-status-evaluation-as-code)  
+[Part 07: Publishing Results Natively](#part-07-publishing-results-natively)  
+[Part 08: Commitment Ratio Case Study](#part-08-commitment-ratio-case-study)  
+[Part 09: Visualization and Chart Rendering](#part-09-visualization-and-chart-rendering)  
+[Part 10: Enterprise Hardening](#part-10-enterprise-hardening)  
+[Part 11: Scaling the Framework](#part-11-scaling-the-framework)  
+[Part 12: From Script to Platform](#part-12-from-script-to-platform)  
+[Part 13: Governance and Ownership](#part-13-governance-and-ownership)
 
 
-## Series Overview
+## Part 00: Series Overview
 
 This series documents the complete journey of designing, implementing, hardening, and governing a KPI framework built entirely and natively inside Azure DevOps.
 
@@ -130,12 +131,12 @@ Individually, each part addresses one layer. Together, they form a cohesive KPI 
 
 Across the full series, a consistent architectural pattern emerges:
 
-- Deterministic data retrieval with clear separation between operational REST usage and historical Analytics OData reporting  
-- Version-controlled KPI definitions with reusable formula logic and configuration-driven parameters  
-- Governed threshold evaluation so RAG status remains consistent, reviewable, and auditable over time  
-- Automated dashboard publication through REST APIs with idempotent behavior and stable widget layout  
-- Pipeline-based visualization when native rendering is not available, while keeping artifacts governed inside Azure Repos  
-- Enterprise hardening practices including safe config resolution, token safety, defensive error handling, and predictable fallbacks  
-- Structured ownership and KPI catalog governance to prevent metric inflation and preserve long-term consistency  
+- Deterministic data retrieval using REST for operational needs and Analytics OData for historical reporting  
+- Version-controlled KPI definitions with reusable formulas and configuration-driven parameters  
+- Governed threshold evaluation so RAG status remains consistent, reviewable, and auditable  
+- Automated dashboard publication via REST with idempotent updates and stable widget layout  
+- Pipeline-based visualization when native rendering is unavailable, with artifacts governed in Azure Repos  
+- Enterprise hardening with safe config resolution, token safety, defensive error handling, and fallbacks  
+- Structured ownership and KPI catalog governance to prevent metric inflation and preserve consistency  
 
 This overview is the entry point to the full framework and the recommended starting place for new readers.
