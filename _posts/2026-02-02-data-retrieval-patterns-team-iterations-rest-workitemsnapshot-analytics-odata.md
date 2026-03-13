@@ -139,7 +139,7 @@ Interface: Analytics OData
 
 An OData query might filter the PipelineRuns entity:
 
-```http
+```bash
 GET https://analytics.dev.azure.com/{organization}/{project}/_odata/v3.0-preview/PipelineRuns?
 $apply=filter(
     CompletedDate ge 2026-03-01T00:00:00Z and

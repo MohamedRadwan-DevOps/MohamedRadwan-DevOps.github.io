@@ -6,6 +6,24 @@ pin: true
 ---
 
 # Engineering KPIs as Code Framework  
+
+## Post Series Content
+
+[Part 01: Engineering KPIs as Code in Azure DevOps]({% post_url 2026-01-05-engineering-kpis-as-code-in-azure-devops-why-we-built-it %})  
+[Part 02: Constraints as Architecture]({% post_url 2026-01-12-constraints-as-architecture-least-privilege-no-extensions-still-automated %})  
+[Part 03: The Azure DevOps Data Mental Model]({% post_url 2026-01-19-azure-devops-data-mental-model-domain-time-interface %})  
+[Part 04: Designing KPI as Code]({% post_url 2026-01-26-designing-kpi-as-code-versioned-logic-reusable-patterns-traceability %})  
+[Part 05: Data Retrieval Patterns]({% post_url 2026-02-02-data-retrieval-patterns-team-iterations-rest-workitemsnapshot-analytics-odata %})  
+[Part 06: Status Evaluation as Code]({% post_url 2026-02-09-status-evaluation-as-code-formulas-parameters-rag-threshold-governance %})  
+[Part 07: Publishing Results Natively]({% post_url 2026-02-16-publishing-results-natively-azure-devops-dashboards-markdown-widgets-rest-automation %})  
+[Part 08: Commitment Ratio Case Study]({% post_url 2026-02-23-case-study-commitment-ratio-from-data-query-to-dashboard-widget-fully-automated %})  
+[Part 09: Visualization and Chart Rendering]({% post_url 2026-03-02-charts-in-markdown-widgets-generating-pngs-pipelines-hosting-repos %})  
+[Part 10: Hardening for Enterprise in the KPI Framework]({% post_url 2026-03-09-hardening-for-enterprise-configuration-resolution-token-safety-idempotency-error-handling %})  
+[Part 11: Scaling the KPI As Code Framework]()  
+[Part 12: From Script to Platform KPI Object Model]()  
+[Part 13: Governance and Ownership KPIs Framework]()
+
+
 ## Series Overview
 
 This series documents the complete journey of designing, implementing, hardening, and governing a KPI framework built entirely and natively inside Azure DevOps.
@@ -92,12 +110,19 @@ Once multiple KPIs are introduced, consistency becomes the priority. This post e
 
 Read Part 11:  
 
+## Part 12: From Script to Platform
 
-## Part 12: Governance and Ownership
+This part explains the transition from individual KPI scripts into a platform shape. It focuses on abstraction, the KPI object model, and why standardizing execution patterns is the difference between “automation that works” and a system that can scale across teams without fragmentation.
+
+Read Part 12:  
+
+
+## Part 13: Governance and Ownership
 
 The final layer is organizational. This post formalizes KPI ownership, catalog management, lifecycle review cadence, threshold change governance, and prevention of metric inflation. It explains how the system transitions from “automation that works” to “infrastructure the organization can trust,” where definitions remain stable, changes are reviewable, and accountability is explicit.
 
-Read Part 12:  
+Read Part 13:  
+
 
 ## The Complete Framework
 
