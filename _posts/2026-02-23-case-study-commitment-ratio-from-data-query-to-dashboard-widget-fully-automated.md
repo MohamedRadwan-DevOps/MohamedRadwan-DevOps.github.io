@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Case Study: Commitment Ratio — From Data Query to Dashboard Widget (Fully Automated)"
+title: "Case Study: Commitment Ratio, From Data Query to Dashboard Widget (Fully Automated)"
 date: 2026-02-23 08:00:00 +0000
 pin: true
 ---

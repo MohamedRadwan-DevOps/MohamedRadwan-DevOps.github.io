@@ -20,7 +20,7 @@ Before explaining the image-generation approach, it is important to understand t
 
 Mermaid is an open-source JavaScript-based diagramming and charting framework that allows diagrams and charts to be defined using text-based syntax. Its official site is:
 
-https://mermaid.js.org
+[https://mermaid.js.org](https://mermaid.js.org)
 
 Mermaid supports multiple diagram types, including flowcharts, sequence diagrams, class diagrams, Gantt charts, pie charts, and more recently, X/Y charts. The architectural value of Mermaid lies in its philosophy: diagrams become text, text becomes version-controlled, and visualization becomes part of the codebase.
 
@@ -30,7 +30,7 @@ For a KPI-as-code framework, this is ideal. Visualization logic remains in sourc
 
 Mermaid introduced X/Y charts under the `xychart-beta` syntax. Documentation is available at:
 
-https://mermaid.js.org/syntax/xyChart.html
+[https://mermaid.js.org/syntax/xyChart.html](https://mermaid.js.org/syntax/xyChart.html)
 
 GitHub supports Mermaid rendering directly within Markdown files, including X/Y charts in beta. The following example renders correctly on GitHub:
 
@@ -49,7 +49,7 @@ GitHub supports Mermaid rendering directly within Markdown files, including X/Y 
 
 ### Chart (Mermaid)
 
-```mermaid
+```markdown
 xychart-beta
   title "Commitment ratio"
   x-axis ["Sep-25","Oct-25","Nov-25","Dec-25"]
