@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Engineering KPIs as Code: Series Overview"
-date: 2026-03-23 18:00:00 +0000
+date: 2026-03-12 18:00:00 +0000
 pin: true
 ---
 
@@ -100,7 +100,7 @@ The final layer is organizational. This post formalizes KPI ownership, catalog m
 Read Part 12:  
 [Governance and Ownership: Managing a KPI Catalog at Enterprise Scale]({% post_url 2026-03-23-governance-and-ownership-managing-kpi-catalog-enterprise-scale %})
 
-# The Complete Framework
+## The Complete Framework
 
 Individually, each part addresses one layer. Together, they form a cohesive KPI platform inside Azure DevOps that integrates deterministic retrieval, governed evaluation, native publication, pipeline visualization, enterprise hardening, and structured ownership.
 
