@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Engineering KPIs as Code: Series Overview"
-date: 2026-03-12 18:00:00 +0000
+date: 2026-03-23 14:00:00 +0000
 pin: true
 ---
 
