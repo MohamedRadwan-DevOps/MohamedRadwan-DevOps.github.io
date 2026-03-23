@@ -110,12 +110,14 @@ Read Part 10:
 Once multiple KPIs are introduced, consistency becomes the priority. This post explains how the framework scales to support an expanding KPI portfolio by separating KPI definitions from the shared execution engine. It demonstrates how additional KPIs such as Defects Leakage, Rejection Rate, and Detection Rate can be introduced without duplicating core logic, while still preserving governance and traceability.
 
 Read Part 11:  
+[Scaling the Framework: Adding Defects Leakage, Rejection Rate, and Detection Rate]({% post_url 2026-03-16-scaling-the-framework-adding-defects-leakage-rejection-rate-detection-rate %})
 
 ## Part 12: From Script to Platform
 
 This part explains the transition from individual KPI scripts into a platform shape. It focuses on abstraction, the KPI object model, and why standardizing execution patterns is the difference between “automation that works” and a system that can scale across teams without fragmentation.
 
 Read Part 12:  
+[From Script to Platform: Abstracting a KPI Object Model for Extensibility]({% post_url 2026-03-20-from-script-to-platform-abstracting-kpi-object-model %})
 
 
 ## Part 13: Governance and Ownership
@@ -123,6 +125,7 @@ Read Part 12:
 The final layer is organizational. This post formalizes KPI ownership, catalog management, lifecycle review cadence, threshold change governance, and prevention of metric inflation. It explains how the system transitions from “automation that works” to “infrastructure the organization can trust,” where definitions remain stable, changes are reviewable, and accountability is explicit.
 
 Read Part 13:  
+[Governance and Ownership: Managing a KPI Catalog at Enterprise Scale]({% post_url 2026-03-23-governance-and-ownership-managing-kpi-catalog-enterprise-scale %})
 
 
 ## The Complete Framework
