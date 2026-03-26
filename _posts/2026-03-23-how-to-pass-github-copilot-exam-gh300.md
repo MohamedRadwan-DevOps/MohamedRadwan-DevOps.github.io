@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Pass GitHub Copilot Exam (GH300)"
+title: "How to Pass GitHub Copilot Exam (GH300)?"
 date: 2026-03-23 19:00:00 +0000
 pin: true
 ---
