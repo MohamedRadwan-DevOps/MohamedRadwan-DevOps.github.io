@@ -5,7 +5,7 @@ date: 2026-03-23 19:00:00 +0000
 pin: true
 ---
 
-# How to Pass GitHub Copilot Exam (GH300)
+# How to Pass GitHub Copilot Exam (GH300)?
 
 Preparing for the GitHub Copilot certification is not about how much content you go through or how many features you can list. It is about how clearly you understand how Copilot behaves across real scenarios, and how confidently you can make the right decision when multiple options seem correct.
 
