@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Traditional SDLC to AI Agentic SDLC"
-date: 2026-05-26 13:00:00 +0000
+date: 2026-05-26 00:00:00 +0000
 pin: true
 ---
 
