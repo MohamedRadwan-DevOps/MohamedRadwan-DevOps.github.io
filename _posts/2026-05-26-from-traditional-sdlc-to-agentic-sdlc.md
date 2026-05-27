@@ -144,11 +144,12 @@ Because this certification is new, I am trying to prepare in a structured way.
 
 My current preparation is based on:
 
-- The official GitHub certification page
-- The GH-600 study guide
-- The Microsoft Learn path for agentic AI systems
-- Microsoft Reactor sessions and announcements
-- GitHub documentation
+- [The official GitHub Certified: Agentic AI Developer certification page](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/)
+- [The official GH-600 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-600)
+- [The Microsoft Learn path: Developing in Agentic AI Systems Part 1 of 2](https://learn.microsoft.com/en-us/training/paths/gh-developing-agentic-systems-1)
+- [The Microsoft Reactor session: The Agentic AI Developer Deep Dive into the GitHub GH-600 Certification](https://developer.microsoft.com/en-us/reactor/events/27225/)
+- [GitHub Learn certification details for GitHub Agentic AI Developer](https://learn.github.com/certification/AGENTIC)
+- [Microsoft Learn Agents Hub](https://learn.microsoft.com/en-us/agents/)
 - Hands-on exploration around agents, workflows, tools, and MCP
 - Mapping the exam objectives into structured study notes
 
