@@ -9,6 +9,17 @@ pin: true
 
 ![AI Agentic SDLC Workflow](/assets/img/2026/05/ai-agentic-sdlc-workflow.png)
 
+> **Update:  July 31, 2026**
+>
+> I am pleased to share that I have now earned the **GitHub Certified: Agentic AI Developer** certification.
+>
+> This achievement completes the certification journey described in this original post and reflects the knowledge and practical understanding I developed while preparing for the GH-600 beta exam.
+>
+> [View My Certification](https://learn.microsoft.com/en-us/users/mohamedradwan-0365/credentials/c307f158bce87196)
+
+![GitHub Agentic AI Developer Certificate](/assets/img/2026/05/github-agentic-ai-developer-certificate.png)
+
+
 GitHub recently announced a new certification: **GitHub Certified: Agentic AI Developer**, also known as **GH-600**.
 
 I believe this certification is important because it reflects a real change happening in software development. We are moving from a stage where AI mainly helps developers with individual tasks, to a stage where AI agents can participate in wider software development workflows.
